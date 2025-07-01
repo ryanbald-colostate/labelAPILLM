@@ -1,0 +1,10 @@
+gui,preferences,org.jabref.gui.preferences.JabRefGuiPreferences,Application,Application Subdomain
+dev,langchain4j,dev.langchain4j.data.document.DefaultDocument,Application,Application Subdomain
+logic,l10n,org.jabref.logic.l10n.Localization,Application,Application Subdomain
+util,util,java.util.Optional,Application,Application Subdomain
+javafx,scene,javafx.scene.input.ClipboardContent,Application,Application Subdomain
+javafx,scene,javafx.scene.layout.Background,Application,Application Subdomain
+logic,preview,org.jabref.logic.preview.PreviewLayout,Application,Application Subdomain
+javafx,scene,javafx.scene.Group,Application,Application Subdomain
+io,github,io.github.adr.linked.ADR,Application,Application Subdomain
+javafx,scene,javafx.scene.Scene,Application,Application Subdomain
