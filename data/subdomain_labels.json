@@ -55,7 +55,7 @@
         {"Backup and Recovery": "Deals with creating backups of data and restoring data from backups in case of data loss."},
         {"Database Optimization": "Enhances the performance of the database by optimizing queries and indices."}
     ],
-    "Software Development and IT Operations": [
+    "DevOps": [
         {"Continuous Integration": "Automates the merging and testing of code, helping to identify integration errors early."},
         {"Continuous Deployment": "Automatically deploys all code changes to a testing or production environment after the build stage."},
         {"Automated Testing": "Utilizes tools to automatically execute tests and report outcomes, improving software quality."},
