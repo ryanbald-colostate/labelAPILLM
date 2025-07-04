@@ -23,7 +23,7 @@
             "Databases": "Related to the storage, retrieval, and management of structured data. APIs in this category allow for interactions with database systems, including queries, updates, and database schema management."
         },
         {
-            "Software Development and IT Operations": "Encompasses tools and libraries that support software development processes, including version control, continuous integration (CI), and continuous delivery (CD), facilitating better collaboration and efficiency in software projects."
+            "DevOps": "Encompasses tools and libraries that support software development processes, including version control, continuous integration (CI), and continuous delivery (CD), facilitating better collaboration and efficiency in software projects."
         },
         {
             "Error Handling": "Involves mechanisms and practices for detecting, reporting, and responding to errors in software. Effective error handling helps in maintaining the stability and reliability of applications by managing exceptions and unexpected situations gracefully."
