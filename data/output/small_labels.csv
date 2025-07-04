@@ -1,10 +1,10 @@
 gui,preferences,org.jabref.gui.preferences.JabRefGuiPreferences,User Interface,Interaction Design
-dev,langchain4j,dev.langchain4j.data.document.DefaultDocument,Software Development and IT Operations,Configuration Management
+dev,langchain4j,dev.langchain4j.data.document.DefaultDocument,Data Structure,Data Manipulation
 logic,l10n,org.jabref.logic.l10n.Localization,Internationalization,Localization
 util,util,java.util.Optional,Utility,Data Conversion
 javafx,scene,javafx.scene.input.ClipboardContent,User Interface,Interaction Design
 javafx,scene,javafx.scene.layout.Background,User Interface,Layout Design
-logic,preview,org.jabref.logic.preview.PreviewLayout,Software Development and IT Operations,Automated Testing
+logic,preview,org.jabref.logic.preview.PreviewLayout,User Interface,Layout Design
 javafx,scene,javafx.scene.Group,User Interface,Layout Design
-io,github,io.github.adr.linked.ADR,Software Development and IT Operations,Configuration Management
+io,github,io.github.adr.linked.ADR,Utility,Data Conversion
 javafx,scene,javafx.scene.Scene,User Interface,Layout Design
