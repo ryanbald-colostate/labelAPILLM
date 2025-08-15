@@ -1,0 +1,903 @@
+iluwatar,event,com.iluwatar.event.sourcing.app.App.ACCOUNT_OF_DAENERYS,Event Handling,Event Driven Processing
+iluwatar,event,com.iluwatar.event.sourcing.app.App.ACCOUNT_OF_JON,Event Handling,Event Driven Processing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertEquals,Test,Unit Testing
+iluwatar,event,com.iluwatar.event.sourcing.event.AccountCreateEvent,Event Handling,Event Driven Processing
+iluwatar,event,com.iluwatar.event.sourcing.event.MoneyDepositEvent,Event Handling,Event Driven Processing
+iluwatar,event,com.iluwatar.event.sourcing.event.MoneyTransferEvent,Event Handling,Event Driven Processing
+iluwatar,event,com.iluwatar.event.sourcing.processor.DomainEventProcessor,Event Handling,Event Driven Processing
+iluwatar,event,com.iluwatar.event.sourcing.processor.JsonFileJournal,Event Handling,Event Logging
+iluwatar,event,com.iluwatar.event.sourcing.state.AccountAggregate,Event Handling,Event Driven Processing
+math,math,java.math.BigDecimal,Utility,Data Conversion
+util,util,java.util.Date,Utility,System Tools
+junit,jupiter,org.junit.jupiter.api.BeforeEach,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Test,Test,Unit Testing
+abstractextensions,abstractextensions,abstractextensions.CommanderExtension,Utility,Automation Scripts
+abstractextensions,abstractextensions,abstractextensions.SergeantExtension,Utility,System Tools
+abstractextensions,abstractextensions,abstractextensions.SoldierExtension,Utility,System Tools
+util,util,java.util.Optional,Utility,Data Conversion
+util,function,java.util.function.Function,Utility,Data Conversion
+slf4j,slf4j,org.slf4j.LoggerFactory,Logging,Event Logging
+units,units,units.CommanderUnit,Application,Plugin Management
+units,units,units.SergeantUnit,Utility,System Tools
+units,units,units.SoldierUnit,Application,App Configuration
+units,units,units.Unit,Utility,Data Conversion
+junit,jupiter,org.junit.jupiter.api.Assertions.assertDoesNotThrow,Test,Unit Testing
+iluwatar,cqrs,com.iluwatar.cqrs.domain.model.Author,Microservices/Services,Service Communication
+iluwatar,cqrs,com.iluwatar.cqrs.domain.model.Book,Data Structure,Data Manipulation
+iluwatar,health,com.iluwatar.health.check.App,Application,App Configuration
+mockito,Mockito,org.mockito.Mockito.when,Test,Unit Testing
+ch,qos,ch.qos.logback.classic.LoggerContext,Logging,Event Logging
+ch,qos,ch.qos.logback.classic.spi.ILoggingEvent,Logging,Event Logging
+ch,qos,ch.qos.logback.core.read.ListAppender,Logging,Event Logging
+iluwatar,health,com.iluwatar.health.check.AsynchronousHealthChecker,DevOps,Monitoring and Logging
+lang,reflect,java.lang.reflect.InvocationTargetException,Error Handling,Exception Handling
+lang,reflect,java.lang.reflect.Method,Utility,System Tools
+util,util,java.util.List,Data Structure,Linear Structures
+util,function,java.util.function.Supplier,Utility,Data Conversion
+lombok,extern,lombok.extern.slf4j.Slf4j,Logging,Event Logging
+junit,jupiter,org.junit.jupiter.api.AfterEach,Test,Unit Testing
+mockito,mockito,org.mockito.Mock,Test,Unit Testing
+mockito,mockito,org.mockito.MockitoAnnotations,Test,Unit Testing
+slf4j,slf4j,org.slf4j.Logger,Logging,Event Logging
+springframework,boot,org.springframework.boot.actuate.health.Health,DevOps,Monitoring and Logging
+springframework,boot,org.springframework.boot.actuate.health.Status,DevOps,Monitoring and Logging
+iluwatar,health,com.iluwatar.health.check.CpuHealthIndicator,DevOps,Monitoring and Logging
+management,management,com.sun.management.OperatingSystemMXBean,Operating System,Memory Management
+lang,reflect,java.lang.reflect.Field,Utility,System Tools
+mockito,mockito,org.mockito.Mockito,Test,Unit Testing
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.anyLong,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.any,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.doNothing,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.times,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.verify,Test,Unit Testing
+iluwatar,health,com.iluwatar.health.check.CustomHealthIndicator,DevOps,Monitoring and Logging
+iluwatar,health,com.iluwatar.health.check.HealthCheckRepository,DevOps,Monitoring and Logging
+util,concurrent,java.util.concurrent.CompletableFuture,Multi-Thread,Parallel Processing
+springframework,cache,org.springframework.cache.Cache,Application,App Configuration
+springframework,cache,org.springframework.cache.CacheManager,Application,App Configuration
+springframework,cache,org.springframework.cache.concurrent.ConcurrentMapCacheManager,Application,App Configuration
+springframework,context,org.springframework.context.annotation.Bean,Application,App Configuration
+springframework,context,org.springframework.context.annotation.Configuration,Application,App Configuration
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.any,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.doThrow,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.eq,Test,Unit Testing
+iluwatar,health,com.iluwatar.health.check.DatabaseTransactionHealthIndicator,Databases,Transaction Management
+iluwatar,model,com.iluwatar.model.view.intent.actions.AdditionCalculatorAction,User Interface,Interaction Design
+iluwatar,model,com.iluwatar.model.view.intent.actions.DivisionCalculatorAction,User Interface,Interaction Design
+iluwatar,model,com.iluwatar.model.view.intent.actions.MultiplicationCalculatorAction,User Interface,Interaction Design
+iluwatar,model,com.iluwatar.model.view.intent.actions.SetVariableCalculatorAction,User Interface,Interaction Design
+iluwatar,model,com.iluwatar.model.view.intent.actions.SubtractionCalculatorAction,Utility,Data Conversion
+springframework,retry,org.springframework.retry.support.RetryTemplate,Error Handling,Fault Tolerance
+iluwatar,health,com.iluwatar.health.check.GarbageCollectionHealthIndicator,DevOps,Monitoring and Logging
+lang,management,java.lang.management.GarbageCollectorMXBean,Application Performance Manager,Performance Monitoring
+lang,management,java.lang.management.MemoryPoolMXBean,Application Performance Manager,Performance Monitoring
+lang,management,java.lang.management.MemoryUsage,Application Performance Manager,Performance Monitoring
+util,util,java.util.Collections,Utility,Performance Tools
+hibernate,hibernate,org.hibernate.SessionFactory,Databases,Transaction Management
+util,util,java.util.Locale,Internationalization,Language Support
+util,util,java.util.Map,Data Structure,Data Manipulation
+iluwatar,health,com.iluwatar.health.check.HealthCheck,DevOps,Monitoring and Logging
+jakarta,persistence,jakarta.persistence.EntityManager,Databases,Query Execution
+jakarta,persistence,jakarta.persistence.Query,Databases,Query Execution
+junit,jupiter,org.junit.jupiter.api.extension.ExtendWith,Test,Unit Testing
+mockito,mockito,org.mockito.InjectMocks,Test,Unit Testing
+mockito,junit,org.mockito.junit.jupiter.MockitoExtension,Test,Unit Testing
+io,restassured,io.restassured.RestAssured.given,Test,Integration Testing
+hamcrest,Matchers,org.hamcrest.Matchers.equalTo,Test,Unit Testing
+io,restassured,io.restassured.builder.RequestSpecBuilder,Test,Integration Testing
+io,restassured,io.restassured.filter.log.LogDetail,Logging,Event Logging
+io,restassured,io.restassured.response.Response,Test,Integration Testing
+io,restassured,io.restassured.specification.RequestSpecification,Test,Integration Testing
+springframework,beans,org.springframework.beans.factory.annotation.Autowired,Application,App Configuration
+springframework,boot,org.springframework.boot.test.context.SpringBootTest,Test,Integration Testing
+springframework,boot,org.springframework.boot.test.context.SpringBootTest.WebEnvironment,Test,Integration Testing
+springframework,boot,org.springframework.boot.test.web.client.TestRestTemplate,Test,Integration Testing
+util,util,java.util.Collection,Data Structure,Data Manipulation
+springframework,http,org.springframework.http.HttpStatus,Microservices/Services,Service Communication
+mockito,Mockito,org.mockito.Mockito.mock,Test,Unit Testing
+iluwatar,health,com.iluwatar.health.check.MemoryHealthIndicator,DevOps,Monitoring and Logging
+util,concurrent,java.util.concurrent.ExecutionException,Error Handling,Exception Handling
+hibernate,query,org.hibernate.query.Query,Databases,Query Execution
+hibernate,boot,org.hibernate.boot.MetadataSources,Databases,Schema Design
+hibernate,boot,org.hibernate.boot.registry.StandardServiceRegistryBuilder,Databases,Transaction Management
+iluwatar,commander,com.iluwatar.commander.Database,Databases,Query Execution
+iluwatar,commander,com.iluwatar.commander.Order,Application,App Configuration
+junit,jupiter,org.junit.jupiter.api.Assertions.assertTrue,Test,Unit Testing
+iluwatar,health,com.iluwatar.health.check.RetryConfig,Error Handling,Fault Tolerance
+util,concurrent,java.util.concurrent.atomic.AtomicInteger,Multi-Thread,Thread Safety
+iluwatar,commander,com.iluwatar.commander.Service,Microservices/Services,Service Communication
+iluwatar,commander,com.iluwatar.commander.messagingservice.MessagingService.MessageRequest,Microservices/Services,Service Communication
+hamcrest,CoreMatchers,org.hamcrest.CoreMatchers.instanceOf,Test,Unit Testing
+hamcrest,MatcherAssert,org.hamcrest.MatcherAssert.assertThat,Test,Unit Testing
+hamcrest,CoreMatchers,org.hamcrest.CoreMatchers.not,Test,Unit Testing
+iluwatar,commander,com.iluwatar.commander.paymentservice.PaymentService.PaymentRequest,Microservices/Services,Service Communication
+lombok,lombok,lombok.Data,Utility,Data Conversion
+junit,jupiter,org.junit.jupiter.api.Assertions.assertFalse,Test,Unit Testing
+util,util,java.util.ArrayList,Data Structure,Linear Structures
+iluwatar,commander,com.iluwatar.commander.shippingservice.ShippingService.ShippingRequest,Microservices/Services,Service Communication
+abstractextensions,abstractextensions,abstractextensions.UnitExtension,Utility,System Tools
+concreteextensions,concreteextensions,concreteextensions.Commander,Utility,Automation Scripts
+concreteextensions,concreteextensions,concreteextensions.Sergeant,Utility,System Tools
+concreteextensions,concreteextensions,concreteextensions.Soldier,Utility,System Tools
+lombok,lombok,lombok.Getter,Utility,Data Conversion
+lombok,lombok,lombok.Setter,Utility,System Tools
+ch,qos,ch.qos.logback.classic.Level,Logging,Error Logs
+ch,qos,ch.qos.logback.classic.Logger,Logging,Event Logging
+iluwatar,context,com.iluwatar.context.object.App,Application,App Configuration
+junit,jupiter,org.junit.jupiter.api.Assertions.assertAll,Test,Unit Testing
+iluwatar,context,com.iluwatar.context.object.LayerA,Microservices/Services,Service Communication
+iluwatar,context,com.iluwatar.context.object.LayerB,Microservices/Services,Service Communication
+iluwatar,context,com.iluwatar.context.object.LayerC,Microservices/Services,Service Communication
+iluwatar,context,com.iluwatar.context.object.ServiceContext,Microservices/Services,Service Communication
+iluwatar,databus,com.iluwatar.databus.AbstractDataType,Data Structure,Data Manipulation
+iluwatar,databus,com.iluwatar.databus.DataType,Event Handling,Event Driven Processing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertNotNull,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertNull,Test,Unit Testing
+entity,entity,entity.Cake,Utility,Data Conversion
+springframework,data,org.springframework.data.jpa.repository.JpaRepository,Databases,Query Execution
+springframework,stereotype,org.springframework.stereotype.Repository,Databases,Query Execution
+entity,entity,entity.CakeLayer,Utility,Data Conversion
+iluwatar,databus,com.iluwatar.databus.Member,Microservices/Services,Service Communication
+entity,entity,entity.CakeTopping,Application,User Customization
+jakarta,persistence,jakarta.persistence.CascadeType,Databases,Schema Design
+jakarta,persistence,jakarta.persistence.Entity,Databases,Query Execution
+jakarta,persistence,jakarta.persistence.FetchType,Databases,Query Execution
+jakarta,persistence,jakarta.persistence.GeneratedValue,Databases,Schema Design
+jakarta,persistence,jakarta.persistence.Id,Databases,Schema Design
+jakarta,persistence,jakarta.persistence.OneToMany,Databases,Schema Design
+jakarta,persistence,jakarta.persistence.OneToOne,Databases,Schema Design
+util,util,java.util.HashSet,Data Structure,Linear Structures
+util,util,java.util.Set,Data Structure,Data Manipulation
+jakarta,persistence,jakarta.persistence.ManyToOne,Databases,Schema Design
+lombok,lombok,lombok.AllArgsConstructor,Utility,Data Conversion
+lombok,lombok,lombok.Builder,Utility,Automation Scripts
+lombok,lombok,lombok.EqualsAndHashCode,Utility,Data Conversion
+lombok,lombok,lombok.NoArgsConstructor,Utility,Data Conversion
+iluwatar,databus,com.iluwatar.databus.DataBus,Event Handling,Event Driven Processing
+io,io,java.io.Serial,Input-Output,Data Writing
+springframework,stereotype,org.springframework.stereotype.Component,Microservices/Services,Service Communication
+dto,dto,dto.CakeInfo,Utility,Data Conversion
+dto,dto,dto.CakeLayerInfo,Utility,Data Conversion
+dto,dto,dto.CakeToppingInfo,Utility,Data Conversion
+exception,exception,exception.CakeBakingException,Error Handling,Exception Handling
+springframework,stereotype,org.springframework.stereotype.Service,Microservices/Services,Service Communication
+dao,dao,dao.CakeDao,Databases,Query Execution
+dao,dao,dao.CakeLayerDao,Databases,Query Execution
+dao,dao,dao.CakeToppingDao,Databases,Query Execution
+time,time,java.time.Month,Utility,System Tools
+iluwatar,data,com.iluwatar.data.locality.game.GameEntity,Game Development,DomainError
+springframework,transaction,org.springframework.transaction.annotation.Transactional,Microservices/Services,Service Communication
+service,service,service.CakeBakingService,Microservices/Services,Service Communication
+util,util,java.util.Arrays,Utility,Data Conversion
+util,logging,java.util.logging.Logger,Logging,Event Logging
+util,util,java.util.HashMap,Data Structure,Data Manipulation
+util,util,java.util.Comparator,Utility,System Tools
+iluwatar,delegation,com.iluwatar.delegation.simple.printers.CanonPrinter,Input-Output,Data Writing
+iluwatar,delegation,com.iluwatar.delegation.simple.printers.EpsonPrinter,Input-Output,Data Writing
+iluwatar,delegation,com.iluwatar.delegation.simple.printers.HpPrinter,Utility,System Tools
+util,logging,java.util.logging.Level,Logging,Error Logs
+time,time,java.time.LocalDate,Utility,System Tools
+javax,inject,javax.inject.Inject,Microservices/Services,Service Communication
+inject,inject,com.google.inject.AbstractModule,Application,App Configuration
+time,time,java.time.Period,Utility,System Tools
+iluwatar,dependency,com.iluwatar.dependency.injection.utils.InMemoryAppender,Logging,Event Logging
+iluwatar,exception,com.iluwatar.exception.ApplicationException,Error Handling,Exception Handling
+iluwatar,model,com.iluwatar.model.Card,Data Structure,Data Manipulation
+iluwatar,repository,com.iluwatar.repository.JpaRepository,Databases,Query Execution
+iluwatar,service,com.iluwatar.service.CardUpdateService,Microservices/Services,Service Communication
+junit,jupiter,org.junit.jupiter.api.Assertions,Test,Unit Testing
+iluwatar,entity,com.iluwatar.entity.Car,Application,Integration
+iluwatar,entity,com.iluwatar.entity.Truck,Utility,System Tools
+iluwatar,entity,com.iluwatar.entity.Vehicle,Application,Integration
+iluwatar,service,com.iluwatar.service.VehicleService,Microservices/Services,Service Communication
+springframework,boot,org.springframework.boot.CommandLineRunner,Application,App Configuration
+springframework,boot,org.springframework.boot.SpringApplication,Microservices/Services,Service Deployment
+springframework,boot,org.springframework.boot.autoconfigure.SpringBootApplication,Microservices/Services,Service Deployment
+util,util,java.util.Objects,Utility,System Tools
+util,stream,java.util.stream.Stream,Utility,Data Conversion
+iluwatar,abstractdocument,com.iluwatar.abstractdocument.domain.Car,Data Structure,Data Manipulation
+iluwatar,abstractdocument,com.iluwatar.abstractdocument.domain.enums.Property,Data Structure,Data Manipulation
+util,concurrent,java.util.concurrent.locks.Lock,Multi-Thread,Synchronization
+util,concurrent,java.util.concurrent.locks.ReentrantLock,Multi-Thread,Synchronization
+iluwatar,abstractdocument,com.iluwatar.abstractdocument.domain.Part,Data Structure,Data Manipulation
+fasterxml,jackson,com.fasterxml.jackson.core.JsonProcessingException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.BlockingQueue,Multi-Thread,Synchronization
+util,concurrent,java.util.concurrent.LinkedBlockingQueue,Multi-Thread,Thread Safety
+fasterxml,jackson,com.fasterxml.jackson.databind.ObjectMapper,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.type.CollectionType,Data Structure,Data Manipulation
+util,concurrent,java.util.concurrent.ConcurrentHashMap,Data Structure,Linear Structures
+util,concurrent,java.util.concurrent.ExecutorService,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.Executors,Multi-Thread,Parallel Processing
+iluwatar,dynamicproxy,com.iluwatar.dynamicproxy.tinyrestclient.annotation.Http,Microservices/Services,Service Communication
+lang,annotation,java.lang.annotation.Annotation,Language,Standard Libraries
+lang,reflect,java.lang.reflect.ParameterizedType,Language,Type Systems
+lang,reflect,java.lang.reflect.Type,Language,Type Systems
+iluwatar,actormodel,com.iluwatar.actormodel.ActorSystem,Microservices/Services,Service Communication
+iluwatar,actormodel,com.iluwatar.actormodel.App,Microservices/Services,Service Communication
+iluwatar,actormodel,com.iluwatar.actormodel.ExampleActor,Microservices/Services,Service Communication
+iluwatar,actormodel,com.iluwatar.actormodel.ExampleActor2,Multi-Thread,Concurrency Control
+iluwatar,actormodel,com.iluwatar.actormodel.Message,Microservices/Services,Service Communication
+net,net,java.net.HttpURLConnection,Network,Data Transmission
+net,net,java.net.URI,Network,Protocol Implementation
+net,http,java.net.http.HttpRequest,Network,Data Transmission
+net,http,java.net.http.HttpResponse,Network,Data Transmission
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.eq,Test,Unit Testing
+springframework,web,org.springframework.web.util.UriUtils,Utility,Data Conversion
+mockito,Mockito,org.mockito.Mockito.spy,Test,Unit Testing
+lang,Thread,java.lang.Thread.sleep,Multi-Thread,Concurrency Control
+iluwatar,ambassador,com.iluwatar.ambassador.util.RandomProvider,Utility,System Tools
+iluwatar,ambassador,com.iluwatar.ambassador.RemoteServiceStatus.FAILURE,Error Handling,Fault Tolerance
+util,concurrent,java.util.concurrent.CountDownLatch,Multi-Thread,Synchronization
+time,time,java.time.Duration,Utility,System Tools
+reactor,core,reactor.core.publisher.Flux,Microservices/Services,Service Communication
+lombok,lombok,lombok.NonNull,Utility,System Tools
+reactivestreams,reactivestreams,org.reactivestreams.Subscription,Multi-Thread,Thread Safety
+reactor,core,reactor.core.publisher.BaseSubscriber,Microservices/Services,Service Communication
+util,stream,java.util.stream.Collectors,Utility,Data Conversion
+junit,jupiter,org.junit.jupiter.api.extension.AfterEachCallback,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.extension.BeforeEachCallback,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.extension.ExtensionContext,Test,Unit Testing
+iluwatar,backpressure,com.iluwatar.backpressure.Publisher.publish,Microservices/Services,Service Communication
+reactor,test,reactor.test.StepVerifier,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.extension.RegisterExtension,Test,Unit Testing
+util,concurrent,java.util.concurrent.TimeUnit,Multi-Thread,Concurrency Control
+junit,jupiter,org.junit.jupiter.api.function.Executable,Test,Unit Testing
+awt,awt,java.awt.BorderLayout,User Interface,Layout Design
+awt,awt,java.awt.Font,User Interface,Layout Design
+javax,swing,javax.swing.JButton,User Interface,Interaction Design
+javax,swing,javax.swing.JFrame,User Interface,Interaction Design
+javax,swing,javax.swing.JLabel,User Interface,User Feedback
+javax,swing,javax.swing.SwingConstants,User Interface,Layout Design
+javax,swing,javax.swing.WindowConstants,User Interface,Interaction Design
+awaitility,Awaitility,org.awaitility.Awaitility.await,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.verifyNoMoreInteractions,Test,Unit Testing
+iluwatar,builder,com.iluwatar.builder.Hero.Builder,Utility,System Tools
+iluwatar,eda,com.iluwatar.eda.framework.Handler,Event Handling,Event Driven Processing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertThrows,Test,Unit Testing
+iluwatar,bytecode,com.iluwatar.bytecode.util.InstructionConverterUtil,Utility,Data Conversion
+util,util,java.util.Stack,Data Structure,Linear Structures
+util,concurrent,java.util.concurrent.ThreadLocalRandom,Multi-Thread,Thread Safety
+javax,sound,javax.sound.sampled.UnsupportedAudioFileException,Multimedia,Encoding and Decoding
+iluwatar,caching,com.iluwatar.caching.database.DbManager,Databases,Database Optimization
+iluwatar,caching,com.iluwatar.caching.database.DbManagerFactory,Databases,Database Optimization
+javax,sound,javax.sound.sampled.AudioInputStream,Multimedia,Media Playback
+javax,sound,javax.sound.sampled.AudioSystem,Multimedia,Media Playback
+javax,sound,javax.sound.sampled.LineUnavailableException,Multimedia,Media Playback
+lombok,lombok,lombok.ToString,Utility,Data Conversion
+junit,junit,org.junit.Rule,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.migrationsupport.rules.EnableRuleMigrationSupport,Test,Unit Testing
+junit,rules,org.junit.rules.TemporaryFolder,Test,Unit Testing
+iluwatar,factorykit,com.iluwatar.factorykit.App,Utility,System Tools
+iluwatar,factorykit,com.iluwatar.factorykit.Axe,Utility,System Tools
+iluwatar,factorykit,com.iluwatar.factorykit.Spear,Utility,System Tools
+iluwatar,factorykit,com.iluwatar.factorykit.Sword,Utility,System Tools
+iluwatar,factorykit,com.iluwatar.factorykit.Weapon,Application,Integration
+iluwatar,factorykit,com.iluwatar.factorykit.WeaponFactory,Utility,System Tools
+iluwatar,factorykit,com.iluwatar.factorykit.WeaponType,Utility,System Tools
+util,util,java.util.LinkedList,Data Structure,Linear Structures
+util,util,java.util.Queue,Data Structure,Linear Structures
+junit,jupiter,org.junit.jupiter.api.Timeout,Test,Unit Testing
+iluwatar,filterer,com.iluwatar.filterer.domain.Filterer,Utility,Data Conversion
+iluwatar,combinator,com.iluwatar.combinator.Finders.advancedFinder,Search,Query Processing
+iluwatar,combinator,com.iluwatar.combinator.Finders.expandedFinder,Search,Query Processing
+iluwatar,combinator,com.iluwatar.combinator.Finders.filteredFinder,Search,Query Processing
+iluwatar,combinator,com.iluwatar.combinator.Finders.specializedFinder,Search,Query Processing
+lombok,lombok,lombok.RequiredArgsConstructor,Utility,System Tools
+util,util,java.util.Deque,Data Structure,Linear Structures
+iluwatar,cqrs,com.iluwatar.cqrs.commandes.CommandServiceImpl,Microservices/Services,Service Communication
+iluwatar,cqrs,com.iluwatar.cqrs.dto.Author,Microservices/Services,Service Communication
+iluwatar,cqrs,com.iluwatar.cqrs.dto.Book,Data Structure,Data Manipulation
+iluwatar,cqrs,com.iluwatar.cqrs.queries.QueryService,Microservices/Services,Service Communication
+iluwatar,cqrs,com.iluwatar.cqrs.queries.QueryServiceImpl,Microservices/Services,Service Communication
+math,math,java.math.BigInteger,Utility,Data Conversion
+junit,jupiter,org.junit.jupiter.api.BeforeAll,Test,Unit Testing
+iluwatar,commander,com.iluwatar.commander.employeehandle.EmployeeDatabase,Databases,Query Execution
+iluwatar,commander,com.iluwatar.commander.employeehandle.EmployeeHandle,Application,User Customization
+iluwatar,commander,com.iluwatar.commander.exceptions.DatabaseUnavailableException,Error Handling,Exception Handling
+iluwatar,commander,com.iluwatar.commander.exceptions.ItemUnavailableException,Error Handling,Exception Handling
+iluwatar,commander,com.iluwatar.commander.exceptions.PaymentDetailsErrorException,Error Handling,Exception Handling
+iluwatar,commander,com.iluwatar.commander.messagingservice.MessagingDatabase,Databases,Query Execution
+iluwatar,commander,com.iluwatar.commander.messagingservice.MessagingService,Microservices/Services,Service Communication
+iluwatar,commander,com.iluwatar.commander.paymentservice.PaymentDatabase,Databases,Transaction Management
+iluwatar,commander,com.iluwatar.commander.paymentservice.PaymentService,Microservices/Services,Service Communication
+iluwatar,commander,com.iluwatar.commander.queue.QueueDatabase,Databases,Query Execution
+util,stream,java.util.stream.IntStream,Utility,Data Conversion
+iluwatar,commander,com.iluwatar.commander.shippingservice.ShippingDatabase,Databases,Transaction Management
+iluwatar,commander,com.iluwatar.commander.shippingservice.ShippingService,Microservices/Services,Service Communication
+iluwatar,commander,com.iluwatar.commander.Order.MessageSent,Event Handling,Notifications
+iluwatar,commander,com.iluwatar.commander.Order.PaymentStatus,Application,Integration
+iluwatar,commander,com.iluwatar.commander.exceptions.IsEmptyException,Error Handling,Exception Handling
+iluwatar,fluentinterface,com.iluwatar.fluentinterface.fluentiterable.FluentIterable,Utility,Data Conversion
+iluwatar,fluentinterface,com.iluwatar.fluentinterface.fluentiterable.lazy.LazyFluentIterable,Utility,Performance Tools
+iluwatar,commander,com.iluwatar.commander.exceptions.ShippingNotPossibleException,Error Handling,Exception Handling
+iluwatar,fluentinterface,com.iluwatar.fluentinterface.fluentiterable.simple.SimpleFluentIterable,Utility,Data Conversion
+iluwatar,commander,com.iluwatar.commander.queue.QueueTask,Data Structure,Linear Structures
+iluwatar,commander,com.iluwatar.commander.queue.QueueTask.TaskType,Data Structure,Linear Structures
+security,security,java.security.SecureRandom,Security,Encryption
+util,function,java.util.function.Predicate,Utility,Data Conversion
+util,util,java.util.Hashtable,Data Structure,Linear Structures
+iluwatar,flux,com.iluwatar.flux.action.MenuItem,User Interface,Interaction Design
+iluwatar,flux,com.iluwatar.flux.dispatcher.Dispatcher,Event Handling,Event Driven Processing
+iluwatar,flux,com.iluwatar.flux.store.ContentStore,Microservices/Services,Service Communication
+iluwatar,flux,com.iluwatar.flux.store.MenuStore,User Interface,Interaction Design
+iluwatar,flux,com.iluwatar.flux.view.ContentView,User Interface,Layout Design
+iluwatar,flux,com.iluwatar.flux.view.MenuView,User Interface,Layout Design
+iluwatar,flux,com.iluwatar.flux.action.Action,Event Handling,Event Driven Processing
+junit,platform,org.junit.platform.commons.util.StringUtils,Test,Unit Testing
+iluwatar,flux,com.iluwatar.flux.action.Content,Event Handling,User Interactions
+iluwatar,flux,com.iluwatar.flux.action.ContentAction,Event Handling,User Interactions
+iluwatar,flux,com.iluwatar.flux.action.MenuAction,User Interface,Interaction Design
+iluwatar,flux,com.iluwatar.flux.store.Store,Microservices/Services,Service Communication
+awt,event,java.awt.event.KeyEvent,Event Handling,User Interactions
+iluwatar,component,com.iluwatar.component.component.graphiccomponent.GraphicComponent,Computer Graphics,Image Rendering
+iluwatar,component,com.iluwatar.component.component.graphiccomponent.ObjectGraphicComponent,Computer Graphics,Image Rendering
+iluwatar,component,com.iluwatar.component.component.inputcomponent.DemoInputComponent,User Interface,Interaction Design
+iluwatar,component,com.iluwatar.component.component.inputcomponent.InputComponent,User Interface,Interaction Design
+iluwatar,component,com.iluwatar.component.component.inputcomponent.PlayerInputComponent,Input-Output,Data Reading
+iluwatar,component,com.iluwatar.component.component.physiccomponent.ObjectPhysicComponent,Computer Graphics,Animation
+iluwatar,component,com.iluwatar.component.component.physiccomponent.PhysicComponent,Computer Graphics,Animation
+iluwatar,flux,com.iluwatar.flux.action.ActionType,Event Handling,Event Driven Processing
+iluwatar,flux,com.iluwatar.flux.view.View,User Interface,Interaction Design
+io,io,java.io.ByteArrayOutputStream,Input-Output,Data Writing
+io,io,java.io.PrintStream,Input-Output,Data Writing
+jakarta,servlet,jakarta.servlet.RequestDispatcher,Application,Integration
+jakarta,servlet,jakarta.servlet.http.HttpServlet,Application,Integration
+jakarta,servlet,jakarta.servlet.http.HttpServletRequest,Application,App Configuration
+jakarta,servlet,jakarta.servlet.http.HttpServletResponse,Application,Integration
+io,io,java.io.PrintWriter,Input-Output,Data Writing
+io,io,java.io.Serializable,Input-Output,Data Writing
+mockito,mockito,org.mockito.ArgumentCaptor,Test,Unit Testing
+io,io,java.io.StringWriter,Input-Output,Data Writing
+util,util,java.util.Random,Utility,System Tools
+sql,sql,java.sql.SQLException,Databases,Query Execution
+javax,sql,javax.sql.DataSource,Databases,Transaction Management
+h2,jdbcx,org.h2.jdbcx.JdbcDataSource,Databases,Query Execution
+sql,sql,java.sql.Connection,Databases,Transaction Management
+sql,sql,java.sql.PreparedStatement,Databases,Query Execution
+sql,sql,java.sql.ResultSet,Databases,Query Execution
+util,util,java.util.Spliterator,Data Structure,Data Manipulation
+util,util,java.util.Spliterators,Utility,Performance Tools
+util,function,java.util.function.Consumer,Utility,Data Conversion
+util,stream,java.util.stream.StreamSupport,Utility,Performance Tools
+iluwatar,front,com.iluwatar.front.controller.utils.InMemoryAppender,Logging,Event Logging
+junit,jupiter,org.junit.jupiter.api.Assertions.assertNotEquals,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assumptions.assumeTrue,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.doReturn,Test,Unit Testing
+sql,sql,java.sql.DriverManager,Databases,Query Execution
+junit,jupiter,org.junit.jupiter.api.Nested,Test,Unit Testing
+iluwatar,databus,com.iluwatar.databus.data.MessageData,Event Handling,Event Driven Processing
+iluwatar,databus,com.iluwatar.databus.data.StartingData,Utility,Data Conversion
+iluwatar,databus,com.iluwatar.databus.data.StoppingData,Event Handling,Event Driven Processing
+iluwatar,databus,com.iluwatar.databus.members.MessageCollectorMember,Event Handling,Event Driven Processing
+iluwatar,databus,com.iluwatar.databus.members.StatusMember,Event Handling,Event Driven Processing
+time,time,java.time.LocalDateTime,Utility,System Tools
+mockito,BDDMockito,org.mockito.BDDMockito.then,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.never,Test,Unit Testing
+springframework,cache,org.springframework.cache.annotation.EnableCaching,Application,App Configuration
+springframework,scheduling,org.springframework.scheduling.annotation.EnableScheduling,Application,App Configuration
+jakarta,annotation,jakarta.annotation.PreDestroy,Microservices/Services,Service Deployment
+iluwatar,datatransfer,com.iluwatar.datatransfer.customer.CustomerDto,Application,Integration
+iluwatar,datatransfer,com.iluwatar.datatransfer.customer.CustomerResource,Microservices/Services,API Gateway
+iluwatar,datatransfer,com.iluwatar.datatransfer.product.Product,Data Structure,Data Manipulation
+iluwatar,datatransfer,com.iluwatar.datatransfer.product.ProductDto,Data Structure,Data Manipulation
+iluwatar,datatransfer,com.iluwatar.datatransfer.product.ProductResource,Microservices/Services,API Gateway
+util,concurrent,java.util.concurrent.CompletionException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.ScheduledExecutorService,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.TimeoutException,Error Handling,Exception Handling
+jakarta,annotation,jakarta.annotation.PostConstruct,Application,App Configuration
+lang,management,java.lang.management.ManagementFactory,Utility,Performance Tools
+lang,management,java.lang.management.OperatingSystemMXBean,Operating System,Process Management
+mockito,internal,org.mockito.internal.verification.VerificationModeFactory.times,Test,Unit Testing
+ch,qos,ch.qos.logback.core.AppenderBase,Logging,Event Logging
+springframework,beans,org.springframework.beans.factory.annotation.Value,Application,App Configuration
+springframework,boot,org.springframework.boot.actuate.health.HealthIndicator,DevOps,Monitoring and Logging
+io,io,java.io.BufferedReader,Input-Output,Buffering Strategies
+io,io,java.io.File,Input-Output,File Management
+io,io,java.io.FileReader,Input-Output,Data Reading
+io,io,java.io.IOException,Input-Output,Network IO
+springframework,cache,org.springframework.cache.annotation.Cacheable,Application,App Configuration
+springframework,scheduling,org.springframework.scheduling.annotation.Scheduled,Application,App Configuration
+iluwatar,dirtyflag,com.iluwatar.dirtyflag.App,Utility,System Tools
+iluwatar,dirtyflag,com.iluwatar.dirtyflag.DataFetcher,Utility,Data Conversion
+joda,money,org.joda.money.CurrencyUnit.USD,Internationalization,Currency Conversion
+joda,money,org.joda.money.Money,Internationalization,Currency Conversion
+math,math,java.math.RoundingMode,Utility,Data Conversion
+time,temporal,java.time.temporal.ChronoUnit,Utility,System Tools
+sql,sql,java.sql.Date,Databases,Query Execution
+jakarta,persistence,jakarta.persistence.Column,Databases,Schema Design
+jakarta,persistence,jakarta.persistence.PersistenceContext,Databases,Transaction Management
+jakarta,transaction,jakarta.transaction.Transactional,Databases,Transaction Management
+joda,money,org.joda.money.CurrencyUnit,Internationalization,Currency Conversion
+lang,management,java.lang.management.MemoryMXBean,Application Performance Manager,Performance Monitoring
+springframework,retry,org.springframework.retry.backoff.FixedBackOffPolicy,Error Handling,Fault Tolerance
+springframework,retry,org.springframework.retry.policy.SimpleRetryPolicy,Error Handling,Fault Tolerance
+iluwatar,hexagonal,com.iluwatar.hexagonal.module.LotteryModule,Microservices/Services,Service Communication
+iluwatar,hexagonal,com.iluwatar.hexagonal.mongo.MongoConnectionPropertiesLoader,Databases,Database Optimization
+iluwatar,hexagonal,com.iluwatar.hexagonal.domain.LotteryConstants,Utility,Data Conversion
+iluwatar,hexagonal,com.iluwatar.hexagonal.domain.LotteryTicket,Application,Integration
+commons,lang3,org.apache.commons.lang3.tuple.MutablePair,Utility,Data Conversion
+iluwatar,hexagonal,com.iluwatar.hexagonal.domain.LotteryTicketId,Logic,Validation Checks
+commons,lang3,org.apache.commons.lang3.tuple.Pair,Utility,Data Conversion
+junit,jupiter,org.junit.jupiter.api.Assertions.fail,Test,Unit Testing
+iluwatar,hexagonal,com.iluwatar.hexagonal.domain.LotteryNumbers,Logic,Rule Processing
+iluwatar,hexagonal,com.iluwatar.hexagonal.domain.PlayerDetails,Microservices/Services,Service Communication
+iluwatar,doubledispatch,com.iluwatar.doubledispatch.constants.AppConstants,Application,App Configuration
+iluwatar,hexagonal,com.iluwatar.hexagonal.domain.LotteryConstants.PRIZE_AMOUNT,Utility,Data Conversion
+iluwatar,hexagonal,com.iluwatar.hexagonal.domain.LotteryConstants.SERVICE_BANK_ACCOUNT,Microservices/Services,Service Communication
+inject,inject,com.google.inject.Inject,Application,Integration
+iluwatar,hexagonal,com.iluwatar.hexagonal.banking.WireTransfers,Microservices/Services,Service Communication
+iluwatar,hexagonal,com.iluwatar.hexagonal.database.LotteryTicketRepository,Databases,Query Execution
+iluwatar,hexagonal,com.iluwatar.hexagonal.eventlog.LotteryEventLog,Event Handling,Event Logging
+common,base,com.google.common.base.Joiner,Utility,Data Conversion
+iluwatar,dynamicproxy,com.iluwatar.dynamicproxy.tinyrestclient.TinyRestClient,Microservices/Services,Service Communication
+lang,reflect,java.lang.reflect.InvocationHandler,Utility,System Tools
+net,http,java.net.http.HttpClient,Network,Data Transmission
+util,util,java.util.PrimitiveIterator,Data Structure,Linear Structures
+iluwatar,dynamicproxy,com.iluwatar.dynamicproxy.tinyrestclient.annotation.Body,Microservices/Services,Service Communication
+iluwatar,dynamicproxy,com.iluwatar.dynamicproxy.tinyrestclient.annotation.Delete,Microservices/Services,Service Communication
+iluwatar,dynamicproxy,com.iluwatar.dynamicproxy.tinyrestclient.annotation.Get,Microservices/Services,Service Communication
+iluwatar,dynamicproxy,com.iluwatar.dynamicproxy.tinyrestclient.annotation.Path,Microservices/Services,Service Communication
+iluwatar,dynamicproxy,com.iluwatar.dynamicproxy.tinyrestclient.annotation.Post,Microservices/Services,Service Communication
+iluwatar,dynamicproxy,com.iluwatar.dynamicproxy.tinyrestclient.annotation.Put,Microservices/Services,Service Communication
+lang,reflect,java.lang.reflect.Proxy,Utility,System Tools
+iluwatar,hexagonal,com.iluwatar.hexagonal.domain.LotteryConstants.TICKET_PRIZE,Utility,Data Conversion
+iluwatar,eda,com.iluwatar.eda.event.UserCreatedEvent,Event Handling,Event Driven Processing
+iluwatar,eda,com.iluwatar.eda.event.UserUpdatedEvent,Event Handling,User Interactions
+iluwatar,eda,com.iluwatar.eda.framework.Event,Event Handling,Event Driven Processing
+iluwatar,eda,com.iluwatar.eda.framework.EventDispatcher,Event Handling,Event Driven Processing
+iluwatar,eda,com.iluwatar.eda.handler.UserCreatedEventHandler,Event Handling,Event Driven Processing
+iluwatar,eda,com.iluwatar.eda.handler.UserUpdatedEventHandler,Event Handling,Event Driven Processing
+iluwatar,eda,com.iluwatar.eda.model.User,User Interface,Interaction Design
+iluwatar,hexagonal,com.iluwatar.hexagonal.domain.LotteryTicketCheckResult.CheckResult,Logic,Validation Checks
+iluwatar,hexagonal,com.iluwatar.hexagonal.banking.MongoBank,Databases,Transaction Management
+iluwatar,hexagonal,com.iluwatar.hexagonal.database.MongoTicketRepository,Databases,Query Execution
+iluwatar,hexagonal,com.iluwatar.hexagonal.eventlog.MongoEventLog,Event Handling,Event Logging
+iluwatar,hexagonal,com.iluwatar.hexagonal.banking.InMemoryBank,Microservices/Services,Service Communication
+iluwatar,hexagonal,com.iluwatar.hexagonal.database.InMemoryTicketRepository,Databases,Query Execution
+iluwatar,featuretoggle,com.iluwatar.featuretoggle.pattern.Service,Microservices/Services,Service Communication
+iluwatar,featuretoggle,com.iluwatar.featuretoggle.pattern.propertiesversion.PropertiesFeatureToggleVersion,Microservices/Services,Service Deployment
+iluwatar,featuretoggle,com.iluwatar.featuretoggle.pattern.tieredversion.TieredFeatureToggleVersion,Microservices/Services,Service Deployment
+iluwatar,featuretoggle,com.iluwatar.featuretoggle.user.User,Microservices/Services,Service Communication
+iluwatar,featuretoggle,com.iluwatar.featuretoggle.user.UserGroup,Microservices/Services,Service Communication
+util,util,java.util.Properties,Utility,System Tools
+iluwatar,hexagonal,com.iluwatar.hexagonal.eventlog.StdOutEventLog,Event Handling,Event Logging
+iluwatar,filterer,com.iluwatar.filterer.threat.ProbableThreat,Security,Intrusion Detection
+iluwatar,filterer,com.iluwatar.filterer.threat.SimpleProbabilisticThreatAwareSystem,Security,Intrusion Detection
+iluwatar,filterer,com.iluwatar.filterer.threat.SimpleProbableThreat,Security,Intrusion Detection
+iluwatar,filterer,com.iluwatar.filterer.threat.SimpleThreat,Security,Intrusion Detection
+iluwatar,filterer,com.iluwatar.filterer.threat.SimpleThreatAwareSystem,Security,Intrusion Detection
+iluwatar,filterer,com.iluwatar.filterer.threat.Threat,Security,Intrusion Detection
+iluwatar,filterer,com.iluwatar.filterer.threat.ThreatAwareSystem,Security,Intrusion Detection
+iluwatar,filterer,com.iluwatar.filterer.threat.ThreatType,Security,Intrusion Detection
+util,util,java.util.EnumMap,Data Structure,Linear Structures
+util,AbstractMap,java.util.AbstractMap.SimpleEntry,Data Structure,Data Manipulation
+iluwatar,hexagonal,com.iluwatar.hexagonal.domain.LotteryTicketCheckResult,Logic,Validation Checks
+mongodb,client,com.mongodb.client.MongoClient,Databases,Query Execution
+mongodb,client,com.mongodb.client.MongoClients,Databases,Query Execution
+de,flapdoodle,de.flapdoodle.embed.mongo.commands.ServerAddress,Databases,Query Execution
+de,flapdoodle,de.flapdoodle.embed.mongo.distribution.Version,Databases,Database Optimization
+de,flapdoodle,de.flapdoodle.embed.mongo.transitions.Mongod,Databases,Transaction Management
+util,concurrent,java.util.concurrent.atomic.AtomicBoolean,Multi-Thread,Thread Safety
+de,flapdoodle,de.flapdoodle.embed.mongo.transitions.RunningMongodProcess,Databases,Query Execution
+de,flapdoodle,de.flapdoodle.reverse.TransitionWalker,Utility,System Tools
+util,concurrent,java.util.concurrent.FutureTask,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.ThreadPoolExecutor,Multi-Thread,Parallel Processing
+iluwatar,hexagonal,com.iluwatar.hexagonal.test.LotteryTestUtils,Test,Unit Testing
+util,concurrent,java.util.concurrent.Callable,Multi-Thread,Parallel Processing
+mockito,Mockito,org.mockito.Mockito.inOrder,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.timeout,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Disabled,Test,Unit Testing
+inject,inject,com.google.inject.Guice,Application,App Configuration
+iluwatar,hexagonal,com.iluwatar.hexagonal.domain.LotteryAdministration,Application,App Configuration
+iluwatar,hexagonal,com.iluwatar.hexagonal.domain.LotteryService,Microservices/Services,Service Communication
+iluwatar,hexagonal,com.iluwatar.hexagonal.module.LotteryTestingModule,Test,Unit Testing
+iluwatar,hexagonal,com.iluwatar.hexagonal.sampledata.SampleData,Utility,Data Conversion
+inject,inject,com.google.inject.Injector,Application,App Configuration
+util,function,java.util.function.BiFunction,Utility,Data Conversion
+util,function,java.util.function.IntBinaryOperator,Utility,Data Conversion
+junit,jupiter,org.junit.jupiter.api.TestInstance,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.ParameterizedTest,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.provider.Arguments,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.provider.MethodSource,Test,Unit Testing
+iluwatar,iterator,com.iluwatar.iterator.list.ItemType.ANY,Data Structure,Linear Structures
+iluwatar,iterator,com.iluwatar.iterator.list.ItemType.POTION,Data Structure,Linear Structures
+iluwatar,iterator,com.iluwatar.iterator.list.ItemType.RING,Data Structure,Linear Structures
+iluwatar,iterator,com.iluwatar.iterator.list.ItemType.WEAPON,Data Structure,Linear Structures
+iluwatar,iterator,com.iluwatar.iterator.bst.BstIterator,Data Structure,Tree Structures
+iluwatar,iterator,com.iluwatar.iterator.bst.TreeNode,Data Structure,Tree Structures
+iluwatar,iterator,com.iluwatar.iterator.list.ItemType,Data Structure,Linear Structures
+iluwatar,iterator,com.iluwatar.iterator.list.TreasureChest,Data Structure,Linear Structures
+springframework,boot,org.springframework.boot.autoconfigure.domain.EntityScan,Microservices/Services,Service Deployment
+springframework,context,org.springframework.context.annotation.ComponentScan,Application,App Configuration
+awt,awt,java.awt.GridLayout,User Interface,Layout Design
+awt,event,java.awt.event.ActionEvent,Event Handling,User Interactions
+view,view,view.CakeViewImpl,User Interface,Layout Design
+util,concurrent,java.util.concurrent.ConcurrentLinkedQueue,Data Structure,Linear Structures
+javax,swing,javax.swing.JPanel,User Interface,Layout Design
+javax,swing,javax.swing.JRootPane,User Interface,Layout Design
+javax,swing,javax.swing.JTextArea,User Interface,Interaction Design
+javax,swing,javax.swing.JTextField,User Interface,Interaction Design
+javax,swing,javax.swing.SwingUtilities,User Interface,Interaction Design
+awt,awt,java.awt.Dimension,User Interface,Layout Design
+util,concurrent,java.util.concurrent.ArrayBlockingQueue,Multi-Thread,Thread Safety
+awt,event,java.awt.event.ActionListener,Event Handling,User Interactions
+util,concurrent,java.util.concurrent.CopyOnWriteArrayList,Data Structure,Linear Structures
+javax,swing,javax.swing.JScrollPane,User Interface,Layout Design
+javax,swing,javax.swing.JTable,User Interface,Interaction Design
+javax,swing,javax.swing.table.DefaultTableModel,User Interface,Interaction Design
+iluwatar,lockableobject,com.iluwatar.lockableobject.domain.Creature,Multi-Thread,Synchronization
+iluwatar,lockableobject,com.iluwatar.lockableobject.domain.Elf,Multi-Thread,Synchronization
+iluwatar,lockableobject,com.iluwatar.lockableobject.domain.Feind,Multi-Thread,Synchronization
+iluwatar,lockableobject,com.iluwatar.lockableobject.domain.Human,Multi-Thread,Synchronization
+iluwatar,lockableobject,com.iluwatar.lockableobject.domain.Orc,Multi-Thread,Thread Safety
+iluwatar,lockableobject,com.iluwatar.lockableobject.domain.CreatureStats,Multi-Thread,Thread Safety
+iluwatar,lockableobject,com.iluwatar.lockableobject.domain.CreatureType,Multi-Thread,Synchronization
+iluwatar,iterator,com.iluwatar.iterator.Iterator,Data Structure,Linear Structures
+util,util,java.util.NoSuchElementException,Error Handling,Exception Handling
+iluwatar,masterworker,com.iluwatar.masterworker.system.ArrayTransposeMasterWorker,Multi-Thread,Parallel Processing
+iluwatar,masterworker,com.iluwatar.masterworker.system.MasterWorker,Multi-Thread,Parallel Processing
+iluwatar,masterworker,com.iluwatar.masterworker.system.systemmaster.ArrayTransposeMaster,Multi-Thread,Parallel Processing
+iluwatar,masterworker,com.iluwatar.masterworker.system.systemmaster.Master,Microservices/Services,Service Communication
+iluwatar,masterworker,com.iluwatar.masterworker.system.systemworkers.ArrayTransposeWorker,Data Structure,Data Manipulation
+iluwatar,masterworker,com.iluwatar.masterworker.system.systemworkers.Worker,Multi-Thread,Parallel Processing
+iluwatar,masterworker,com.iluwatar.masterworker.ArrayUtilityMethods.matricesSame,Utility,Data Conversion
+junit,jupiter,org.junit.jupiter.api.TestInstance.Lifecycle,Test,Unit Testing
+springframework,context,org.springframework.context.ApplicationContext,Application,App Configuration
+iluwatar,layers,com.iluwatar.layers.app.LayersApp,Application,App Configuration
+iluwatar,metamapping,com.iluwatar.metamapping.model.User,User Interface,Interaction Design
+iluwatar,metamapping,com.iluwatar.metamapping.service.UserService,Microservices/Services,Service Communication
+iluwatar,metamapping,com.iluwatar.metamapping.utils.DatabaseUtil,Databases,Database Optimization
+hibernate,service,org.hibernate.service.ServiceRegistry,Databases,Transaction Management
+service,service,service.CakeBakingServiceImpl,Microservices/Services,Service Communication
+util,util,java.util.UUID,Utility,System Tools
+iluwatar,leaderelection,com.iluwatar.leaderelection.Instance,Microservices/Services,Service Discovery
+iluwatar,leaderelection,com.iluwatar.leaderelection.Message,Microservices/Services,Service Communication
+iluwatar,leaderelection,com.iluwatar.leaderelection.MessageType,Microservices/Services,Service Communication
+iluwatar,leaderelection,com.iluwatar.leaderelection.AbstractInstance,Microservices/Services,Service Discovery
+iluwatar,leaderelection,com.iluwatar.leaderelection.MessageManager,Microservices/Services,Service Communication
+iluwatar,leaderelection,com.iluwatar.leaderelection.AbstractMessageManager,Microservices/Services,Service Communication
+junit,jupiter,org.junit.jupiter.api.Assertions.assertSame,Test,Unit Testing
+iluwatar,iluwatar,com.iluwatar.App,Application,App Configuration
+iluwatar,iluwatar,com.iluwatar.CannotAddTwoCurrienciesException,Error Handling,Exception Handling
+iluwatar,iluwatar,com.iluwatar.CannotSubtractException,Error Handling,Exception Handling
+iluwatar,iluwatar,com.iluwatar.Money,Utility,Data Conversion
+junit,jupiter,org.junit.jupiter.api.AfterAll,Test,Unit Testing
+iluwatar,monolithic,com.iluwatar.monolithic.controller.OrderController,Microservices/Services,API Gateway
+iluwatar,monolithic,com.iluwatar.monolithic.controller.ProductController,Microservices/Services,API Gateway
+iluwatar,monolithic,com.iluwatar.monolithic.controller.UserController,Application,User Customization
+iluwatar,monolithic,com.iluwatar.monolithic.model.Product,Application,App Configuration
+iluwatar,monolithic,com.iluwatar.monolithic.model.User,Application,User Customization
+nio,charset,java.nio.charset.StandardCharsets,Internationalization,Language Support
+util,util,java.util.Scanner,Input-Output,Data Reading
+logging,log4j,org.apache.logging.log4j.LogManager,Logging,Event Logging
+logging,log4j,org.apache.logging.log4j.Logger,Logging,Event Logging
+iluwatar,monolithic,com.iluwatar.monolithic.exceptions.InsufficientStockException,Error Handling,Exception Handling
+iluwatar,monolithic,com.iluwatar.monolithic.exceptions.NonExistentProductException,Error Handling,Exception Handling
+iluwatar,monolithic,com.iluwatar.monolithic.exceptions.NonExistentUserException,Error Handling,Exception Handling
+iluwatar,monolithic,com.iluwatar.monolithic.model.Order,Application,Integration
+iluwatar,lockableobject,com.iluwatar.lockableobject.Lockable,Multi-Thread,Synchronization
+iluwatar,monolithic,com.iluwatar.monolithic.repository.OrderRepository,Databases,Query Execution
+iluwatar,monolithic,com.iluwatar.monolithic.repository.ProductRepository,Databases,Query Execution
+iluwatar,monolithic,com.iluwatar.monolithic.repository.UserRepository,Databases,Query Execution
+io,io,java.io.ByteArrayInputStream,Input-Output,Data Reading
+iluwatar,masterworker,com.iluwatar.masterworker.Input,Input-Output,Data Reading
+iluwatar,masterworker,com.iluwatar.masterworker.Result,Multi-Thread,Parallel Processing
+iluwatar,masterworker,com.iluwatar.masterworker.ArrayInput,Multi-Thread,Parallel Processing
+iluwatar,masterworker,com.iluwatar.masterworker.ArrayResult,Multi-Thread,Parallel Processing
+iluwatar,masterworker,com.iluwatar.masterworker.ArrayUtilityMethods,Utility,Data Conversion
+iluwatar,metamapping,com.iluwatar.metamapping.utils.HibernateUtil,Databases,Transaction Management
+junit,jupiter,org.junit.jupiter.params.provider.EnumSource,Test,Unit Testing
+hibernate,hibernate,org.hibernate.HibernateException,Databases,Transaction Management
+hibernate,cfg,org.hibernate.cfg.Configuration,Databases,Schema Design
+io,io,java.io.Closeable,Input-Output,Stream Management
+iluwatar,observer,com.iluwatar.observer.generic.GenHobbits,Event Handling,Notifications
+iluwatar,observer,com.iluwatar.observer.generic.GenOrcs,Event Handling,Notifications
+iluwatar,observer,com.iluwatar.observer.generic.GenWeather,Event Handling,Notifications
+iluwatar,observer,com.iluwatar.observer.utils.InMemoryAppender,Logging,Event Logging
+iluwatar,objectmother,com.iluwatar.objectmother.King,Test,Unit Testing
+iluwatar,objectmother,com.iluwatar.objectmother.Queen,Test,Unit Testing
+iluwatar,objectmother,com.iluwatar.objectmother.RoyaltyObjectMother,Test,Unit Testing
+iluwatar,api,com.iluwatar.api.UpdateService,Microservices/Services,API Gateway
+awt,awt,java.awt.Desktop,User Interface,Interaction Design
+iluwatar,pageobject,com.iluwatar.pageobject.pages.AlbumListPage,User Interface,Interaction Design
+htmlunit,htmlunit,org.htmlunit.WebClient,Utility,Automation Scripts
+iluwatar,observer,com.iluwatar.observer.WeatherType,Event Handling,Notifications
+iluwatar,pageobject,com.iluwatar.pageobject.pages.AlbumPage,User Interface,Interaction Design
+iluwatar,pageobject,com.iluwatar.pageobject.pages.LoginPage,User Interface,Interaction Design
+util,util,java.util.StringJoiner,Utility,Data Conversion
+iluwatar,observer,com.iluwatar.observer.WeatherObserver,Event Handling,Notifications
+util,function,java.util.function.IntPredicate,Utility,Data Conversion
+junit,jupiter,org.junit.jupiter.api.Assertions.assertArrayEquals,Test,Unit Testing
+awt,awt,java.awt.TextField,User Interface,Interaction Design
+awt,event,java.awt.event.MouseAdapter,Event Handling,User Interactions
+awt,event,java.awt.event.MouseEvent,Event Handling,User Interactions
+javax,swing,javax.swing.Box,User Interface,Layout Design
+javax,swing,javax.swing.JCheckBox,User Interface,Interaction Design
+springframework,stereotype,org.springframework.stereotype.Controller,Microservices/Services,Service Communication
+javax,swing,javax.swing.JList,User Interface,Interaction Design
+springframework,web,org.springframework.web.bind.annotation.GetMapping,Microservices/Services,API Gateway
+springframework,web,org.springframework.web.bind.annotation.PostMapping,Microservices/Services,API Gateway
+springframework,web,org.springframework.web.servlet.mvc.support.RedirectAttributes,Application,App Configuration
+springframework,ui,org.springframework.ui.Model,User Interface,Interaction Design
+iluwatar,privateclassdata,com.iluwatar.privateclassdata.utils.InMemoryAppender,Logging,Event Logging
+springframework,web,org.springframework.web.servlet.mvc.support.RedirectAttributesModelMap,Application,App Configuration
+springframework,test,org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get,Test,Unit Testing
+springframework,test,org.springframework.test.web.servlet.result.MockMvcResultMatchers.model,Test,Unit Testing
+springframework,test,org.springframework.test.web.servlet.result.MockMvcResultMatchers.status,Test,Unit Testing
+springframework,boot,org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc,Test,Integration Testing
+springframework,test,org.springframework.test.web.servlet.MockMvc,Test,Integration Testing
+util,concurrent,java.util.concurrent.Executor,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.Future,Multi-Thread,Parallel Processing
+htmlunit,html,org.htmlunit.html.HtmlAnchor,User Interface,Interaction Design
+htmlunit,html,org.htmlunit.html.HtmlPage,Parser,Validation
+io,io,java.io.FileWriter,Input-Output,Data Writing
+io,io,java.io.InputStreamReader,Input-Output,Data Reading
+net,net,java.net.URL,Network,Protocol Implementation
+htmlunit,html,org.htmlunit.html.HtmlNumberInput,User Interface,Interaction Design
+htmlunit,html,org.htmlunit.html.HtmlSelect,User Interface,Interaction Design
+util,Map,java.util.Map.Entry,Data Structure,Data Manipulation
+htmlunit,html,org.htmlunit.html.HtmlSubmitInput,User Interface,Interaction Design
+htmlunit,html,org.htmlunit.html.HtmlTextInput,User Interface,Interaction Design
+htmlunit,html,org.htmlunit.html.HtmlPasswordInput,User Interface,Interaction Design
+iluwatar,property,com.iluwatar.property.Character.Type,Utility,Data Conversion
+lombok,lombok,lombok.SneakyThrows,Error Handling,Exception Handling
+junit,jupiter,org.junit.jupiter.api.Assertions.assertNotSame,Test,Unit Testing
+iluwatar,proxy,com.iluwatar.proxy.utils.InMemoryAppender,Logging,Event Logging
+iluwatar,poison,com.iluwatar.poison.pill.Message.Headers,Microservices/Services,Service Communication
+springframework,context,org.springframework.context.support.ClassPathXmlApplicationContext,Application,App Configuration
+iluwatar,poison,com.iluwatar.poison.pill.Message.POISON_PILL,Error Handling,Fault Tolerance
+commons,dbcp,org.apache.commons.dbcp.BasicDataSource,Databases,Database Optimization
+hibernate,jpa,org.hibernate.jpa.HibernatePersistenceProvider,Databases,Query Execution
+springframework,boot,org.springframework.boot.SpringBootConfiguration,Application,App Configuration
+springframework,context,org.springframework.context.annotation.AnnotationConfigApplicationContext,Application,App Configuration
+springframework,data,org.springframework.data.jpa.repository.config.EnableJpaRepositories,Databases,Query Execution
+springframework,orm,org.springframework.orm.jpa.JpaTransactionManager,Databases,Transaction Management
+springframework,orm,org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean,Databases,Transaction Management
+springframework,data,org.springframework.data.jpa.repository.JpaSpecificationExecutor,Databases,Query Execution
+springframework,data,org.springframework.data.repository.CrudRepository,Databases,Query Execution
+jakarta,persistence,jakarta.persistence.criteria.CriteriaBuilder,Databases,Query Execution
+jakarta,persistence,jakarta.persistence.criteria.CriteriaQuery,Databases,Query Execution
+jakarta,persistence,jakarta.persistence.criteria.Predicate,Databases,Query Execution
+jakarta,persistence,jakarta.persistence.criteria.Root,Databases,Query Execution
+springframework,data,org.springframework.data.jpa.domain.Specification,Databases,Query Execution
+jakarta,annotation,jakarta.annotation.Resource,Application,App Configuration
+springframework,test,org.springframework.test.context.junit.jupiter.SpringExtension,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.reset,Test,Unit Testing
+iluwatar,publish,com.iluwatar.publish.subscribe.model.Message,Event Handling,Notifications
+iluwatar,publish,com.iluwatar.publish.subscribe.model.Topic,Event Handling,Notifications
+iluwatar,publish,com.iluwatar.publish.subscribe.publisher.Publisher,Event Handling,Notifications
+util,util,java.util.ArrayDeque,Data Structure,Linear Structures
+iluwatar,publish,com.iluwatar.publish.subscribe.publisher.PublisherImpl,Event Handling,Event Driven Processing
+iluwatar,publish,com.iluwatar.publish.subscribe.subscriber.CustomerSupportSubscriber,Event Handling,Notifications
+iluwatar,publish,com.iluwatar.publish.subscribe.subscriber.DelayedWeatherSubscriber,Event Handling,Notifications
+iluwatar,publish,com.iluwatar.publish.subscribe.subscriber.Subscriber,Event Handling,Notifications
+iluwatar,publish,com.iluwatar.publish.subscribe.subscriber.WeatherSubscriber,Event Handling,Notifications
+hamcrest,CoreMatchers,org.hamcrest.CoreMatchers.is,Test,Unit Testing
+iluwatar,reactor,com.iluwatar.reactor.framework.AbstractNioChannel,Network,Connection Management
+iluwatar,reactor,com.iluwatar.reactor.framework.ChannelHandler,Event Handling,Event Driven Processing
+hamcrest,CoreMatchers,org.hamcrest.CoreMatchers.hasItem,Test,Unit Testing
+iluwatar,reactor,com.iluwatar.reactor.framework.Dispatcher,Event Handling,Event Driven Processing
+iluwatar,reactor,com.iluwatar.reactor.framework.NioDatagramChannel,Network,Data Transmission
+iluwatar,reactor,com.iluwatar.reactor.framework.NioReactor,Network,Connection Management
+iluwatar,reactor,com.iluwatar.reactor.framework.NioServerSocketChannel,Network,Connection Management
+iluwatar,reactor,com.iluwatar.reactor.framework.ThreadPoolDispatcher,Multi-Thread,Parallel Processing
+iluwatar,roleobject,com.iluwatar.roleobject.Role.BORROWER,Application,User Customization
+iluwatar,roleobject,com.iluwatar.roleobject.Role.INVESTOR,Application,User Customization
+io,io,java.io.InputStream,Input-Output,Data Reading
+net,net,java.net.DatagramPacket,Network,Data Transmission
+net,net,java.net.DatagramSocket,Network,Data Transmission
+net,net,java.net.InetAddress,Network,Connection Management
+net,net,java.net.Socket,Network,Connection Management
+net,net,java.net.UnknownHostException,Network,Connection Management
+iluwatar,reactor,com.iluwatar.reactor.framework.NioDatagramChannel.DatagramPacket,Network,Data Transmission
+nio,nio,java.nio.ByteBuffer,Input-Output,Buffering Strategies
+nio,channels,java.nio.channels.SelectionKey,Input-Output,Network IO
+nio,channels,java.nio.channels.SelectableChannel,Input-Output,Network IO
+iluwatar,separatedinterface,com.iluwatar.separatedinterface.invoice.InvoiceGenerator,Application,Integration
+iluwatar,separatedinterface,com.iluwatar.separatedinterface.taxes.DomesticTaxCalculator,Utility,System Tools
+iluwatar,separatedinterface,com.iluwatar.separatedinterface.taxes.ForeignTaxCalculator,Utility,System Tools
+nio,channels,java.nio.channels.Selector,Input-Output,Network IO
+net,net,java.net.SocketAddress,Network,Connection Management
+nio,channels,java.nio.channels.DatagramChannel,Network,Data Transmission
+io,io,java.io.ObjectInputStream,Input-Output,Data Reading
+io,io,java.io.ObjectOutputStream,Input-Output,Data Writing
+sql,sql,java.sql.Blob,Databases,Query Execution
+nio,channels,java.nio.channels.ServerSocketChannel,Network,Connection Management
+nio,file,java.nio.file.Files,Input-Output,"Data Reading, Data Writing, File Management"
+nio,file,java.nio.file.Paths,Input-Output,File Management
+iluwatar,slob,com.iluwatar.slob.lob.Animal,Application,User Customization
+iluwatar,slob,com.iluwatar.slob.lob.Forest,Utility,System Tools
+iluwatar,slob,com.iluwatar.slob.lob.Plant,Utility,Automation Scripts
+iluwatar,slob,com.iluwatar.slob.serializers.BlobSerializer,Utility,Data Conversion
+iluwatar,slob,com.iluwatar.slob.serializers.ClobSerializer,Data Structure,Data Manipulation
+iluwatar,slob,com.iluwatar.slob.serializers.LobSerializer,Utility,Data Conversion
+javax,xml,javax.xml.parsers.ParserConfigurationException,Parser,Error Recovery
+javax,xml,javax.xml.transform.TransformerException,Error Handling,Exception Handling
+xml,sax,org.xml.sax.SAXException,Error Handling,Exception Handling
+nio,channels,java.nio.channels.SocketChannel,Network,Data Transmission
+iluwatar,reactor,com.iluwatar.reactor.framework.SameThreadDispatcher,Event Handling,Event Driven Processing
+iluwatar,saga,com.iluwatar.saga.orchestration.Saga.Result,Microservices/Services,Service Communication
+iluwatar,saga,com.iluwatar.saga.orchestration.Saga.Result.CRASHED,Error Handling,Fault Tolerance
+net,httpserver,com.sun.net.httpserver.HttpServer,Network,Data Transmission
+iluwatar,saga,com.iluwatar.saga.orchestration.Saga.Result.FINISHED,Microservices/Services,Service Communication
+net,net,java.net.InetSocketAddress,Network,Connection Management
+time,time,java.time.Instant,Utility,System Tools
+iluwatar,saga,com.iluwatar.saga.orchestration.Saga.Result.ROLLBACK,Microservices/Services,Fault Tolerance
+util,util,java.util.Iterator,Data Structure,Linear Structures
+net,httpserver,com.sun.net.httpserver.HttpExchange,Network,Data Transmission
+net,httpserver,com.sun.net.httpserver.HttpHandler,Network,Data Transmission
+io,io,java.io.OutputStream,Input-Output,Data Writing
+iluwatar,saga,com.iluwatar.saga.orchestration.SagaApplication,Microservices/Services,Service Communication
+net,httpserver,com.sun.net.httpserver.Headers,Network,Data Transmission
+iluwatar,separatedinterface,com.iluwatar.separatedinterface.invoice.TaxCalculator,Utility,Data Conversion
+w3c,dom,org.w3c.dom.Document,Parser,Syntax Parsing
+w3c,dom,org.w3c.dom.Element,Application,App Configuration
+w3c,dom,org.w3c.dom.Node,Data Structure,Tree Structures
+w3c,dom,org.w3c.dom.NodeList,Data Structure,Tree Structures
+iluwatar,slob,com.iluwatar.slob.lob.Animal.iterateXmlForAnimalAndPlants,Utility,Data Conversion
+javax,xml,javax.xml.parsers.DocumentBuilderFactory,Parser,Data Conversion
+iluwatar,model,com.iluwatar.model.view.controller.Fatigue,User Interface,Interaction Design
+iluwatar,model,com.iluwatar.model.view.controller.Health,User Interface,Interaction Design
+iluwatar,model,com.iluwatar.model.view.controller.Nourishment,User Interface,Interaction Design
+w3c,dom,org.w3c.dom.NamedNodeMap,Data Structure,Tree Structures
+io,io,java.io.ObjectInput,Input-Output,Data Reading
+javax,xml,javax.xml.parsers.DocumentBuilder,Parser,Data Conversion
+javax,xml,javax.xml.transform.OutputKeys,Input-Output,Data Writing
+javax,xml,javax.xml.transform.Transformer,Utility,Data Conversion
+javax,xml,javax.xml.transform.TransformerFactory,Utility,Data Conversion
+javax,xml,javax.xml.transform.dom.DOMSource,Input-Output,Data Reading
+javax,xml,javax.xml.transform.stream.StreamResult,Input-Output,Data Writing
+iluwatar,slob,com.iluwatar.slob.dbservice.DatabaseService,Databases,Query Execution
+iluwatar,servicelayer,com.iluwatar.servicelayer.magic.MagicService,Microservices/Services,Service Communication
+iluwatar,servicelayer,com.iluwatar.servicelayer.magic.MagicServiceImpl,Microservices/Services,Service Communication
+iluwatar,servicelayer,com.iluwatar.servicelayer.spell.Spell,Microservices/Services,Service Communication
+iluwatar,servicelayer,com.iluwatar.servicelayer.spell.SpellDaoImpl,Databases,Query Execution
+iluwatar,servicelayer,com.iluwatar.servicelayer.spellbook.Spellbook,Microservices/Services,Service Communication
+iluwatar,servicelayer,com.iluwatar.servicelayer.spellbook.SpellbookDaoImpl,Databases,Query Execution
+iluwatar,servicelayer,com.iluwatar.servicelayer.wizard.Wizard,Microservices/Services,Service Communication
+iluwatar,servicelayer,com.iluwatar.servicelayer.wizard.WizardDaoImpl,Databases,Query Execution
+jakarta,persistence,jakarta.persistence.MappedSuperclass,Databases,Schema Design
+iluwatar,servicelayer,com.iluwatar.servicelayer.hibernate.HibernateUtil,Databases,Transaction Management
+junit,jupiter,org.junit.jupiter.params.provider.CsvSource,Test,Unit Testing
+hibernate,hibernate,org.hibernate.Transaction,Databases,Transaction Management
+iluwatar,servicelayer,com.iluwatar.servicelayer.spell.SpellDao,Databases,Query Execution
+iluwatar,servicelayer,com.iluwatar.servicelayer.spellbook.SpellbookDao,Databases,Query Execution
+iluwatar,servicelayer,com.iluwatar.servicelayer.wizard.WizardDao,Databases,Query Execution
+iluwatar,servicelayer,com.iluwatar.servicelayer.common.BaseEntity,Microservices/Services,Service Communication
+jakarta,persistence,jakarta.persistence.JoinColumn,Databases,Schema Design
+jakarta,persistence,jakarta.persistence.Table,Databases,Schema Design
+iluwatar,servicelayer,com.iluwatar.servicelayer.common.Dao,Databases,Query Execution
+iluwatar,servicelayer,com.iluwatar.servicelayer.common.DaoBaseImpl,Databases,Query Execution
+jakarta,persistence,jakarta.persistence.DiscriminatorValue,Databases,Schema Design
+jakarta,persistence,jakarta.persistence.ManyToMany,Databases,Schema Design
+jakarta,persistence,jakarta.persistence.DiscriminatorColumn,Databases,Schema Design
+jakarta,persistence,jakarta.persistence.GenerationType,Databases,Schema Design
+jakarta,persistence,jakarta.persistence.Inheritance,Databases,Schema Design
+jakarta,persistence,jakarta.persistence.InheritanceType,Databases,Schema Design
+iluwatar,repository,com.iluwatar.repository.VehicleRepository,Databases,Query Execution
+time,Duration,java.time.Duration.ofMillis,Utility,Performance Tools
+junit,jupiter,org.junit.jupiter.api.Assertions.assertTimeout,Test,Performance Testing
+mockito,Mockito,org.mockito.Mockito.verifyNoInteractions,Test,Unit Testing
+iluwatar,servicelayer,com.iluwatar.servicelayer.common.BaseDaoTest,Test,Unit Testing
+iluwatar,specification,com.iluwatar.specification.creature.Creature,Utility,Data Conversion
+iluwatar,specification,com.iluwatar.specification.creature.Dragon,Application,Integration
+iluwatar,specification,com.iluwatar.specification.creature.Goblin,Application,Integration
+iluwatar,specification,com.iluwatar.specification.creature.KillerBee,Utility,Automation Scripts
+iluwatar,specification,com.iluwatar.specification.creature.Octopus,Utility,Data Conversion
+iluwatar,specification,com.iluwatar.specification.creature.Shark,Utility,Diagnostic Utilities
+iluwatar,specification,com.iluwatar.specification.creature.Troll,Application,Integration
+iluwatar,specification,com.iluwatar.specification.property.Color,Computer Graphics,Texture Mapping
+iluwatar,specification,com.iluwatar.specification.property.Movement,Utility,Automation Scripts
+iluwatar,specification,com.iluwatar.specification.selector.ColorSelector,Utility,Data Conversion
+iluwatar,specification,com.iluwatar.specification.selector.MassEqualSelector,Utility,Data Conversion
+iluwatar,specification,com.iluwatar.specification.selector.MassGreaterThanSelector,Utility,Performance Tools
+iluwatar,specification,com.iluwatar.specification.selector.MassSmallerThanOrEqSelector,Utility,Performance Tools
+iluwatar,specification,com.iluwatar.specification.selector.MovementSelector,Utility,Automation Scripts
+iluwatar,specification,com.iluwatar.specification.property.Mass,Utility,Data Conversion
+iluwatar,specification,com.iluwatar.specification.property.Size,Utility,Performance Tools
+github,stefanbirkner,com.github.stefanbirkner.systemlambda.SystemLambda.tapSystemOutNormalized,Test,Unit Testing
+github,stefanbirkner,com.github.stefanbirkner.systemlambda.Statement,Test,Unit Testing
+util,logging,java.util.logging.ConsoleHandler,Logging,Event Logging
+util,logging,java.util.logging.Handler,Logging,Event Logging
+iluwatar,throttling,com.iluwatar.throttling.CallsCount,Microservices/Services,API Gateway
+util,util,java.util.Timer,Utility,Automation Scripts
+util,util,java.util.TimerTask,Multi-Thread,Thread Safety
+lombok,lombok,lombok.Value,Utility,Data Conversion
+hamcrest,Matchers,org.hamcrest.Matchers.instanceOf,Test,Unit Testing
+hamcrest,core,org.hamcrest.core.IsInstanceOf.instanceOf,Test,Unit Testing
+hamcrest,hamcrest,org.hamcrest.MatcherAssert,Test,Unit Testing
+iluwatar,corruption,com.iluwatar.corruption.system.DataStore,Databases,Transaction Management
+iluwatar,corruption,com.iluwatar.corruption.system.AntiCorruptionLayer,Microservices/Services,Service Communication
+iluwatar,corruption,com.iluwatar.corruption.system.ShopException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.RejectedExecutionException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.atomic.AtomicReference,Multi-Thread,Thread Safety
+iluwatar,throttling,com.iluwatar.throttling.timer.ThrottleTimerImpl,Utility,Performance Tools
+mockito,mockito,org.mockito.Captor,Test,Unit Testing
+security,security,java.security.InvalidParameterException,Security,Data Integrity
+javax,persistence,javax.persistence.Entity,Databases,Schema Design
+iluwatar,throttling,com.iluwatar.throttling.timer.Throttler,Utility,Performance Tools
+javax,persistence,javax.persistence.GeneratedValue,Databases,Schema Design
+javax,persistence,javax.persistence.GenerationType,Databases,Schema Design
+javax,persistence,javax.persistence.Id,Databases,Schema Design
+util,concurrent,java.util.concurrent.atomic.AtomicLong,Multi-Thread,Thread Safety
+javax,persistence,javax.persistence.ManyToOne,Databases,Schema Design
+iluwatar,component,com.iluwatar.component.GameObject,Application,Integration
+io,io,java.io.FileInputStream,Input-Output,Data Reading
+io,io,java.io.FileOutputStream,Input-Output,Data Writing
+iluwatar,data,com.iluwatar.data.locality.game.component.manager.AiComponentManager,Game,DomainError
+iluwatar,data,com.iluwatar.data.locality.game.component.manager.PhysicsComponentManager,Computer Graphics,Animation
+iluwatar,data,com.iluwatar.data.locality.game.component.manager.RenderComponentManager,Computer Graphics,Image Rendering
+iluwatar,delegation,com.iluwatar.delegation.simple.Printer,Utility,System Tools
+nio,file,java.nio.file.Path,Input-Output,File Management
+junit,jupiter,org.junit.jupiter.api.io.TempDir,Test,Unit Testing
+lang,annotation,java.lang.annotation.ElementType,Language,Standard Libraries
+lang,annotation,java.lang.annotation.Retention,Language,Standard Libraries
+lang,annotation,java.lang.annotation.RetentionPolicy,Language,Standard Libraries
+lang,annotation,java.lang.annotation.Target,Utility,System Tools
+fasterxml,jackson,com.fasterxml.jackson.annotation.JsonCreator,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.annotation.JsonProperty,Utility,Data Conversion
+iluwatar,event,com.iluwatar.event.sourcing.domain.Account,Event Handling,Event Driven Processing
+iluwatar,event,com.iluwatar.event.sourcing.event.DomainEvent,Event Handling,Event Driven Processing
+io,io,java.io.BufferedWriter,Input-Output,Data Writing
+lang,Thread,java.lang.Thread.UncaughtExceptionHandler,Error Handling,Exception Handling
+mockito,Mockito,org.mockito.Mockito.atLeastOnce,Test,Unit Testing
+io,io,java.io.OutputStreamWriter,Input-Output,Data Writing
+lombok,lombok,lombok.AccessLevel,Utility,System Tools
+iluwatar,typeobject,com.iluwatar.typeobject.Candy.Type,Utility,Data Conversion
+gson,gson,com.google.gson.JsonParseException,Error Handling,Exception Handling
+gson,gson,com.google.gson.JsonArray,Data Structure,Data Manipulation
+gson,gson,com.google.gson.JsonObject,Utility,Data Conversion
+iluwatar,fluentinterface,com.iluwatar.fluentinterface.fluentiterable.FluentIterableTest,Test,Unit Testing
+util,Objects,java.util.Objects.requireNonNullElse,Utility,System Tools
+springframework,web,org.springframework.web.bind.annotation.RestController,Microservices/Services,API Gateway
+iluwatar,abstractdocument,com.iluwatar.abstractdocument.AbstractDocument,Data Structure,Data Manipulation
+iluwatar,abstractdocument,com.iluwatar.abstractdocument.Document,Data Structure,Data Manipulation
+iluwatar,corruption,com.iluwatar.corruption.system.legacy.LegacyShop,Application,Integration
+iluwatar,corruption,com.iluwatar.corruption.system.modern.Customer,Application,User Customization
+iluwatar,corruption,com.iluwatar.corruption.system.modern.ModernOrder,Application,Integration
+iluwatar,corruption,com.iluwatar.corruption.system.modern.Shipment,Microservices/Services,Service Communication
+iluwatar,corruption,com.iluwatar.corruption.system.legacy.LegacyOrder,Microservices/Services,Service Communication
+iluwatar,corruption,com.iluwatar.corruption.system.modern.ModernShop,Application,Integration
+net,http,java.net.http.HttpResponse.BodyHandlers,Network,Data Transmission
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.anyString,Test,Unit Testing
+iluwatar,bytecode,com.iluwatar.bytecode.Instruction,Interpreter,Code Translation
+iluwatar,caching,com.iluwatar.caching.UserAccount,Application,User Customization
+iluwatar,caching,com.iluwatar.caching.constants.CachingConstants.ADD_INFO,Utility,Performance Tools
+iluwatar,caching,com.iluwatar.caching.constants.CachingConstants.USER_ACCOUNT,Application,User Customization
+iluwatar,caching,com.iluwatar.caching.constants.CachingConstants.USER_ID,Utility,Performance Tools
+iluwatar,caching,com.iluwatar.caching.constants.CachingConstants.USER_NAME,Application,User Customization
+iluwatar,caching,com.iluwatar.caching.constants.CachingConstants,Utility,Performance Tools
+mongodb,mongodb,com.mongodb.MongoClient,Databases,Query Execution
+mongodb,mongodb,com.mongodb.MongoClientOptions,Databases,Database Optimization
+mongodb,mongodb,com.mongodb.MongoCredential,Databases,Database Security
+mongodb,mongodb,com.mongodb.ServerAddress,Databases,Database Optimization
+mongodb,client,com.mongodb.client.MongoDatabase,Databases,Query Execution
+mongodb,client,com.mongodb.client.model.UpdateOptions,Databases,Query Execution
+bson,bson,org.bson.Document,Databases,Schema Design
+mongodb,client,com.mongodb.client.FindIterable,Databases,Query Execution
+mongodb,client,com.mongodb.client.MongoCollection,Databases,Query Execution
+springframework,http,org.springframework.http.ResponseEntity,Microservices/Services,Service Communication
+springframework,web,org.springframework.web.bind.annotation.RequestBody,Microservices/Services,Service Communication
+iluwatar,cqrs,com.iluwatar.cqrs.constants.AppConstants,Application,App Configuration
+springframework,boot,org.springframework.boot.web.client.RestTemplateBuilder,Microservices/Services,Service Communication
+iluwatar,cqrs,com.iluwatar.cqrs.util.HibernateUtil,Databases,Transaction Management
+springframework,web,org.springframework.web.client.HttpClientErrorException,Error Handling,Exception Handling
+springframework,web,org.springframework.web.client.ResourceAccessException,Error Handling,Exception Handling
+springframework,web,org.springframework.web.client.RestTemplate,Microservices/Services,Service Communication
+iluwatar,product,com.iluwatar.product.microservice.microservice.Main,Microservices/Services,Service Communication
+iluwatar,product,com.iluwatar.product.microservice.microservice.ProductController,Microservices/Services,API Gateway
+iluwatar,model,com.iluwatar.model.view.intent.actions.CalculatorAction,User Interface,Interaction Design
+javax,swing,javax.swing.ScrollPaneConstants.HORIZONTAL_SCROLLBAR_AS_NEEDED,User Interface,Layout Design
+javax,swing,javax.swing.ScrollPaneConstants.VERTICAL_SCROLLBAR_AS_NEEDED,User Interface,Interaction Design
+awt,awt,java.awt.Color,Computer Graphics,Image Rendering
+javax,swing,javax.swing.JOptionPane,User Interface,User Feedback
+zkoss,bind,org.zkoss.bind.annotation.Command,User Interface,Interaction Design
+zkoss,bind,org.zkoss.bind.annotation.NotifyChange,User Interface,Interaction Design
+zkoss,zk,org.zkoss.zk.ui.select.annotation.WireVariable,User Interface,Interaction Design
+util,concurrent,java.util.concurrent.CopyOnWriteArraySet,Data Structure,Linear Structures
+junit,jupiter,org.junit.jupiter.api.Assertions.assertInstanceOf,Test,Unit Testing
+iluwatar,publish,com.iluwatar.publish.subscribe.LoggerExtension,Logging,Event Logging
+iluwatar,data,com.iluwatar.data.locality.game.component.AiComponent,Game Development,DomainError
+iluwatar,data,com.iluwatar.data.locality.game.component.Component,Game,DomainError
+iluwatar,data,com.iluwatar.data.locality.game.component.PhysicsComponent,Computer Graphics,Animation
+iluwatar,data,com.iluwatar.data.locality.game.component.RenderComponent,Computer Graphics,Image Rendering

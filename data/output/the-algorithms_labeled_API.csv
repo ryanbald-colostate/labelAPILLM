@@ -1,0 +1,142 @@
+util,util,java.util.ArrayList,Data Structure,Linear Structures
+util,util,java.util.List,Data Structure,Linear Structures
+util,util,java.util.Arrays,Utility,Data Conversion
+util,util,java.util.Collections,Utility,Performance Tools
+util,util,java.util.LinkedList,Data Structure,Linear Structures
+util,util,java.util.TreeSet,Data Structure,Tree Structures
+util,util,java.util.Collection,Data Structure,Data Manipulation
+util,util,java.util.Comparator,Utility,Data Conversion
+util,util,java.util.HashSet,Data Structure,Data Manipulation
+util,util,java.util.Queue,Data Structure,Linear Structures
+util,util,java.util.Set,Data Structure,Linear Structures
+util,util,java.util.HashMap,Data Structure,Data Manipulation
+util,util,java.util.Map,Data Structure,Data Manipulation
+util,util,java.util.Optional,Utility,Data Conversion
+math,math,java.math.BigInteger,Utility,Data Conversion
+util,util,java.util.Scanner,Input-Output,Data Reading
+security,security,java.security.InvalidAlgorithmParameterException,Security,Encryption
+security,security,java.security.InvalidKeyException,Security,Encryption
+security,security,java.security.NoSuchAlgorithmException,Security,Encryption
+javax,crypto,javax.crypto.BadPaddingException,Security,Encryption
+javax,crypto,javax.crypto.Cipher,Security,Encryption
+javax,crypto,javax.crypto.IllegalBlockSizeException,Security,Encryption
+javax,crypto,javax.crypto.KeyGenerator,Security,Encryption
+javax,crypto,javax.crypto.NoSuchPaddingException,Security,Encryption
+javax,crypto,javax.crypto.SecretKey,Security,Encryption
+javax,crypto,javax.crypto.spec.GCMParameterSpec,Security,Encryption
+util,util,java.util.Objects,Utility,System Tools
+security,security,java.security.SecureRandom,Security,Encryption
+nio,charset,java.nio.charset.Charset,Internationalization,Language Support
+nio,charset,java.nio.charset.StandardCharsets,Internationalization,Language Support
+util,util,java.util.HexFormat,Utility,Data Conversion
+util,util,java.util.InputMismatchException,Error Handling,Exception Handling
+net,net,java.net.InetAddress,Network,Protocol Implementation
+net,net,java.net.UnknownHostException,Network,Connection Management
+math,math,java.math.BigDecimal,Utility,Data Conversion
+util,Map,java.util.Map.entry,Data Structure,Data Manipulation
+commons,lang3,org.apache.commons.lang3.tuple.Pair,Utility,Data Conversion
+util,util,java.util.NoSuchElementException,Error Handling,Exception Handling
+io,io,java.io.Serial,Input-Output,Data Writing
+util,util,java.util.ArrayDeque,Data Structure,Linear Structures
+util,stream,java.util.stream.IntStream,Utility,Performance Tools
+thealgorithms,datastructures,com.thealgorithms.datastructures.graphs.UndirectedAdjacencyListGraph,Data Structure,Graph Structures
+awt,awt,java.awt.Point,User Interface,Layout Design
+util,util,java.util.Stack,Data Structure,Linear Structures
+util,util,java.util.PriorityQueue,Data Structure,Data Manipulation
+io,io,java.io.ByteArrayInputStream,Input-Output,Data Reading
+io,io,java.io.IOException,Input-Output,Network IO
+io,io,java.io.InputStream,Input-Output,Data Reading
+thealgorithms,lineclipping,com.thealgorithms.lineclipping.utils.Line,Computer Graphics,Image Rendering
+thealgorithms,lineclipping,com.thealgorithms.lineclipping.utils.Point,Computer Graphics,Modeling
+thealgorithms,maths,com.thealgorithms.maths.Gaussian.gaussian,Application,Integration
+util,util,java.util.LinkedHashSet,Data Structure,Linear Structures
+junit,jupiter,org.junit.jupiter.params.provider.ValueSource,Test,Unit Testing
+util,function,java.util.function.BiFunction,Utility,Data Conversion
+thealgorithms,maths,com.thealgorithms.maths.GoldbachConjecture.getPrimeSum,Utility,Data Conversion
+util,stream,java.util.stream.Stream,Utility,Data Conversion
+util,util,java.util.Random,Utility,System Tools
+thealgorithms,maths,com.thealgorithms.maths.Prime.PrimeCheck.isPrime,Utility,Diagnostic Utilities
+text,text,java.text.DecimalFormat,Internationalization,Currency Conversion
+util,function,java.util.function.Function,Utility,Data Conversion
+util,stream,java.util.stream.StreamSupport,Utility,Performance Tools
+commons,collections4,org.apache.commons.collections4.IterableUtils,Utility,Data Conversion
+util,Collections,java.util.Collections.singletonList,Utility,Data Conversion
+commons,lang3,org.apache.commons.lang3.tuple.MutablePair,Utility,Data Conversion
+util,function,java.util.function.BiPredicate,Utility,Data Conversion
+util,util,java.util.TreeMap,Data Structure,Tree Structures
+thealgorithms,maths,com.thealgorithms.maths.Prime.PrimeCheck,Utility,Diagnostic Utilities
+thealgorithms,matrix,com.thealgorithms.matrix.utils.MatrixUtil.validateInputMatrix,Utility,Diagnostic Utilities
+thealgorithms,matrix,com.thealgorithms.matrix.utils.MatrixUtil,Utility,Data Conversion
+awt,awt,java.awt.Color,Computer Graphics,Image Rendering
+util,util,java.util.LinkedHashMap,Data Structure,Linear Structures
+util,stream,java.util.stream.Collectors,Utility,Data Conversion
+util,util,java.util.BitSet,Data Structure,Linear Structures
+util,concurrent,java.util.concurrent.ThreadLocalRandom,Multi-Thread,Thread Safety
+util,util,java.util.NavigableSet,Data Structure,Tree Structures
+util,util,java.util.Vector,Data Structure,Linear Structures
+assertj,core,org.assertj.core.util.Lists,Utility,Data Conversion
+assertj,core,org.assertj.core.util.Sets,Utility,Data Conversion
+awt,awt,java.awt.BasicStroke,Computer Graphics,Image Rendering
+awt,awt,java.awt.Graphics2D,Computer Graphics,Image Rendering
+awt,image,java.awt.image.BufferedImage,Computer Graphics,Image Rendering
+io,io,java.io.File,Input-Output,File Management
+javax,imageio,javax.imageio.ImageIO,Multimedia,Encoding and Decoding
+util,function,java.util.function.IntFunction,Utility,Data Conversion
+util,util,java.util.Deque,Data Structure,Linear Structures
+thealgorithms,devutils,com.thealgorithms.devutils.entities.ProcessDetails,Utility,System Tools
+thealgorithms,maths,com.thealgorithms.maths.Prime.SquareFreeInteger,Utility,Data Conversion
+thealgorithms,devutils,com.thealgorithms.devutils.searches.SearchAlgorithm,Search,Indexing
+thealgorithms,datastructures,com.thealgorithms.datastructures.Node,Data Structure,Tree Structures
+thealgorithms,devutils,com.thealgorithms.devutils.searches.MatrixSearchAlgorithm,Search,Indexing
+thealgorithms,sorts,com.thealgorithms.sorts.SortUtils.less,Utility,Performance Tools
+thealgorithms,maths,com.thealgorithms.maths.NumberOfDigits,Utility,Data Conversion
+thealgorithms,sorts,com.thealgorithms.sorts.SortUtils.print,Utility,Data Conversion
+thealgorithms,datastructures,com.thealgorithms.datastructures.trees.BSTRecursiveGeneric,Data Structure,Tree Structures
+thealgorithms,maths,com.thealgorithms.maths.Ceil.ceil,Utility,Data Conversion
+thealgorithms,maths,com.thealgorithms.maths.Floor.floor,Utility,Data Conversion
+thealgorithms,searches,com.thealgorithms.searches.QuickSelect.select,Search,Optimization
+util,regex,java.util.regex.Matcher,Search,Query Processing
+util,regex,java.util.regex.Pattern,Utility,Data Conversion
+util,util,java.util.EmptyStackException,Error Handling,Exception Handling
+thealgorithms,datastructures,com.thealgorithms.datastructures.lists.SinglyLinkedList,Data Structure,Linear Structures
+junit,jupiter,org.junit.jupiter.api.Assertions.assertArrayEquals,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Test,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertEquals,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertNotNull,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertThrows,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertTrue,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertIterableEquals,Test,Unit Testing
+thealgorithms,maths,com.thealgorithms.maths.BinomialCoefficient,Utility,Data Conversion
+junit,jupiter,org.junit.jupiter.params.ParameterizedTest,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.provider.Arguments,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.provider.MethodSource,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertFalse,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.BeforeEach,Test,Unit Testing
+thealgorithms,dynamicprogramming,com.thealgorithms.dynamicprogramming.CountFriendsPairing,Application,User Customization
+thealgorithms,dynamicprogramming,com.thealgorithms.dynamicprogramming.KadaneAlgorithm,Data Structure,Linear Structures
+junit,jupiter,org.junit.jupiter.api.Assertions,Test,Unit Testing
+thealgorithms,sorts,com.thealgorithms.sorts.LinkListSort,Data Structure,Data Sorting
+thealgorithms,bitmanipulation,com.thealgorithms.bitmanipulation.BooleanAlgebraGates.ANDGate,Logic,Control Structures
+thealgorithms,bitmanipulation,com.thealgorithms.bitmanipulation.BooleanAlgebraGates.BooleanGate,Logic,Logic Optimization
+thealgorithms,bitmanipulation,com.thealgorithms.bitmanipulation.BooleanAlgebraGates.NANDGate,Logic,Logic Optimization
+thealgorithms,bitmanipulation,com.thealgorithms.bitmanipulation.BooleanAlgebraGates.NORGate,Logic,Control Structures
+thealgorithms,bitmanipulation,com.thealgorithms.bitmanipulation.BooleanAlgebraGates.NOTGate,Logic,Logic Optimization
+thealgorithms,bitmanipulation,com.thealgorithms.bitmanipulation.BooleanAlgebraGates.ORGate,Logic,Logic Optimization
+thealgorithms,bitmanipulation,com.thealgorithms.bitmanipulation.BooleanAlgebraGates.XORGate,Logic,Logic Optimization
+junit,jupiter,org.junit.jupiter.params.provider.CsvSource,Test,Unit Testing
+thealgorithms,dynamicprogramming,com.thealgorithms.dynamicprogramming.NewManShanksPrime,Data Structure,"The library ""com.thealgorithms.dynamicprogramming.NewManShanksPrime"" falls into the subdomain of **Data Manipulation**."
+thealgorithms,randomized,com.thealgorithms.randomized.MonteCarloIntegration.approximate,Application,Integration
+thealgorithms,randomized,com.thealgorithms.randomized.RandomizedClosestPair.Point,Data Structure,Data Manipulation
+mockito,Mockito,org.mockito.Mockito.mock,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertNotEquals,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.when,Test,Unit Testing
+util,Collections,java.util.Collections.emptyList,Utility,System Tools
+junit,jupiter,org.junit.jupiter.api.Assertions.assertAll,Test,Unit Testing
+util,function,java.util.function.ToIntBiFunction,Utility,Data Conversion
+commons,lang3,org.apache.commons.lang3.ArrayUtils,Utility,Data Conversion
+junit,jupiter,org.junit.jupiter.api.DisplayName,Test,Unit Testing
+thealgorithms,graph,com.thealgorithms.graph.ConstrainedShortestPath.Graph,Data Structure,Graph Structures
+thealgorithms,greedyalgorithms,com.thealgorithms.greedyalgorithms.MinimizingLateness.Job,Application,App Configuration
+junit,jupiter,org.junit.jupiter.api.Assertions.assertNull,Test,Unit Testing
+assertj,core,org.assertj.core.api.Assertions.assertThat,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.BeforeAll,Test,Unit Testing

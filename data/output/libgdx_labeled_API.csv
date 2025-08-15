@@ -1,0 +1,1893 @@
+io,io,java.io.File,Input-Output,File Management
+io,io,java.io.FileWriter,Input-Output,Data Writing
+util,util,java.util.HashMap,Data Structure,Data Manipulation
+util,util,java.util.Map,Data Structure,Data Manipulation
+util,Map,java.util.Map.Entry,Data Structure,Data Manipulation
+github,javaparser,com.github.javaparser.JavaParser,Parser,Syntax Parsing
+github,javaparser,com.github.javaparser.StaticJavaParser,Parser,Syntax Parsing
+github,javaparser,com.github.javaparser.ast.CompilationUnit,Parser,Syntax Parsing
+github,javaparser,com.github.javaparser.ast.body.ClassOrInterfaceDeclaration,Parser,Syntax Parsing
+github,javaparser,com.github.javaparser.ast.body.FieldDeclaration,Parser,Syntax Parsing
+github,javaparser,com.github.javaparser.ast.body.MethodDeclaration,Parser,Syntax Parsing
+github,javaparser,com.github.javaparser.ast.body.VariableDeclarator,Parser,Syntax Parsing
+github,javaparser,com.github.javaparser.ast.expr.BooleanLiteralExpr,Parser,Syntax Parsing
+github,javaparser,com.github.javaparser.ast.expr.Name,Parser,Syntax Parsing
+github,javaparser,com.github.javaparser.ast.expr.SimpleName,Parser,Syntax Parsing
+github,javaparser,com.github.javaparser.ast.type.ClassOrInterfaceType,Parser,Syntax Parsing
+github,javaparser,com.github.javaparser.ast.visitor.ModifierVisitor,Parser,Syntax Parsing
+github,javaparser,com.github.javaparser.ast.visitor.Visitable,Parser,Syntax Parsing
+github,javaparser,com.github.javaparser.printer.lexicalpreservation.LexicalPreservingPrinter,Parser,Syntax Parsing
+badlogic,gdx,com.badlogic.gdx.utils.IntSet,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.utils.Clipboard,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.audio.AudioDevice,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.audio.AudioRecorder,Multimedia,Media Recording
+badlogic,gdx,com.badlogic.gdx.audio.Music,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.audio.Sound,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.files.FileHandle,Input-Output,File Management
+badlogic,gdx,com.badlogic.gdx.utils.GdxRuntimeException,Error Handling,Exception Handling
+badlogic,gdx,com.badlogic.gdx.utils.Null,Utility,Diagnostic Utilities
+badlogic,gdx,com.badlogic.gdx.tests.AudioChangeDeviceTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.graphics.GL20,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.GL30,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.GL31,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.GL32,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.Cursor,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.Cursor.SystemCursor,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.tests.BigMeshTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.BitmapFontAlignmentTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.BitmapFontFlipTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.maps.tiled.TiledMapImageLayer,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.Mesh,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.Pixmap,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.BitmapFont,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.FrameBuffer,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.GLVersion,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.IndexBufferObject,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.ShaderProgram,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.VertexArray,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.VertexBufferObject,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.input.NativeInputConfiguration,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.utils.ObjectIntMap,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.utils.IntArray,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.utils.NumberUtils,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.utils.Array,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.utils.SnapshotArray,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.Input.Buttons,Input-Output,Data Reading
+io,io,java.io.InputStream,Input-Output,Data Reading
+io,io,java.io.OutputStream,Input-Output,Data Writing
+util,util,java.util.List,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.Application.ApplicationType,Application,App Configuration
+badlogic,gdx,com.badlogic.gdx.net.HttpRequestHeader,Network,Protocol Implementation
+badlogic,gdx,com.badlogic.gdx.net.HttpResponseHeader,Network,Protocol Implementation
+badlogic,gdx,com.badlogic.gdx.net.HttpStatus,Network,Protocol Implementation
+badlogic,gdx,com.badlogic.gdx.net.ServerSocket,Network,Connection Management
+badlogic,gdx,com.badlogic.gdx.net.ServerSocketHints,Network,Connection Management
+badlogic,gdx,com.badlogic.gdx.net.Socket,Network,Connection Management
+badlogic,gdx,com.badlogic.gdx.net.SocketHints,Network,Connection Management
+util,concurrent,java.util.concurrent.locks.Lock,Multi-Thread,Synchronization
+badlogic,gdx,com.badlogic.gdx.utils.Pool.Poolable,Utility,Performance Tools
+util,concurrent,java.util.concurrent.locks.ReentrantLock,Multi-Thread,Synchronization
+badlogic,gdx,com.badlogic.gdx.utils.Disposable,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.assets.loaders.AssetLoader,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.assets.loaders.AsynchronousAssetLoader,Multimedia,Media Storage
+badlogic,gdx,com.badlogic.gdx.assets.loaders.SynchronousAssetLoader,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.utils.Logger,Logging,Event Logging
+badlogic,gdx,com.badlogic.gdx.utils.TimeUtils,Utility,Performance Tools
+badlogic,gdx,com.badlogic.gdx.utils.async.AsyncExecutor,Multi-Thread,Parallel Processing
+badlogic,gdx,com.badlogic.gdx.utils.async.AsyncResult,Multi-Thread,Thread Safety
+badlogic,gdx,com.badlogic.gdx.utils.async.AsyncTask,Multi-Thread,Parallel Processing
+badlogic,gdx,com.badlogic.gdx.Application,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.Gdx,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.assets.loaders.BitmapFontLoader,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.assets.loaders.CubemapLoader,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.assets.loaders.FileHandleResolver,Input-Output,File Management
+badlogic,gdx,com.badlogic.gdx.assets.loaders.I18NBundleLoader,Internationalization,Localization
+badlogic,gdx,com.badlogic.gdx.assets.loaders.MusicLoader,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.assets.loaders.ParticleEffectLoader,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.assets.loaders.PixmapLoader,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.assets.loaders.ShaderProgramLoader,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.assets.loaders.SkinLoader,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.assets.loaders.SoundLoader,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.assets.loaders.TextureAtlasLoader,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.assets.loaders.TextureLoader,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.assets.loaders.resolvers.InternalFileHandleResolver,Input-Output,File Management
+badlogic,gdx,com.badlogic.gdx.tests.BitmapFontMetricsTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.BitmapFontTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.graphics.Cubemap,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.BlitTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.graphics.Texture,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.Box2DCharacterControllerTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.ParticleEffect,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.PolygonRegion,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.PolygonRegionLoader,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.TextureAtlas,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.Model,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.loader.G3dModelLoader,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.loader.ObjLoader,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.tests.Box2DTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Skin,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.tests.Box2DTestCollection,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.BufferUtilsTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.ClipboardTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.utils.I18NBundle,Internationalization,Localization
+badlogic,gdx,com.badlogic.gdx.utils.JsonReader,Parser,Data Conversion
+badlogic,gdx,com.badlogic.gdx.tests.TiledMapObjectPropertyTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.ColorTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.ComplexActionTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.utils.ObjectMap,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.utils.ObjectMap.Entry,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.utils.ObjectSet,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.tests.CustomShaderSpriteBatchTest,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.utils.UBJsonReader,Parser,Data Conversion
+badlogic,gdx,com.badlogic.gdx.tests.DecalTest,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.utils.async.ThreadUtils,Multi-Thread,Thread Safety
+badlogic,gdx,com.badlogic.gdx.utils.reflect.ClassReflection,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.tests.DownloadTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.EdgeDetectionTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.FilesTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.ApplicationListener,Application,App Configuration
+badlogic,gdx,com.badlogic.gdx.Audio,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.tests.FilterPerformanceTest,Test,Performance Testing
+badlogic,gdx,com.badlogic.gdx.tests.FloatTextureTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.FrameBufferTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.FramebufferToTextureTest,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.GLProfilerErrorTest,Test,Performance Testing
+io,io,java.io.BufferedInputStream,Input-Output,Buffering Strategies
+io,io,java.io.BufferedOutputStream,Input-Output,Data Writing
+io,io,java.io.BufferedReader,Input-Output,Buffering Strategies
+badlogic,gdx,com.badlogic.gdx.tests.GWTLossyPremultipliedAlphaTest,Test,Unit Testing
+io,io,java.io.FileFilter,Input-Output,File Management
+io,io,java.io.FileInputStream,Input-Output,Data Reading
+io,io,java.io.FileOutputStream,Input-Output,Data Writing
+io,io,java.io.FilenameFilter,Input-Output,File Management
+io,io,java.io.IOException,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.tests.GestureDetectorTest,Test,Unit Testing
+io,io,java.io.InputStreamReader,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.tests.GroupCullingTest,Test,Unit Testing
+io,io,java.io.OutputStreamWriter,Input-Output,Data Writing
+io,io,java.io.RandomAccessFile,Input-Output,"Data Reading, Data Writing"
+io,io,java.io.Reader,Input-Output,Data Reading
+io,io,java.io.UnsupportedEncodingException,Internationalization,Language Support
+io,io,java.io.Writer,Input-Output,Data Writing
+nio,nio,java.nio.ByteBuffer,Input-Output,Buffering Strategies
+nio,nio,java.nio.ByteOrder,Input-Output,Data Reading
+nio,channels,java.nio.channels.FileChannel,Input-Output,"Data Reading, Data Writing"
+nio,channels,java.nio.channels.FileChannel.MapMode,Input-Output,File Management
+badlogic,gdx,com.badlogic.gdx.Files,Input-Output,File Management
+badlogic,gdx,com.badlogic.gdx.Files.FileType,Input-Output,File Management
+badlogic,gdx,com.badlogic.gdx.utils.viewport.FillViewport,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.tests.GroupFadeTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.utils.StreamUtils,Input-Output,Stream Management
+badlogic,gdx,com.badlogic.gdx.tests.I18NSimpleMessageTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.ImageScaleTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.utils.viewport.StretchViewport,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.tests.ImageTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.GLFrameBuffer.FrameBufferBuilder,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.Graphics,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.Input,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.tests.IndexBufferObjectShaderTest,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.math.Frustum,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.math.Matrix4,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.math.Quaternion,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.math.Vector3,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.math.collision.Ray,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.math.MathUtils,Utility,Performance Tools
+badlogic,gdx,com.badlogic.gdx.tests.IntegerBitmapFontTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.InterpolationTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.InverseKinematicsTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.assets.AssetLoaderParameters.LoadedCallback,Application,Integration
+badlogic,gdx,com.badlogic.gdx.assets.AssetManager,Application,Integration
+badlogic,gdx,com.badlogic.gdx.assets.loaders.CubemapLoader.CubemapParameter,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.Pixmap.Format,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.FacedCubemapData,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.PixmapTextureData,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.KTXTextureData,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.IsometricTileTest,Test,Unit Testing
+nio,nio,java.nio.Buffer,Input-Output,Buffering Strategies
+nio,nio,java.nio.FloatBuffer,Data Structure,Data Manipulation
+nio,nio,java.nio.IntBuffer,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.tests.KinematicBodyTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.LabelScaleTest,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.Pixmap.Blending,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.Texture.TextureFilter,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.Texture.TextureWrap,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.TextureData.TextureDataType,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.MipMapGenerator,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.LabelTest,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.utils.BufferUtils,Utility,Performance Tools
+badlogic,gdx,com.badlogic.gdx.tests.LifeCycleTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.MeshWithCustomAttributesTest,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.tests.MipMapTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.MultitouchTest,Test,Integration Testing
+nio,nio,java.nio.ShortBuffer,Input-Output,Buffering Strategies
+badlogic,gdx,com.badlogic.gdx.tests.ParallaxTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.ParticleEmitterTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.PixelsPerInchTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.graphics.VertexAttributes.Usage,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.IndexArray,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.tests.PixmapPackerTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.IndexBufferObjectSubData,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.IndexData,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.InstanceBufferObject,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.InstanceData,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.tests.PixmapTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.PreferencesTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.ProjectiveTextureTest,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.VertexBufferObjectSubData,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.VertexBufferObjectWithVAO,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.VertexData,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.math.Matrix3,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.tests.QuadTreeFloatNearestTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.math.Vector2,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.tests.QuadTreeFloatTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.math.collision.BoundingBox,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.tests.ReflectionCorrectnessTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.ReflectionTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.RotationTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.Scene2dTest,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.tests.ShapeRendererTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.SimpleAnimationTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.SimpleDecalTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.SimpleStageCullingTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.SortedSpriteTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.SoundTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.Net,Network,Connection Management
+badlogic,gdx,com.badlogic.gdx.tests.SpriteBatchShaderTest,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Gdx2DPixmap,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.tests.SpriteBatchPerformanceTest,Test,Performance Testing
+badlogic,gdx,com.badlogic.gdx.tests.SpriteCacheOffsetTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.SpriteCacheTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.StageTest,Test,Unit Testing
+io,io,java.io.ByteArrayOutputStream,Input-Output,Data Writing
+io,io,java.io.DataInputStream,Input-Output,Data Reading
+io,io,java.io.DataOutputStream,Input-Output,Data Writing
+robovm,apple,org.robovm.apple.foundation.NSAutoreleasePool,Utility,System Tools
+robovm,apple,org.robovm.apple.uikit.UIApplication,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.IOSApplication,Application,App Configuration
+util,zip,java.util.zip.CRC32,Utility,Performance Tools
+util,zip,java.util.zip.CheckedOutputStream,Input-Output,Data Writing
+util,zip,java.util.zip.Deflater,Utility,Data Conversion
+util,zip,java.util.zip.DeflaterOutputStream,Input-Output,Data Writing
+util,zip,java.util.zip.InflaterInputStream,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.IOSApplicationConfiguration,Application,App Configuration
+badlogic,gdx,com.badlogic.gdx.utils.ByteArray,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.tests.utils.GdxTests,Test,Unit Testing
+android,annotation,android.annotation.TargetApi,Application,Compatibility Checks
+android,app,android.app.Activity,User Interface,Interaction Design
+android,content,android.content.Context,Application,App Configuration
+android,content,android.content.Intent,Application,Integration
+android,content,android.content.res.Configuration,Application,App Configuration
+android,os,android.os.Build,Operating System,Device Drivers
+android,os,android.os.Bundle,Application,App Configuration
+android,os,android.os.Debug,Application Performance Manager,Performance Monitoring
+android,os,android.os.Handler,Multi-Thread,Synchronization
+badlogic,gdx,com.badlogic.gdx.assets.loaders.TextureLoader.TextureParameter,Computer Graphics,Texture Mapping
+android,view,android.view.Gravity,User Interface,Layout Design
+android,view,android.view.View,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.FileTextureData,Computer Graphics,Texture Mapping
+android,view,android.view.Window,User Interface,Layout Design
+android,view,android.view.WindowManager,User Interface,Layout Design
+android,widget,android.widget.FrameLayout,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.backends.android.keyboardheight.AndroidXKeyboardHeightProvider,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.backends.android.keyboardheight.KeyboardHeightProvider,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.backends.android.keyboardheight.StandardKeyboardHeightProvider,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.backends.android.surfaceview.FillResolutionStrategy,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.CustomTexture3DData,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.EventListener,Event Handling,User Interactions
+badlogic,gdx,com.badlogic.gdx.tests.SystemCursorTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.FileTextureArrayData,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.TableTest,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.tests.TextAreaTest,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.ETC1TextureData,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.TextAreaTest2,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.tests.TextAreaTest3,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.tests.TextButtonTest,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.tests.TextInputDialogTest,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.tests.TextureAtlasTest,Test,Unit Testing
+util,util,java.util.Iterator,Data Structure,Linear Structures
+util,util,java.util.NoSuchElementException,Error Handling,Exception Handling
+badlogic,gdx,com.badlogic.gdx.utils.Collections,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.tests.TiledMapAtlasAssetManagerTest,Test,Unit Testing
+android,hardware,android.hardware.SensorManager,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.InputAdapter,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.InputProcessor,User Interface,Interaction Design
+android,media,android.media.SoundPool,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.tests.TiledMapObjectLoadingTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.utils.Timer,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.utils.Timer.Task,Utility,Automation Scripts
+badlogic,gdx,com.badlogic.gdx.tests.TiledMapPropertiesTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.TimeUtilsTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.backends.android.surfaceview.ResolutionStrategy,User Interface,Layout Design
+net,net,java.net.InetAddress,Network,Protocol Implementation
+net,net,java.net.ServerSocket,Network,Connection Management
+net,net,java.net.Socket,Network,Connection Management
+badlogic,gdx,com.badlogic.gdx.utils.GdxNativesLoader,Utility,System Tools
+android,util,android.util.Log,Logging,Event Logging
+badlogic,gdx,com.badlogic.gdx.ApplicationLogger,Logging,Error Logs
+badlogic,gdx,com.badlogic.gdx.tests.VertexBufferObjectShaderTest,Computer Graphics,Image Rendering
+android,media,android.media.AudioAttributes,Multimedia,Media Playback
+android,media,android.media.AudioFormat,Multimedia,Encoding and Decoding
+badlogic,gdx,com.badlogic.gdx.Input.Peripheral,Input-Output,Data Reading
+android,media,android.media.AudioManager,Multimedia,Media Playback
+android,media,android.media.AudioTrack,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.tests.YDownTest,Test,Unit Testing
+android,annotation,android.annotation.SuppressLint,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.TextureRegion,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.Event,Event Handling,User Interactions
+android,media,android.media.AudioRecord,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.maps.objects.CircleMapObject,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.objects.TextureMapObject,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.maps.tiled.TiledMap,Geographic Information System,Mapping
+android,media,android.media.MediaRecorder,Multimedia,Encoding and Decoding
+badlogic,gdx,com.badlogic.gdx.graphics.Color,Computer Graphics,Image Rendering
+android,content,android.content.ClipData,Application,App Configuration
+nio,charset,java.nio.charset.Charset,Internationalization,Language Support
+android,view,android.view.PointerIcon,User Interface,Interaction Design
+util,util,java.util.Objects,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.graphics.OrthographicCamera,Computer Graphics,Image Rendering
+io,io,java.io.Serializable,Input-Output,Data Writing
+android,opengl,android.opengl.GLSurfaceView,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.utils.Pool,Data Structure,Data Manipulation
+android,os,android.os.Looper,Multi-Thread,Synchronization
+android,service,android.service.dreams.DreamService,Application,User Customization
+badlogic,gdx,com.badlogic.gdx.utils.FloatArray,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.tests.gwt.GwtInputTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.utils.ShortArray,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.Layout,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.utils.BooleanArray,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.tests.gwt.GwtWindowModeTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.net.OpenBrowserExample,Network,Connection Management
+badlogic,gdx,com.badlogic.gdx.graphics.Camera,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.PerspectiveCamera,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.math.Plane.PlaneSide,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.math.collision.OrientedBoundingBox,Computer Graphics,Modeling
+util,util,java.util.Arrays,Utility,Data Conversion
+android,content,android.content.res.AssetFileDescriptor,Input-Output,File Management
+util,util,java.util.Random,Utility,System Tools
+android,content,android.content.res.AssetManager,Application,App Configuration
+badlogic,gdx,com.badlogic.gdx.utils.Scaling,User Interface,Layout Design
+androidx,fragment,androidx.fragment.app.Fragment,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.Disableable,User Interface,Interaction Design
+android,opengl,android.opengl.GLES20,Computer Graphics,Texture Mapping
+android,opengl,android.opengl.GLES30,Computer Graphics,Texture Mapping
+net,net,java.net.URLEncoder,Network,Data Transmission
+util,util,java.util.Set,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.Net.HttpRequest,Network,Data Transmission
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Value.Fixed,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.utils.Base64Coder,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.utils.Json,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.utils.Pools,Utility,Performance Tools
+android,hardware,android.hardware.display.DisplayManager,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.Net.HttpResponse,Network,Data Transmission
+android,opengl,android.opengl.GLSurfaceView.EGLConfigChooser,Computer Graphics,Graphics Optimization
+android,opengl,android.opengl.GLSurfaceView.Renderer,Computer Graphics,Animation
+net,net,java.net.HttpURLConnection,Network,Connection Management
+net,net,java.net.URL,Network,Protocol Implementation
+android,util,android.util.DisplayMetrics,User Interface,Layout Design
+android,view,android.view.Display,User Interface,Layout Design
+util,concurrent,java.util.concurrent.atomic.AtomicInteger,Multi-Thread,Thread Safety
+util,concurrent,java.util.concurrent.Future,Multi-Thread,Concurrency Control
+util,concurrent,java.util.concurrent.LinkedBlockingQueue,Multi-Thread,Thread Safety
+util,concurrent,java.util.concurrent.SynchronousQueue,Multi-Thread,Synchronization
+util,concurrent,java.util.concurrent.ThreadFactory,Multi-Thread,Thread Safety
+util,concurrent,java.util.concurrent.ThreadPoolExecutor,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.TimeUnit,Multi-Thread,Concurrency Control
+android,view,android.view.DisplayCutout,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.Net.HttpMethods,Network,Data Transmission
+android,view,android.view.WindowManager.LayoutParams,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.Net.HttpResponseListener,Network,Data Transmission
+badlogic,gdx,com.badlogic.gdx.AbstractGraphics,Computer Graphics,Image Rendering
+net,net,java.net.InetSocketAddress,Network,Connection Management
+badlogic,gdx,com.badlogic.gdx.Net.Protocol,Network,Protocol Implementation
+robovm,rt,org.robovm.rt.bro.ValuedEnum,Utility,System Tools
+javax,microedition,javax.microedition.khronos.egl.EGL10,Computer Graphics,Graphics Optimization
+javax,microedition,javax.microedition.khronos.egl.EGLConfig,Computer Graphics,Graphics Optimization
+javax,microedition,javax.microedition.khronos.egl.EGLContext,Computer Graphics,Graphics Optimization
+javax,microedition,javax.microedition.khronos.egl.EGLDisplay,Computer Graphics,Graphics Optimization
+util,util,java.util.Comparator,Utility,System Tools
+javax,microedition,javax.microedition.khronos.opengles.GL10,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.utils.reflect.ArrayReflection,Utility,Data Conversion
+android,view,android.view.SurfaceHolder,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.backends.android.surfaceview.GLSurfaceView20,Computer Graphics,Image Rendering
+robovm,rt,org.robovm.rt.bro.ptr.Ptr,Utility,Data Conversion
+util,concurrent,java.util.concurrent.atomic.AtomicReferenceArray,Data Structure,Linear Structures
+android,os,android.os.VibrationAttributes,Application,User Customization
+android,os,android.os.VibrationEffect,User Interface,User Feedback
+android,os,android.os.Vibrator,Application,Integration
+android,os,android.os.VibratorManager,Application,Integration
+util,util,java.util.BitSet,Data Structure,Linear Structures
+android,view,android.view.View.OnGenericMotionListener,User Interface,Interaction Design
+nio,nio,java.nio.CharBuffer,Input-Output,Buffering Strategies
+nio,nio,java.nio.DoubleBuffer,Data Structure,Linear Structures
+android,view,android.view.View.OnKeyListener,User Interface,Interaction Design
+android,view,android.view.View.OnTouchListener,User Interface,Interaction Design
+nio,nio,java.nio.LongBuffer,Data Structure,Linear Structures
+robovm,apple,org.robovm.apple.uikit.UIImage,User Interface,Interaction Design
+robovm,apple,org.robovm.apple.uikit.UIView,User Interface,Layout Design
+robovm,rt,org.robovm.rt.bro.annotation.ByVal,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.utils.StreamUtils.OptimizedByteArrayOutputStream,Input-Output,Data Writing
+util,util,java.util.ArrayList,Data Structure,Linear Structures
+util,util,java.util.LinkedHashSet,Data Structure,Linear Structures
+util,util,java.util.Locale,Internationalization,Language Support
+util,util,java.util.MissingResourceException,Error Handling,Exception Handling
+android,service,android.service.wallpaper.WallpaperService,Application,User Customization
+android,view,android.view.MotionEvent,Event Handling,User Interactions
+badlogic,gdx,com.badlogic.gdx.utils.ObjectSet.tableSize,Data Structure,Data Manipulation
+android,app,android.app.WallpaperColors,User Interface,Interaction Design
+android,view,android.view.InputDevice,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.backends.android.DefaultAndroidInput.TouchEvent,Event Handling,User Interactions
+android,media,android.media.MediaPlayer,Multimedia,Media Playback
+io,io,java.io.StringWriter,Input-Output,Data Writing
+android,content,android.content.ActivityNotFoundException,Error Handling,Exception Handling
+android,net,android.net.Uri,Network,Protocol Implementation
+util,util,java.util.Collection,Data Structure,Data Manipulation
+util,util,java.util.Collections,Utility,Performance Tools
+badlogic,gdx,com.badlogic.gdx.net.NetJavaImpl,Network,Connection Management
+badlogic,gdx,com.badlogic.gdx.net.NetJavaServerSocketImpl,Network,Connection Management
+badlogic,gdx,com.badlogic.gdx.utils.IntSet.IntSetIterator,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.utils.JsonValue.PrettyPrintSettings,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.utils.JsonWriter.OutputType,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.net.NetJavaSocketImpl,Network,Connection Management
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.NinePatchDrawable,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.utils.reflect.Constructor,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.utils.reflect.Field,Utility,Diagnostic Utilities
+badlogic,gdx,com.badlogic.gdx.utils.reflect.ReflectionException,Error Handling,Exception Handling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.shapebuilders.FrustumShapeBuilder,Computer Graphics,Modeling
+robovm,apple,org.robovm.apple.coreanimation.CALayer,Computer Graphics,Animation
+android,content,android.content.SharedPreferences,Application,User Customization
+android,content,android.content.SharedPreferences.Editor,Application,User Customization
+badlogic,gdx,com.badlogic.gdx.utils.JsonValue.ValueType,Data Structure,Data Manipulation
+math,math,java.math.BigDecimal,Utility,Data Conversion
+math,math,java.math.BigInteger,Utility,Data Conversion
+util,regex,java.util.regex.Pattern,Utility,Data Conversion
+io,io,java.io.DataInput,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.backends.android.ZipResourceFile.ZipEntryRO,Input-Output,File Management
+io,io,java.io.FilterInputStream,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.physics.box2d.RayCastCallback,Computer Graphics,Animation
+util,util,java.util.Vector,Data Structure,Linear Structures
+android,os,android.os.Environment,Input-Output,File Management
+badlogic,gdx,com.badlogic.gdx.physics.box2d.Joint,Computer Graphics,Animation
+android,os,android.os.HandlerThread,Multi-Thread,Thread Safety
+lang,annotation,java.lang.annotation.ElementType,Language,Standard Libraries
+lang,annotation,java.lang.annotation.Target,Utility,System Tools
+lang,annotation,java.lang.annotation.Documented,Language,Standard Libraries
+badlogic,gdx,com.badlogic.gdx.physics.box2d.JointDef,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.math.Octree,Data Structure,Tree Structures
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.ArraySelection,User Interface,Interaction Design
+io,io,java.io.FileDescriptor,Input-Output,File Management
+badlogic,gdx,com.badlogic.gdx.math.FloatCounter,Utility,Performance Tools
+android,app,android.app.Fragment,User Interface,Interaction Design
+android,content,android.content.ContextWrapper,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.GlyphLayout,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.GlyphLayout.GlyphRun,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.math.Rectangle,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.InputEvent,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.Stage.TouchFocus,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Table.DebugRect,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.ChangeListener.ChangeEvent,Event Handling,User Interactions
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.FocusListener.FocusEvent,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.utils.DefaultPool.PoolSupplier,Utility,Performance Tools
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.UIUtils,User Interface,Interaction Design
+util,util,java.util.Date,Utility,System Tools
+android,animation,android.animation.Animator,User Interface,Animation
+android,app,android.app.AlertDialog,User Interface,User Feedback
+android,content,android.content.DialogInterface,User Interface,User Feedback
+android,content,android.content.DialogInterface.OnCancelListener,User Interface,Interaction Design
+android,graphics,android.graphics.Color,Computer Graphics,Image Rendering
+android,hardware,android.hardware.Sensor,Input-Output,Data Reading
+android,hardware,android.hardware.SensorEvent,Event Handling,System Events
+android,hardware,android.hardware.SensorEventListener,Event Handling,System Events
+android,text,android.text.InputFilter.LengthFilter,User Interface,Interaction Design
+android,text,android.text.method.PasswordTransformationMethod,User Interface,Interaction Design
+android,view,android.view.inputmethod.EditorInfo,User Interface,Interaction Design
+android,view,android.view.inputmethod.InputConnection,User Interface,Interaction Design
+android,view,android.view.inputmethod.InputConnectionWrapper,User Interface,Interaction Design
+android,view,android.view.inputmethod.InputMethodManager,User Interface,Interaction Design
+android,widget,android.widget.TextView.OnEditorActionListener,User Interface,Interaction Design
+android,window,android.window.OnBackInvokedCallback,User Interface,Interaction Design
+android,window,android.window.OnBackInvokedDispatcher,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.AbstractInput,Input-Output,Data Reading
+io,io,java.io.Closeable,Input-Output,Stream Management
+badlogic,gdx,com.badlogic.gdx.backends.android.keyboardheight.KeyboardHeightObserver,Input-Output,Data Reading
+text,text,java.text.MessageFormat,Internationalization,Localization
+badlogic,gdx,com.badlogic.gdx.LifecycleListener,Application,App Configuration
+android,os,android.os.ParcelFileDescriptor,Input-Output,File Management
+io,io,java.io.EOFException,Input-Output,Data Reading
+io,io,java.io.FileNotFoundException,Input-Output,File Management
+junit,junit,org.junit.Assert,Test,Unit Testing
+junit,junit,org.junit.Before,Test,Unit Testing
+junit,junit,org.junit.Test,Test,Unit Testing
+junit,runner,org.junit.runner.RunWith,Test,Unit Testing
+junit,runners,org.junit.runners.Parameterized,Test,Unit Testing
+junit,runners,org.junit.runners.Parameterized.Parameter,Test,Unit Testing
+junit,runners,org.junit.runners.Parameterized.Parameters,Test,Unit Testing
+junit,Assert,org.junit.Assert.assertEquals,Test,Unit Testing
+junit,Assert,org.junit.Assert.assertTrue,Test,Unit Testing
+junit,Assert,org.junit.Assert.fail,Test,Unit Testing
+nio,nio,java.nio.MappedByteBuffer,Input-Output,Buffering Strategies
+badlogic,gdx,com.badlogic.gdx.math.Intersector.SplitTriangle,Computer Graphics,Modeling
+junit,Assert,org.junit.Assert.assertFalse,Test,Unit Testing
+util,zip,java.util.zip.ZipEntry,Utility,System Tools
+util,zip,java.util.zip.ZipFile,Utility,Backup Tools
+badlogic,gdx,com.badlogic.gdx.backends.headless.mock.audio.MockAudio,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.backends.headless.mock.graphics.MockGraphics,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.backends.headless.mock.input.MockInput,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.List.ListStyle,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.ScrollPane.ScrollPaneStyle,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.tools.distancefield.DistanceFieldGenerator,Computer Graphics,Texture Mapping
+lang,annotation,java.lang.annotation.ElementType.TYPE,Language,Standard Libraries
+lang,annotation,java.lang.annotation.RetentionPolicy.RUNTIME,Utility,System Tools
+awt,awt,java.awt.Desktop,User Interface,Interaction Design
+awt,Desktop,java.awt.Desktop.Action,User Interface,Interaction Design
+awt,awt,java.awt.GraphicsEnvironment,User Interface,Layout Design
+lang,reflect,java.lang.reflect.Field,Utility,System Tools
+lang,annotation,java.lang.annotation.Annotation,Language,Standard Libraries
+gwt,core,com.google.gwt.core.client.GWT,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.TextureAtlas.AtlasSprite,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.bench.TiledMapBench,Test,Performance Testing
+util,util,java.util.HashSet,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.BaseDrawable,User Interface,Interaction Design
+gwt,core,com.google.gwt.core.ext.BadPropertyValueException,Error Handling,Exception Handling
+gwt,core,com.google.gwt.core.ext.ConfigurationProperty,Utility,System Tools
+gwt,core,com.google.gwt.core.ext.Generator,Utility,System Tools
+gwt,core,com.google.gwt.core.ext.GeneratorContext,Utility,System Tools
+gwt,core,com.google.gwt.core.ext.TreeLogger,Logging,Error Logs
+gwt,core,com.google.gwt.core.ext.UnableToCompleteException,Error Handling,Exception Handling
+gwt,core,com.google.gwt.core.ext.typeinfo.JClassType,Language,Type Systems
+gwt,core,com.google.gwt.core.ext.typeinfo.JField,Utility,System Tools
+gwt,core,com.google.gwt.core.ext.typeinfo.JMethod,Language,Type Systems
+gwt,core,com.google.gwt.core.ext.typeinfo.JPackage,Language,Type Systems
+gwt,core,com.google.gwt.core.ext.typeinfo.JPrimitiveType,Language,Type Systems
+gwt,core,com.google.gwt.core.ext.typeinfo.JType,Language,Type Systems
+gwt,core,com.google.gwt.core.ext.typeinfo.TypeOracle,Language,Type Systems
+badlogic,gdx,com.badlogic.gdx.tests.conformance.AudioSoundAndMusicIsolationTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.conformance.DisplayModeTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.examples.MoveSpriteExample,Computer Graphics,Animation
+gwt,core,com.google.gwt.core.ext.TreeLogger.ERROR,Error Handling,Error Logging
+gwt,core,com.google.gwt.core.ext.TreeLogger.Type,Logging,Error Logs
+io,io,java.io.PrintWriter,Input-Output,Data Writing
+lang,annotation,java.lang.annotation.Retention,Language,Standard Libraries
+lang,annotation,java.lang.annotation.RetentionPolicy,Language,Standard Libraries
+lang,reflect,java.lang.reflect.Array,Utility,System Tools
+lang,reflect,java.lang.reflect.InvocationTargetException,Error Handling,Exception Handling
+lang,reflect,java.lang.reflect.Method,Utility,System Tools
+gwt,user,com.google.gwt.user.rebind.ClassSourceFileComposerFactory,User Interface,Layout Design
+gwt,user,com.google.gwt.user.rebind.SourceWriter,Utility,System Tools
+javax,annotation,javax.annotation.Nonnull,Utility,System Tools
+javax,annotation,javax.annotation.Nullable,Utility,Diagnostic Utilities
+awt,awt,java.awt.Graphics,Computer Graphics,Image Rendering
+awt,image,java.awt.image.BufferedImage,Computer Graphics,Image Rendering
+javax,imageio,javax.imageio.ImageIO,Multimedia,Encoding and Decoding
+javax,xml,javax.xml.parsers.DocumentBuilder,Parser,Data Conversion
+javax,xml,javax.xml.parsers.DocumentBuilderFactory,Parser,Data Conversion
+javax,xml,javax.xml.parsers.ParserConfigurationException,Parser,Error Recovery
+javax,xml,javax.xml.transform.Transformer,Utility,Data Conversion
+javax,xml,javax.xml.transform.TransformerConfigurationException,Error Handling,Exception Handling
+javax,xml,javax.xml.transform.TransformerException,Error Handling,Exception Handling
+javax,xml,javax.xml.transform.TransformerFactory,Utility,Data Conversion
+javax,xml,javax.xml.transform.dom.DOMSource,Input-Output,Data Reading
+javax,xml,javax.xml.transform.stream.StreamResult,Input-Output,Data Writing
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.PixmapPacker,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.maps.ImageResolver,Computer Graphics,Texture Mapping
+w3c,dom,org.w3c.dom.Attr,Parser,Validation
+w3c,dom,org.w3c.dom.Document,Parser,Syntax Parsing
+w3c,dom,org.w3c.dom.NamedNodeMap,Data Structure,Tree Structures
+w3c,dom,org.w3c.dom.Node,Data Structure,Tree Structures
+w3c,dom,org.w3c.dom.NodeList,Data Structure,Tree Structures
+xml,sax,org.xml.sax.SAXException,Error Handling,Exception Handling
+util,util,java.util.Properties,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.SpriteDrawable,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.assets.loaders.resolvers.AbsoluteFileHandleResolver,Input-Output,File Management
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl.LwjglApplication,Application,App Configuration
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration,Application,App Configuration
+badlogic,gdx,com.badlogic.gdx.tests.extensions.FreeTypeAtlasTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.extensions.FreeTypeDisposeTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.maps.MapLayer,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.tiled.tiles.AnimatedTiledMapTile,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.maps.tiled.tiles.StaticTiledMapTile,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.InputEventQueue,Event Handling,User Interactions
+badlogic,gdx,com.badlogic.gdx.tools.texturepacker.TexturePacker,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tools.texturepacker.TexturePacker.Settings,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.extensions.FreeTypeFontLoaderTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.extensions.FreeTypeIncrementalTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.ApplicationAdapter,Application,App Configuration
+badlogic,gdx,com.badlogic.gdx.tests.extensions.FreeTypeMetricsTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.Input.Keys,Input-Output,Data Reading
+lwjgl,input,org.lwjgl.input.Keyboard,Input-Output,Data Reading
+lwjgl,input,org.lwjgl.input.Mouse,User Interface,Interaction Design
+lwjgl,opengl,org.lwjgl.opengl.Display,Computer Graphics,Image Rendering
+awt,awt,java.awt.Color,Computer Graphics,Image Rendering
+awt,awt,java.awt.FlowLayout,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.maps.tiled.AtlasTmjMapLoader,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.tiled.AtlasTmxMapLoader,Geographic Information System,Mapping
+awt,event,java.awt.event.WindowEvent,Event Handling,System Events
+badlogic,gdx,com.badlogic.gdx.maps.tiled.renderers.OrthogonalTiledMapRenderer,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.utils.viewport.FitViewport,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.utils.viewport.Viewport,User Interface,Layout Design
+awt,event,java.awt.event.WindowFocusListener,Event Handling,System Events
+javax,swing,javax.swing.JDialog,User Interface,Interaction Design
+javax,swing,javax.swing.JLabel,User Interface,User Feedback
+javax,swing,javax.swing.JOptionPane,User Interface,User Feedback
+badlogic,gdx,com.badlogic.gdx.maps.tiled.TiledMapTileSet,Geographic Information System,Mapping
+javax,swing,javax.swing.JPanel,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.utils.IntMap,Data Structure,Linear Structures
+javax,swing,javax.swing.JTextField,User Interface,Interaction Design
+javax,swing,javax.swing.OverlayLayout,User Interface,Layout Design
+javax,swing,javax.swing.SwingUtilities,User Interface,Interaction Design
+javax,swing,javax.swing.border.Border,User Interface,Layout Design
+javax,swing,javax.swing.border.EmptyBorder,User Interface,Layout Design
+javax,swing,javax.swing.event.DocumentEvent,User Interface,User Feedback
+util,util,java.util.LinkedHashMap,Data Structure,Linear Structures
+javax,swing,javax.swing.event.DocumentListener,User Interface,User Feedback
+badlogic,gdx,com.badlogic.gdx.assets.AssetDescriptor,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.assets.AssetLoaderParameters,Computer Graphics,Texture Mapping
+applet,applet,java.applet.Applet,User Interface,Interaction Design
+awt,awt,java.awt.BorderLayout,User Interface,Layout Design
+awt,awt,java.awt.Canvas,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.tests.extensions.FreeTypePackTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.utils.Json.ReadOnlySerializer,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl.audio.LwjglAudio,Multimedia,Media Playback
+lwjgl,lwjgl,org.lwjgl.LWJGLException,Error Handling,Exception Handling
+badlogic,gdx,com.badlogic.gdx.tests.extensions.FreeTypeTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.extensions.InternationalFontsTest,Internationalization,Language Support
+badlogic,gdx,com.badlogic.gdx.tests.g3d.Animation3DTest,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.tests.g3d.AnisotropyTest,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.g3d.Basic3DSceneTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.BitmapFont.BitmapFontData,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.tests.g3d.Basic3DTest,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.TextureAtlas.AtlasRegion,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.g3d.Benchmark3DTest,Test,Performance Testing
+badlogic,gdx,com.badlogic.gdx.tests.g3d.FogTest,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.tests.g3d.FrameBufferCubemapTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.g3d.HeightMapTest,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl.audio.OpenALLwjglAudio,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.tests.g3d.LightsTest,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.tests.g3d.MaterialEmissiveTest,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.tests.g3d.MaterialTest,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.g3d.MeshBuilderTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.graphics.CubemapData,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.g3d.ModelCacheTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.g3d.ModelTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.g3d.MultipleRenderTargetTest,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.TextureData,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.g3d.ParticleControllerInfluencerSingleTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.g3d.ParticleControllerTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.g3d.PolarAccelerationTest,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.tests.g3d.ShaderCollectionTest,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.tests.g3d.ShaderTest,Computer Graphics,Visual Effects
+awt,awt,java.awt.GraphicsDevice,Computer Graphics,Image Rendering
+awt,awt,java.awt.Component,User Interface,Layout Design
+awt,awt,java.awt.Cursor,User Interface,Interaction Design
+awt,awt,java.awt.Dimension,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.data.ModelData,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.data.ModelMaterial,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.data.ModelTexture,Computer Graphics,Texture Mapping
+awt,awt,java.awt.EventQueue,Event Handling,Event Driven Processing
+awt,awt,java.awt.Frame,User Interface,Layout Design
+awt,awt,java.awt.Rectangle,User Interface,Layout Design
+awt,awt,java.awt.Toolkit,User Interface,Interaction Design
+awt,event,java.awt.event.PaintEvent,Event Handling,System Events
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.TextureProvider,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.g3d.ShadowMappingTest,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.tests.g3d.ShadowMappingTextureTest,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.g3d.SkeletonTest,Computer Graphics,Animation
+lwjgl,opengl,org.lwjgl.opengl.AWTGLCanvas,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.tests.g3d.TangentialAccelerationTest,Test,Unit Testing
+lwjgl,opengl,org.lwjgl.opengl.PixelFormat,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.tests.g3d.TextureArrayTest,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.g3d.TextureRegion3DTest,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.g3d.utils.DefaultTextureBinderTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.gles2.GlTexImage2D,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.gles2.HelloTriangle,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.tests.gles2.SimpleVertexShader,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.tests.gles2.VertexArrayTest,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.tests.gles3.GL30Texture3DTest,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.gles3.InstancedRenderingTest,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.tests.gles3.ModelInstancedRenderingTest,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.tests.gles3.NonPowerOfTwoTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.gles3.PixelBufferObjectTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.gles3.UniformBufferObjectsTest,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.tests.gles31.GL31FrameBufferMultisampleMRTTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.gles31.GL31FrameBufferMultisampleTest,Test,Integration Testing
+javax,swing,javax.swing.JFrame,User Interface,Interaction Design
+awt,awt,java.awt.AWTException,Error Handling,Exception Handling
+badlogic,gdx,com.badlogic.gdx.tests.gles31.GL31IndirectDrawingIndexedTest,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.tests.gles31.GL31IndirectDrawingNonIndexedTest,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.tests.gles31.GL31ProgramIntrospectionTest,Test,Unit Testing
+awt,awt,java.awt.Container,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.tests.gles32.GL32AdvancedBlendingTest,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.tests.gles32.GL32DebugControlTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.gles32.GL32MultipleRenderTargetsBlendingTest,Computer Graphics,Visual Effects
+awt,awt,java.awt.HeadlessException,User Interface,Accessibility
+awt,awt,java.awt.Image,Computer Graphics,Image Rendering
+awt,awt,java.awt.Point,User Interface,Layout Design
+awt,awt,java.awt.Robot,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.tests.gles32.GL32OffsetElementsTest,Computer Graphics,Graphics Optimization
+awt,event,java.awt.event.KeyListener,Event Handling,User Interactions
+awt,event,java.awt.event.MouseEvent,Event Handling,User Interactions
+awt,event,java.awt.event.MouseListener,Event Handling,User Interactions
+awt,event,java.awt.event.MouseMotionListener,Event Handling,User Interactions
+awt,event,java.awt.event.MouseWheelEvent,Event Handling,User Interactions
+awt,event,java.awt.event.MouseWheelListener,Event Handling,User Interactions
+badlogic,gdx,com.badlogic.gdx.tests.math.CollisionPlaygroundTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.math.OctreeTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.math.collision.OrientedBoundingBoxTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.net.NetAPITest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.superkoalio.SuperKoalio,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.g3d.shadows.system.FirstPassBaseShadowSystem,Computer Graphics,Visual Effects
+javax,swing,javax.swing.JTextArea,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.TextureAtlas.TextureAtlasData,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.TextureAtlas.TextureAtlasData.Page,Computer Graphics,Texture Mapping
+awt,image,java.awt.image.BufferedImageOp,Computer Graphics,Image Rendering
+android,android,android.Manifest,Application,App Configuration
+android,app,android.app.ListActivity,User Interface,Layout Design
+android,content,android.content.pm.PackageManager,Application,Plugin Management
+badlogic,gdx,com.badlogic.gdx.math.Affine2,Computer Graphics,Modeling
+android,widget,android.widget.ArrayAdapter,User Interface,Layout Design
+util,util,java.util.StringTokenizer,Utility,Data Conversion
+util,regex,java.util.regex.Matcher,Search,Query Processing
+android,widget,android.widget.ListView,User Interface,Layout Design
+androidx,core,androidx.core.content.ContextCompat,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.tests.BackTest,Test,Unit Testing
+awt,awt,java.awt.Stroke,Computer Graphics,Image Rendering
+awt,geom,java.awt.geom.AffineTransform,Computer Graphics,Image Rendering
+awt,datatransfer,java.awt.datatransfer.ClipboardOwner,User Interface,Interaction Design
+awt,datatransfer,java.awt.datatransfer.DataFlavor,User Interface,Interaction Design
+awt,datatransfer,java.awt.datatransfer.StringSelection,User Interface,Interaction Design
+awt,datatransfer,java.awt.datatransfer.Transferable,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.BitmapFont.Glyph,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.utils.Os,Operating System,Process Management
+badlogic,gdx,com.badlogic.gdx.utils.SharedLibraryLoader,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.utils.Align,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.backends.android.AndroidFiles,Input-Output,File Management
+awt,awt,java.awt.GraphicsConfiguration,Computer Graphics,Image Rendering
+awt,geom,java.awt.geom.FlatteningPathIterator,Computer Graphics,Image Rendering
+awt,event,java.awt.event.WindowAdapter,Event Handling,User Interactions
+awt,geom,java.awt.geom.GeneralPath,Computer Graphics,Image Rendering
+awt,geom,java.awt.geom.PathIterator,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.Colors,Computer Graphics,Texture Mapping
+lwjgl,lwjgl,org.lwjgl.BufferUtils,Utility,Performance Tools
+lwjgl,opengl,org.lwjgl.opengl.EXTFramebufferObject,Computer Graphics,Image Rendering
+lwjgl,opengl,org.lwjgl.opengl.GL11,Computer Graphics,Image Rendering
+lwjgl,opengl,org.lwjgl.opengl.GL13,Computer Graphics,Texture Mapping
+lwjgl,opengl,org.lwjgl.opengl.GL14,Computer Graphics,Image Rendering
+lwjgl,opengl,org.lwjgl.opengl.GL15,Computer Graphics,Texture Mapping
+lwjgl,opengl,org.lwjgl.opengl.GL20,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.backends.android.AndroidApplicationConfiguration,Application,App Configuration
+badlogic,gdx,com.badlogic.gdx.backends.android.AndroidDaydream,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.tests.MeshShaderTest,Computer Graphics,Visual Effects
+lwjgl,opengl,org.lwjgl.opengl.GL12,Computer Graphics,Texture Mapping
+awt,awt,java.awt.Composite,Computer Graphics,Image Rendering
+androidx,fragment,androidx.fragment.app.FragmentActivity,User Interface,Interaction Design
+lwjgl,opengl,org.lwjgl.opengl.GL21,Computer Graphics,Texture Mapping
+lwjgl,opengl,org.lwjgl.opengl.GL30,Computer Graphics,Image Rendering
+lwjgl,opengl,org.lwjgl.opengl.GL31,Computer Graphics,Texture Mapping
+lwjgl,opengl,org.lwjgl.opengl.GL32,Computer Graphics,Image Rendering
+lwjgl,opengl,org.lwjgl.opengl.GL33,Computer Graphics,Image Rendering
+lwjgl,opengl,org.lwjgl.opengl.GL40,Computer Graphics,Image Rendering
+lwjgl,opengl,org.lwjgl.opengl.GL41,Computer Graphics,Image Rendering
+lwjgl,opengl,org.lwjgl.opengl.GL43,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.ParticleEffectPool.PooledEffect,Computer Graphics,Visual Effects
+androidx,fragment,androidx.fragment.app.ListFragment,User Interface,Layout Design
+android,view,android.view.LayoutInflater,User Interface,Layout Design
+android,view,android.view.ViewGroup,User Interface,Layout Design
+android,view,android.view.ViewGroup.LayoutParams,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Tree.Node,User Interface,Interaction Design
+android,widget,android.widget.LinearLayout,User Interface,Layout Design
+awt,image,java.awt.image.ConvolveOp,Computer Graphics,Image Rendering
+awt,image,java.awt.image.Kernel,Multimedia,Media Editing
+lwjgl,opengl,org.lwjgl.opengl.ContextAttribs,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.backends.android.AndroidFragmentApplication,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.Selection,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.backends.android.AndroidApplication,Application,App Configuration
+util,util,java.util.EnumSet,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.PixmapPacker.SkylineStrategy.SkylinePage.Row,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.g3d.shadows.system.BaseShadowSystem.LightProperties,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.backends.android.AndroidLiveWallpaperService,Application,User Customization
+badlogic,gdx,com.badlogic.gdx.backends.android.AndroidWallpaperListener,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.utils.OrderedMap,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.graphics.PixmapIO,Computer Graphics,Texture Mapping
+android,opengl,android.opengl.Matrix,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.PixmapPacker.Page,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.PixmapPacker.indexPattern,Computer Graphics,Texture Mapping
+lwjgl,lwjgl,org.lwjgl.Sys,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.tests.g3d.shadows.utils.AABBNearFarAnalyzer,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.PolygonRegionLoader.PolygonRegionParameters,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.math.EarClippingTriangulator,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.tests.g3d.shadows.utils.BoundingSphereDirectionalAnalyzer,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.tests.g3d.shadows.utils.DirectionalAnalyzer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.tests.g3d.shadows.utils.FixedShadowMapAllocator,Computer Graphics,Graphics Optimization
+lwjgl,glfw,org.lwjgl.glfw.GLFW,User Interface,Interaction Design
+lwjgl,glfw,org.lwjgl.glfw.GLFWCharCallback,User Interface,Interaction Design
+lwjgl,glfw,org.lwjgl.glfw.GLFWCursorPosCallback,User Interface,Interaction Design
+lwjgl,glfw,org.lwjgl.glfw.GLFWKeyCallback,User Interface,Interaction Design
+lwjgl,glfw,org.lwjgl.glfw.GLFWMouseButtonCallback,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.Mesh.VertexDataType,Computer Graphics,Modeling
+lwjgl,glfw,org.lwjgl.glfw.GLFWScrollCallback,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.VertexAttribute,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.tests.g3d.shadows.utils.FrustumLightFilter,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.HdpiMode,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.g3d.shadows.utils.LightFilter,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.tests.g3d.shadows.utils.NearFarAnalyzer,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.tests.g3d.shadows.utils.ShadowMapAllocator,Computer Graphics,Visual Effects
+android,widget,android.widget.ScrollView,User Interface,Layout Design
+io,io,java.io.PrintStream,Input-Output,Data Writing
+android,widget,android.widget.TextView,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.tests.g3d.shadows.utils.ShadowMapAllocator.ShadowMapRegion,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration.GLEmulation,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl3.audio.Lwjgl3Audio,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl3.audio.OpenALLwjgl3Audio,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.utils.ObjectMap.Entries,Data Structure,Data Manipulation
+lwjgl,glfw,org.lwjgl.glfw.GLFWErrorCallback,Error Handling,Error Logging
+lwjgl,opengl,org.lwjgl.opengl.AMDDebugOutput,Computer Graphics,Graphics Optimization
+lwjgl,opengl,org.lwjgl.opengl.ARBDebugOutput,Computer Graphics,Graphics Optimization
+lwjgl,opengl,org.lwjgl.opengl.GL,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.input.GestureDetector.GestureAdapter,User Interface,Interaction Design
+android,view,android.view.View.OnClickListener,User Interface,Interaction Design
+lwjgl,opengl,org.lwjgl.opengl.GLCapabilities,Computer Graphics,Graphics Optimization
+lwjgl,opengl,org.lwjgl.opengl.GLUtil,Computer Graphics,Graphics Optimization
+lwjgl,opengl,org.lwjgl.opengl.KHRDebug,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Sprite.SPRITE_SIZE,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Sprite.VERTEX_SIZE,Computer Graphics,Image Rendering
+lwjgl,system,org.lwjgl.system.Callback,Utility,System Tools
+android,widget,android.widget.Button,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.backends.android.AndroidZipFileHandle,Input-Output,File Management
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl3.audio.mock.MockAudio,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl.LwjglApplet,Application,Integration
+badlogic,gdx,com.badlogic.gdx.tests.AnimationTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.UITest,Test,Unit Testing
+lwjgl,lwjgl,org.lwjgl.PointerBuffer,Data Structure,Data Manipulation
+gwt,regexp,com.google.gwt.regexp.shared.RegExp,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.TextureAtlas.TextureAtlasData.Region,Computer Graphics,Texture Mapping
+lwjgl,glfw,org.lwjgl.glfw.GLFWVidMode,Computer Graphics,Image Rendering
+lwjgl,glfw,org.lwjgl.glfw.GLFWVidMode.Buffer,Computer Graphics,Image Rendering
+gwt,regexp,com.google.gwt.regexp.shared.MatchResult,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.Graphics.Monitor,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl3.Lwjgl3Graphics.Lwjgl3Monitor,Computer Graphics,Graphics Optimization
+javax,swing,javax.swing.DefaultListSelectionModel,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.attributes.DirectionalLightsAttribute,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.attributes.PointLightsAttribute,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.attributes.SpotLightsAttribute,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.environment.BaseLight,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.environment.DirectionalLight,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.environment.PointLight,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.environment.ShadowMap,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.environment.SpotLight,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.assets.loaders.ModelLoader,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.VertexAttributes,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.attributes.BlendingAttribute,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.attributes.ColorAttribute,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.attributes.FloatAttribute,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.attributes.TextureAttribute,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.Animation,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.MeshPart,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.Node,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.NodeAnimation,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.NodeKeyframe,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.NodePart,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.data.ModelAnimation,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.data.ModelMesh,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.data.ModelMeshPart,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.data.ModelNode,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.data.ModelNodeAnimation,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.data.ModelNodeKeyframe,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.model.data.ModelNodePart,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.TextureDescriptor,Computer Graphics,Texture Mapping
+lwjgl,glfw,org.lwjgl.glfw.GLFWImage,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.TextureProvider.FileTextureProvider,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl.LwjglFiles,Input-Output,File Management
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl.LwjglPreferences,Application,User Customization
+badlogic,gdx,com.badlogic.gdx.tests.utils.CommandLineOptions,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.utils.ArrayMap,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.tests.utils.GdxTestWrapper,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.shaders.DefaultShader,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.DefaultRenderableSorter,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.DefaultShaderProvider,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.DefaultTextureBinder,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.RenderContext,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.RenderableSorter,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.ShaderProvider,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.utils.FlushablePool,Utility,Performance Tools
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl.LwjglAWTCanvas,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.tests.MusicTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.MeshBuilder,Computer Graphics,Modeling
+gwt,corp,com.google.gwt.corp.compatibility.Numbers,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.utils.Utf8Decoder,Internationalization,Language Support
+avian,avian,avian.Utf8,Internationalization,Language Support
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application,Application,App Configuration
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration,Application,App Configuration
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl3.Lwjgl3WindowAdapter,User Interface,Interaction Design
+nio,nio,java.nio.ReadOnlyBufferException,Error Handling,Exception Handling
+gwt,corp,com.google.gwt.corp.compatibility.Endianness,Utility,Data Conversion
+gwt,corp,com.google.gwt.corp.compatibility.StringToByteBuffer,Utility,Data Conversion
+harmony,luni,org.apache.harmony.luni.platform.Platform,Operating System,Process Management
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.BaseShaderProvider,Computer Graphics,Image Rendering
+harmony,nio,org.apache.harmony.nio.internal.DirectBuffer,Input-Output,Buffering Strategies
+harmony,luni,org.apache.harmony.luni.platform.PlatformAddress,Operating System,Memory Management
+lwjgl,opengl,org.lwjgl.opengl.GL42,Computer Graphics,Image Rendering
+lwjgl,opengl,org.lwjgl.opengl.GL46,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.Texture3DData,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.utils.compression.lz.OutWindow,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.utils.compression.rangecoder.BitTreeDecoder,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.utils.compression.ICodeProgress,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.utils.compression.rangecoder.BitTreeEncoder,Utility,Data Conversion
+util,zip,java.util.zip.GZIPInputStream,Input-Output,Data Reading
+util,zip,java.util.zip.GZIPOutputStream,Input-Output,Data Writing
+lwjgl,opengl,org.lwjgl.opengl.GL45,Computer Graphics,Image Rendering
+lwjgl,opengl,org.lwjgl.opengl.GLDebugMessageCallbackI,Computer Graphics,Graphics Optimization
+lwjgl,opengl,org.lwjgl.opengl.KHRBlendEquationAdvanced,Computer Graphics,Visual Effects
+lwjgl,system,org.lwjgl.system.MemoryUtil,Utility,System Tools
+gwt,typedarrays,com.google.gwt.typedarrays.client.ArrayBufferNative,Data Structure,Data Manipulation
+gwt,typedarrays,com.google.gwt.typedarrays.client.Int8ArrayNative,Data Structure,Data Manipulation
+lwjgl,glfw,org.lwjgl.glfw.GLFWFramebufferSizeCallback,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl3.Lwjgl3Graphics,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.AnimationController.AnimationDesc,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.ETC1.ETC1Data,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl3.Lwjgl3WindowListener,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.Cubemap.CubemapSide,Computer Graphics,Texture Mapping
+lwjgl,system,org.lwjgl.system.Configuration,Utility,System Tools
+net,net,java.net.URI,Network,Protocol Implementation
+gwt,canvas,com.google.gwt.canvas.dom.client.CanvasPixelArray,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.TextureArrayData,Computer Graphics,Texture Mapping
+gwt,canvas,com.google.gwt.canvas.dom.client.Context2d,Computer Graphics,Image Rendering
+gwt,canvas,com.google.gwt.canvas.dom.client.Context2d.Composite,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl3.Lwjgl3WindowConfiguration,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.physics.box2d.Transform,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.FrictionJointDef,Computer Graphics,Modeling
+lwjgl,glfw,org.lwjgl.glfw.GLFWDropCallback,User Interface,Interaction Design
+lwjgl,glfw,org.lwjgl.glfw.GLFWWindowCloseCallback,User Interface,Interaction Design
+lwjgl,glfw,org.lwjgl.glfw.GLFWWindowFocusCallback,User Interface,Interaction Design
+lwjgl,glfw,org.lwjgl.glfw.GLFWWindowIconifyCallback,User Interface,Interaction Design
+lwjgl,glfw,org.lwjgl.glfw.GLFWWindowMaximizeCallback,User Interface,Interaction Design
+lwjgl,glfw,org.lwjgl.glfw.GLFWWindowRefreshCallback,User Interface,User Feedback
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.PrismaticJointDef,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.RevoluteJointDef,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.BulletBase,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl3.Lwjgl3Graphics.Lwjgl3DisplayMode,Computer Graphics,Image Rendering
+lwjgl,glfw,org.lwjgl.glfw.GLFW.glfwGetTime,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.custom.UIAcceleration,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.GLTexture,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.custom.UIAccelerometer,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.custom.UIAccelerometerDelegate,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.custom.UIAccelerometerDelegateAdapter,Input-Output,Data Reading
+robovm,apple,org.robovm.apple.coregraphics.CGPoint,Computer Graphics,Image Rendering
+robovm,apple,org.robovm.apple.coregraphics.CGRect,Computer Graphics,Image Rendering
+robovm,apple,org.robovm.apple.coregraphics.CGSize,Computer Graphics,Image Rendering
+robovm,apple,org.robovm.apple.gamecontroller.GCKeyboard,Input-Output,Data Reading
+robovm,objc,org.robovm.objc.Selector,Application,Integration
+robovm,objc,org.robovm.objc.annotation.Method,Application,Integration
+robovm,objc,org.robovm.objc.block.VoidBlock1,Application,Integration
+robovm,rt,org.robovm.rt.VM,Interpreter,Code Translation
+robovm,rt,org.robovm.rt.bro.NativeObject,Utility,System Tools
+robovm,rt,org.robovm.rt.bro.annotation.MachineSizedUInt,Utility,Data Conversion
+robovm,rt,org.robovm.rt.bro.annotation.Pointer,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.objectal.OALIOSAudio,Multimedia,Media Playback
+robovm,apple,org.robovm.apple.foundation.NSMutableDictionary,Data Structure,Data Manipulation
+robovm,apple,org.robovm.apple.foundation.NSObject,Application,Integration
+robovm,apple,org.robovm.apple.foundation.NSProcessInfo,Operating System,Process Management
+robovm,apple,org.robovm.apple.foundation.NSString,Application,App Configuration
+robovm,apple,org.robovm.apple.uikit.UIApplicationDelegateAdapter,User Interface,Interaction Design
+robovm,apple,org.robovm.apple.uikit.UIApplicationLaunchOptions,User Interface,Interaction Design
+robovm,apple,org.robovm.apple.uikit.UIDevice,User Interface,Interaction Design
+robovm,apple,org.robovm.apple.uikit.UIUserInterfaceIdiom,User Interface,Layout Design
+robovm,apple,org.robovm.apple.uikit.UIPasteboard,User Interface,Interaction Design
+robovm,apple,org.robovm.apple.uikit.UIScreen,User Interface,Layout Design
+robovm,apple,org.robovm.apple.uikit.UIViewController,User Interface,Interaction Design
+robovm,apple,org.robovm.apple.uikit.UIWindow,User Interface,Layout Design
+robovm,rt,org.robovm.rt.bro.Bro,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.tests.NoncontinuousRenderingTest,Test,Integration Testing
+androidx,core,androidx.core.graphics.Insets,User Interface,Layout Design
+androidx,core,androidx.core.view.OnApplyWindowInsetsListener,User Interface,Layout Design
+androidx,core,androidx.core.view.ViewCompat,User Interface,Interaction Design
+androidx,core,androidx.core.view.WindowInsetsCompat,User Interface,Layout Design
+jetbrains,annotations,org.jetbrains.annotations.NotNull,Utility,Diagnostic Utilities
+robovm,apple,org.robovm.apple.glkit.GLKViewDrawableColorFormat,Computer Graphics,Image Rendering
+robovm,apple,org.robovm.apple.glkit.GLKViewDrawableDepthFormat,Computer Graphics,Image Rendering
+robovm,apple,org.robovm.apple.glkit.GLKViewDrawableMultisample,Computer Graphics,Image Rendering
+robovm,apple,org.robovm.apple.glkit.GLKViewDrawableStencilFormat,Computer Graphics,Image Rendering
+robovm,apple,org.robovm.apple.uikit.UIRectEdge,User Interface,Layout Design
+robovm,apple,org.robovm.apple.foundation.Foundation,Application,App Configuration
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.WeldJointDef,Computer Graphics,Modeling
+android,graphics,android.graphics.Point,Computer Graphics,Image Rendering
+android,graphics,android.graphics.Rect,Computer Graphics,Image Rendering
+android,graphics,android.graphics.drawable.ColorDrawable,User Interface,Layout Design
+robovm,apple,org.robovm.apple.foundation.NSBundle,Application,App Configuration
+android,view,android.view.ViewTreeObserver.OnGlobalLayoutListener,User Interface,Layout Design
+android,widget,android.widget.PopupWindow,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.custom.HWMachine,Application,Integration
+android,graphics,android.graphics.PixelFormat,Computer Graphics,Image Rendering
+android,os,android.os.SystemClock,Operating System,Process Management
+android,view,android.view.KeyCharacterMap,Input-Output,Data Reading
+android,view,android.view.KeyEvent,User Interface,Interaction Design
+android,view,android.view.inputmethod.BaseInputConnection,User Interface,Interaction Design
+robovm,apple,org.robovm.apple.glkit.GLKView,Computer Graphics,Image Rendering
+robovm,apple,org.robovm.apple.glkit.GLKViewController,User Interface,Interaction Design
+robovm,apple,org.robovm.apple.glkit.GLKViewControllerDelegate,User Interface,Interaction Design
+robovm,apple,org.robovm.apple.glkit.GLKViewDelegate,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.backends.android.DefaultAndroidInput,Input-Output,Data Reading
+robovm,apple,org.robovm.apple.opengles.EAGLContext,Computer Graphics,Image Rendering
+robovm,apple,org.robovm.apple.opengles.EAGLRenderingAPI,Computer Graphics,Image Rendering
+robovm,apple,org.robovm.apple.uikit.UIEdgeInsets,User Interface,Layout Design
+robovm,apple,org.robovm.apple.uikit.UIEvent,User Interface,Interaction Design
+javax,sound,javax.sound.sampled.AudioFormat,Multimedia,Encoding and Decoding
+badlogic,gdx,com.badlogic.gdx.math.Vector4,Computer Graphics,Modeling
+javax,sound,javax.sound.sampled.AudioFormat.Encoding,Multimedia,Encoding and Decoding
+javax,sound,javax.sound.sampled.AudioSystem,Multimedia,Media Playback
+robovm,apple,org.robovm.apple.audiotoolbox.AudioServices,Multimedia,Media Playback
+robovm,apple,org.robovm.apple.corehaptic.CHHapticEngine,Multimedia,Media Playback
+robovm,apple,org.robovm.apple.corehaptic.CHHapticEventParameterID,Event Handling,User Interactions
+robovm,apple,org.robovm.apple.corehaptic.CHHapticEventType,Event Handling,System Events
+robovm,apple,org.robovm.apple.corehaptic.CHHapticPattern,Multimedia,Media Playback
+robovm,apple,org.robovm.apple.corehaptic.CHHapticPatternDict,Multimedia,Media Playback
+robovm,apple,org.robovm.apple.foundation.NSArray,Data Structure,Linear Structures
+robovm,apple,org.robovm.apple.foundation.NSError,Error Handling,User Notification
+robovm,apple,org.robovm.apple.foundation.NSErrorException,Error Handling,Exception Handling
+javax,sound,javax.sound.sampled.TargetDataLine,Multimedia,Media Playback
+robovm,apple,org.robovm.apple.uikit.UIImpactFeedbackGenerator,User Interface,User Feedback
+robovm,apple,org.robovm.apple.uikit.UIImpactFeedbackStyle,User Interface,User Feedback
+robovm,apple,org.robovm.apple.uikit.UIKey,User Interface,Interaction Design
+javazoom,jl,javazoom.jl.decoder.Bitstream,Multimedia,Encoding and Decoding
+javazoom,jl,javazoom.jl.decoder.BitstreamException,Error Handling,Exception Handling
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.objectal.AVAudioPlayerDelegateAdapter,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.objectal.OALAudioTrack,Multimedia,Media Playback
+robovm,apple,org.robovm.apple.foundation.NSURL,Network,Data Transmission
+javazoom,jl,javazoom.jl.decoder.Header,Multimedia,Encoding and Decoding
+javazoom,jl,javazoom.jl.decoder.MP3Decoder,Multimedia,Encoding and Decoding
+javazoom,jl,javazoom.jl.decoder.OutputBuffer,Multimedia,Encoding and Decoding
+robovm,apple,org.robovm.apple.uikit.UIApplicationOpenURLOptions,User Interface,Interaction Design
+robovm,apple,org.robovm.apple.foundation.NSNumber,Utility,Data Conversion
+jcraft,jogg,com.jcraft.jogg.Packet,Multimedia,Encoding and Decoding
+jcraft,jogg,com.jcraft.jogg.Page,Multimedia,Streaming
+jcraft,jogg,com.jcraft.jogg.StreamState,Multimedia,Streaming
+jcraft,jogg,com.jcraft.jogg.SyncState,Multimedia,Encoding and Decoding
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.objectal.ALBuffer,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.objectal.ALChannelSource,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.objectal.ALSource,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.objectal.OALSimpleAudio,Multimedia,Media Playback
+jcraft,jorbis,com.jcraft.jorbis.Block,Multimedia,Encoding and Decoding
+jcraft,jorbis,com.jcraft.jorbis.Comment,Multimedia,Encoding and Decoding
+jcraft,jorbis,com.jcraft.jorbis.DspState,Multimedia,Encoding and Decoding
+jcraft,jorbis,com.jcraft.jorbis.Info,Multimedia,Encoding and Decoding
+badlogic,gdx,com.badlogic.gdx.graphics.GL32.DebugProc,Computer Graphics,Graphics Optimization
+badlogic,gwtref,com.badlogic.gwtref.client.ReflectionCache,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.graphics.profiling.GLInterceptor.resolveErrorNumber,Computer Graphics,Graphics Optimization
+lwjgl,openal,org.lwjgl.openal.AL11,Multimedia,Media Playback
+badlogic,gwtref,com.badlogic.gwtref.client.Type,Utility,System Tools
+badlogic,gwtref,com.badlogic.gwtref.client.Parameter,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.physics.box2d.ContactFilter,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.maps.MapObject,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.math.Circle,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.math.Ellipse,Computer Graphics,Modeling
+lwjgl,openal,org.lwjgl.openal.AL,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.math.Polygon,Computer Graphics,Modeling
+lwjgl,openal,org.lwjgl.openal.AL10,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.math.Polyline,Computer Graphics,Modeling
+gwt,typedarrays,com.google.gwt.typedarrays.client.Float32ArrayNative,Data Structure,Data Manipulation
+gwt,typedarrays,com.google.gwt.typedarrays.client.Float64ArrayNative,Data Structure,Data Manipulation
+gwt,typedarrays,com.google.gwt.typedarrays.client.Int32ArrayNative,Data Structure,Data Manipulation
+gwt,typedarrays,com.google.gwt.typedarrays.shared.Float64Array,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.PrismaticJoint,Computer Graphics,Animation
+jbox2d,dynamics,org.jbox2d.dynamics.Filter,Application,Integration
+jbox2d,dynamics,org.jbox2d.dynamics.Fixture,Computer Graphics,Modeling
+jbox2d,common,org.jbox2d.common.Settings,Utility,System Tools
+jbox2d,collision,org.jbox2d.collision.Manifold,Computer Graphics,Modeling
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.Contact,Computer Graphics,Modeling
+jbox2d,common,org.jbox2d.common.Color3f,Computer Graphics,Image Rendering
+jbox2d,common,org.jbox2d.common.IViewportTransform,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.maps.MapProperties,Geographic Information System,Mapping
+jbox2d,common,org.jbox2d.common.Transform,Computer Graphics,Modeling
+jbox2d,common,org.jbox2d.common.Vec2,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.utils.JsonValue,Data Structure,Data Manipulation
+jbox2d,particle,org.jbox2d.particle.ParticleColor,Computer Graphics,Animation
+jbox2d,dynamics,org.jbox2d.dynamics.joints.Joint,Computer Graphics,Modeling
+jbox2d,dynamics,org.jbox2d.dynamics.World,Computer Graphics,Animation
+jbox2d,particle,org.jbox2d.particle.ParticleGroup,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.Screen,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.utils.XmlReader.Element,Parser,Data Conversion
+jbox2d,collision,org.jbox2d.collision.broadphase.DynamicTree,Data Structure,Tree Structures
+jbox2d,collision,org.jbox2d.collision.RayCastInput,Computer Graphics,Modeling
+jbox2d,common,org.jbox2d.common.MathUtils,Utility,Data Conversion
+jbox2d,pooling,org.jbox2d.pooling.IWorldPool,Data Structure,Data Manipulation
+jbox2d,pooling,org.jbox2d.pooling.normal.DefaultWorldPool,Data Structure,Data Manipulation
+jbox2d,collision,org.jbox2d.collision.Distance.SimplexCache,Data Structure,Graph Structures
+jbox2d,collision,org.jbox2d.collision.Manifold.ManifoldType,Computer Graphics,Modeling
+jbox2d,collision,org.jbox2d.collision.shapes.CircleShape,Computer Graphics,Modeling
+jbox2d,collision,org.jbox2d.collision.shapes.EdgeShape,Computer Graphics,Modeling
+jbox2d,collision,org.jbox2d.collision.shapes.PolygonShape,Computer Graphics,Modeling
+jbox2d,collision,org.jbox2d.collision.shapes.Shape,Computer Graphics,Modeling
+jbox2d,common,org.jbox2d.common.Rot,Computer Graphics,Modeling
+lwjgl,stb,org.lwjgl.stb.STBVorbis,Multimedia,Encoding and Decoding
+lwjgl,system,org.lwjgl.system.MemoryStack,Utility,System Tools
+jbox2d,collision,org.jbox2d.collision.shapes.ChainShape,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.maps.MapGroupLayer,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.MapLayers,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.MapObjects,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.objects.EllipseMapObject,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.objects.PointMapObject,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.objects.PolygonMapObject,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.objects.PolylineMapObject,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.objects.RectangleMapObject,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.objects.TextMapObject,Geographic Information System,Geographic Visualization
+badlogic,gdx,com.badlogic.gdx.maps.tiled.TiledMapTileLayer.Cell,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.maps.tiled.objects.TiledMapTileMapObject,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.bindings.metalangle.MGLDrawableColorFormat,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.bindings.metalangle.MGLDrawableDepthFormat,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.bindings.metalangle.MGLDrawableMultisample,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.bindings.metalangle.MGLDrawableStencilFormat,Computer Graphics,Image Rendering
+jbox2d,collision,org.jbox2d.collision.Distance.DistanceProxy,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.utils.SerializationException,Error Handling,Exception Handling
+io,io,java.io.ByteArrayInputStream,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.environment.DirectionalShadowLight,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.DepthShaderProvider,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.physics.bullet.Bullet,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btRigidBody,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.linearmath.btIDebugDraw.DebugDrawModes,Computer Graphics,Visual Effects
+jbox2d,common,org.jbox2d.common.Sweep,Computer Graphics,Animation
+lwjgl,openal,org.lwjgl.openal.EXTDisconnect.ALC_CONNECTED,Multimedia,Media Playback
+lwjgl,openal,org.lwjgl.openal.EnumerateAllExt.ALC_ALL_DEVICES_SPECIFIER,Multimedia,Media Playback
+util,function,java.util.function.BiFunction,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.bindings.metalangle.MGLKView,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.bindings.metalangle.MGLKViewController,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.bindings.metalangle.MGLKViewControllerDelegate,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.bindings.metalangle.MGLKViewDelegate,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.utils.XmlReader,Parser,Data Conversion
+jbox2d,collision,org.jbox2d.collision.broadphase.BroadPhase,Computer Graphics,Graphics Optimization
+jbox2d,collision,org.jbox2d.collision.shapes.MassData,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.bindings.metalangle.MGLContext,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.bindings.metalangle.MGLRenderingAPI,Computer Graphics,Image Rendering
+lwjgl,openal,org.lwjgl.openal.ALC,Multimedia,Media Playback
+lwjgl,openal,org.lwjgl.openal.ALCCapabilities,Multimedia,Media Playback
+lwjgl,openal,org.lwjgl.openal.ALUtil,Multimedia,Media Playback
+lwjgl,openal,org.lwjgl.openal.SOFTDirectChannels,Multimedia,Media Playback
+lwjgl,openal,org.lwjgl.openal.SOFTReopenDevice,Multimedia,Media Playback
+lwjgl,openal,org.lwjgl.openal.SOFTXHoldOnDisconnect,Multimedia,Media Playback
+lwjgl,openal,org.lwjgl.openal.SOFTDirectChannelsRemix,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btBoxShape,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btBroadphaseInterface,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btCollisionConfiguration,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.maps.ImageResolver.AssetManagerImageResolver,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.maps.ImageResolver.DirectImageResolver,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btCollisionDispatcher,Computer Graphics,Collision Detection
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btDbvtBroadphase,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btDefaultCollisionConfiguration,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btSphereShape,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btConstraintSolver,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btDiscreteDynamicsWorld,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btDynamicsWorld,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btRigidBody.btRigidBodyConstructionInfo,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btSequentialImpulseConstraintSolver,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.linearmath.btDefaultMotionState,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.maps.Map,Geographic Information System,Mapping
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.ContactEdge,Computer Graphics,Modeling
+jbox2d,dynamics,org.jbox2d.dynamics.joints.JointEdge,Computer Graphics,Modeling
+jbox2d,callbacks,org.jbox2d.callbacks.ContactFilter,Computer Graphics,Modeling
+jbox2d,callbacks,org.jbox2d.callbacks.ContactListener,Event Handling,Event Driven Processing
+jbox2d,callbacks,org.jbox2d.callbacks.PairCallback,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.maps.MapRenderer,Geographic Information System,Geographic Visualization
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btCapsuleShape,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btConeShape,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btCylinderShape,Computer Graphics,Modeling
+jbox2d,collision,org.jbox2d.collision.AABB,Computer Graphics,Modeling
+jbox2d,collision,org.jbox2d.collision.RayCastOutput,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btCollisionObject,Computer Graphics,Modeling
+jbox2d,collision,org.jbox2d.collision.shapes.ShapeType,Computer Graphics,Modeling
+robovm,rt,org.robovm.rt.bro.Struct,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.linearmath.btMotionState,Computer Graphics,Animation
+robovm,rt,org.robovm.rt.bro.annotation.Bridge,Utility,System Tools
+robovm,rt,org.robovm.rt.bro.annotation.Library,Utility,System Tools
+robovm,rt,org.robovm.rt.bro.annotation.MachineSizedSInt,Utility,Data Conversion
+robovm,rt,org.robovm.rt.bro.ptr.BytePtr,Input-Output,Data Reading
+robovm,rt,org.robovm.rt.bro.ptr.MachineSizedUIntPtr,Utility,System Tools
+robovm,rt,org.robovm.rt.bro.ptr.VoidPtr,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.physics.bullet.DebugDrawer,Computer Graphics,Visual Effects
+jbox2d,callbacks,org.jbox2d.callbacks.ContactImpulse,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btCollisionWorld,Computer Graphics,Collision Detection
+badlogic,gdx,com.badlogic.gdx.math.Intersector,Computer Graphics,Modeling
+jbox2d,common,org.jbox2d.common.Timer,Utility,Performance Tools
+badlogic,gdx,com.badlogic.gdx.backends.gwt.webaudio.WebAudioAPIManager,Multimedia,Media Playback
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.ContactSolver,Application,Integration
+robovm,objc,org.robovm.objc.ObjCRuntime,Application,Integration
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.ContactSolver.ContactSolverDef,Computer Graphics,Graphics Optimization
+robovm,objc,org.robovm.objc.annotation.NativeClass,Application,Integration
+gwt,user,com.google.gwt.user.client.Timer,User Interface,Animation
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.ContactVelocityConstraint,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.actions.DelayAction,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.actions.TemporalAction,User Interface,Animation
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.Position,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.backends.gwt.widgets.TextInputDialogBox,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.backends.gwt.widgets.TextInputDialogBox.TextInputDialogListener,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.ShapeRenderer,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType,Computer Graphics,Image Rendering
+robovm,objc,org.robovm.objc.annotation.Property,Application,App Configuration
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.Velocity,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.ActorGestureListener,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.ClickListener,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.ScissorStack,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.utils.DelayedRemovalArray,Data Structure,Linear Structures
+gwt,core,com.google.gwt.core.client.JavaScriptObject,User Interface,Interaction Design
+gwt,core,com.google.gwt.core.client.JsArray,Data Structure,Data Manipulation
+gwt,dom,com.google.gwt.dom.client.CanvasElement,Computer Graphics,Image Rendering
+gwt,dom,com.google.gwt.dom.client.Document,User Interface,Interaction Design
+gwt,dom,com.google.gwt.dom.client.NativeEvent,Event Handling,User Interactions
+gwt,dom,com.google.gwt.dom.client.Touch,User Interface,Interaction Design
+gwt,event,com.google.gwt.event.dom.client.KeyCodes,Event Handling,User Interactions
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.Cullable,User Interface,Layout Design
+jbox2d,callbacks,org.jbox2d.callbacks.DebugDraw,Computer Graphics,Image Rendering
+jbox2d,callbacks,org.jbox2d.callbacks.DestructionListener,Application,Integration
+jbox2d,callbacks,org.jbox2d.callbacks.ParticleDestructionListener,Computer Graphics,Animation
+jbox2d,callbacks,org.jbox2d.callbacks.ParticleQueryCallback,Computer Graphics,Modeling
+jbox2d,callbacks,org.jbox2d.callbacks.ParticleRaycastCallback,Computer Graphics,Modeling
+jbox2d,callbacks,org.jbox2d.callbacks.QueryCallback,Computer Graphics,Modeling
+jbox2d,callbacks,org.jbox2d.callbacks.RayCastCallback,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.backends.gwt.preloader.Preloader,Application,Integration
+badlogic,gdx,com.badlogic.gdx.backends.gwt.preloader.Preloader.PreloaderCallback,Application,Integration
+badlogic,gdx,com.badlogic.gdx.backends.gwt.preloader.Preloader.PreloaderState,Application,Integration
+jbox2d,callbacks,org.jbox2d.callbacks.TreeCallback,Data Structure,Tree Structures
+jbox2d,callbacks,org.jbox2d.callbacks.TreeRayCastCallback,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.InputMultiplexer,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btAxisSweep3,Computer Graphics,Collision Detection
+gwt,animation,com.google.gwt.animation.client.AnimationScheduler,User Interface,Animation
+gwt,animation,com.google.gwt.animation.client.AnimationScheduler.AnimationCallback,User Interface,Animation
+gwt,core,com.google.gwt.core.client.EntryPoint,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btBroadphaseProxy,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.SpriteBatch,Computer Graphics,Image Rendering
+robovm,apple,org.robovm.apple.foundation.NSObjectProtocol,Application,Integration
+gwt,dom,com.google.gwt.dom.client.Element,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.InputEvent.Type,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Table,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Table.Debug,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.FocusListener,User Interface,Interaction Design
+gwt,dom,com.google.gwt.dom.client.Style,User Interface,Layout Design
+gwt,dom,com.google.gwt.dom.client.Style.Unit,User Interface,Layout Design
+gwt,event,com.google.gwt.event.logical.shared.ResizeEvent,Event Handling,System Events
+gwt,event,com.google.gwt.event.logical.shared.ResizeHandler,Event Handling,System Events
+gwt,user,com.google.gwt.user.client.Window,User Interface,Interaction Design
+gwt,user,com.google.gwt.user.client.ui.HasHorizontalAlignment,User Interface,Layout Design
+gwt,user,com.google.gwt.user.client.ui.HasVerticalAlignment,User Interface,Layout Design
+gwt,user,com.google.gwt.user.client.ui.Image,User Interface,Layout Design
+gwt,user,com.google.gwt.user.client.ui.InlineHTML,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.utils.viewport.ScalingViewport,User Interface,Layout Design
+gwt,user,com.google.gwt.user.client.ui.Label,User Interface,User Feedback
+util,concurrent,java.util.concurrent.Callable,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.ExecutorService,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.Executors,Multi-Thread,Parallel Processing
+gwt,user,com.google.gwt.user.client.ui.Panel,User Interface,Layout Design
+gwt,user,com.google.gwt.user.client.ui.RootPanel,User Interface,Layout Design
+gwt,user,com.google.gwt.user.client.ui.SimplePanel,User Interface,Layout Design
+gwt,user,com.google.gwt.user.client.ui.TextArea,User Interface,Interaction Design
+gwt,user,com.google.gwt.user.client.ui.VerticalPanel,User Interface,Layout Design
+util,concurrent,java.util.concurrent.ExecutionException,Error Handling,Exception Handling
+gwt,user,com.google.gwt.user.client.ui.Widget,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btConvexShape,Computer Graphics,Modeling
+jbox2d,collision,org.jbox2d.collision.TimeOfImpact.TOIInput,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btGhostPairCallback,Computer Graphics,Collision Detection
+lang,reflect,java.lang.reflect.Modifier,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.backends.gwt.GwtGraphics.OrientationLockType,Computer Graphics,Graphics Optimization
+lang,reflect,java.lang.reflect.GenericArrayType,Language,Type Systems
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btPairCachingGhostObject,Computer Graphics,Animation
+lang,reflect,java.lang.reflect.ParameterizedType,Language,Type Systems
+lang,reflect,java.lang.reflect.Type,Language,Type Systems
+jbox2d,collision,org.jbox2d.collision.TimeOfImpact.TOIOutput,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btKinematicCharacterController,Computer Graphics,Animation
+robovm,objc,org.robovm.objc.annotation.NotImplemented,Error Handling,Exception Handling
+jbox2d,collision,org.jbox2d.collision.TimeOfImpact.TOIOutputState,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.CustomCollisionDispatcher,Computer Graphics,Graphics Optimization
+jbox2d,collision,org.jbox2d.collision.broadphase.BroadPhaseStrategy,Computer Graphics,Graphics Optimization
+jbox2d,collision,org.jbox2d.collision.broadphase.DefaultBroadPhaseBuffer,Data Structure,Linear Structures
+gwt,core,com.google.gwt.core.client.JsArrayString,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.backends.gwt.GwtUtils.toStringArray,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.HdpiUtils,Computer Graphics,Graphics Optimization
+nio,charset,java.nio.charset.StandardCharsets,Internationalization,Language Support
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btCollisionObjectWrapper,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.ContactResultCallback,Computer Graphics,Collision Detection
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btManifoldPoint,Computer Graphics,Collision Detection
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btPersistentManifold,Computer Graphics,Collision Detection
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.IOSAudio,Multimedia,Media Playback
+gwt,storage,com.google.gwt.storage.client.Storage,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.IOSMusic,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.IOSSound,Multimedia,Media Playback
+nio,nio,java.nio.HasArrayBufferView,Input-Output,Buffering Strategies
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.Actor,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.Stage,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Label,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Label.LabelStyle,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.ScrollPane,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.TextButton,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.ChangeListener,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.tests.utils.GdxTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.utils.ScreenUtils,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.utils.viewport.ExtendViewport,User Interface,Layout Design
+robovm,rt,org.robovm.rt.bro.ptr.ShortPtr,Utility,Data Conversion
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.ContactRegister,Application,Integration
+gwt,typedarrays,com.google.gwt.typedarrays.client.Uint8ArrayNative,Data Structure,Data Manipulation
+gwt,typedarrays,com.google.gwt.typedarrays.shared.Float32Array,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.actions.Actions.moveBy,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.actions.Actions.parallel,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.actions.Actions.sequence,User Interface,Animation
+gwt,typedarrays,com.google.gwt.typedarrays.shared.Int16Array,Data Structure,Data Manipulation
+gwt,typedarrays,com.google.gwt.typedarrays.shared.Int32Array,Data Structure,Data Manipulation
+gwt,typedarrays,com.google.gwt.typedarrays.shared.Int8Array,Data Structure,Data Manipulation
+gwt,typedarrays,com.google.gwt.typedarrays.shared.TypedArrays,Data Structure,Data Manipulation
+gwt,typedarrays,com.google.gwt.typedarrays.shared.Uint8Array,Data Structure,Data Manipulation
+gwt,typedarrays,com.google.gwt.typedarrays.shared.ArrayBufferView,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.actions.Actions,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Image,User Interface,Layout Design
+gwt,webgl,com.google.gwt.webgl.client.WebGLActiveInfo,Computer Graphics,Texture Mapping
+gwt,webgl,com.google.gwt.webgl.client.WebGLBuffer,Computer Graphics,Texture Mapping
+gwt,webgl,com.google.gwt.webgl.client.WebGLFramebuffer,Computer Graphics,Texture Mapping
+gwt,webgl,com.google.gwt.webgl.client.WebGLProgram,Computer Graphics,Texture Mapping
+gwt,webgl,com.google.gwt.webgl.client.WebGLRenderbuffer,Computer Graphics,Texture Mapping
+gwt,webgl,com.google.gwt.webgl.client.WebGLRenderingContext,Computer Graphics,Texture Mapping
+gwt,webgl,com.google.gwt.webgl.client.WebGLShader,Computer Graphics,Texture Mapping
+gwt,webgl,com.google.gwt.webgl.client.WebGLTexture,Computer Graphics,Texture Mapping
+gwt,webgl,com.google.gwt.webgl.client.WebGLUniformLocation,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.objectal.ALConsts.AL_FORMAT_MONO16,Multimedia,Media Playback
+badlogic,gdx,com.badlogic.gdx.backends.iosrobovm.objectal.ALConsts.AL_FORMAT_STEREO16,Multimedia,Media Playback
+jbox2d,dynamics,org.jbox2d.dynamics.joints.JointDef,Computer Graphics,Modeling
+jbox2d,dynamics,org.jbox2d.dynamics.joints.PulleyJoint,Computer Graphics,Animation
+jbox2d,particle,org.jbox2d.particle.ParticleBodyContact,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btPoint2PointConstraint,Computer Graphics,Animation
+jbox2d,particle,org.jbox2d.particle.ParticleContact,Computer Graphics,Modeling
+gwt,core,com.google.gwt.core.client.JsArrayBoolean,Data Structure,Data Manipulation
+gwt,core,com.google.gwt.core.client.JsArrayInteger,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btTypedConstraint,Computer Graphics,Animation
+jbox2d,particle,org.jbox2d.particle.ParticleDef,Computer Graphics,Modeling
+gwt,typedarrays,com.google.gwt.typedarrays.shared.Uint32Array,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.graphics.FPSLogger,Logging,Performance Tracking
+gwt,webgl,com.google.gwt.webgl.client.WebGL2RenderingContext,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Animation,Computer Graphics,Animation
+jbox2d,particle,org.jbox2d.particle.ParticleGroupDef,Computer Graphics,Modeling
+gwt,webgl,com.google.gwt.webgl.client.WebGLQuery,Computer Graphics,Graphics Optimization
+gwt,webgl,com.google.gwt.webgl.client.WebGLSampler,Computer Graphics,Texture Mapping
+jbox2d,particle,org.jbox2d.particle.ParticleSystem,Computer Graphics,Animation
+gwt,webgl,com.google.gwt.webgl.client.WebGLTransformFeedback,Computer Graphics,Animation
+jbox2d,pooling,org.jbox2d.pooling.IDynamicStack,Data Structure,Linear Structures
+lang,annotation,java.lang.annotation.Inherited,Language,Standard Libraries
+gwt,webgl,com.google.gwt.webgl.client.WebGLVertexArrayObject,Computer Graphics,Modeling
+jbox2d,pooling,org.jbox2d.pooling.arrays.Vec2Array,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.utils.reflect.Annotation,Utility,Diagnostic Utilities
+badlogic,gdx,com.badlogic.gdx.utils.reflect.Method,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.assets.AssetErrorListener,Error Handling,Error Logging
+jbox2d,dynamics,org.jbox2d.dynamics.Body,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.assets.loaders.resolvers.ResolutionFileResolver,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.assets.loaders.resolvers.ResolutionFileResolver.Resolution,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.ContactCache,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.ContactListener,Event Handling,Event Driven Processing
+gwt,canvas,com.google.gwt.canvas.client.Canvas,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Sprite,Computer Graphics,Animation
+jbox2d,common,org.jbox2d.common.BufferUtils,Utility,Data Conversion
+gwt,webgl,com.google.gwt.webgl.client.WebGLContextAttributes,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.SelectBox,User Interface,Interaction Design
+jbox2d,dynamics,org.jbox2d.dynamics.TimeStep,Application,Integration
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.Collision,Computer Graphics,Collision Detection
+jbox2d,particle,org.jbox2d.particle.VoronoiDiagram.VoronoiDiagramCallback,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btConvexHullShape,Computer Graphics,Modeling
+jbox2d,pooling,org.jbox2d.pooling.normal.MutableStack,Data Structure,Linear Structures
+gwt,http,com.google.gwt.http.client.Header,Network,Data Transmission
+gwt,http,com.google.gwt.http.client.Request,Network,Data Transmission
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Slider,User Interface,Interaction Design
+gwt,http,com.google.gwt.http.client.RequestBuilder,Network,Data Transmission
+gwt,http,com.google.gwt.http.client.RequestCallback,Network,Data Transmission
+gwt,http,com.google.gwt.http.client.Response,Network,Data Transmission
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btShapeHull,Computer Graphics,Modeling
+jbox2d,collision,org.jbox2d.collision.Collision,Computer Graphics,Modeling
+jbox2d,collision,org.jbox2d.collision.Distance,Computer Graphics,Modeling
+jbox2d,collision,org.jbox2d.collision.TimeOfImpact,Computer Graphics,Animation
+jbox2d,common,org.jbox2d.common.Mat22,Computer Graphics,Modeling
+jbox2d,common,org.jbox2d.common.Mat33,Computer Graphics,Modeling
+gwt,canvas,com.google.gwt.canvas.dom.client.ImageData,Computer Graphics,Image Rendering
+jbox2d,common,org.jbox2d.common.Vec3,Computer Graphics,Modeling
+gwt,dom,com.google.gwt.dom.client.ImageElement,User Interface,Interaction Design
+gwt,dom,com.google.gwt.dom.client.VideoElement,Multimedia,Media Playback
+gwt,user,com.google.gwt.user.client.Window.Navigator,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btBroadphasePairArray,Data Structure,Graph Structures
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.Material,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.ModelBatch,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.ModelCache,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.ModelInstance,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.Renderable,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.RenderableProvider,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.MeshPartBuilder,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.ModelBuilder,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.shapebuilders.EllipseShapeBuilder,Computer Graphics,Modeling
+gwt,typedarrays,com.google.gwt.typedarrays.shared.ArrayBuffer,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.BitmapFontCache,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btBvhTriangleMeshShape,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btCollisionShape,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btCompoundShape,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.linearmath.LinearMath,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.linearmath.LinearMathConstants,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.assets.loaders.BitmapFontLoader.BitmapFontParameter,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btPersistentManifoldArray,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btGImpactCollisionAlgorithm,Computer Graphics,Collision Detection
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btGImpactMeshShape,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btTriangleIndexVertexArray,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.linearmath.btIDebugDraw,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.backends.gwt.preloader.AssetFilter.AssetType,Computer Graphics,Texture Mapping
+gwt,xhr,com.google.gwt.xhr.client.ReadyStateChangeHandler,Event Handling,Asynchronous Processing
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btHeightfieldTerrainShape,Computer Graphics,Modeling
+gwt,xhr,com.google.gwt.xhr.client.XMLHttpRequest,Network,Data Transmission
+badlogic,gdx,com.badlogic.gdx.tests.g3d.HeightField,Computer Graphics,Modeling
+gwt,xhr,com.google.gwt.xhr.client.XMLHttpRequest.ResponseType,Network,Data Transmission
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.tools.hiero.Hiero,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.physics.bullet.extras.btBulletWorldImporter,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btCollisionObjectArray,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.InternalTickCallback,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.tools.FileProcessor,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleShader.AlignMode,Computer Graphics,Visual Effects
+awt,awt,java.awt.GridBagConstraints,User Interface,Layout Design
+awt,awt,java.awt.Insets,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Window,User Interface,Layout Design
+awt,event,java.awt.event.ActionEvent,Event Handling,User Interactions
+awt,event,java.awt.event.ActionListener,Event Handling,User Interactions
+javax,swing,javax.swing.JCheckBox,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.utils.viewport.ScreenViewport,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.DynamicsModifier,Computer Graphics,Visual Effects
+javax,swing,javax.swing.DefaultComboBoxModel,User Interface,Interaction Design
+javax,swing,javax.swing.JComboBox,User Interface,Interaction Design
+javax,swing,javax.swing.event.ChangeEvent,User Interface,User Feedback
+javax,swing,javax.swing.event.ChangeListener,User Interface,User Feedback
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.batches.BillboardParticleBatch,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.physics.box2d.Body,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.BodyDef,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.box2d.BodyDef.BodyType,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.box2d.Box2DDebugRenderer,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.physics.box2d.CircleShape,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.box2d.Contact,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.EdgeShape,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.box2d.Fixture,Application,Integration
+badlogic,gdx,com.badlogic.gdx.physics.box2d.PolygonShape,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.box2d.World,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.WorldManifold,Computer Graphics,Modeling
+awt,awt,java.awt.BasicStroke,Computer Graphics,Image Rendering
+awt,awt,java.awt.Font,User Interface,Layout Design
+awt,awt,java.awt.FontMetrics,User Interface,Layout Design
+awt,awt,java.awt.Graphics2D,Computer Graphics,Image Rendering
+awt,awt,java.awt.GridBagLayout,User Interface,Layout Design
+awt,event,java.awt.event.MouseAdapter,Event Handling,User Interactions
+badlogic,gdx,com.badlogic.gdx.backends.gwt.GwtFileHandle,Input-Output,File Management
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.ColorInfluencer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.backends.gwt.preloader.AssetDownloader.AssetLoaderListener,Application,Integration
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleController,Computer Graphics,Visual Effects
+awt,awt,java.awt.CardLayout,User Interface,Layout Design
+jbox2d,pooling,org.jbox2d.pooling.arrays.IntArray,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.physics.box2d.ChainShape,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.box2d.ContactImpulse,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.ContactListener,Event Handling,System Events
+badlogic,gdx,com.badlogic.gdx.physics.box2d.FixtureDef,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.box2d.Manifold,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.box2d.QueryCallback,Computer Graphics,Animation
+net,net,java.net.URLConnection,Network,Data Transmission
+nio,file,java.nio.file.FileSystems,Input-Output,File Management
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.MouseJoint,Application,Integration
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.MouseJointDef,Application,Integration
+nio,file,java.nio.file.Files,Input-Output,"Data Reading, Data Writing, File Management"
+nio,file,java.nio.file.Path,Input-Output,File Management
+security,security,java.security.DigestInputStream,Security,Data Integrity
+badlogic,gdx,com.badlogic.gdx.input.GestureDetector,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.input.GestureDetector.GestureListener,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.math.Plane,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.tests.box2d.ApplyForce,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.BodyTypes,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.Box2DTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.Bridge,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.Cantilever,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.Chain,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.CharacterCollision,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.CollisionFiltering,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.ContinuousTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.ConveyorBelt,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.DebugRendererTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.OneSidedPlatform,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.Prismatic,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.Pyramid,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.SimpleTest,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.SphereStack,Test,Integration Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.VaryingRestitution,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.box2d.VerticalStack,Test,Integration Testing
+javax,swing,javax.swing.JButton,User Interface,Interaction Design
+javax,swing,javax.swing.JScrollPane,User Interface,Layout Design
+javax,swing,javax.swing.JTable,User Interface,Interaction Design
+javax,swing,javax.swing.ListSelectionModel,User Interface,Interaction Design
+javax,swing,javax.swing.event.ListSelectionEvent,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.math.Bresenham2,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.math.GridPoint2,Data Structure,Linear Structures
+javax,swing,javax.swing.event.ListSelectionListener,User Interface,Interaction Design
+javax,swing,javax.swing.event.TableModelEvent,User Interface,User Feedback
+javax,swing,javax.swing.event.TableModelListener,User Interface,Interaction Design
+javax,swing,javax.swing.table.DefaultTableModel,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.DynamicsInfluencer,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.DynamicsModifier.BrownianAcceleration,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.DynamicsModifier.CentripetalAcceleration,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.DynamicsModifier.FaceDirection,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.DynamicsModifier.PolarAcceleration,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.DynamicsModifier.Rotational3D,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.DynamicsModifier.TangentialAcceleration,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.tools.flame.FlameMain.ControllerType,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.CameraInputController,Computer Graphics,Image Rendering
+nio,file,java.nio.file.StandardCopyOption.REPLACE_EXISTING,Input-Output,File Management
+javax,swing,javax.swing.BorderFactory,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.TextArea,User Interface,Layout Design
+javax,swing,javax.swing.JComponent,User Interface,Layout Design
+javax,swing,javax.swing.JSpinner,User Interface,Interaction Design
+javax,swing,javax.swing.JToggleButton,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.utils.BinaryHeap,Data Structure,Data Sorting
+badlogic,gdx,com.badlogic.gdx.utils.CharArray,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.utils.IdentityMap,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.utils.IntFloatMap,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.utils.IntIntMap,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.utils.LongArray,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.utils.LongMap,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.utils.ObjectFloatMap,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.backends.gwt.preloader.AssetDownloader,Application,Integration
+jbox2d,collision,org.jbox2d.collision.ContactID,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.utils.OrderedSet,Data Structure,Linear Structures
+gwt,media,com.google.gwt.media.client.Audio,Multimedia,Media Playback
+jbox2d,collision,org.jbox2d.collision.ManifoldPoint,Computer Graphics,Modeling
+jbox2d,collision,org.jbox2d.collision.WorldManifold,Computer Graphics,Modeling
+javax,swing,javax.swing.JSeparator,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.utils.IntMap.Keys,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.actions.Actions.alpha,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.actions.Actions.forever,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.actions.Actions.rotateBy,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.actions.Actions.scaleTo,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleEffect,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.emitters.RegularEmitter,Computer Graphics,Visual Effects
+gwt,user,com.google.gwt.user.client.ui.TextBox,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.ModelInfluencer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.Action,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.ParticleControllerFinalizerInfluencer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.ParticleControllerInfluencer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.RegionInfluencer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.ScaleInfluencer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.SpawnInfluencer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.renderers.BillboardRenderer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.renderers.ModelInstanceRenderer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Container,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.renderers.ParticleControllerControllerRenderer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.renderers.PointSpriteRenderer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.EllipseSpawnShapeValue,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.PointSpawnShapeValue,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.TextureRegionDrawable,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.PrimitiveSpawnShapeValue.SpawnSide,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.tools.flame.FlameMain.ControllerData,Computer Graphics,Animation
+gwt,user,com.google.gwt.user.client.DOM,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.ClosestRayResultCallback,Computer Graphics,Collision Detection
+awt,awt,java.awt.FileDialog,User Interface,Interaction Design
+gwt,event,com.google.gwt.event.shared.HandlerRegistration,Event Handling,User Interactions
+gwt,event,com.google.gwt.event.dom.client.ClickEvent,Event Handling,User Interactions
+gwt,event,com.google.gwt.event.dom.client.ClickHandler,User Interface,Interaction Design
+gwt,user,com.google.gwt.user.client.ui.Button,User Interface,Interaction Design
+gwt,user,com.google.gwt.user.client.ui.DialogBox,User Interface,User Feedback
+gwt,user,com.google.gwt.user.client.ui.HorizontalPanel,User Interface,Layout Design
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.ContactVelocityConstraint.VelocityConstraintPoint,Computer Graphics,Modeling
+javax,swing,javax.swing.JSplitPane,User Interface,Layout Design
+javax,swing,javax.swing.UIManager,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.CpuSpriteBatch,Computer Graphics,Image Rendering
+javax,swing,javax.swing.UIManager.LookAndFeelInfo,User Interface,Layout Design
+javax,swing,javax.swing.border.CompoundBorder,User Interface,Layout Design
+javax,swing,javax.swing.plaf.basic.BasicSplitPaneUI,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.Group,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.TransformDrawable,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btConeTwistConstraint,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btConstraintSetting,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btHingeConstraint,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl.LwjglCanvas,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.physics.box2d.JointDef.JointType,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.box2d.Shape.Type,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.PulleyJoint,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleEffectLoader,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleEffectLoader.ParticleEffectSaveParameter,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleSystem,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.batches.ModelInstanceParticleBatch,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.batches.ParticleBatch,Computer Graphics,Visual Effects
+util,util,java.util.LinkedList,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.batches.PointSpriteParticleBatch,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.emitters.Emitter,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.influencers.Influencer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.decals.CameraGroupStrategy,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.decals.Decal,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.decals.DecalBatch,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.math.WindowedMean,Utility,Performance Tools
+badlogic,gdx,com.badlogic.gdx.physics.bullet.softbody.btSoftBody,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.softbody.btSoftBodyHelpers,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.softbody.btSoftBodyRigidBodyCollisionConfiguration,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.softbody.btSoftBodyWorldInfo,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.math.DelaunayTriangulator,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.physics.bullet.softbody.btSoftRigidDynamicsWorld,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.GradientColorValue,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.NumericValue,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.math.RandomXS128,Utility,Performance Tools
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.DistanceJoint,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.DistanceJointDef,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.FrictionJoint,Computer Graphics,Animation
+jbox2d,dynamics,org.jbox2d.dynamics.SolverData,Application,Integration
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.GearJoint,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.GearJointDef,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.MotorJoint,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.utils.JsonWriter,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.MotorJointDef,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.utils.Queue,Data Structure,Linear Structures
+awt,awt,java.awt.GradientPaint,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.PulleyJointDef,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.RevoluteJoint,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.RopeJoint,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.RopeJointDef,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.WeldJoint,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.WheelJoint,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.box2d.joints.WheelJointDef,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.DragAndDrop,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.DragAndDrop.Payload,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.DragAndDrop.Source,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.DragAndDrop.Target,User Interface,Interaction Design
+awt,event,java.awt.event.MouseMotionAdapter,Event Handling,User Interactions
+javax,swing,javax.swing.JColorChooser,User Interface,Interaction Design
+javax,swing,javax.swing.JSlider,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btTriangleRaycastCallback,Computer Graphics,Collision Detection
+badlogic,gdx,com.badlogic.gdx.physics.bullet.collision.btTriangleRaycastCallback.EFlags,Computer Graphics,Collision Detection
+badlogic,gdx,com.badlogic.gdx.physics.bullet.linearmath.btVector3,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.ETC1,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.utils.OrthoCamController,Test,Unit Testing
+io,io,java.io.BufferedWriter,Input-Output,Data Writing
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btDefaultVehicleRaycaster,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btRaycastVehicle,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btVehicleRaycaster,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btRaycastVehicle.btVehicleTuning,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btWheelInfo,Computer Graphics,Animation
+javax,swing,javax.swing.SpinnerNumberModel,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.PixmapPacker.GuillotineStrategy,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.PixmapPacker.PackStrategy,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.ParticleValue,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.PixmapPacker.PixmapPackerRectangle,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.PixmapPacker.SkylineStrategy,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.freetype.FreeType.Bitmap,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.freetype.FreeType.Face,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.FloatFrameBuffer,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.freetype.FreeType.GlyphMetrics,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.freetype.FreeType.GlyphSlot,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.freetype.FreeType.Library,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.freetype.FreeType.SizeMetrics,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.tests.utils.GdxTestConfig,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.ScaledNumericValue,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.freetype.FreeType.Stroker,Computer Graphics,Image Rendering
+util,util,java.util.EnumMap,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator.FreeTypeFontParameter,Computer Graphics,Image Rendering
+awt,image,java.awt.image.WritableRaster,Multimedia,Media Editing
+javax,swing,javax.swing.JMenu,User Interface,Interaction Design
+javax,swing,javax.swing.JMenuBar,User Interface,Interaction Design
+javax,swing,javax.swing.JMenuItem,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGeneratorLoader,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.freetype.FreetypeFontLoader,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.Graphics.DisplayMode,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.RangedNumericValue,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.freetype.FreetypeFontLoader.FreeTypeFontLoaderParameter,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator.FreeTypeBitmapFontData,Computer Graphics,Texture Mapping
+util,util,java.util.UUID,Utility,Data Conversion
+lwjgl,opengles,org.lwjgl.opengles.GLES20,Computer Graphics,Texture Mapping
+awt,awt,java.awt.Shape,Computer Graphics,Modeling
+awt,font,java.awt.font.GlyphMetrics,User Interface,Layout Design
+javax,swing,javax.swing.SwingConstants,User Interface,Layout Design
+awt,awt,java.awt.AlphaComposite,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.profiling.GLProfiler,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.profiling.GLErrorListener,Error Handling,Error Logging
+awt,font,java.awt.font.FontRenderContext,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.actions.Actions.fadeIn,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.actions.Actions.fadeOut,User Interface,Animation
+jbox2d,particle,org.jbox2d.particle.VoronoiDiagram,Geographic Information System,Spatial Analysis
+jbox2d,pooling,org.jbox2d.pooling.IOrderedStack,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.effects.Effect,Computer Graphics,Visual Effects
+awt,awt,java.awt.FontFormatException,Error Handling,Exception Handling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleSorter,Computer Graphics,Visual Effects
+awt,font,java.awt.font.TextAttribute,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.InputListener,User Interface,Interaction Design
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.ChainAndCircleContact,Computer Graphics,Modeling
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.ChainAndPolygonContact,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.HorizontalGroup,User Interface,Layout Design
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.CircleContact,Computer Graphics,Modeling
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.EdgeAndCircleContact,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.VerticalGroup,User Interface,Layout Design
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.EdgeAndPolygonContact,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.CylinderSpawnShapeValue,Computer Graphics,Visual Effects
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.PolygonAndCircleContact,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.LineSpawnShapeValue,Computer Graphics,Visual Effects
+jbox2d,dynamics,org.jbox2d.dynamics.contacts.PolygonContact,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.PrimitiveSpawnShapeValue,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.RectangleSpawnShapeValue,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.SpawnShapeValue,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.UnweightedMeshSpawnShapeValue,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.values.WeightMeshSpawnShapeValue,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.maps.tiled.TiledMapTile,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.tiled.TiledMapTileLayer,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.tiled.renderers.HexagonalTiledMapRenderer,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.tools.hiero.HieroSettings,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.AnimationController,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleChannels,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleShader,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ResourceData,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ResourceData.SaveData,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.renderers.BillboardControllerRenderData,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.ImmediateModeRenderer,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.ImmediateModeRenderer20,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.renderers.ModelInstanceControllerRenderData,Computer Graphics,Visual Effects
+awt,font,java.awt.font.GlyphVector,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.math.Interpolation,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.Glyph,Internationalization,Language Support
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.GlyphPage,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.UnicodeFont,Internationalization,Language Support
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.List,User Interface,Interaction Design
+awt,awt,java.awt.LayoutManager,User Interface,Layout Design
+awt,event,java.awt.event.KeyAdapter,Event Handling,User Interactions
+awt,event,java.awt.event.KeyEvent,Event Handling,User Interactions
+util,prefs,java.util.prefs.Preferences,Utility,System Tools
+javax,swing,javax.swing.ButtonGroup,User Interface,Interaction Design
+javax,swing,javax.swing.Icon,User Interface,Interaction Design
+javax,swing,javax.swing.ImageIcon,User Interface,User Feedback
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleShader.ParticleType,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.renderers.PointSpriteControllerRenderData,Computer Graphics,Visual Effects
+javax,swing,javax.swing.JFormattedTextField,User Interface,Interaction Design
+javax,swing,javax.swing.JList,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.SpriteCache,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleControllerComponent,Computer Graphics,Visual Effects
+javax,swing,javax.swing.JRadioButton,User Interface,Interaction Design
+javax,swing,javax.swing.JTextPane,User Interface,Interaction Design
+javax,swing,javax.swing.JWindow,User Interface,Interaction Design
+javax,swing,javax.swing.KeyStroke,User Interface,Interaction Design
+javax,swing,javax.swing.ScrollPaneConstants,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.physics.box2d.MassData,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.UnicodeFont.RenderType,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.effects.ColorEffect,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.Environment,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.effects.ConfigurableEffect,Multimedia,Media Editing
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.effects.ConfigurableEffect.Value,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.effects.DistanceFieldEffect,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.effects.EffectUtil,Internationalization,Language Support
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.attributes.CubemapAttribute,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.effects.GradientEffect,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.shaders.DefaultShader.Config,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.effects.OutlineEffect,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.effects.OutlineWobbleEffect,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.effects.OutlineZigzagEffect,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.tools.hiero.unicodefont.effects.ShadowEffect,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParallelArray.ObjectChannel,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.backends.headless.HeadlessApplication,Application,App Configuration
+badlogic,gdx,com.badlogic.gdx.backends.lwjgl.LwjglNativesLoader,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.graphics.Pixmap.Filter,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tools.texturepacker.TexturePacker.Packer,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tools.texturepacker.TexturePacker.Page,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tools.texturepacker.TexturePacker.ProgressListener,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tools.texturepacker.TexturePacker.Rect,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.FrameBufferCubemap,Computer Graphics,Texture Mapping
+awt,awt,java.awt.RenderingHints,Computer Graphics,Graphics Optimization
+security,security,java.security.MessageDigest,Security,Data Integrity
+security,security,java.security.NoSuchAlgorithmException,Security,Encryption
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.CheckBox,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.SelectBox.SelectBoxStyle,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.MeshPartBuilder.VertexInfo,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.tools.texturepacker.TexturePacker.Alias,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.tests.utils.PerspectiveCamController,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.tools.texturepacker.TexturePacker.Resampling,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.utils.Sort,Data Structure,Data Sorting
+io,io,java.io.FileReader,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Button,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.ImageButton,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleChannels.ColorInitializer,Computer Graphics,Visual Effects
+javax,imageio,javax.imageio.IIOImage,Multimedia,Encoding and Decoding
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleChannels.Rotation2dInitializer,Computer Graphics,Visual Effects
+javax,imageio,javax.imageio.ImageWriteParam,Multimedia,Media Editing
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.Drawable,User Interface,Interaction Design
+javax,imageio,javax.imageio.ImageWriter,Multimedia,Encoding and Decoding
+javax,imageio,javax.imageio.stream.ImageOutputStream,Input-Output,Data Writing
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleChannels.ScaleInitializer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParticleChannels.TextureRegionInitializer,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.Input.InputStringValidator,Input-Output,Data Reading
+badlogic,gdx,com.badlogic.gdx.Input.OnscreenKeyboardType,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.input.TextInputWrapper,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.NinePatch,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Slider.SliderStyle,User Interface,Interaction Design
+awt,image,java.awt.image.AffineTransformOp,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.ParticleEmitter,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.Attribute,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.ParticleEffectPool,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.Shader,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.math.CumulativeDistribution,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.math.BSpline,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.math.Bezier,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.math.CatmullRomSpline,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.math.Path,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.FirstPersonCameraController,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.glutils.GLFrameBuffer,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.utils.SortedIntList,Data Structure,Data Manipulation
+badlogic,gdx,com.badlogic.gdx.physics.bullet.dynamics.btContactSolverInfo,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.physics.bullet.inversedynamics.MultiBodyTree,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.PixmapIO.PNG,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.PolygonSpriteBatch,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.utils.BaseJsonReader,Parser,Data Conversion
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.PolygonSprite,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.Attributes,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.Preferences,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.TextButton.TextButtonStyle,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.backends.gwt.preloader.DefaultAssetFilter,Utility,System Tools
+badlogic,gdx,com.badlogic.gdx.backends.gwt.GwtApplication,Application,Integration
+badlogic,gdx,com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration,Application,App Configuration
+badlogic,gdx,com.badlogic.gdx.tests.AbstractTestWrapper,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.AccelerometerTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.ActionSequenceTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.ActionTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.utils.ArraySupplier,Data Structure,Linear Structures
+badlogic,gdx,com.badlogic.gdx.tests.AlphaTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.AnnotationTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.AssetManagerTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.tests.AtlasIssueTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParallelArray.ChannelDescriptor,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParallelArray.ChannelInitializer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ParallelArray.FloatChannel,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.tests.g3d.shaders.MultiPassShader,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.utils.QuadTreeFloat,Data Structure,Tree Structures
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.renderers.ParticleControllerRenderer,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.ResourceData.AssetData,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.actions.FloatAction,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton.ImageTextButtonStyle,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.attributes.DepthTestAttribute,Computer Graphics,Graphics Optimization
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.utils.TiledDrawable,User Interface,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.attributes.IntAttribute,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.shaders.BaseShader,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.particles.renderers.ParticleControllerRenderData,Computer Graphics,Visual Effects
+badlogic,gdx,com.badlogic.gdx.utils.PerformanceCounter,Application Performance Manager,Performance Monitoring
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.environment.AmbientCubemap,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.tests.g3d.BaseG3dTest,Test,Unit Testing
+badlogic,gdx,com.badlogic.gdx.graphics.TextureArray,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.shaders.DepthShader,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.shapebuilders.ArrowShapeBuilder,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.shapebuilders.BoxShapeBuilder,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.shapebuilders.CapsuleShapeBuilder,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.shapebuilders.ConeShapeBuilder,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.shapebuilders.CylinderShapeBuilder,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.shapebuilders.PatchShapeBuilder,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.g3d.utils.shapebuilders.SphereShapeBuilder,Computer Graphics,Modeling
+badlogic,gdx,com.badlogic.gdx.graphics.Texture3D,Computer Graphics,Texture Mapping
+badlogic,gdx,com.badlogic.gdx.utils.StringBuilder,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.C1,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.C2,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.C3,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.C4,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.U1,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.U2,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.U3,Computer Graphics,Animation
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.U4,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.V1,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.V2,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.V3,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.V4,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.X1,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.X2,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.X3,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.X4,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.Y1,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.Y2,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.Y3,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.graphics.g2d.Batch.Y4,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.Touchable,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.TextField,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.Input.TextInputListener,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.maps.tiled.TideMapLoader,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.tiled.TiledMapRenderer,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.maps.tiled.TmxMapLoader,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.tiled.renderers.IsometricTiledMapRenderer,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.maps.tiled.AtlasTmxMapLoader.AtlasTiledMapLoaderParameters,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.tiled.TmjMapLoader,Geographic Information System,Mapping
+badlogic,gdx,com.badlogic.gdx.maps.tiled.renderers.IsometricStaggeredTiledMapRenderer,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.maps.tiled.renderers.OrthoCachedTiledMapRenderer,Computer Graphics,Image Rendering
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Touchpad,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Tree,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.utils.UBJsonWriter,Utility,Data Conversion
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Button.ButtonStyle,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Dialog,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.ImageButton.ImageButtonStyle,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.SplitPane,User Interface,Layout Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.TextField.TextFieldListener,User Interface,Interaction Design
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.TextTooltip,User Interface,User Feedback
+badlogic,gdx,com.badlogic.gdx.scenes.scene2d.ui.Tooltip,User Interface,User Feedback

@@ -1,0 +1,1356 @@
+io,io,java.io.Serial,Input-Output,Data Writing
+jspecify,annotations,org.jspecify.annotations.Nullable,Utility,Diagnostic Utilities
+springframework,dao,org.springframework.dao.DataRetrievalFailureException,Error Handling,Exception Handling
+springframework,dao,org.springframework.dao.DataAccessResourceFailureException,Error Handling,Exception Handling
+springframework,dao,org.springframework.dao.DataAccessException,Error Handling,Exception Handling
+springframework,core,org.springframework.core.convert.converter.Converter,Utility,Data Conversion
+springframework,dao,org.springframework.dao.UncategorizedDataAccessException,Error Handling,Exception Handling
+springframework,context,org.springframework.context.annotation.Bean,Application,App Configuration
+io,io,java.io.Serializable,Input-Output,Data Writing
+springframework,context,org.springframework.context.annotation.Configuration,Application,App Configuration
+nio,nio,java.nio.ByteBuffer,Input-Output,Buffering Strategies
+util,util,java.util.UUID,Utility,Data Conversion
+util,util,java.util.ArrayList,Data Structure,Linear Structures
+util,util,java.util.LinkedHashSet,Data Structure,Linear Structures
+util,util,java.util.List,Data Structure,Linear Structures
+util,util,java.util.Set,Data Structure,Linear Structures
+springframework,beans,org.springframework.beans.factory.DisposableBean,Application,App Configuration
+springframework,context,org.springframework.context.SmartLifecycle,Application,App Configuration
+springframework,data,org.springframework.data.redis.connection.RedisConnectionFactory,Databases,Database Optimization
+util,concurrent,java.util.concurrent.atomic.AtomicLong,Multi-Thread,Thread Safety
+springframework,jdbc,org.springframework.jdbc.datasource.DataSourceTransactionManager,Databases,Transaction Management
+springframework,test,org.springframework.test.annotation.Rollback,Test,Unit Testing
+springframework,test,org.springframework.test.context.junit.jupiter.SpringExtension,Test,Unit Testing
+springframework,test,org.springframework.test.context.transaction.AfterTransaction,Test,Integration Testing
+junit,jupiter,org.junit.jupiter.api.AfterEach,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.BeforeEach,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Test,Test,Unit Testing
+springframework,context,org.springframework.context.support.GenericXmlApplicationContext,Application,App Configuration
+springframework,data,org.springframework.data.redis.core.RedisOperations,Databases,Query Execution
+springframework,transaction,org.springframework.transaction.PlatformTransactionManager,Application,App Configuration
+springframework,data,org.springframework.data.redis.core.HashOperations,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.ListOperations,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.SetOperations,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.ValueOperations,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.ZSetOperations,Databases,Database Optimization
+util,util,java.util.Arrays,Utility,Data Conversion
+util,util,java.util.Collections,Utility,Performance Tools
+util,util,java.util.HashSet,Data Structure,Data Manipulation
+springframework,transaction,org.springframework.transaction.annotation.Transactional,Application,App Configuration
+util,util,java.util.Properties,Utility,System Tools
+springframework,data,org.springframework.data.redis.connection.RedisClusterConfiguration,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.RedisSentinelConfiguration,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.RedisSocketConfiguration,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.RedisStandaloneConfiguration,Databases,Database Optimization
+awaitility,awaitility,org.awaitility.Awaitility,Test,Unit Testing
+util,function,java.util.function.Consumer,Utility,Data Conversion
+springframework,aot,org.springframework.aot.hint.MemberCategory,Application,App Configuration
+springframework,aot,org.springframework.aot.hint.RuntimeHints,Application,App Configuration
+springframework,aot,org.springframework.aot.hint.RuntimeHintsRegistrar,Application,App Configuration
+springframework,aot,org.springframework.aot.hint.TypeReference,Application,App Configuration
+springframework,data,org.springframework.data.keyvalue.annotation.KeySpace,Databases,Schema Design
+springframework,data,org.springframework.data.keyvalue.core.AbstractKeyValueAdapter,Databases,Query Execution
+springframework,data,org.springframework.data.keyvalue.core.KeyValueAdapter,Databases,Query Execution
+springframework,data,org.springframework.data.keyvalue.core.KeyValueOperations,Databases,Query Execution
+springframework,data,org.springframework.data.keyvalue.core.KeyValueTemplate,Databases,Query Execution
+springframework,data,org.springframework.data.keyvalue.core.mapping.context.KeyValueMappingContext,Databases,Schema Design
+springframework,data,org.springframework.data.keyvalue.repository.KeyValueRepository,Databases,Query Execution
+springframework,data,org.springframework.data.keyvalue.repository.config.QueryCreatorType,Databases,Query Execution
+springframework,data,org.springframework.data.keyvalue.repository.query.KeyValuePartTreeQuery,Databases,Query Execution
+springframework,data,org.springframework.data.keyvalue.repository.support.KeyValueRepositoryFactoryBean,Databases,Query Execution
+springframework,data,org.springframework.data.redis.cache.RedisCacheManager,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.RedisConnectionUtils.RedisConnectionProxy,Databases,Transaction Management
+springframework,data,org.springframework.data.redis.core.convert.KeyspaceConfiguration,Databases,Schema Design
+springframework,data,org.springframework.data.redis.core.convert.MappingConfiguration,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.convert.MappingRedisConverter,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.convert.RedisConverter,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.convert.RedisCustomConversions,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.convert.ReferenceResolver,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.convert.ReferenceResolverImpl,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.index.ConfigurableIndexDefinitionProvider,Databases,Schema Design
+springframework,data,org.springframework.data.redis.core.index.IndexConfiguration,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.mapping.RedisMappingContext,Databases,Schema Design
+springframework,data,org.springframework.data.redis.listener.RedisMessageListenerContainer,Event Handling,Event Driven Processing
+springframework,data,org.springframework.data.redis.repository.query.RedisPartTreeQuery,Databases,Query Execution
+springframework,data,org.springframework.data.redis.repository.query.RedisQueryCreator,Databases,Query Execution
+springframework,data,org.springframework.data.redis.repository.support.RedisRepositoryFactoryBean,Databases,Query Execution
+springframework,util,org.springframework.util.ClassUtils,Utility,System Tools
+junit,jupiter,org.junit.jupiter.api.BeforeAll,Test,Unit Testing
+util,util,java.util.Iterator,Data Structure,Data Manipulation
+io,lettuce,io.lettuce.core.pubsub.api.reactive.RedisPubSubReactiveCommands,Databases,Query Execution
+util,util,java.util.NoSuchElementException,Error Handling,Exception Handling
+util,util,java.util.Optional,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.connection.RedisConnection,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisKeyCommands,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.Cursor,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.ScanOptions,Databases,Database Optimization
+springframework,util,org.springframework.util.Assert,Utility,System Tools
+time,time,java.time.Instant,Utility,System Tools
+util,concurrent,java.util.concurrent.TimeUnit,Multi-Thread,Concurrency Control
+util,util,java.util.Map,Data Structure,Data Manipulation
+util,concurrent,java.util.concurrent.ConcurrentHashMap,Data Structure,Linear Structures
+reactor,core,reactor.core.publisher.Flux,Microservices/Services,Service Communication
+reactor,core,reactor.core.publisher.Mono,Microservices/Services,Service Communication
+nio,charset,java.nio.charset.StandardCharsets,Internationalization,Language Support
+time,time,java.time.Duration,Utility,Performance Tools
+util,concurrent,java.util.concurrent.CompletableFuture,Multi-Thread,Parallel Processing
+springframework,beans,org.springframework.beans.factory.InitializingBean,Application,App Configuration
+util,function,java.util.function.Function,Utility,Data Conversion
+util,function,java.util.function.Supplier,Utility,Data Conversion
+springframework,dao,org.springframework.dao.PessimisticLockingFailureException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.connection.ReactiveRedisConnection,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveRedisConnectionFactory,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveStringCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisStringCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisStringCommands.SetOption,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.types.Expiration,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.util.ByteUtils,Utility,Data Conversion
+springframework,util,org.springframework.util.ObjectUtils,Utility,System Tools
+io,lettuce,io.lettuce.core.CompositeArgument,Databases,Query Execution
+springframework,data,org.springframework.data.redis.cache.RedisCacheWriter.TtlFunction,Databases,Database Optimization
+util,concurrent,java.util.concurrent.atomic.LongAdder,Multi-Thread,Thread Safety
+io,lettuce,io.lettuce.core.EpollProvider,Network,Connection Management
+io,lettuce,io.lettuce.core.KqueueProvider,Network,Connection Management
+lang,reflect,java.lang.reflect.Method,Utility,System Tools
+io,lettuce,io.lettuce.core.api.reactive.BaseRedisReactiveCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.api.reactive.RedisReactiveCommands,Databases,Query Execution
+util,util,java.util.Collection,Data Structure,Data Manipulation
+util,Map,java.util.Map.Entry,Data Structure,Data Manipulation
+util,util,java.util.StringJoiner,Utility,Data Conversion
+util,concurrent,java.util.concurrent.Callable,Multi-Thread,Parallel Processing
+io,lettuce,io.lettuce.core.cluster.api.reactive.RedisClusterReactiveCommands,Databases,Query Execution
+springframework,cache,org.springframework.cache.Cache,Application,App Configuration
+springframework,cache,org.springframework.cache.support.AbstractValueAdaptingCache,Application,App Configuration
+springframework,cache,org.springframework.cache.support.NullValue,Application,App Configuration
+springframework,cache,org.springframework.cache.support.SimpleValueWrapper,Application,App Configuration
+springframework,core,org.springframework.core.convert.ConversionFailedException,Error Handling,Exception Handling
+springframework,core,org.springframework.core.convert.ConversionService,Utility,Data Conversion
+springframework,core,org.springframework.core.convert.TypeDescriptor,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.serializer.RedisSerializationContext,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.serializer.RedisSerializer,Databases,Database Optimization
+springframework,aop,org.springframework.aop.RawTargetAccess,Application,App Configuration
+io,io,java.io.File,Input-Output,File Management
+springframework,util,org.springframework.util.ReflectionUtils,Utility,System Tools
+springframework,cache,org.springframework.cache.interceptor.SimpleKey,Application,App Configuration
+springframework,core,org.springframework.core.convert.converter.ConverterRegistry,Application,App Configuration
+springframework,data,org.springframework.data.redis.serializer.RedisSerializationContext.SerializationPair,Databases,Database Optimization
+springframework,transaction,org.springframework.transaction.support.ResourceHolderSupport,Application,Integration
+springframework,format,org.springframework.format.support.DefaultFormattingConversionService,Utility,Data Conversion
+springframework,transaction,org.springframework.transaction.support.TransactionSynchronization,Application,App Configuration
+springframework,transaction,org.springframework.transaction.support.TransactionSynchronizationManager,Application,App Configuration
+util,util,java.util.HashMap,Data Structure,Data Manipulation
+util,util,java.util.LinkedHashMap,Data Structure,Linear Structures
+lang,annotation,java.lang.annotation.Documented,Language,Standard Libraries
+lang,annotation,java.lang.annotation.ElementType,Language,Standard Libraries
+lang,annotation,java.lang.annotation.Inherited,Language,Standard Libraries
+lang,annotation,java.lang.annotation.Retention,Language,Standard Libraries
+springframework,cache,org.springframework.cache.CacheManager,Application,App Configuration
+springframework,cache,org.springframework.cache.transaction.AbstractTransactionSupportingCacheManager,Application,App Configuration
+lang,annotation,java.lang.annotation.RetentionPolicy,Language,Standard Libraries
+lang,annotation,java.lang.annotation.Target,Language,Standard Libraries
+springframework,core,org.springframework.core.annotation.AliasFor,Application,App Configuration
+springframework,data,org.springframework.data.annotation.Persistent,Databases,Schema Design
+nio,charset,java.nio.charset.Charset,Internationalization,Language Support
+springframework,beans,org.springframework.beans.factory.support.BeanDefinitionBuilder,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.xml.AbstractSimpleBeanDefinitionParser,Parser,Syntax Parsing
+springframework,data,org.springframework.data.redis.support.collections.RedisCollectionFactoryBean,Data Structure,Data Manipulation
+springframework,util,org.springframework.util.StringUtils,Utility,Data Conversion
+w3c,dom,org.w3c.dom.Element,Application,App Configuration
+springframework,context,org.springframework.context.ApplicationEvent,Event Handling,Event Driven Processing
+springframework,data,org.springframework.data.redis.core.convert.MappingRedisConverter.BinaryKeyspaceIdentifier,Databases,Database Optimization
+springframework,beans,org.springframework.beans.factory.config.BeanDefinition,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.support.ManagedMap,Application,App Configuration
+springframework,data,org.springframework.data.redis.connection.ClusterInfo,Databases,Database Optimization
+springframework,beans,org.springframework.beans.factory.xml.ParserContext,Parser,Syntax Parsing
+springframework,data,org.springframework.data.redis.listener.ChannelTopic,Event Handling,Notifications
+springframework,data,org.springframework.data.redis.listener.PatternTopic,Event Handling,Event Driven Processing
+springframework,data,org.springframework.data.redis.listener.Topic,Event Handling,Event Driven Processing
+springframework,data,org.springframework.data.redis.listener.adapter.MessageListenerAdapter,Event Handling,Event Driven Processing
+springframework,util,org.springframework.util.xml.DomUtils,Utility,System Tools
+w3c,dom,org.w3c.dom.Attr,Parser,Syntax Parsing
+w3c,dom,org.w3c.dom.NamedNodeMap,Data Structure,Tree Structures
+springframework,beans,org.springframework.beans.factory.xml.NamespaceHandler,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.xml.NamespaceHandlerSupport,Application,App Configuration
+io,io,java.io.IOException,Input-Output,Data Reading
+commons,logging,org.apache.commons.logging.Log,Logging,Event Logging
+commons,logging,org.apache.commons.logging.LogFactory,Logging,Event Logging
+springframework,dao,org.springframework.dao.InvalidDataAccessApiUsageException,Error Handling,Exception Handling
+springframework,dao,org.springframework.dao.InvalidDataAccessResourceUsageException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.atomic.AtomicReference,Multi-Thread,Thread Safety
+springframework,beans,org.springframework.beans.BeansException,Error Handling,Exception Handling
+jspecify,annotations,org.jspecify.annotations.NullUnmarked,Utility,System Tools
+springframework,context,org.springframework.context.ApplicationContext,Application,App Configuration
+springframework,data,org.springframework.data.redis.connection.BitFieldSubCommands.BitFieldSubCommand,Databases,Database Optimization
+springframework,context,org.springframework.context.ApplicationContextAware,Microservices/Services,Service Communication
+springframework,context,org.springframework.context.ApplicationEventPublisher,Event Handling,Event Driven Processing
+springframework,context,org.springframework.context.ApplicationListener,Event Handling,Event Driven Processing
+util,concurrent,java.util.concurrent.ExecutionException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.Future,Multi-Thread,Concurrency Control
+util,concurrent,java.util.concurrent.TimeoutException,Error Handling,Exception Handling
+util,stream,java.util.stream.Collectors,Utility,Data Conversion
+springframework,core,org.springframework.core.task.AsyncTaskExecutor,Multi-Thread,Parallel Processing
+springframework,core,org.springframework.core.task.SimpleAsyncTaskExecutor,Multi-Thread,Parallel Processing
+springframework,data,org.springframework.data.redis.ClusterRedirectException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.ClusterStateFailureException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.ExceptionTranslationStrategy,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.TooManyClusterRedirectionsException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.connection.util.ByteArraySet,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.redis.connection.util.ByteArrayWrapper,Databases,Database Optimization
+springframework,lang,org.springframework.lang.Contract,Utility,System Tools
+springframework,util,org.springframework.util.CollectionUtils,Utility,System Tools
+springframework,data,org.springframework.data.mapping.PersistentPropertyAccessor,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.types.RedisClientInfo.INFO,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.Message,Event Handling,Event Driven Processing
+springframework,data,org.springframework.data.redis.connection.MessageListener,Event Handling,Event Driven Processing
+springframework,data,org.springframework.data.redis.core.PartialUpdate.PropertyUpdate,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.PartialUpdate.UpdateCommand,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.RedisKeyValueAdapter.RedisUpdateObject.Index,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.convert.MappingRedisConverter.KeyspaceIdentifier,Databases,Schema Design
+springframework,data,org.springframework.data.redis.core.convert.PathIndexResolver,Databases,Query Execution
+util,concurrent,java.util.concurrent.atomic.AtomicReferenceFieldUpdater,Multi-Thread,Concurrency Control
+springframework,data,org.springframework.data.redis.connection.jedis.JedisConnectionFactory,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.lettuce.LettuceConnectionFactory,Databases,Database Optimization
+util,util,java.util.EnumSet,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.redis.core.convert.RedisData,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.mapping.RedisPersistentEntity,Databases,Schema Design
+springframework,data,org.springframework.data.redis.core.mapping.RedisPersistentProperty,Databases,Schema Design
+springframework,data,org.springframework.data.redis.core.types.RedisClientInfo,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.listener.KeyExpirationEventMessageListener,Event Handling,Event Driven Processing
+io,lettuce,io.lettuce.core.api.reactive.RedisScriptingReactiveCommands,Databases,Query Execution
+springframework,data,org.springframework.data.geo.Circle,Geographic Information System,Spatial Analysis
+springframework,data,org.springframework.data.geo.Distance,Geographic Information System,Location Services
+springframework,data,org.springframework.data.geo.GeoResults,Geographic Information System,Mapping
+springframework,data,org.springframework.data.geo.Metric,Geographic Information System,Spatial Analysis
+springframework,data,org.springframework.data.geo.Point,Geographic Information System,Mapping
+springframework,data,org.springframework.data.redis.connection.stream.ByteRecord,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.stream.Consumer,Microservices/Services,Service Communication
+springframework,data,org.springframework.data.redis.connection.stream.MapRecord,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.stream.PendingMessages,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.stream.PendingMessagesSummary,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.stream.ReadOffset,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.stream.RecordId,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.stream.StreamInfo.XInfoConsumers,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.stream.StreamInfo.XInfoGroups,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.stream.StreamInfo.XInfoStream,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.stream.StreamOffset,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.stream.StreamReadOptions,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.zset.Aggregate,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.zset.Tuple,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.zset.Weights,Databases,Database Optimization
+springframework,data,org.springframework.data.keyvalue.core.KeyValueCallback,Databases,Query Execution
+springframework,data,org.springframework.data.redis.domain.geo.GeoReference,Geographic Information System,Location Services
+springframework,data,org.springframework.data.redis.domain.geo.GeoShape,Geographic Information System,Location Services
+springframework,data,org.springframework.data.keyvalue.core.mapping.KeyValuePersistentProperty,Databases,Schema Design
+springframework,data,org.springframework.data.redis.connection.ReactiveScriptingCommands,Databases,Query Execution
+util,function,java.util.function.IntFunction,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.connection.ReactiveServerCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.RedisSystemException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.connection.convert.Converters,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.convert.ListConverter,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.convert.MapConverter,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.convert.SetConverter,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.stream.StringRecord,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.zset.DefaultTuple,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.ConvertingCursor,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.query.SortQuery,Databases,Query Execution
+mockito,mockito,org.mockito.ArgumentMatchers,Test,Unit Testing
+springframework,data,org.springframework.data.redis.domain.geo.GeoReference.GeoMemberReference,Geographic Information System,Location Services
+io,lettuce,io.lettuce.core.XAddArgs,Databases,Query Execution
+springframework,data,org.springframework.data.redis.serializer.StringRedisSerializer,Databases,Database Optimization
+io,lettuce,io.lettuce.core.XClaimArgs,Databases,Query Execution
+io,lettuce,io.lettuce.core.XGroupCreateArgs,Databases,Query Execution
+io,lettuce,io.lettuce.core.XReadArgs,Databases,Query Execution
+io,lettuce,io.lettuce.core.XReadArgs.StreamOffset,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.StringRedisConnection.StringTuple,Databases,Query Execution
+util,util,java.util.Comparator,Utility,System Tools
+io,lettuce,io.lettuce.core.models.stream.PendingMessage,Data Structure,Data Manipulation
+util,util,java.util.Objects,Utility,System Tools
+springframework,core,org.springframework.core.NestedRuntimeException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.keyvalue.core.CriteriaAccessor,Databases,Query Execution
+springframework,data,org.springframework.data.keyvalue.core.QueryEngine,Databases,Query Execution
+springframework,data,org.springframework.data.keyvalue.core.SortAccessor,Databases,Query Execution
+springframework,data,org.springframework.data.keyvalue.core.SpelSortAccessor,Data Structure,Data Sorting
+springframework,data,org.springframework.data.keyvalue.core.query.KeyValueQuery,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisClusterNode.SlotRange,Databases,Database Optimization
+springframework,data,org.springframework.data.mapping.PersistentPropertyPath,Databases,Schema Design
+springframework,data,org.springframework.data.redis.connection.ReactiveStreamCommands.GroupCommand.GroupCommandAction,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisServerCommands.FlushOption,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.repository.query.RedisOperationChain,Databases,Query Execution
+springframework,data,org.springframework.data.redis.repository.query.RedisOperationChain.NearPath,Geographic Information System,Spatial Analysis
+springframework,data,org.springframework.data.redis.repository.query.RedisOperationChain.PathAndValue,Databases,Query Execution
+springframework,expression,org.springframework.expression.spel.standard.SpelExpressionParser,Parser,Syntax Parsing
+reactivestreams,reactivestreams,org.reactivestreams.Publisher,Microservices/Services,Service Communication
+springframework,data,org.springframework.data.domain.Sort.Direction,Data Structure,Data Sorting
+springframework,data,org.springframework.data.geo.GeoResult,Geographic Information System,Location Services
+io,lettuce,io.lettuce.core.BitFieldArgs,Databases,Database Optimization
+io,lettuce,io.lettuce.core.GetExArgs,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveRedisConnection.CommandResponse,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveRedisConnection.KeyCommand,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveRedisConnection.MultiValueResponse,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveRedisConnection.NumericResponse,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisGeoCommands.GeoRadiusCommandArgs.Flag,Geographic Information System,Location Services
+io,lettuce,io.lettuce.core.SetArgs,Databases,Database Optimization
+springframework,beans,org.springframework.beans.factory.BeanClassLoaderAware,Application,App Configuration
+springframework,data,org.springframework.data.redis.connection.ReactiveRedisConnection.BooleanResponse,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveRedisConnection.Command,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveRedisConnection.KeyScanCommand,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveRedisConnection.AbsentByteBufferResponse,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisServerCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisTxCommands,Databases,Transaction Management
+springframework,data,org.springframework.data.redis.connection.SortParameters,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.query.QueryUtils,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.script.DefaultScriptExecutor,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.script.ScriptExecutor,Databases,Query Execution
+springframework,data,org.springframework.data.redis.serializer.JdkSerializationRedisSerializer,Databases,Database Optimization
+reactor,core,reactor.core.publisher.ConnectableFlux,Microservices/Services,Service Communication
+util,concurrent,java.util.concurrent.ConcurrentSkipListSet,Data Structure,Tree Structures
+springframework,data,org.springframework.data.redis.core.KeyScanOptions,Databases,Database Optimization
+io,lettuce,io.lettuce.core.Limit,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.redis.connection.ReactiveRedisConnection.ByteBufferResponse,Databases,Query Execution
+io,lettuce,io.lettuce.core.Range,Data Structure,Data Manipulation
+io,lettuce,io.lettuce.core.ScoredValue,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.ReactiveRedisConnection.RangeCommand,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisListCommands.Position,Databases,Query Execution
+io,lettuce,io.lettuce.core.ZAddArgs,Databases,Database Optimization
+io,lettuce,io.lettuce.core.ZStoreArgs,Databases,Database Optimization
+springframework,core,org.springframework.core.convert.support.DefaultConversionService,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.connection.ReactiveSubscription.ChannelMessage,Microservices/Services,Service Communication
+io,lettuce,io.lettuce.core.output.ScanOutput,Databases,Query Execution
+io,io,java.io.Closeable,Input-Output,Stream Management
+io,lettuce,io.lettuce.core.output.StatusOutput,Input-Output,Data Reading
+io,lettuce,io.lettuce.core.protocol.AsyncCommand,Network,Protocol Implementation
+springframework,data,org.springframework.data.domain.Range,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.domain.Range.Bound,Data Structure,Data Manipulation
+springframework,dao,org.springframework.dao.support.PersistenceExceptionTranslator,Error Handling,Exception Handling
+io,lettuce,io.lettuce.core.api.async.RedisScriptingAsyncCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.DefaultStringRedisConnection,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.StringRedisConnection,Databases,Query Execution
+io,lettuce,io.lettuce.core.RedisURI.Builder,Databases,Query Execution
+springframework,data,org.springframework.data.annotation.ReadOnlyProperty,Databases,Query Execution
+io,lettuce,io.lettuce.core.sentinel.api.sync.RedisSentinelCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisStreamCommands.XClaimOptions,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisStreamCommands.XAddOptions,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisStreamCommands.XPendingOptions,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.stream.ByteBufferRecord,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.stream.PendingMessage,Event Handling,Event Driven Processing
+springframework,data,org.springframework.data.redis.connection.stream.StreamInfo.XInfoConsumer,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.stream.StreamInfo.XInfoGroup,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.stream.StreamRecords,Databases,Query Execution
+io,lettuce,io.lettuce.core.api.async.RedisServerAsyncCommands,Databases,Query Execution
+commons,beanutils,org.apache.commons.beanutils.BeanUtils,Utility,Data Conversion
+io,lettuce,io.lettuce.core.ValueScanCursor,Databases,Query Execution
+io,lettuce,io.lettuce.core.api.async.RedisSetAsyncCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisStringCommands.BitOperation,Databases,Database Optimization
+util,function,java.util.function.BiConsumer,Utility,Data Conversion
+text,text,java.text.ParseException,Error Handling,Exception Handling
+util,util,java.util.Calendar,Utility,System Tools
+springframework,data,org.springframework.data.mapping.MappingException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.util.DirectFieldAccessFallbackBeanWrapper,Application,App Configuration
+fasterxml,jackson,com.fasterxml.jackson.annotation.JsonInclude.Include,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.annotation.JsonTypeInfo.As,Application,Integration
+fasterxml,jackson,com.fasterxml.jackson.core.JsonGenerator,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.core.JsonParser,Parser,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.core.TreeNode,Data Structure,Tree Structures
+fasterxml,jackson,com.fasterxml.jackson.databind.DeserializationContext,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.DeserializationFeature,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.JavaType,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.JsonDeserializer,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.JsonNode,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.connection.RedisZSetCommands.ZAddArgs.Flag,Databases,Database Optimization
+fasterxml,jackson,com.fasterxml.jackson.databind.JsonSerializer,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.MapperFeature,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.ObjectMapper,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.ObjectMapper.DefaultTyping,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.SerializationFeature,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.SerializerProvider,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.deser.std.UntypedObjectDeserializer,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.jsontype.PolymorphicTypeValidator,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.jsontype.TypeDeserializer,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder,Utility,Data Conversion
+jspecify,annotations,org.jspecify.annotations.NonNull,Utility,System Tools
+fasterxml,jackson,com.fasterxml.jackson.databind.jsontype.TypeSerializer,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.module.SimpleModule,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.ser.std.CalendarSerializer,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.ser.std.DateSerializer,Utility,Data Conversion
+tools,jackson,tools.jackson.core.JacksonException,Error Handling,Exception Handling
+tools,jackson,tools.jackson.core.JsonGenerator,Utility,Data Conversion
+tools,jackson,tools.jackson.core.JsonParser,Parser,Data Conversion
+springframework,core,org.springframework.core.env.PropertySource,Application,App Configuration
+springframework,data,org.springframework.data.redis.connection.RedisConfiguration.ClusterConfiguration,Databases,Database Optimization
+tools,jackson,tools.jackson.core.TreeNode,Data Structure,Tree Structures
+springframework,util,org.springframework.util.NumberUtils,Utility,Data Conversion
+tools,jackson,tools.jackson.core.Version,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.cfg.MapperBuilder,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.deser.jdk.JavaUtilCalendarDeserializer,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.deser.jdk.JavaUtilDateDeserializer,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.deser.jdk.NumberDeserializers.BigDecimalDeserializer,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.deser.jdk.NumberDeserializers.BigIntegerDeserializer,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.deser.std.StdDeserializer,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.exc.MismatchedInputException,Error Handling,Exception Handling
+tools,jackson,tools.jackson.databind.json.JsonMapper,Utility,Data Conversion
+util,util,java.util.BitSet,Data Structure,Linear Structures
+tools,jackson,tools.jackson.databind.jsontype.BasicPolymorphicTypeValidator,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.jsontype.PolymorphicTypeValidator,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.jsontype.TypeDeserializer,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.jsontype.TypeResolverBuilder,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.jsontype.TypeSerializer,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.jsontype.impl.DefaultTypeResolverBuilder,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.module.SimpleDeserializers,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.module.SimpleSerializers,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.ser.Serializers,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.ser.jdk.JavaUtilCalendarSerializer,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.ser.jdk.JavaUtilDateSerializer,Utility,Data Conversion
+math,math,java.math.BigDecimal,Utility,Data Conversion
+math,math,java.math.BigInteger,Utility,Data Conversion
+time,time,java.time.ZoneId,Internationalization,Date/Time Formatting
+util,function,java.util.function.IntSupplier,Utility,Performance Tools
+springframework,data,org.springframework.data.redis.connection.lettuce.LettucePoolingClientConfiguration.LettucePoolingClientConfigurationBuilder,Databases,Database Optimization
+util,util,java.util.TimeZone,Internationalization,Date/Time Formatting
+io,lettuce,io.lettuce.core.api.async.RedisStreamAsyncCommands,Databases,Query Execution
+springframework,data,org.springframework.data.util.Lazy,Utility,System Tools
+springframework,data,org.springframework.data.redis.connection.ReactiveClusterCommands,Databases,Query Execution
+jspecify,annotations,org.jspecify.annotations.NullMarked,Utility,System Tools
+springframework,data,org.springframework.data.convert.CustomConversions,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.convert.IndexResolver,Databases,Query Execution
+springframework,data,org.springframework.data.util.TypeInformation,Utility,Data Conversion
+springframework,context,org.springframework.context.ApplicationEventPublisherAware,Event Handling,Event Driven Processing
+springframework,data,org.springframework.data.redis.core.RedisKeyExpiredEvent,Event Handling,System Events
+io,lettuce,io.lettuce.core.api.async.RedisStringAsyncCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.pubsub.api.async.RedisPubSubAsyncCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.pubsub.api.sync.RedisPubSubCommands,Databases,Query Execution
+reactor,core,reactor.core.publisher.Sinks,Event Handling,Event Driven Processing
+io,lettuce,io.lettuce.core.ScoredValueScanCursor,Databases,Database Optimization
+util,concurrent,java.util.concurrent.atomic.AtomicBoolean,Multi-Thread,Thread Safety
+util,concurrent,java.util.concurrent.atomic.AtomicLongFieldUpdater,Multi-Thread,Concurrency Control
+io,lettuce,io.lettuce.core.ZAggregateArgs,Databases,Query Execution
+util,stream,java.util.stream.StreamSupport,Utility,Performance Tools
+io,lettuce,io.lettuce.core.api.async.RedisSortedSetAsyncCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactivePubSubCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisConfiguration.SentinelConfiguration,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.ReactiveSubscription,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveSubscription.PatternMessage,Event Handling,Notifications
+springframework,data,org.springframework.data.redis.connection.SubscriptionListener,Event Handling,Notifications
+util,concurrent,java.util.concurrent.CompletionException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.connection.RedisConfiguration.DomainSocketConfiguration,Databases,Database Optimization
+util,concurrent,java.util.concurrent.CopyOnWriteArraySet,Data Structure,Linear Structures
+util,concurrent,java.util.concurrent.Executor,Multi-Thread,Parallel Processing
+springframework,data,org.springframework.data.redis.connection.RedisConfiguration.WithDatabaseIndex,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.RedisConfiguration.WithHostAndPort,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.RedisConfiguration.WithPassword,Databases,Database Security
+util,concurrent,java.util.concurrent.ScheduledExecutorService,Multi-Thread,Parallel Processing
+io,lettuce,io.lettuce.core.Range.Boundary,Data Structure,Data Manipulation
+assertj,core,org.assertj.core.api.Assumptions,Test,Unit Testing
+util,concurrent,java.util.concurrent.locks.Lock,Multi-Thread,Synchronization
+springframework,data,org.springframework.data.redis.connection.RedisConfiguration.StaticMasterReplicaConfiguration,Databases,Database Optimization
+util,concurrent,java.util.concurrent.locks.ReentrantLock,Multi-Thread,Synchronization
+springframework,beans,org.springframework.beans.factory.BeanNameAware,Application,App Configuration
+springframework,data,org.springframework.data.redis.connection.lettuce.LettuceReactiveRedisConnection.ByteBufferCodec,Databases,Database Optimization
+springframework,core,org.springframework.core.task.TaskExecutor,Multi-Thread,Parallel Processing
+io,lettuce,io.lettuce.core.RedisCredentials,Databases,Database Security
+springframework,data,org.springframework.data.redis.RedisConnectionFailureException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.connection.ConnectionUtils,Databases,Transaction Management
+springframework,data,org.springframework.data.redis.connection.RedisConfiguration,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.Subscription,Microservices/Services,Service Communication
+springframework,data,org.springframework.data.redis.listener.adapter.RedisListenerExecutionFailedException,Error Handling,Exception Handling
+springframework,util,org.springframework.util.ErrorHandler,Error Handling,Exception Handling
+springframework,util,org.springframework.util.backoff.BackOff,Error Handling,Fault Tolerance
+springframework,util,org.springframework.util.backoff.BackOffExecution,Error Handling,Fault Tolerance
+springframework,util,org.springframework.util.backoff.FixedBackOff,Error Handling,Fault Tolerance
+io,lettuce,io.lettuce.core.masterreplica.MasterReplica,Databases,Database Optimization
+io,lettuce,io.lettuce.core.masterreplica.StatefulRedisMasterReplicaConnection,Databases,Query Execution
+util,concurrent,java.util.concurrent.CopyOnWriteArrayList,Data Structure,Linear Structures
+util,concurrent,java.util.concurrent.atomic.AtomicIntegerFieldUpdater,Multi-Thread,Concurrency Control
+io,lettuce,io.lettuce.core.StreamMessage,Data Structure,Data Manipulation
+springframework,core,org.springframework.core.KotlinDetector,Utility,System Tools
+io,lettuce,io.lettuce.core.models.stream.PendingMessages,Data Structure,Data Manipulation
+fasterxml,jackson,com.fasterxml.jackson.annotation.JsonTypeInfo,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.core.RedisCallback,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.StringRedisTemplate,Databases,Query Execution
+fasterxml,jackson,com.fasterxml.jackson.core.JsonToken,Parser,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.DeserializationConfig,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.deser.BeanDeserializerFactory,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.deser.DefaultDeserializationContext,Application,Integration
+fasterxml,jackson,com.fasterxml.jackson.databind.deser.std.JsonNodeDeserializer,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder,Utility,Data Conversion
+util,function,java.util.function.BiFunction,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.connection.RedisGeoCommands.GeoLocation,Geographic Information System,Location Services
+springframework,data,org.springframework.data.redis.core.ZSetOperations.TypedTuple,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.redis.serializer.SerializationUtils,Databases,Database Optimization
+fasterxml,jackson,com.fasterxml.jackson.databind.node.TextNode,Data Structure,Data Manipulation
+fasterxml,jackson,com.fasterxml.jackson.databind.ser.SerializerFactory,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.ser.std.StdSerializer,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.type.TypeFactory,Utility,Data Conversion
+tools,jackson,tools.jackson.core.JsonToken,Parser,Data Conversion
+tools,jackson,tools.jackson.databind.DefaultTyping,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.DeserializationConfig,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.DeserializationContext,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.domain.geo.BoundingBox,Geographic Information System,Spatial Analysis
+tools,jackson,tools.jackson.databind.DeserializationFeature,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.JacksonModule,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.JavaType,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.JsonNode,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.ObjectMapper,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.SerializationContext,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.connection.ExpirationOptions,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.types.Expirations,Databases,Database Optimization
+tools,jackson,tools.jackson.databind.deser.jackson.BaseNodeDeserializer,Parser,Data Conversion
+tools,jackson,tools.jackson.databind.deser.jackson.JsonNodeDeserializer,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.jsontype.impl.StdTypeResolverBuilder,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.ser.std.StdSerializer,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.type.TypeFactory,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.connection.stream.StreamRecords.MapBackedRecord,Databases,Database Optimization
+util,util,java.util.Date,Utility,System Tools
+springframework,data,org.springframework.data.redis.connection.DataType,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.stream.StreamRecords.ObjectBackedRecord,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.RedisListCommands.Direction,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveListCommands.PopResult,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveListCommands.PushCommand,Databases,Query Execution
+springframework,beans,org.springframework.beans.TypeConverter,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.BeanFactory,Application,App Configuration
+aopalliance,intercept,org.aopalliance.intercept.MethodInterceptor,Application,Integration
+aopalliance,intercept,org.aopalliance.intercept.MethodInvocation,Application,Integration
+springframework,beans,org.springframework.beans.factory.BeanFactoryAware,Application,App Configuration
+springframework,aop,org.springframework.aop.framework.ProxyFactory,Application,Integration
+springframework,data,org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor,Application,App Configuration
+springframework,data,org.springframework.data.redis.connection.Limit,Databases,Database Optimization
+io,io,java.io.InputStream,Input-Output,Data Reading
+springframework,core,org.springframework.core.serializer.DefaultDeserializer,Utility,Data Conversion
+springframework,core,org.springframework.core.serializer.DefaultSerializer,Utility,Data Conversion
+springframework,core,org.springframework.core.serializer.support.DeserializingConverter,Application,Integration
+lang,reflect,java.lang.reflect.InvocationHandler,Utility,System Tools
+lang,reflect,java.lang.reflect.InvocationTargetException,Error Handling,Exception Handling
+springframework,core,org.springframework.core.serializer.support.SerializingConverter,Utility,Data Conversion
+mockito,Mockito,org.mockito.Mockito.anyInt,Test,Unit Testing
+io,io,java.io.ByteArrayInputStream,Input-Output,Data Reading
+io,io,java.io.ByteArrayOutputStream,Input-Output,Data Writing
+javax,xml,javax.xml.transform.stream.StreamResult,Input-Output,Data Writing
+javax,xml,javax.xml.transform.stream.StreamSource,Input-Output,Data Reading
+mockito,Mockito,org.mockito.Mockito.anyString,Test,Unit Testing
+springframework,data,org.springframework.data.redis.connection.RedisClusterCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisClusterNode,Databases,Database Optimization
+springframework,oxm,org.springframework.oxm.Marshaller,Application,Integration
+springframework,oxm,org.springframework.oxm.Unmarshaller,Application,Integration
+beans,beans,java.beans.PropertyEditorSupport,Utility,Data Conversion
+springframework,data,org.springframework.data.util.CloseableIterator,Data Structure,Data Manipulation
+io,lettuce,io.lettuce.core.cluster.api.reactive.RedisAdvancedClusterReactiveCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisInvalidSubscriptionException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.connection.RedisClusterCommands.AddSlots,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.RedisClusterConnection,Databases,Query Execution
+springframework,core,org.springframework.core.CollectionFactory,Utility,System Tools
+springframework,data,org.springframework.data.redis.connection.RedisServerCommands.MigrateOption,Databases,Database Optimization
+util,util,java.util.Base64,Utility,Data Conversion
+mockito,mockito,org.mockito.Answers,Test,Unit Testing
+springframework,data,org.springframework.data.redis.connection.RedisGeoCommands,Geographic Information System,Location Services
+springframework,data,org.springframework.data.redis.connection.RedisGeoCommands.GeoRadiusCommandArgs,Geographic Information System,Location Services
+util,function,java.util.function.DoubleUnaryOperator,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.connection.ReactiveStreamCommands.AddStreamRecord,Databases,Query Execution
+util,stream,java.util.stream.DoubleStream,Utility,Performance Tools
+springframework,data,org.springframework.data.redis.core.RedisTemplate,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.StreamOperations,Databases,Query Execution
+text,text,java.text.DateFormat,Internationalization,Date/Time Formatting
+reactor,core,reactor.core.CoreSubscriber,Microservices/Services,Service Communication
+springframework,data,org.springframework.data.redis.core.types.Expirations.Timeouts,Databases,Database Optimization
+reactor,core,reactor.core.publisher.FluxSink,Event Handling,Event Driven Processing
+reactor,core,reactor.core.publisher.Operators,Utility,System Tools
+reactor,util,reactor.util.concurrent.Queues,Multi-Thread,Concurrency Control
+reactor,util,reactor.util.context.Context,Microservices/Services,Service Communication
+util,util,java.util.Queue,Data Structure,Linear Structures
+springframework,core,org.springframework.core.convert.converter.ConverterFactory,Application,App Configuration
+springframework,data,org.springframework.data.convert.ReadingConverter,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.convert.WritingConverter,Data Structure,Data Manipulation
+reactivestreams,reactivestreams,org.reactivestreams.Subscription,Microservices/Services,Service Communication
+util,util,java.util.NavigableMap,Data Structure,Tree Structures
+springframework,data,org.springframework.data.redis.connection.ReactiveGeoCommands,Geographic Information System,Location Services
+util,util,java.util.TreeMap,Data Structure,Tree Structures
+util,regex,java.util.regex.Matcher,Utility,System Tools
+util,regex,java.util.regex.Pattern,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.core.ReactiveRedisTemplate,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.ReactiveStreamOperations,Databases,Query Execution
+util,util,java.util.OptionalInt,Utility,Data Conversion
+junit,junit,org.junit.Ignore,Test,Unit Testing
+springframework,data,org.springframework.data.redis.connection.ReactiveHashCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveHashCommands.HashExpireCommand,Databases,Query Execution
+springframework,data,org.springframework.data.convert.DefaultTypeMapper,Databases,Schema Design
+springframework,data,org.springframework.data.convert.SimpleTypeInformationMapper,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.convert.TypeAliasAccessor,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.convert.TypeInformationMapper,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.mapping.Alias,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.redis.stream.DefaultStreamMessageListenerContainer.LoggingErrorHandler,Error Handling,Error Logging
+springframework,data,org.springframework.data.mapping.PersistentEntity,Databases,Schema Design
+springframework,data,org.springframework.data.mapping.context.MappingContext,Databases,Schema Design
+springframework,data,org.springframework.data.redis.core.convert.Bucket.BucketPropertyPath,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.ReactiveHyperLogLogCommands,Databases,Database Optimization
+util,concurrent,java.util.concurrent.CountDownLatch,Multi-Thread,Synchronization
+springframework,data,org.springframework.data.redis.core.index.GeoIndexDefinition,Geographic Information System,Spatial Analysis
+springframework,data,org.springframework.data.mapping.PersistentProperty,Databases,Schema Design
+springframework,data,org.springframework.data.redis.stream.StreamMessageListenerContainer.ConsumerStreamReadRequest,Event Handling,Event Driven Processing
+springframework,data,org.springframework.data.redis.connection.ReactiveListCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveListCommands.Direction,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveListCommands.LPosCommand,Databases,Query Execution
+springframework,data,org.springframework.data.redis.stream.StreamMessageListenerContainer.StreamReadRequest,Event Handling,Event Driven Processing
+time,time,java.time.LocalTime,Utility,System Tools
+time,time,java.time.Period,Utility,System Tools
+time,time,java.time.ZonedDateTime,Utility,System Tools
+springframework,data,org.springframework.data.redis.core.convert.BinaryConverters.StringBasedConverter,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.ReactiveSetCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.TimeToLive,Databases,Database Optimization
+lang,reflect,java.lang.reflect.Array,Utility,System Tools
+springframework,data,org.springframework.data.redis.connection.ReactiveStreamCommands,Databases,Query Execution
+springframework,scheduling,org.springframework.scheduling.SchedulingAwareRunnable,Multi-Thread,Thread Safety
+springframework,data,org.springframework.data.redis.connection.ReactiveStringCommands.SetCommand,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.stream.Record,Databases,Query Execution
+springframework,core,org.springframework.core.convert.ConverterNotFoundException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.mapping.AssociationHandler,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.redis.hash.HashMapper,Databases,Database Optimization
+springframework,data,org.springframework.data.mapping.InstanceCreatorMetadata,Application,App Configuration
+springframework,data,org.springframework.data.mapping.PropertyHandler,Databases,Schema Design
+springframework,data,org.springframework.data.mapping.model.EntityInstantiator,Application,App Configuration
+springframework,data,org.springframework.data.mapping.model.EntityInstantiators,Application,App Configuration
+springframework,data,org.springframework.data.redis.SettingsUtils,Databases,Database Optimization
+springframework,data,org.springframework.data.mapping.model.PersistentEntityParameterValueProvider,Application,App Configuration
+springframework,data,org.springframework.data.mapping.model.PropertyValueProvider,Application,App Configuration
+springframework,data,org.springframework.data.redis.core.PartialUpdate,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.jedis.extension.JedisConnectionFactoryExtension,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.lettuce.extension.LettuceConnectionFactoryExtension,Databases,Query Execution
+springframework,data,org.springframework.data.redis.serializer.GenericJackson2JsonRedisSerializer,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.BitFieldSubCommands,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.ReactiveNumberCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.serializer.OxmSerializer,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.serializer.SerializationException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.test.XstreamOxmSerializerSingleton,Test,Integration Testing
+springframework,data,org.springframework.data.redis.test.condition.RedisDetector,Test,Integration Testing
+springframework,data,org.springframework.data.redis.test.extension.RedisCluster,Test,Integration Testing
+springframework,data,org.springframework.data.redis.test.extension.RedisStandalone,Test,Integration Testing
+springframework,data,org.springframework.data.util.ProxyUtils,Utility,System Tools
+springframework,data,org.springframework.data.redis.connection.ReactiveZSetCommands,Databases,Query Execution
+junit,jupiter,org.junit.jupiter.api.Disabled,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.ParameterizedClass,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.provider.MethodSource,Test,Unit Testing
+springframework,data,org.springframework.data.redis.test.condition.EnabledOnRedisDriver,Test,Integration Testing
+springframework,data,org.springframework.data.redis.test.condition.EnabledOnRedisDriver.DriverQualifier,Test,Integration Testing
+springframework,data,org.springframework.data.redis.test.condition.RedisDriver,Test,Integration Testing
+assertj,core,org.assertj.core.api.Assertions.assertThat,Test,Unit Testing
+assertj,core,org.assertj.core.api.Assertions.assertThatException,Test,Unit Testing
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.any,Test,Unit Testing
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.eq,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.doReturn,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.doThrow,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.mock,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.never,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.spy,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.times,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.verify,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.verifyNoMoreInteractions,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.extension.ExtendWith,Test,Unit Testing
+mockito,mockito,org.mockito.Mock,Test,Unit Testing
+mockito,junit,org.mockito.junit.jupiter.MockitoExtension,Test,Unit Testing
+edu,umd,edu.umd.cs.mtc.MultithreadedTestCase,Test,Unit Testing
+springframework,data,org.springframework.data.redis.support.collections.CollectionUtils,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.redis.core.index.IndexDefinition.Condition,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.index.IndexDefinition.IndexingContext,Databases,Schema Design
+springframework,data,org.springframework.data.redis.connection.ReactiveZSetCommands.ZAddCommand,Databases,Query Execution
+springframework,cache,org.springframework.cache.Cache.ValueRetrievalException,Error Handling,Exception Handling
+springframework,cache,org.springframework.cache.Cache.ValueWrapper,Application,App Configuration
+springframework,data,org.springframework.data.redis.connection.DefaultedRedisConnection,Databases,Query Execution
+springframework,data,org.springframework.data.redis.ObjectFactory,Databases,Database Optimization
+springframework,data,org.springframework.data.convert.EntityConverter,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.AbstractOperationsTestParams,Test,Unit Testing
+springframework,beans,org.springframework.beans.DirectFieldAccessor,Application,App Configuration
+springframework,data,org.springframework.data.mapping.model.SimpleTypeHolder,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.redis.connection.RedisZSetCommands.ZAddArgs,Databases,Database Optimization
+springframework,instrument,org.springframework.instrument.classloading.ShadowingClassLoader,Application,Integration
+assertj,core,org.assertj.core.api.Assertions.assertThatExceptionOfType,Test,Unit Testing
+assertj,core,org.assertj.core.api.Assertions.assertThatIllegalArgumentException,Test,Unit Testing
+assertj,core,org.assertj.core.api.Assertions.assertThatIllegalStateException,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.any,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.when,Test,Unit Testing
+util,function,java.util.function.Predicate,Utility,Data Conversion
+springframework,data,org.springframework.data.convert.TypeMapper,Data Structure,Data Manipulation
+springframework,cache,org.springframework.cache.transaction.TransactionAwareCacheDecorator,Application,Integration
+springframework,data,org.springframework.data.redis.cache.RedisCacheManager.RedisCacheManagerBuilder,Application,Integration
+springframework,test,org.springframework.test.util.ReflectionTestUtils,Test,Unit Testing
+springframework,data,org.springframework.data.redis.connection.RedisGeoCommands.GeoSearchCommandArgs,Geographic Information System,Location Services
+springframework,data,org.springframework.data.redis.connection.RedisGeoCommands.GeoSearchStoreCommandArgs,Geographic Information System,Location Services
+springframework,data,org.springframework.data.redis.core.RedisKeyValueAdapter,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.convert.BinaryConverters.StringToBytesConverter,Databases,Database Optimization
+springframework,context,org.springframework.context.expression.BeanFactoryResolver,Application,App Configuration
+springframework,cache,org.springframework.cache.interceptor.SimpleKeyGenerator,Application,App Configuration
+springframework,data,org.springframework.data.redis.core.convert.GeoIndexedPropertyValue,Geographic Information System,Mapping
+springframework,data,org.springframework.data.redis.core.convert.IndexedData,Databases,Query Execution
+springframework,data,org.springframework.data.redis.test.condition.EnabledOnCommand,Test,Integration Testing
+springframework,data,org.springframework.data.redis.core.convert.RemoveIndexedData,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.convert.SimpleIndexedPropertyValue,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.index.SpelIndexDefinition,Databases,Query Execution
+springframework,expression,org.springframework.expression.BeanResolver,Application,App Configuration
+springframework,expression,org.springframework.expression.Expression,Application,App Configuration
+springframework,expression,org.springframework.expression.spel.support.StandardEvaluationContext,Application,App Configuration
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.anyString,Test,Unit Testing
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.isNull,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.doCallRealMethod,Test,Unit Testing
+jakarta,annotation,jakarta.annotation.Resource,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.annotation.Autowired,Application,App Configuration
+springframework,data,org.springframework.data.redis.connection.lettuce.LettuceClientConfiguration.LettuceClientConfigurationBuilder,Databases,Database Optimization
+springframework,test,org.springframework.test.context.junit.jupiter.SpringJUnitConfig,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.ClusterOperations,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.GeoOperations,Geographic Information System,Location Services
+springframework,data,org.springframework.data.redis.core.HyperLogLogOperations,Databases,Database Optimization
+util,concurrent,java.util.concurrent.BlockingDeque,Multi-Thread,Synchronization
+util,concurrent,java.util.concurrent.LinkedBlockingDeque,Data Structure,Linear Structures
+springframework,data,org.springframework.data.redis.core.ListOperations.MoveFrom,Data Structure,Linear Structures
+springframework,data,org.springframework.data.redis.core.ListOperations.MoveTo,Data Structure,Linear Structures
+time,temporal,java.time.temporal.ChronoUnit,Utility,System Tools
+springframework,data,org.springframework.data.redis.core.convert.SpelIndexResolver,Databases,Query Execution
+util,stream,java.util.stream.IntStream,Utility,Performance Tools
+assertj,core,org.assertj.core.data.Offset,Test,Unit Testing
+junit,junit,org.junit.AssumptionViolatedException,Test,Unit Testing
+springframework,expression,org.springframework.expression.spel.standard.SpelExpression,Application,App Configuration
+springframework,data,org.springframework.data.redis.connection.ReactiveSubscription.Message,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.script.RedisScript,Databases,Query Execution
+springframework,data,org.springframework.data.redis.serializer.RedisElementReader,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.serializer.RedisElementWriter,Databases,Database Optimization
+springframework,data,org.springframework.data.keyvalue.core.mapping.BasicKeyValuePersistentEntity,Databases,Schema Design
+lang,reflect,java.lang.reflect.Proxy,Utility,System Tools
+springframework,data,org.springframework.data.keyvalue.core.mapping.KeySpaceResolver,Databases,Schema Design
+junit,jupiter,org.junit.jupiter.api.condition.DisabledOnOs,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.ParameterizedTest,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.provider.ValueSource,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.TimeToLiveAccessor,Databases,Database Optimization
+springframework,data,org.springframework.data.geo.Metrics,Geographic Information System,Mapping
+springframework,data,org.springframework.data.redis.connection.ReactiveKeyCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.TestCondition,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.script.DefaultReactiveScriptExecutor,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.script.ReactiveScriptExecutor,Databases,Query Execution
+springframework,core,org.springframework.core.annotation.AnnotationUtils,Application,App Configuration
+springframework,data,org.springframework.data.redis.connection.lettuce.TransactionalLettuceIntegrationTests.LettuceContextConfiguration,Test,Integration Testing
+springframework,data,org.springframework.data.redis.hash.ObjectHashMapper,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.listener.ReactiveRedisMessageListenerContainer,Event Handling,Event Driven Processing
+springframework,data,org.springframework.data.redis.connection.SortParameters.Order,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ValueEncoding.RedisValueEncoding,Databases,Database Optimization
+springframework,data,org.springframework.data.mapping.model.Property,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.redis.core.convert.KeyspaceConfiguration.KeyspaceSettings,Databases,Database Optimization
+springframework,data,org.springframework.data.keyvalue.core.mapping.KeyValuePersistentEntity,Databases,Schema Design
+springframework,data,org.springframework.data.redis.connection.stream.ObjectRecord,Databases,Query Execution
+springframework,data,org.springframework.data.redis.test.condition.EnabledOnRedisVersion,Test,Integration Testing
+springframework,data,org.springframework.data.redis.test.condition.LongRunningTest,Test,Integration Testing
+springframework,data,org.springframework.data.redis.test.util.HexStringUtils,Test,Unit Testing
+springframework,data,org.springframework.data.util.Streamable,Utility,Data Conversion
+lang,reflect,java.lang.reflect.ParameterizedType,Language,Type Systems
+lang,reflect,java.lang.reflect.Type,Language,Type Systems
+mockito,mockito,org.mockito.Mockito,Test,Unit Testing
+sql,sql,java.sql.Connection,Databases,Transaction Management
+sql,sql,java.sql.SQLException,Databases,Query Execution
+javax,sql,javax.sql.DataSource,Databases,Transaction Management
+springframework,data,org.springframework.data.redis.connection.DefaultSortParameters,Databases,Query Execution
+edu,umd,edu.umd.cs.mtc.TestFramework,Test,Unit Testing
+util,concurrent,java.util.concurrent.ConcurrentSkipListMap,Data Structure,Tree Structures
+util,concurrent,java.util.concurrent.ScheduledThreadPoolExecutor,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.atomic.AtomicInteger,Multi-Thread,Thread Safety
+mockito,Mockito,org.mockito.Mockito.eq,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.ReactiveRedisCallback,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.AccountInfo,Test,Unit Testing
+mockito,mockito,org.mockito.ArgumentCaptor,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.Address,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.AddressWithId,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.AddressWithPostcode,Test,Unit Testing
+springframework,core,org.springframework.core.task.SyncTaskExecutor,Multi-Thread,Synchronization
+springframework,core,org.springframework.core.task.support.TaskExecutorAdapter,Multi-Thread,Parallel Processing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.Device,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.ExipringPersonWithExplicitProperty,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.ExpiringPerson,Test,Unit Testing
+springframework,data,org.springframework.data.redis.PassThroughExceptionTranslationStrategy,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.Gender,Test,Unit Testing
+springframework,data,org.springframework.data.redis.connection.ClusterCommandExecutor.ClusterCommandCallback,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ClusterCommandExecutor.MultiKeyClusterCommandCallback,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ClusterCommandExecutor.MultiNodeResult,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ClusterCommandExecutor.NodeExecution,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ClusterCommandExecutor.NodeResult,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisClusterNode.LinkState,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.JustSomeDifferentPropertyTypes,Test,Unit Testing
+springframework,data,org.springframework.data.redis.connection.RedisNode.NodeType,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.KEYSPACE_ACCOUNT,Databases,Schema Design
+springframework,core,org.springframework.core.io.Resource,Utility,System Tools
+util,util,java.util.Random,Utility,System Tools
+springframework,scripting,org.springframework.scripting.ScriptSource,Interpreter,Script Execution
+springframework,scripting,org.springframework.scripting.support.ResourceScriptSource,Interpreter,Script Execution
+springframework,data,org.springframework.data.redis.test.condition.EnabledOnRedisClusterAvailable,Test,Integration Testing
+springframework,data,org.springframework.data.redis.test.extension.JedisExtension,Test,Integration Testing
+springframework,scripting,org.springframework.scripting.support.StaticScriptSource,Interpreter,Script Execution
+redis,clients,redis.clients.jedis.ConnectionPool,Databases,Database Optimization
+redis,clients,redis.clients.jedis.Jedis,Databases,Query Execution
+redis,clients,redis.clients.jedis.JedisCluster,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.KEYSPACE_PERSON,Databases,Schema Design
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.Location,Geographic Information System,Location Services
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.Outer,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.Person,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.PersonWithConstructorAndAddress,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.RecursiveConstructorPerson,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.Size,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.Species,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.TaVeren,Test,Unit Testing
+springframework,data,org.springframework.data.redis.connection.RedisGeoCommands.DistanceUnit,Geographic Information System,Location Services
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.TheWheelOfTime,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.TypeWithMaps,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.TypeWithObjectValueTypes,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities.WithArrays,Test,Unit Testing
+security,security,java.security.MessageDigest,Security,Data Integrity
+security,security,java.security.NoSuchAlgorithmException,Security,Encryption
+mockito,junit,org.mockito.junit.jupiter.MockitoSettings,Test,Unit Testing
+mockito,quality,org.mockito.quality.Strictness,Test,Unit Testing
+springframework,dao,org.springframework.dao.NonTransientDataAccessException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.connection.RedisServerCommands.ShutdownOption,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.test.util.RedisTestData,Test,Integration Testing
+fasterxml,jackson,com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility,Utility,Data Conversion
+springframework,data,org.springframework.data.geo.Shape,Geographic Information System,Spatial Analysis
+springframework,data,org.springframework.data.redis.connection.ReactiveStreamCommands.PendingRecordsCommand,Databases,Query Execution
+springframework,mock,org.springframework.mock.env.MockPropertySource,Test,Unit Testing
+lang,reflect,java.lang.reflect.Modifier,Utility,System Tools
+springframework,expression,org.springframework.expression.spel.SpelEvaluationException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.connection.RedisNode.RedisNodeBuilder,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.convert.ConversionTestEntities,Test,Unit Testing
+springframework,util,org.springframework.util.ReflectionUtils.MethodFilter,Utility,System Tools
+jakarta,enterprise,jakarta.enterprise.context.ApplicationScoped,Microservices/Services,Service Communication
+jakarta,enterprise,jakarta.enterprise.context.spi.CreationalContext,Microservices/Services,Service Communication
+assertj,core,org.assertj.core.api.ThrowableAssert,Test,Unit Testing
+jakarta,enterprise,jakarta.enterprise.inject.Alternative,Microservices/Services,Service Communication
+jakarta,enterprise,jakarta.enterprise.inject.Default,Microservices/Services,Service Communication
+jakarta,enterprise,jakarta.enterprise.inject.Stereotype,Microservices/Services,Service Communication
+jakarta,enterprise,jakarta.enterprise.inject.spi.Bean,Microservices/Services,Service Communication
+jakarta,enterprise,jakarta.enterprise.inject.spi.BeanManager,Microservices/Services,Service Communication
+jakarta,enterprise,jakarta.enterprise.inject.spi.InjectionPoint,Application,Integration
+jakarta,enterprise,jakarta.enterprise.inject.spi.PassivationCapable,Microservices/Services,Service Communication
+lang,annotation,java.lang.annotation.Annotation,Language,Standard Libraries
+springframework,data,org.springframework.data.redis.core.mapping.RedisMappingContext.ConfigAwareKeySpaceResolver,Databases,Schema Design
+util,util,java.util.LinkedList,Data Structure,Linear Structures
+springframework,data,org.springframework.data.redis.core.mapping.RedisMappingContext.ConfigAwareTimeToLiveAccessor,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.serializer.Jackson2JsonRedisSerializer,Databases,Database Optimization
+springframework,core,org.springframework.core.io.ClassPathResource,Utility,System Tools
+springframework,data,org.springframework.data.redis.DoubleObjectFactory,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.LongObjectFactory,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.RedisKeyValueTemplate,Databases,Query Execution
+springframework,data,org.springframework.data.redis.Person,Databases,Schema Design
+springframework,data,org.springframework.data.redis.PersonObjectFactory,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.RawObjectFactory,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.StringObjectFactory,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.serializer.GenericToStringSerializer,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.redis.serializer.Jackson3JsonRedisSerializer,Databases,Database Optimization
+springframework,aop,org.springframework.aop.scope.ScopedObject,Application,App Configuration
+springframework,data,org.springframework.data.redis.repository.support.RedisRepositoryFactory,Databases,Query Execution
+springframework,aot,org.springframework.aot.test.agent.EnabledIfRuntimeHintsAgent,Test,Unit Testing
+springframework,aot,org.springframework.aot.test.agent.RuntimeHintsInvocations,Test,Unit Testing
+springframework,aot,org.springframework.aot.test.agent.RuntimeHintsRecorder,Test,Unit Testing
+springframework,data,org.springframework.data.redis.aot.RedisRuntimeHints,Databases,Database Optimization
+springframework,data,org.springframework.data.repository.cdi.CdiRepositoryBean,Application,Integration
+springframework,data,org.springframework.data.repository.config.CustomRepositoryImplementationDetector,Databases,Query Execution
+jakarta,enterprise,jakarta.enterprise.event.Observes,Event Handling,Event Driven Processing
+jakarta,enterprise,jakarta.enterprise.inject.UnsatisfiedResolutionException,Error Handling,Exception Handling
+reactor,util,reactor.util.function.Tuple2,Utility,Data Conversion
+reactor,util,reactor.util.function.Tuples,Utility,Data Conversion
+jakarta,enterprise,jakarta.enterprise.inject.spi.AfterBeanDiscovery,Microservices/Services,Service Deployment
+util,stream,java.util.stream.Stream,Utility,Data Conversion
+junit,jupiter,org.junit.jupiter.api.DynamicContainer,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.DynamicTest,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.TestFactory,Test,Unit Testing
+jakarta,enterprise,jakarta.enterprise.inject.spi.ProcessBean,Microservices/Services,Service Communication
+assertj,core,org.assertj.core.api.Assertions,Test,Unit Testing
+springframework,data,org.springframework.data.repository.cdi.CdiRepositoryExtensionSupport,Application,Integration
+springframework,data,org.springframework.data.redis.core.RedisConnectionUtils.ConnectionSplittingInterceptor,Databases,Transaction Management
+springframework,beans,org.springframework.beans.factory.FactoryBean,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.support.BeanNameGenerator,Application,App Configuration
+springframework,context,org.springframework.context.annotation.ComponentScan.Filter,Application,App Configuration
+springframework,context,org.springframework.context.annotation.Import,Application,App Configuration
+springframework,data,org.springframework.data.redis.serializer.RedisSerializationContext.RedisSerializationContextBuilder,Databases,Database Optimization
+springframework,data,org.springframework.data.repository.config.DefaultRepositoryBaseClass,Application,App Configuration
+springframework,data,org.springframework.data.repository.query.QueryLookupStrategy,Databases,Query Execution
+springframework,data,org.springframework.data.repository.query.QueryLookupStrategy.Key,Databases,Query Execution
+springframework,context,org.springframework.context.annotation.ImportBeanDefinitionRegistrar,Application,App Configuration
+springframework,data,org.springframework.data.repository.config.RepositoryBeanDefinitionRegistrarSupport,Application,App Configuration
+springframework,data,org.springframework.data.repository.config.RepositoryConfigurationExtension,Databases,Query Execution
+springframework,beans,org.springframework.beans.factory.support.AbstractBeanDefinition,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.support.BeanDefinitionReaderUtils,Application,App Configuration
+assertj,core,org.assertj.core.data.Offset.offset,Test,Unit Testing
+springframework,beans,org.springframework.beans.factory.support.BeanDefinitionRegistry,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.support.RootBeanDefinition,Application,App Configuration
+net,net,java.net.InetSocketAddress,Network,Connection Management
+net,net,java.net.Socket,Network,Connection Management
+springframework,data,org.springframework.data.keyvalue.repository.config.KeyValueRepositoryConfigurationExtension,Databases,Query Execution
+springframework,data,org.springframework.data.repository.config.RepositoryConfigurationSource,Databases,Query Execution
+springframework,data,org.springframework.data.repository.core.support.PersistentEntityInformation,Databases,Schema Design
+springframework,data,org.springframework.data.repository.core.EntityInformation,Databases,Query Execution
+springframework,data,org.springframework.data.domain.ExampleMatcher.MatchMode,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.domain.ExampleMatcher.PropertyValueTransformer,Application,User Customization
+springframework,data,org.springframework.data.domain.ExampleMatcher.StringMatcher,Application,User Customization
+assertj,core,org.assertj.core.api.InstanceOfAssertFactories,Test,Unit Testing
+springframework,data,org.springframework.data.support.ExampleMatcherAccessor,Data Structure,Data Manipulation
+junit,jupiter,org.junit.jupiter.params.provider.EnumSource,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.ExpireChanges.ExpiryChangeState,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.types.Expirations.TimeToLive,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.test.condition.EnabledIfLongRunningTest,Test,Integration Testing
+reactor,test,reactor.test.StepVerifier,Test,Unit Testing
+springframework,data,org.springframework.data.convert.DtoInstantiatingConverter,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.repository.query.ParameterAccessor,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.repository.query.ParametersParameterAccessor,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.redis.core.ReactiveOperationsTestParams.Fixture,Test,Unit Testing
+springframework,data,org.springframework.data.repository.query.QueryMethod,Databases,Query Execution
+springframework,data,org.springframework.data.repository.query.ResultProcessor,Databases,Query Execution
+springframework,data,org.springframework.data.repository.query.ReturnedType,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.repository.query.ValueExpressionDelegate,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.repository.query.parser.AbstractQueryCreator,Databases,Query Execution
+springframework,data,org.springframework.data.util.ReflectionUtils,Utility,System Tools
+jakarta,enterprise,jakarta.enterprise.inject.se.SeContainer,Microservices/Services,Service Communication
+jakarta,enterprise,jakarta.enterprise.inject.se.SeContainerInitializer,Application,Integration
+springframework,data,org.springframework.data.repository.query.parser.Part,Databases,Query Execution
+springframework,data,org.springframework.data.repository.query.parser.PartTree,Databases,Query Execution
+jakarta,inject,jakarta.inject.Qualifier,Microservices/Services,Service Communication
+springframework,data,org.springframework.data.redis.test.extension.LettuceTestClientResources,Test,Integration Testing
+springframework,data,org.springframework.data.repository.cdi.Eager,Application,Integration
+jakarta,enterprise,jakarta.enterprise.inject.Disposes,Microservices/Services,Service Communication
+springframework,dao,org.springframework.dao.IncorrectResultSizeDataAccessException,Error Handling,Exception Handling
+jakarta,enterprise,jakarta.enterprise.inject.Produces,Microservices/Services,Service Communication
+springframework,data,org.springframework.data.projection.SpelAwareProxyProjectionFactory,Application,User Customization
+jakarta,inject,jakarta.inject.Inject,Microservices/Services,Service Communication
+springframework,data,org.springframework.data.redis.repository.query.ExampleQueryMapper,Databases,Query Execution
+springframework,data,org.springframework.data.redis.ByteBufferObjectFactory,Databases,Database Optimization
+springframework,data,org.springframework.data.repository.query.FluentQuery,Databases,Query Execution
+springframework,data,org.springframework.data.repository.query.ListQueryByExampleExecutor,Databases,Query Execution
+springframework,data,org.springframework.data.support.PageableExecutionUtils,Application,App Configuration
+springframework,data,org.springframework.data.keyvalue.repository.support.KeyValueRepositoryFactory,Databases,Query Execution
+springframework,data,org.springframework.data.redis.repository.core.MappingRedisEntityInformation,Databases,Query Execution
+springframework,data,org.springframework.data.repository.core.RepositoryMetadata,Databases,Query Execution
+springframework,data,org.springframework.data.repository.core.support.RepositoryComposition.RepositoryFragments,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.repository.core.support.RepositoryFactorySupport,Databases,Query Execution
+springframework,data,org.springframework.data.repository.core.support.RepositoryFragment,Data Structure,Data Manipulation
+springframework,beans,org.springframework.beans.factory.support.DefaultListableBeanFactory,Application,App Configuration
+springframework,data,org.springframework.data.repository.query.RepositoryQuery,Databases,Query Execution
+springframework,context,org.springframework.context.annotation.AnnotationBeanNameGenerator,Application,App Configuration
+springframework,core,org.springframework.core.env.StandardEnvironment,Application,App Configuration
+springframework,core,org.springframework.core.io.DefaultResourceLoader,Utility,System Tools
+springframework,core,org.springframework.core.type.AnnotationMetadata,Application,App Configuration
+springframework,data,org.springframework.data.repository.Repository,Databases,Query Execution
+springframework,beans,org.springframework.beans.factory.support.SimpleBeanDefinitionRegistry,Application,App Configuration
+springframework,data,org.springframework.data.redis.core.SessionCallback,Databases,Transaction Management
+springframework,core,org.springframework.core.env.Environment,Application,App Configuration
+springframework,core,org.springframework.core.io.ResourceLoader,Utility,System Tools
+springframework,core,org.springframework.core.io.support.PathMatchingResourcePatternResolver,Utility,System Tools
+util,function,java.util.function.DoubleBinaryOperator,Utility,Data Conversion
+springframework,core,org.springframework.core.type.StandardAnnotationMetadata,Application,App Configuration
+springframework,data,org.springframework.data.repository.config.AnnotationRepositoryConfigurationSource,Application,App Configuration
+springframework,data,org.springframework.data.repository.config.RepositoryConfiguration,Databases,Query Execution
+util,function,java.util.function.IntBinaryOperator,Utility,Performance Tools
+util,function,java.util.function.IntUnaryOperator,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.connection.BitFieldSubCommands.Offset.offset,Databases,Query Execution
+springframework,test,org.springframework.test.annotation.DirtiesContext,Test,Integration Testing
+util,function,java.util.function.LongBinaryOperator,Utility,Data Conversion
+util,function,java.util.function.LongUnaryOperator,Utility,Data Conversion
+assertj,core,org.assertj.core.api.Assertions.assertThatThrownBy,Test,Unit Testing
+util,util,java.util.AbstractCollection,Data Structure,Linear Structures
+springframework,data,org.springframework.data.domain.ExampleMatcher,Data Structure,Data Manipulation
+util,util,java.util.ConcurrentModificationException,Error Handling,Exception Handling
+util,util,java.util.ListIterator,Data Structure,Linear Structures
+springframework,data,org.springframework.data.geo.Box,Geographic Information System,Mapping
+springframework,data,org.springframework.data.redis.core.BoundListOperations,Databases,Query Execution
+springframework,data,org.springframework.data.repository.query.DefaultParameters,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.BoundHashFieldExpirationOperations,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.BoundHashOperations,Databases,Query Execution
+springframework,data,org.springframework.data.repository.query.ParametersSource,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.BoundSetOperations,Databases,Query Execution
+springframework,data,org.springframework.data.keyvalue.repository.support.SimpleKeyValueRepository,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.BoundZSetOperations,Databases,Database Optimization
+springframework,beans,org.springframework.beans.factory.SmartFactoryBean,Application,App Configuration
+util,util,java.util.Deque,Data Structure,Linear Structures
+springframework,data,org.springframework.data.redis.connection.BitFieldSubCommands.BitFieldType,Databases,Database Optimization
+util,concurrent,java.util.concurrent.ConcurrentMap,Data Structure,Data Manipulation
+io,io,java.io.OutputStream,Input-Output,Data Writing
+util,util,java.util.Enumeration,Utility,System Tools
+springframework,data,org.springframework.data.redis.DoubleAsStringObjectFactory,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.LongAsStringObjectFactory,Databases,Database Optimization
+util,util,java.util.SortedSet,Data Structure,Tree Structures
+util,function,java.util.function.UnaryOperator,Utility,Data Conversion
+springframework,core,org.springframework.core.convert.support.GenericConversionService,Utility,Data Conversion
+junit,jupiter,org.junit.jupiter.params.provider.Arguments,Test,Unit Testing
+springframework,data,org.springframework.data.redis.connection.convert.Converters.ClusterNodesConverter.AddressPortHostname,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.test.condition.EnabledOnRedisAvailable,Test,Integration Testing
+springframework,data,org.springframework.data.redis.test.condition.EnabledOnRedisSentinelAvailable,Test,Integration Testing
+springframework,data,org.springframework.data.redis.util.ConnectionVerifier,Databases,Database Optimization
+javax,net,javax.net.ssl.SSLContext,Security,Encryption
+javax,net,javax.net.ssl.SSLSession,Security,Encryption
+util,concurrent,java.util.concurrent.ExecutorService,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.Executors,Multi-Thread,Parallel Processing
+springframework,data,org.springframework.data.redis.PrefixStringObjectFactory,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.script.DigestUtils,Utility,Performance Tools
+springframework,data,org.springframework.data.redis.connection.ReactiveRedisClusterConnection,Databases,Query Execution
+text,text,java.text.DecimalFormat,Internationalization,Currency Conversion
+springframework,data,org.springframework.data.redis.core.script.DefaultRedisScript,Databases,Query Execution
+util,util,java.util.AbstractMap,Data Structure,Data Manipulation
+redis,clients,redis.clients.jedis.RedisProtocol,Databases,Query Execution
+springframework,data,org.springframework.data.annotation.TypeAlias,Databases,Schema Design
+javax,net,javax.net.ssl.HttpsURLConnection,Network,Network Security
+springframework,data,org.springframework.data.redis.core.ExpireChanges,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.RedisPassword,Databases,Database Security
+springframework,data,org.springframework.data.redis.connection.jedis.JedisConnectionFactory.State,Databases,Database Optimization
+mockito,Mockito,org.mockito.Mockito.verifyNoInteractions,Test,Unit Testing
+springframework,data,org.springframework.data.redis.connection.AbstractConnectionIntegrationTests,Test,Integration Testing
+springframework,data,org.springframework.data.redis.connection.DefaultStringTuple,Databases,Query Execution
+junit,runners,org.junit.runners.Parameterized.Parameters,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.DefaultTypedTuple,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.AbstractConnectionPipelineIntegrationTests,Test,Integration Testing
+springframework,data,org.springframework.data.redis.connection.AbstractConnectionTransactionIntegrationTests,Test,Integration Testing
+springframework,transaction,org.springframework.transaction.TransactionDefinition,Application,App Configuration
+springframework,transaction,org.springframework.transaction.TransactionException,Error Handling,Exception Handling
+springframework,transaction,org.springframework.transaction.support.AbstractPlatformTransactionManager,Application,App Configuration
+springframework,transaction,org.springframework.transaction.support.DefaultTransactionStatus,Application,Integration
+springframework,transaction,org.springframework.transaction.support.TransactionTemplate,Application,App Configuration
+junit,jupiter,org.junit.jupiter.api.Nested,Test,Unit Testing
+springframework,data,org.springframework.data.annotation.Id,Databases,Schema Design
+springframework,data,org.springframework.data.annotation.Reference,Databases,Schema Design
+springframework,data,org.springframework.data.redis.connection.AbstractConnectionUnitTestBase,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.RedisKeyValueAdapter.EnableKeyspaceEvents,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.RedisKeyValueAdapter.ShadowCopy,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.index.GeoIndexed,Geographic Information System,Location Services
+springframework,data,org.springframework.data.redis.support.collections.RedisCollectionFactoryBean.CollectionType,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.index.Indexed,Databases,Query Execution
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.anyLong,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.convert.Bucket,Databases,Database Optimization
+redis,clients,redis.clients.jedis.exceptions.JedisAskDataException,Error Handling,Exception Handling
+io,io,java.io.PrintWriter,Input-Output,Data Writing
+redis,clients,redis.clients.jedis.exceptions.JedisMovedDataException,Error Handling,Exception Handling
+io,io,java.io.StringWriter,Input-Output,Data Writing
+springframework,data,org.springframework.data.redis.test.extension.RedisSentinel,Test,Integration Testing
+springframework,data,org.springframework.data.redis.ConnectionFactoryTracker,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.AbstractTransactionalTestBase,Test,Unit Testing
+springframework,data,org.springframework.data.redis.connection.jedis.JedisTransactionalConnectionStarvationTest.PooledJedisContextConfiguration,Test,Unit Testing
+springframework,data,org.springframework.data.redis.core.query.SortQueryBuilder,Databases,Query Execution
+junit,jupiter,org.junit.jupiter.api.condition.EnabledIfSystemProperty,Test,Unit Testing
+springframework,data,org.springframework.data.redis.test.util.CollectionAwareComparator,Test,Unit Testing
+util,concurrent,java.util.concurrent.ThreadPoolExecutor,Multi-Thread,Parallel Processing
+junit,jupiter,org.junit.jupiter.api.extension.ConditionEvaluationResult,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.extension.ExecutionCondition,Test,Unit Testing
+junit,platform,org.junit.platform.commons.util.AnnotationUtils,Test,Unit Testing
+springframework,data,org.springframework.data.redis.test.RedisTestExtensionSupport,Test,Integration Testing
+io,lettuce,io.lettuce.core.protocol.ProtocolVersion,Network,Protocol Implementation
+springframework,data,org.springframework.data.redis.connection.RedisStaticMasterReplicaConfiguration,Databases,Database Optimization
+lang,reflect,java.lang.reflect.Field,Utility,System Tools
+junit,platform,org.junit.platform.commons.function.Try,Test,Unit Testing
+io,lettuce,io.lettuce.core.cluster.api.sync.RedisAdvancedClusterCommands,Databases,Query Execution
+junit,platform,org.junit.platform.commons.util.ReflectionUtils,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.AfterAll,Test,Unit Testing
+springframework,data,org.springframework.data.redis.connection.DefaultMessage,Event Handling,Event Driven Processing
+io,lettuce,io.lettuce.core.codec.ByteArrayCodec,Databases,Database Optimization
+io,lettuce,io.lettuce.core.output.ArrayOutput,Input-Output,Data Reading
+io,lettuce,io.lettuce.core.output.IntegerOutput,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.lettuce.LettuceConnection,Databases,Query Execution
+springframework,data,org.springframework.data.redis.test.extension.LettuceExtension,Test,Integration Testing
+io,lettuce,io.lettuce.core.models.command.CommandDetail,Databases,Query Execution
+io,lettuce,io.lettuce.core.models.command.CommandDetailParser,Parser,Syntax Parsing
+springframework,data,org.springframework.data.util.Version,Utility,System Tools
+io,lettuce,io.lettuce.core.cluster.api.async.RedisAdvancedClusterAsyncCommands,Databases,Query Execution
+lang,reflect,java.lang.reflect.Parameter,Language,Standard Libraries
+springframework,data,org.springframework.data.redis.connection.ClusterNodeResourceProvider,Databases,Database Optimization
+junit,jupiter,org.junit.jupiter.api.extension.BeforeEachCallback,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.extension.Extension,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.extension.ParameterContext,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.extension.ParameterResolutionException,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.extension.ParameterResolver,Test,Unit Testing
+springframework,core,org.springframework.core.ResolvableType,Application,App Configuration
+reactor,core,reactor.core.Disposable,Microservices/Services,Service Communication
+junit,jupiter,org.junit.jupiter.api.extension.AfterAllCallback,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.extension.AfterEachCallback,Test,Unit Testing
+util,concurrent,java.util.concurrent.BlockingQueue,Multi-Thread,Synchronization
+io,lettuce,io.lettuce.core.event.Event,Event Handling,Event Driven Processing
+io,lettuce,io.lettuce.core.event.EventBus,Event Handling,Event Driven Processing
+io,lettuce,io.lettuce.core.resource.DefaultClientResources,Network,Connection Management
+springframework,core,org.springframework.core.Ordered,Utility,System Tools
+util,concurrent,java.util.concurrent.CancellationException,Error Handling,Exception Handling
+redis,clients,redis.clients.jedis.util.IOUtils,Input-Output,Network IO
+springframework,core,org.springframework.core.OrderComparator,Utility,System Tools
+mockito,internal,org.mockito.internal.invocation.InvocationMatcher,Test,Unit Testing
+mockito,internal,org.mockito.internal.verification.api.VerificationData,Test,Unit Testing
+mockito,invocation,org.mockito.invocation.Invocation,Test,Unit Testing
+mockito,invocation,org.mockito.invocation.MatchableInvocation,Test,Unit Testing
+mockito,verification,org.mockito.verification.VerificationMode,Test,Unit Testing
+assertj,core,org.assertj.core.api.AssertProvider,Test,Unit Testing
+assertj,core,org.assertj.core.api.MapAssert,Test,Unit Testing
+assertj,core,org.assertj.core.internal.Failures,Test,Unit Testing
+hamcrest,hamcrest,org.hamcrest.Matchers,Test,Unit Testing
+springframework,data,org.springframework.data.redis.connection.jedis.JedisClientConfiguration,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.test.extension.ShutdownQueue,Test,Integration Testing
+springframework,data,org.springframework.data.redis.connection.lettuce.LettuceClientConfiguration,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.lettuce.LettucePoolingClientConfiguration,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.script.AbstractDefaultScriptExecutorTests,Test,Unit Testing
+springframework,data,org.springframework.data.redis.Address,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.hash.BeanUtilsHashMapper,Databases,Database Optimization
+time,time,java.time.LocalDateTime,Utility,System Tools
+time,time,java.time.Month,Utility,System Tools
+springframework,data,org.springframework.data.redis.hash.Jackson2HashMapper,Databases,Database Optimization
+time,time,java.time.LocalDate,Utility,System Tools
+springframework,data,org.springframework.data.redis.hash.Jackson3HashMapper,Databases,Database Optimization
+tools,jackson,tools.jackson.core.json.JsonReadFeature,Parser,Data Conversion
+tools,jackson,tools.jackson.databind.MapperFeature,Utility,Data Conversion
+springframework,context,org.springframework.context.annotation.ComponentScan,Application,App Configuration
+springframework,context,org.springframework.context.annotation.FilterType,Application,App Configuration
+springframework,data,org.springframework.data.redis.repository.configuration.EnableRedisRepositories,Databases,Query Execution
+springframework,test,org.springframework.test.context.ContextConfiguration,Test,Integration Testing
+time,time,java.time.OffsetDateTime,Utility,System Tools
+time,time,java.time.OffsetTime,Utility,System Tools
+springframework,data,org.springframework.data.domain.Example,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.domain.Page,Databases,Query Execution
+springframework,data,org.springframework.data.domain.PageRequest,Application,App Configuration
+springframework,data,org.springframework.data.domain.Pageable,Application,App Configuration
+springframework,data,org.springframework.data.domain.Slice,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.domain.Sort,Data Structure,Data Sorting
+springframework,data,org.springframework.data.redis.core.RedisHash,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.index.IndexDefinition,Databases,Schema Design
+springframework,data,org.springframework.data.redis.core.index.SimpleIndexDefinition,Databases,Schema Design
+springframework,data,org.springframework.data.repository.CrudRepository,Databases,Query Execution
+springframework,data,org.springframework.data.repository.PagingAndSortingRepository,Databases,Query Execution
+springframework,data,org.springframework.data.repository.query.QueryByExampleExecutor,Databases,Query Execution
+springframework,data,org.springframework.data.convert.ConfigurableTypeInformationMapper,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.redis.core.convert.DefaultRedisTypeMapper,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.convert.RedisTypeMapper,Databases,Database Optimization
+msgpack,jackson,org.msgpack.jackson.dataformat.MessagePackFactory,Data Structure,Data Manipulation
+springframework,beans,org.springframework.beans.BeanUtils,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.annotation.JsonView,Application,User Customization
+fasterxml,jackson,com.fasterxml.jackson.core.JsonGenerationException,Error Handling,Exception Handling
+fasterxml,jackson,com.fasterxml.jackson.core.JsonProcessingException,Error Handling,Exception Handling
+fasterxml,jackson,com.fasterxml.jackson.databind.JsonMappingException,Error Handling,Exception Handling
+fasterxml,jackson,com.fasterxml.jackson.databind.annotation.JsonDeserialize,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.annotation.JsonSerialize,Application,User Customization
+fasterxml,jackson,com.fasterxml.jackson.datatype.jsr310.deser.LocalDateDeserializer,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.datatype.jsr310.ser.LocalDateSerializer,Utility,Data Conversion
+assertj,core,org.assertj.core.api.AssertionsForClassTypes.assertThatExceptionOfType,Test,Unit Testing
+tools,jackson,tools.jackson.core.exc.JacksonIOException,Error Handling,Exception Handling
+tools,jackson,tools.jackson.core.exc.StreamReadException,Error Handling,Exception Handling
+tools,jackson,tools.jackson.databind.annotation.JsonDeserialize,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.annotation.JsonSerialize,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.ext.javatime.deser.LocalDateDeserializer,Utility,Data Conversion
+tools,jackson,tools.jackson.databind.ext.javatime.ser.LocalDateSerializer,Utility,Data Conversion
+io,lettuce,io.lettuce.core.codec.StringCodec,Databases,Query Execution
+io,lettuce,io.lettuce.core.output.NestedMultiOutput,Input-Output,Data Reading
+util,concurrent,java.util.concurrent.LinkedBlockingQueue,Multi-Thread,Thread Safety
+junit,jupiter,org.junit.jupiter.api.TestInstance,Test,Unit Testing
+springframework,data,org.springframework.data.redis.stream.StreamMessageListenerContainer.StreamMessageListenerContainerOptions,Event Handling,Event Driven Processing
+springframework,data,org.springframework.data.redis.stream.StreamReceiver.StreamReceiverOptions,Event Handling,Event Driven Processing
+springframework,data,org.springframework.data.redis.core.BoundKeyOperations,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.support.atomic.RedisAtomicInteger,Databases,Transaction Management
+springframework,data,org.springframework.data.redis.support.atomic.RedisAtomicLong,Databases,Transaction Management
+springframework,data,org.springframework.data.redis.support.collections.DefaultRedisMap,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.redis.support.collections.DefaultRedisSet,Data Structure,Data Manipulation
+springframework,data,org.springframework.data.redis.support.collections.RedisList,Data Structure,Linear Structures
+junit,jupiter,org.junit.jupiter.api.extension.ExtensionContext,Test,Unit Testing
+springframework,oxm,org.springframework.oxm.xstream.XStreamMarshaller,Application,Integration
+thoughtworks,xstream,com.thoughtworks.xstream.security.AnyTypePermission,Security,Authorization
+io,io,java.io.StringReader,Input-Output,Data Reading
+springframework,data,org.springframework.data.redis.connection.ClusterSlotHashUtil,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.RedisClusterNode.Flag,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.RedisClusterNode.RedisClusterNodeBuilder,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.core.types.RedisClientInfo.RedisClientInfoBuilder,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.FutureResult,Databases,Query Execution
+javax,net,javax.net.ssl.HostnameVerifier,Security,Authentication
+javax,net,javax.net.ssl.SSLParameters,Security,Encryption
+javax,net,javax.net.ssl.SSLSocketFactory,Network,Network Security
+commons,pool2,org.apache.commons.pool2.impl.GenericObjectPoolConfig,Utility,Performance Tools
+redis,clients,redis.clients.jedis.DefaultJedisClientConfig,Databases,Database Optimization
+redis,clients,redis.clients.jedis.JedisPoolConfig,Databases,Database Optimization
+redis,clients,redis.clients.jedis.Protocol,Databases,Query Execution
+net,net,java.net.SocketAddress,Network,Connection Management
+redis,clients,redis.clients.jedis.commands.ProtocolCommand,Databases,Query Execution
+redis,clients,redis.clients.jedis.Connection,Databases,Query Execution
+redis,clients,redis.clients.jedis.HostAndPort,Databases,Database Optimization
+redis,clients,redis.clients.jedis.JedisClusterInfoCache,Databases,Database Optimization
+redis,clients,redis.clients.jedis.providers.ClusterConnectionProvider,Databases,Database Optimization
+springframework,beans,org.springframework.beans.PropertyAccessor,Application,App Configuration
+springframework,data,org.springframework.data.redis.FallbackExceptionTranslationStrategy,Error Handling,Exception Handling
+redis,clients,redis.clients.jedis.GeoCoordinate,Geographic Information System,Location Services
+redis,clients,redis.clients.jedis.args.GeoUnit,Geographic Information System,Location Services
+redis,clients,redis.clients.jedis.params.GeoRadiusParam,Geographic Information System,Location Services
+redis,clients,redis.clients.jedis.params.GeoSearchParam,Geographic Information System,Location Services
+redis,clients,redis.clients.jedis.args.ExpiryOption,Databases,Database Optimization
+redis,clients,redis.clients.jedis.params.ScanParams,Databases,Database Optimization
+redis,clients,redis.clients.jedis.resps.ScanResult,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisHashCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.ScanCursor,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.ScanIteration,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.RedisHyperLogLogCommands,Databases,Database Optimization
+redis,clients,redis.clients.jedis.params.RestoreParams,Databases,Backup and Recovery
+util,concurrent,java.util.concurrent.ThreadLocalRandom,Multi-Thread,Thread Safety
+springframework,data,org.springframework.data.redis.connection.RedisNode,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.ValueEncoding,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.jedis.JedisClusterConnection.JedisClusterCommandCallback,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.jedis.JedisClusterConnection.JedisMultiKeyClusterCommandCallback,Databases,Query Execution
+redis,clients,redis.clients.jedis.args.ListDirection,Databases,Query Execution
+redis,clients,redis.clients.jedis.params.LPosParams,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisListCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ClusterCommandExecutor,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisScriptingCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReturnType,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisClusterServerCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisSetCommands,Databases,Database Optimization
+redis,clients,redis.clients.jedis.BuilderFactory,Databases,Database Optimization
+redis,clients,redis.clients.jedis.params.XAddParams,Databases,Database Optimization
+redis,clients,redis.clients.jedis.params.XClaimParams,Databases,Query Execution
+redis,clients,redis.clients.jedis.params.XPendingParams,Databases,Database Optimization
+redis,clients,redis.clients.jedis.params.XReadGroupParams,Databases,Query Execution
+redis,clients,redis.clients.jedis.params.XReadParams,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisStreamCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.stream.StreamInfo,Databases,Database Optimization
+redis,clients,redis.clients.jedis.params.SetParams,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.lettuce.LettuceConverters,Databases,Database Optimization
+redis,clients,redis.clients.jedis.params.ZParams,Databases,Database Optimization
+redis,clients,redis.clients.jedis.params.ZRangeParams,Databases,Query Execution
+redis,clients,redis.clients.jedis.util.KeyValue,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.RedisZSetCommands,Databases,Database Optimization
+redis,clients,redis.clients.jedis.CommandArguments,Databases,Query Execution
+redis,clients,redis.clients.jedis.CommandObject,Databases,Query Execution
+redis,clients,redis.clients.jedis.JedisClientConfig,Databases,Database Optimization
+redis,clients,redis.clients.jedis.Pipeline,Databases,Query Execution
+redis,clients,redis.clients.jedis.Response,Databases,Query Execution
+redis,clients,redis.clients.jedis.Transaction,Databases,Transaction Management
+redis,clients,redis.clients.jedis.commands.ServerCommands,Databases,Database Optimization
+redis,clients,redis.clients.jedis.exceptions.JedisDataException,Databases,Query Execution
+redis,clients,redis.clients.jedis.util.Pool,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.convert.TransactionResultConverter,Databases,Transaction Management
+springframework,data,org.springframework.data.redis.connection.jedis.JedisInvoker.ResponseCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.jedis.JedisResult.JedisResultBuilder,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.jedis.JedisResult.JedisStatusResult,Databases,Query Execution
+redis,clients,redis.clients.jedis.JedisPool,Databases,Database Optimization
+redis,clients,redis.clients.jedis.JedisSentinelPool,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.jedis.JedisClusterConnection.JedisClusterTopologyProvider,Databases,Database Optimization
+redis,clients,redis.clients.jedis.args.BitOP,Databases,Database Optimization
+redis,clients,redis.clients.jedis.args.FlushMode,Databases,Database Optimization
+redis,clients,redis.clients.jedis.args.ListPosition,Databases,Query Execution
+redis,clients,redis.clients.jedis.params.GetExParams,Databases,Query Execution
+redis,clients,redis.clients.jedis.params.SortingParams,Databases,Query Execution
+redis,clients,redis.clients.jedis.params.ZAddParams,Databases,Database Optimization
+redis,clients,redis.clients.jedis.resps.GeoRadiusResponse,Geographic Information System,Location Services
+redis,clients,redis.clients.jedis.util.SafeEncoder,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.connection.BitFieldSubCommands.BitFieldIncrBy,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.BitFieldSubCommands.BitFieldSet,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.RedisServer,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.SortParameters.Range,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.convert.StringToRedisClientInfoConverter,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.domain.geo.BoxShape,Geographic Information System,Spatial Analysis
+springframework,data,org.springframework.data.redis.domain.geo.RadiusShape,Geographic Information System,Location Services
+redis,clients,redis.clients.jedis.exceptions.JedisClusterOperationException,Error Handling,Exception Handling
+redis,clients,redis.clients.jedis.exceptions.JedisConnectionException,Network,Connection Management
+redis,clients,redis.clients.jedis.exceptions.JedisException,Databases,Query Execution
+redis,clients,redis.clients.jedis.exceptions.JedisRedirectionException,Error Handling,Exception Handling
+net,net,java.net.UnknownHostException,Network,Connection Management
+redis,clients,redis.clients.jedis.commands.PipelineBinaryCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.Cursor.CursorId,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.KeyBoundCursor,Databases,Query Execution
+redis,clients,redis.clients.jedis.commands.DatabasePipelineCommands,Databases,Transaction Management
+redis,clients,redis.clients.jedis.commands.JedisBinaryCommands,Databases,Query Execution
+redis,clients,redis.clients.jedis.BinaryJedisPubSub,Event Handling,Notifications
+redis,clients,redis.clients.jedis.commands.ScriptingKeyPipelineBinaryCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.RedisURI,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.NamedNode,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.RedisSentinelCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.RedisSentinelConnection,Databases,Database Optimization
+redis,clients,redis.clients.jedis.args.SaveMode,Databases,Backup and Recovery
+redis,clients,redis.clients.jedis.commands.StreamPipelineBinaryCommands,Databases,Query Execution
+redis,clients,redis.clients.jedis.resps.StreamConsumerInfo,Databases,Database Optimization
+redis,clients,redis.clients.jedis.resps.StreamGroupInfo,Databases,Database Optimization
+redis,clients,redis.clients.jedis.params.BitPosParams,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.util.AbstractSubscription,Data Structure,Data Manipulation
+redis,clients,redis.clients.jedis.StreamEntryID,Databases,Database Optimization
+redis,clients,redis.clients.jedis.resps.StreamEntry,Databases,Database Optimization
+redis,clients,redis.clients.jedis.resps.StreamPendingEntry,Databases,Database Optimization
+io,lettuce,io.lettuce.core.ReadFrom,Databases,Query Execution
+io,lettuce,io.lettuce.core.api.StatefulConnection,Databases,Query Execution
+io,lettuce,io.lettuce.core.cluster.RedisClusterClient,Databases,Database Optimization
+io,lettuce,io.lettuce.core.cluster.api.StatefulRedisClusterConnection,Databases,Query Execution
+io,lettuce,io.lettuce.core.cluster.pubsub.StatefulRedisClusterPubSubConnection,Databases,Query Execution
+io,lettuce,io.lettuce.core.codec.RedisCodec,Databases,Query Execution
+io,lettuce,io.lettuce.core.pubsub.StatefulRedisPubSubConnection,Databases,Query Execution
+io,lettuce,io.lettuce.core.ClientOptions,Databases,Database Optimization
+io,lettuce,io.lettuce.core.SslVerifyMode,Security,Encryption
+io,lettuce,io.lettuce.core.resource.ClientResources,Network,Connection Management
+io,lettuce,io.lettuce.core.pubsub.RedisPubSubListener,Event Handling,Event Driven Processing
+io,lettuce,io.lettuce.core.TimeoutOptions,Databases,Database Optimization
+io,lettuce,io.lettuce.core.api.sync.BaseRedisCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.cluster.SlotHash,Databases,Database Optimization
+io,lettuce,io.lettuce.core.cluster.api.sync.RedisClusterCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.KeyScanCursor,Databases,Query Execution
+io,lettuce,io.lettuce.core.ScanArgs,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.lettuce.LettuceClusterConnection.LettuceClusterCommandCallback,Databases,Query Execution
+io,lettuce,io.lettuce.core.KeyValue,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.lettuce.LettuceClusterConnection.LettuceMultiKeyClusterCommandCallback,Databases,Query Execution
+io,lettuce,io.lettuce.core.api.sync.RedisServerCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.api.sync.RedisSetCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ClusterTopology,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.ClusterTopologyProvider,Databases,Database Optimization
+io,lettuce,io.lettuce.core.AbstractRedisClient,Databases,Query Execution
+io,lettuce,io.lettuce.core.LettuceFutures,Network,Connection Management
+io,lettuce,io.lettuce.core.RedisClient,Databases,Query Execution
+io,lettuce,io.lettuce.core.RedisFuture,Databases,Query Execution
+io,lettuce,io.lettuce.core.TransactionResult,Databases,Transaction Management
+io,lettuce,io.lettuce.core.api.StatefulRedisConnection,Databases,Query Execution
+io,lettuce,io.lettuce.core.api.async.RedisAsyncCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.api.sync.RedisCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.cluster.api.async.RedisClusterAsyncCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.protocol.Command,Databases,Query Execution
+io,lettuce,io.lettuce.core.protocol.CommandArgs,Databases,Query Execution
+io,lettuce,io.lettuce.core.protocol.CommandType,Databases,Query Execution
+io,lettuce,io.lettuce.core.protocol.ProtocolKeyword,Databases,Query Execution
+io,lettuce,io.lettuce.core.sentinel.api.StatefulRedisSentinelConnection,Databases,Query Execution
+lang,reflect,java.lang.reflect.Constructor,Utility,System Tools
+springframework,dao,org.springframework.dao.QueryTimeoutException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.connection.lettuce.LettuceConnectionProvider.TargetAware,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.lettuce.LettuceResult.LettuceResultBuilder,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.RedisCommand,Databases,Query Execution
+io,lettuce,io.lettuce.core.RedisConnectionException,Databases,Query Execution
+io,lettuce,io.lettuce.core.RedisCredentialsProvider,Databases,Database Security
+io,lettuce,io.lettuce.core.cluster.ClusterClientOptions,Databases,Database Optimization
+util,concurrent,java.util.concurrent.CompletionStage,Multi-Thread,Parallel Processing
+springframework,data,org.springframework.data.util.Optionals,Utility,System Tools
+io,lettuce,io.lettuce.core.cluster.models.partitions.Partitions,Databases,Database Optimization
+io,lettuce,io.lettuce.core.cluster.models.partitions.RedisClusterNode.NodeFlag,Databases,Database Optimization
+springframework,data,org.springframework.data.redis.connection.BitFieldSubCommands.BitFieldGet,Databases,Query Execution
+io,lettuce,io.lettuce.core.RedisCommandExecutionException,Error Handling,Exception Handling
+io,lettuce,io.lettuce.core.RedisCommandInterruptedException,Error Handling,Exception Handling
+io,lettuce,io.lettuce.core.RedisCommandTimeoutException,Error Handling,Exception Handling
+io,lettuce,io.lettuce.core.RedisException,Databases,Query Execution
+io,netty,io.netty.channel.ChannelException,Network,Connection Management
+io,lettuce,io.lettuce.core.GeoArgs,Geographic Information System,Location Services
+io,lettuce,io.lettuce.core.GeoSearch,Geographic Information System,Location Services
+io,lettuce,io.lettuce.core.GeoWithin,Geographic Information System,Location Services
+io,lettuce,io.lettuce.core.api.async.RedisGeoAsyncCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.ExpireArgs,Databases,Database Optimization
+io,lettuce,io.lettuce.core.MapScanCursor,Databases,Query Execution
+io,lettuce,io.lettuce.core.api.async.RedisHashAsyncCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.api.async.RedisHLLAsyncCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.CopyArgs,Databases,Database Optimization
+io,lettuce,io.lettuce.core.RestoreArgs,Databases,Backup and Recovery
+io,lettuce,io.lettuce.core.ScanCursor,Databases,Query Execution
+io,lettuce,io.lettuce.core.SortArgs,Databases,Query Execution
+io,lettuce,io.lettuce.core.api.async.RedisKeyAsyncCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.LPosArgs,Databases,Query Execution
+io,lettuce,io.lettuce.core.api.async.RedisListAsyncCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.support.AsyncConnectionPoolSupport,Databases,Query Execution
+io,lettuce,io.lettuce.core.support.AsyncPool,Network,Connection Management
+io,lettuce,io.lettuce.core.support.BoundedPoolConfig,Databases,Database Optimization
+io,lettuce,io.lettuce.core.support.CommonsPool2ConfigConverter,Utility,Data Conversion
+io,lettuce,io.lettuce.core.support.ConnectionPoolSupport,Databases,Connection Management
+commons,pool2,org.apache.commons.pool2.impl.GenericObjectPool,Utility,Performance Tools
+springframework,data,org.springframework.data.redis.connection.PoolException,Error Handling,Exception Handling
+springframework,data,org.springframework.data.redis.connection.ReactiveClusterGeoCommands,Geographic Information System,Location Services
+springframework,data,org.springframework.data.redis.connection.ReactiveClusterHashCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveClusterHyperLogLogCommands,Databases,Database Optimization
+io,lettuce,io.lettuce.core.api.reactive.RedisKeyReactiveCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveClusterKeyCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveClusterListCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveClusterNumberCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveClusterScriptingCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.api.reactive.RedisServerReactiveCommands,Databases,Query Execution
+util,function,java.util.function.BinaryOperator,Utility,Data Conversion
+util,stream,java.util.stream.Collector,Utility,Data Conversion
+springframework,data,org.springframework.data.redis.connection.ReactiveClusterServerCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveClusterSetCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveClusterStreamCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveClusterStringCommands,Databases,Query Execution
+springframework,data,org.springframework.data.redis.connection.ReactiveClusterZSetCommands,Databases,Query Execution
+io,lettuce,io.lettuce.core.GeoCoordinates,Geographic Information System,Location Services
+io,lettuce,io.lettuce.core.Value,Databases,Query Execution
+io,lettuce,io.lettuce.core.ScanStream,Data Structure,Data Manipulation
+io,lettuce,io.lettuce.core.LMoveArgs,Databases,Query Execution
+springframework,data,org.springframework.data.redis.core.TimeoutUtils,Utility,System Tools

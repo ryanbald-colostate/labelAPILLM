@@ -1,0 +1,1538 @@
+io,kubernetes,io.kubernetes.client.openapi.ApiClient,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.ApiException,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.openapi.Configuration,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1Pod,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.WebSocketStreamHandler,Network,Data Transmission
+io,kubernetes,io.kubernetes.client.util.WebSockets,Network,Data Transmission
+io,io,java.io.IOException,Input-Output,Network IO
+io,io,java.io.InputStream,Input-Output,Data Reading
+io,io,java.io.OutputStream,Input-Output,Data Writing
+io,kubernetes,io.kubernetes.client.openapi.models.V1PortworxVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.apimachinery.KubernetesRequestDigest,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1QuobyteVolumeSource,Cloud,Resource Management
+io,prometheus,io.prometheus.client.Counter,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.util.Streams,Input-Output,Stream Management
+io,kubernetes,io.kubernetes.client.util.exception.CopyNotSupportedException,Error Handling,Exception Handling
+io,io,java.io.BufferedInputStream,Input-Output,Buffering Strategies
+io,io,java.io.BufferedReader,Input-Output,Buffering Strategies
+io,io,java.io.ByteArrayInputStream,Input-Output,Data Reading
+io,io,java.io.File,Input-Output,File Management
+io,io,java.io.FileInputStream,Input-Output,Data Reading
+io,io,java.io.FileOutputStream,Input-Output,Data Writing
+io,prometheus,io.prometheus.client.Histogram,Application Performance Manager,Performance Monitoring
+io,prometheus,io.prometheus.client.SimpleTimer,Application Performance Manager,Performance Monitoring
+io,io,java.io.InputStreamReader,Input-Output,Data Reading
+io,kubernetes,io.kubernetes.client.openapi.models.V1RBDPersistentVolumeSource,Cloud,Resource Management
+nio,file,java.nio.file.Path,Input-Output,File Management
+nio,file,java.nio.file.Paths,Input-Output,File Management
+util,concurrent,java.util.concurrent.ExecutionException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.Future,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.TimeUnit,Multi-Thread,Concurrency Control
+commons,codec,org.apache.commons.codec.binary.Base64InputStream,Input-Output,Data Reading
+commons,compress,org.apache.commons.compress.archivers.ArchiveEntry,Utility,Backup Tools
+commons,compress,org.apache.commons.compress.archivers.ArchiveInputStream,Input-Output,Data Reading
+commons,compress,org.apache.commons.compress.archivers.ArchiveOutputStream,Input-Output,Data Writing
+commons,compress,org.apache.commons.compress.archivers.tar.TarArchiveEntry,Input-Output,Data Writing
+commons,compress,org.apache.commons.compress.archivers.tar.TarArchiveInputStream,Input-Output,Data Reading
+commons,compress,org.apache.commons.compress.archivers.tar.TarArchiveOutputStream,Input-Output,Data Writing
+commons,compress,org.apache.commons.compress.compressors.gzip.GzipCompressorInputStream,Input-Output,Data Reading
+commons,io,org.apache.commons.io.FilenameUtils,Input-Output,File Management
+slf4j,slf4j,org.slf4j.Logger,Logging,Error Logs
+slf4j,slf4j,org.slf4j.LoggerFactory,Logging,Event Logging
+okhttp3,okhttp3,okhttp3.Interceptor,Network,Data Transmission
+io,kubernetes,io.kubernetes.client.openapi.models.V1ScaleIOPersistentVolumeSource,Cloud,Scalability Solutions
+io,kubernetes,io.kubernetes.client.openapi.ApiResponse,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1StorageOSPersistentVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1APIGroup,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1APIGroupList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1APIResourceList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1APIVersions,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.exception.IncompleteDiscoveryException,Error Handling,Exception Handling
+util,util,java.util.ArrayList,Data Structure,Linear Structures
+util,util,java.util.Arrays,Utility,Data Conversion
+util,util,java.util.Collections,Utility,Performance Tools
+util,util,java.util.HashMap,Data Structure,Data Manipulation
+util,util,java.util.HashSet,Data Structure,Linear Structures
+util,util,java.util.List,Data Structure,Linear Structures
+util,util,java.util.Map,Data Structure,Data Manipulation
+util,util,java.util.Objects,Utility,System Tools
+util,util,java.util.Optional,Utility,Data Conversion
+util,util,java.util.Set,Data Structure,Tree Structures
+util,stream,java.util.stream.Collectors,Utility,Data Conversion
+okhttp3,okhttp3,okhttp3.Call,Network,Data Transmission
+gson,reflect,com.google.gson.reflect.TypeToken,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.custom.IOTrio,Input-Output,Network IO
+io,kubernetes,io.kubernetes.client.openapi.models.V1IngressPortStatus,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1VolumeNodeAffinity,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CertificateSigningRequestStatus,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.apis.CoreV1Api,Cloud,Resource Management
+io,io,java.io.FileWriter,Input-Output,Data Writing
+io,kubernetes,io.kubernetes.client.openapi.models.V1Status,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1StatusCause,Error Handling,Error Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1StatusDetails,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.openapi.models.V1VsphereVirtualDiskVolumeSource,Cloud,Virtualization
+io,kubernetes,io.kubernetes.client.persister.ConfigPersister,DevOps,Configuration Management
+yaml,snakeyaml,org.yaml.snakeyaml.LoaderOptions,Parser,Data Conversion
+yaml,snakeyaml,org.yaml.snakeyaml.Yaml,Parser,Data Conversion
+yaml,snakeyaml,org.yaml.snakeyaml.constructor.SafeConstructor,Parser,Data Conversion
+io,io,java.io.Reader,Input-Output,Data Reading
+io,io,java.io.UnsupportedEncodingException,Input-Output,Data Reading
+lang,reflect,java.lang.reflect.Type,Language,Type Systems
+net,net,java.net.URLEncoder,Network,Data Transmission
+io,kubernetes,io.kubernetes.client.openapi.models.V1Deployment,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1DeploymentList,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.custom.V1Patch,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.apis.AppsV1Api,DevOps,Continuous Deployment
+util,concurrent,java.util.concurrent.CompletableFuture,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.CountDownLatch,Multi-Thread,Synchronization
+io,kubernetes,io.kubernetes.client.openapi.models.V1Namespace,Cloud,Resource Management
+util,function,java.util.function.BiConsumer,Utility,Data Conversion
+util,function,java.util.function.Consumer,Utility,Data Conversion
+util,function,java.util.function.Supplier,Utility,System Tools
+commons,lang3,org.apache.commons.lang3.StringUtils,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.custom.NodeMetrics,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.custom.NodeMetricsList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.custom.PodMetrics,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.custom.PodMetricsList,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1SecretProjection,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServiceAccountTokenProjection,Cloud,Cloud Security
+okhttp3,okhttp3,okhttp3.OkHttpClient,Network,Connection Management
+io,kubernetes,io.kubernetes.client.util.generic.GenericKubernetesApi,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodTemplate,DevOps,Configuration Management
+springframework,util,org.springframework.util.Assert.notNull,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.spring.extended.manifests.KubernetesFromConfigMapProcessor,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.spring.extended.manifests.KubernetesFromYamlProcessor,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.spring.extended.controller.factory.KubernetesControllerFactory,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.Config.ENV_KUBECONFIG,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.Config.ENV_SERVICE_HOST,Cloud,Service Configuration
+okhttp3,okhttp3,okhttp3.Response,Network,Data Transmission
+io,kubernetes,io.kubernetes.client.util.Config.ENV_SERVICE_PORT,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.util.Config.SERVICEACCOUNT_CA_PATH,Cloud,Cloud Security
+io,kubernetes,io.kubernetes.client.util.Config.SERVICEACCOUNT_TOKEN_PATH,Cloud,Cloud Security
+io,kubernetes,io.kubernetes.client.openapi.Pair,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.util.KubeConfig.ENV_HOME,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.KubeConfig.KUBECONFIG,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.KubeConfig.KUBEDIR,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1FieldSelectorAttributes,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LabelSelectorAttributes,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CertificateSigningRequest,Security,Authentication
+io,kubernetes,io.kubernetes.client.persister.FilePersister,Input-Output,File Management
+io,kubernetes,io.kubernetes.client.util.credentials.AccessTokenAuthentication,Security,Authentication
+io,kubernetes,io.kubernetes.client.util.credentials.Authentication,DevOps,Configuration Management
+protobuf,protobuf,com.google.protobuf.CodedOutputStream,Utility,Data Conversion
+protobuf,protobuf,com.google.protobuf.Message,Microservices/Services,Service Communication
+protobuf,Message,com.google.protobuf.Message.Builder,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.util.credentials.ClientCertificateAuthentication,Security,Authentication
+io,kubernetes,io.kubernetes.client.util.credentials.KubeconfigAuthentication,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.credentials.TokenFileAuthentication,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.exception.CSRNotApprovedException,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.proto.Meta.DeleteOptions,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.proto.Meta.Status,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.proto.Runtime.TypeMeta,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.proto.Runtime.Unknown,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.informer.EventType,Event Handling,System Events
+io,kubernetes,io.kubernetes.client.openapi.models.V2HorizontalPodAutoscalerCondition,DevOps,Monitoring and Logging
+okhttp3,okhttp3,okhttp3.MediaType,Network,Data Transmission
+okhttp3,okhttp3,okhttp3.Request,Network,Data Transmission
+okhttp3,okhttp3,okhttp3.RequestBody,Network,Data Transmission
+okhttp3,okhttp3,okhttp3.Credentials,Network,Network Security
+okio,okio,okio.BufferedSource,Input-Output,Data Reading
+okio,okio,okio.ByteString,Utility,Data Conversion
+gson,gson,com.google.gson.Gson,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.V2MetricStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.informer.exception.WatchExpiredException,Error Handling,Exception Handling
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.aResponse,Test,Integration Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.equalTo,Test,Integration Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.get,Test,Integration Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.getRequestedFor,Test,Unit Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.urlPathEqualTo,Test,Integration Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.core.WireMockConfiguration.options,Test,Integration Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.junit5.WireMockExtension,Test,Integration Testing
+io,kubernetes,io.kubernetes.client.Attach.AttachResult,DevOps,Configuration Management
+time,time,java.time.ZoneId,Internationalization,Date/Time Formatting
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.util.ClientBuilder,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeStatus,Cloud,Resource Management
+net,net,java.net.URISyntaxException,Error Handling,Exception Handling
+junit,jupiter,org.junit.jupiter.api.BeforeEach,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Test,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.extension.RegisterExtension,Test,Unit Testing
+time,time,java.time.ZoneOffset,Utility,System Tools
+springframework,beans,org.springframework.beans.factory.config.BeanDefinition,Application,App Configuration
+security,security,java.security.PrivateKey,Security,Encryption
+github,tomakehurst,com.github.tomakehurst.wiremock.core.WireMockConfiguration.wireMockConfig,Test,Integration Testing
+time,time,java.time.Duration,Utility,System Tools
+github,tomakehurst,com.github.tomakehurst.wiremock.matching.AnythingPattern,Test,Integration Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeAffinity,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ObjectMeta,DevOps,Configuration Management
+okhttp3,okhttp3,okhttp3.Protocol,Network,Connection Management
+commons,compress,org.apache.commons.compress.utils.IOUtils,Input-Output,Data Reading
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodAffinity,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodAntiAffinity,DevOps,Configuration Management
+nio,file,java.nio.file.Files,Input-Output,"Data Reading, Data Writing, File Management"
+io,kubernetes,io.kubernetes.client.util.credentials.UsernamePasswordAuthentication,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.AdmissionregistrationV1WebhookClientConfig,Cloud,Cloud Security
+junit,jupiter,org.junit.jupiter.api.io.TempDir,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1IngressLoadBalancerIngress,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1EndpointSlice,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1EndpointSliceList,Cloud,Resource Management
+assertj,core,org.assertj.core.api.Assertions.assertThat,Test,Unit Testing
+assertj,core,org.assertj.core.api.Assertions.failBecauseExceptionWasNotThrown,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.Discovery.APIResource,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1APIResource,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1KeyToPath,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1GroupVersionForDiscovery,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1MatchCondition,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.StorageV1TokenRequest,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1EndpointConditions,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1EndpointHints,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1RuleWithOperations,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.spring.extended.manifests.KubernetesKubectlApplyProcessor,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.util.Preconditions.precondition,Error Handling,Error Prevention
+io,kubernetes,io.kubernetes.client.openapi.models.V1ManagedFieldsEntry,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.Strings,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.spring.extended.manifests.KubernetesKubectlCreateProcessor,DevOps,Continuous Deployment
+junit,jupiter,org.junit.jupiter.api.Assertions.fail,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceTaintSelector,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.ApiCallback,DevOps,Continuous Deployment
+net,net,java.net.ConnectException,Network,Connection Management
+io,io,java.io.PipedInputStream,Input-Output,Data Reading
+io,io,java.io.PipedOutputStream,Input-Output,Data Writing
+github,benmanes,com.github.benmanes.caffeine.cache.CacheLoader,Data Structure,Data Manipulation
+github,benmanes,com.github.benmanes.caffeine.cache.LoadingCache,Data Structure,Data Manipulation
+io,kubernetes,io.kubernetes.client.openapi.ProgressRequestBody,Input-Output,Network IO
+io,kubernetes,io.kubernetes.client.openapi.ProgressResponseBody,Network,Data Transmission
+util,concurrent,java.util.concurrent.TimeoutException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.atomic.AtomicBoolean,Multi-Thread,Thread Safety
+io,kubernetes,io.kubernetes.client.spring.extended.manifests.annotation.FromConfigMap,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ResourceSliceSpec,Cloud,Resource Management
+util,function,java.util.function.Function,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.spring.extended.manifests.config.KubernetesManifestsProperties,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.spring.extended.manifests.configmaps.ConfigMapGetter,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1Condition,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3NetworkDeviceData,Network,Protocol Implementation
+io,kubernetes,io.kubernetes.client.util.CallGeneratorParams,DevOps,Configuration Management
+assertj,core,org.assertj.core.api.Assertions.assertThatThrownBy,Test,Unit Testing
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.any,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.mock,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.times,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.verify,Test,Unit Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.core.Admin,Test,Integration Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.extension.Parameters,Test,Integration Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.extension.PostServeAction,Test,Integration Testing
+io,kubernetes,io.kubernetes.client.util.Watchable,Event Handling,Event Driven Processing
+github,tomakehurst,com.github.tomakehurst.wiremock.stubbing.ServeEvent,Test,Integration Testing
+io,kubernetes,io.kubernetes.client.Exec.ExecProcess,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.AdmissionregistrationV1ServiceReference,Microservices/Services,Service Discovery
+io,kubernetes,io.kubernetes.client.informer.cache.DeltaFIFO,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2Counter,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.informer.cache.Indexer,DevOps,Configuration Management
+io,io,java.io.ByteArrayOutputStream,Input-Output,Data Writing
+nio,charset,java.nio.charset.StandardCharsets,Internationalization,Language Support
+io,kubernetes,io.kubernetes.client.openapi.models.EventsV1Event,Event Handling,System Events
+util,stream,java.util.stream.Stream,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.EventsV1EventList,Event Handling,System Events
+io,kubernetes,io.kubernetes.client.openapi.models.V1Capabilities,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.informer.cache.Cache,DevOps,Configuration Management
+junit,jupiter,org.junit.jupiter.params.ParameterizedTest,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.provider.Arguments,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.provider.MethodSource,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.provider.Arguments.arguments,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.informer.impl.DefaultSharedIndexInformer,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.util.CallGenerator,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1MutatingAdmissionPolicy,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.Namespaces,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.Watch,Event Handling,Event Driven Processing
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1MutatingAdmissionPolicyBinding,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1MutatingAdmissionPolicyBindingList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.generic.options.ListOptions,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1MutatingAdmissionPolicyList,DevOps,Configuration Management
+commons,collections4,org.apache.commons.collections4.MapUtils,Utility,Data Conversion
+util,concurrent,java.util.concurrent.ExecutorService,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.Executors,Multi-Thread,Parallel Processing
+mockito,Mockito,org.mockito.Mockito.when,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.informer.exception.ObjectTransformException,Error Handling,Exception Handling
+io,prometheus,io.prometheus.client.exporter.HTTPServer,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1Container,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CSINodeSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.apis.CertificatesV1Api,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CertificateSigningRequestCondition,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1CertificateSigningRequestSpec,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1LeaseSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceClaim,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.util.exception.CSRSigningException,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.util.wait.Wait,DevOps,Monitoring and Logging
+okhttp3,okhttp3,okhttp3.ResponseBody,Network,Data Transmission
+io,kubernetes,io.kubernetes.client.openapi.models.V1ValidatingWebhook,DevOps,Configuration Management
+io,io,java.io.PrintStream,Input-Output,Data Writing
+security,security,java.security.KeyPair,Security,Encryption
+io,kubernetes,io.kubernetes.client.openapi.models.V1TopologySelectorTerm,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1MutatingWebhook,DevOps,Configuration Management
+util,util,java.util.Base64,Utility,Data Conversion
+checkerframework,checker,org.checkerframework.checker.nullness.qual.NonNull,Error Handling,Error Prevention
+io,kubernetes,io.kubernetes.client.openapi.models.V1MutatingWebhookConfiguration,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.ExecTest.makeStream,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1MutatingWebhookConfigurationList,DevOps,Configuration Management
+util,concurrent,java.util.concurrent.ScheduledExecutorService,Multi-Thread,Parallel Processing
+checkerframework,checker,org.checkerframework.checker.nullness.qual.Nullable,Error Handling,Error Prevention
+io,kubernetes,io.kubernetes.client.PortForward.PortForwardResult,Network,Connection Management
+javax,security,javax.security.auth.x500.X500Principal,Security,Authentication
+bouncycastle,operator,org.bouncycastle.operator.ContentSigner,Security,Encryption
+bouncycastle,operator,org.bouncycastle.operator.OperatorCreationException,Security,Encryption
+bouncycastle,operator,org.bouncycastle.operator.jcajce.JcaContentSignerBuilder,Security,Encryption
+bouncycastle,pkcs,org.bouncycastle.pkcs.PKCS10CertificationRequest,Security,Authentication
+bouncycastle,pkcs,org.bouncycastle.pkcs.PKCS10CertificationRequestBuilder,Security,Authentication
+bouncycastle,pkcs,org.bouncycastle.pkcs.jcajce.JcaPKCS10CertificationRequestBuilder,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1ValidatingAdmissionPolicy,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ValidatingAdmissionPolicyBinding,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ValidatingAdmissionPolicyBindingList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ValidatingAdmissionPolicyList,DevOps,Configuration Management
+gson,gson,com.google.gson.JsonParser,Parser,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.V1ValidatingWebhookConfiguration,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.authenticators.Authenticator,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.authenticators.GCPAuthenticator,Cloud,Cloud Security
+io,kubernetes,io.kubernetes.client.util.authenticators.OpenIDConnectAuthenticator,Security,Authentication
+net,net,java.net.URL,Network,Protocol Implementation
+nio,charset,java.nio.charset.Charset,Internationalization,Language Support
+io,kubernetes,io.kubernetes.client.openapi.models.V1ValidatingWebhookConfigurationList,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecVaultAuth,Security,Authentication
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecVaultCaBundleSecretRef,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeSelector,Cloud,Resource Management
+nio,file,java.nio.file.FileSystems,Input-Output,File Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceAllocationResult,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1NetworkDeviceData,Network,Protocol Implementation
+okhttp3,okhttp3,okhttp3.WebSocket,Network,Data Transmission
+springframework,beans,org.springframework.beans.factory.BeanCreationException,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.informer.TransformFunc,DevOps,Configuration Management
+util,util,java.util.LinkedHashSet,Data Structure,Linear Structures
+commons,codec,org.apache.commons.codec.binary.Base64,Utility,Data Conversion
+lang,lang,java.lang.Object,Utility,System Tools
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceAttribute,Cloud,Resource Management
+lang,lang,java.lang.String,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceCapacity,Cloud,Resource Management
+lang,lang,java.lang.FunctionalInterface,Language,Standard Libraries
+util,Map,java.util.Map.Entry,Data Structure,Data Manipulation
+lang,lang,java.lang.Class,Language,Standard Libraries
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceCounterConsumption,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1FlowSchema,DevOps,Configuration Management
+util,function,java.util.function.Predicate,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.util.exception.ObjectMetaReflectException,Error Handling,Exception Handling
+lang,reflect,java.lang.reflect.InvocationTargetException,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.Discovery,DevOps,Monitoring and Logging
+lang,reflect,java.lang.reflect.Method,Utility,System Tools
+io,kubernetes,io.kubernetes.client.apimachinery.GroupVersionKind,DevOps,Configuration Management
+util,util,java.util.AbstractMap,Data Structure,Data Manipulation
+io,kubernetes,io.kubernetes.client.apimachinery.GroupVersionResource,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.generic.dynamic.DynamicKubernetesObject,DevOps,Configuration Management
+net,net,java.net.JarURLConnection,Network,Protocol Implementation
+lang,lang,java.lang.Iterable,Data Structure,Linear Structures
+net,net,java.net.URLDecoder,Utility,Data Conversion
+util,util,java.util.Iterator,Data Structure,Data Manipulation
+util,util,java.util.Enumeration,Data Structure,Data Manipulation
+util,util,java.util.Spliterator,Data Structure,Data Manipulation
+lang,lang,java.lang.Boolean,Utility,Data Conversion
+util,util,java.util.ServiceLoader,Utility,System Tools
+io,kubernetes,io.kubernetes.client.openapi.models.V1FlowSchemaList,DevOps,Configuration Management
+lang,reflect,java.lang.reflect.GenericArrayType,Language,Type Systems
+util,util,java.util.LinkedHashMap,Data Structure,Linear Structures
+lang,reflect,java.lang.reflect.Array,Utility,System Tools
+lang,reflect,java.lang.reflect.ParameterizedType,Language,Type Systems
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecVaultAuthAppRole,Security,Authentication
+lang,reflect,java.lang.reflect.TypeVariable,Language,Type Systems
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecVaultAuthKubernetes,Security,Authentication
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecVaultAuthTokenSecretRef,Security,Authentication
+util,concurrent,java.util.concurrent.ConcurrentHashMap,Data Structure,Linear Structures
+util,jar,java.util.jar.JarEntry,Utility,System Tools
+util,jar,java.util.jar.JarFile,Utility,System Tools
+util,util,java.util.Collection,Data Structure,Data Manipulation
+commons,lang3,org.apache.commons.lang3.tuple.ImmutablePair,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceTaint,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PriorityLevelConfiguration,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ValidatingAdmissionPolicy,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ValidatingAdmissionPolicyBinding,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ValidatingAdmissionPolicyBindingList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ValidatingAdmissionPolicyList,DevOps,Configuration Management
+io,sundr,io.sundr.builder.annotations.ExternalBuildables,Utility,Automation Scripts
+io,kubernetes,io.kubernetes.client.openapi.models.V1ListMeta,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PriorityLevelConfigurationList,Cloud,Resource Management
+springframework,beans,org.springframework.beans.factory.NoSuchBeanDefinitionException,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.informer.cache.Controller,DevOps,Configuration Management
+fasterxml,jackson,com.fasterxml.jackson.databind.annotation.JsonSerialize,Application,Integration
+gson,gson,com.google.gson.TypeAdapter,Utility,Data Conversion
+gson,annotations,com.google.gson.annotations.JsonAdapter,Utility,Data Conversion
+gson,stream,com.google.gson.stream.JsonReader,Parser,Data Conversion
+gson,stream,com.google.gson.stream.JsonToken,Parser,Data Conversion
+gson,stream,com.google.gson.stream.JsonWriter,Utility,Data Conversion
+springframework,beans,org.springframework.beans.factory.config.BeanPostProcessor,Application,App Configuration
+fasterxml,jackson,com.fasterxml.jackson.core.JsonGenerator,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.SerializerProvider,Utility,Data Conversion
+fasterxml,jackson,com.fasterxml.jackson.databind.ser.std.StdSerializer,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.informer.cache.ProcessorListener,Event Handling,Event Driven Processing
+io,kubernetes,io.kubernetes.client.informer.cache.SharedProcessor,DevOps,Configuration Management
+springframework,beans,org.springframework.beans.factory.config.InstantiationAwareBeanPostProcessor,Application,App Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.ApiextensionsV1ServiceReference,Microservices/Services,Service Discovery
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1ClusterTrustBundleSpec,Cloud,Cloud Security
+io,kubernetes,io.kubernetes.client.common.KubernetesObject,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ContainerPort,Microservices/Services,Service Deployment
+io,kubernetes,io.kubernetes.client.common.KubernetesListObject,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ContainerResizePolicy,DevOps,Configuration Management
+net,net,java.net.HttpURLConnection,Network,Data Transmission
+io,io,java.io.StringWriter,Input-Output,Data Writing
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecVaultAuthAppRoleSecretRef,Security,Authentication
+security,security,java.security.KeyStoreException,Security,Encryption
+security,security,java.security.NoSuchAlgorithmException,Security,Encryption
+math,math,java.math.BigDecimal,Utility,Data Conversion
+security,security,java.security.Provider,Security,Encryption
+commons,lang3,org.apache.commons.lang3.ObjectUtils,Utility,Data Conversion
+security,security,java.security.Security,Security,Encryption
+math,math,java.math.BigInteger,Utility,Data Conversion
+math,math,java.math.MathContext,Utility,Performance Tools
+commons,lang3,org.apache.commons.lang3.tuple.Pair,Utility,Data Conversion
+security,security,java.security.UnrecoverableKeyException,Security,Authentication
+security,spec,java.security.spec.InvalidKeySpecException,Security,Encryption
+gson,gson,com.google.gson.ExclusionStrategy,Utility,Data Conversion
+gson,gson,com.google.gson.FieldAttributes,Utility,Data Conversion
+javax,net,javax.net.ssl.KeyManager,Security,Encryption
+gson,gson,com.google.gson.JsonElement,Utility,Data Conversion
+gson,gson,com.google.gson.JsonObject,Utility,Data Conversion
+io,gsonfire,io.gsonfire.PreProcessor,Utility,Data Conversion
+javax,net,javax.net.ssl.KeyManagerFactory,Security,Authentication
+bouncycastle,asn1,org.bouncycastle.asn1.pkcs.PrivateKeyInfo,Security,Encryption
+bouncycastle,openssl,org.bouncycastle.openssl.PEMKeyPair,Security,Encryption
+bouncycastle,openssl,org.bouncycastle.openssl.PEMParser,Security,Encryption
+okhttp3,internal,okhttp3.internal.http.HttpMethod,Network,Protocol Implementation
+okhttp3,internal,okhttp3.internal.tls.OkHostnameVerifier,Security,Encryption
+okhttp3,logging,okhttp3.logging.HttpLoggingInterceptor,Logging,Event Logging
+okhttp3,logging,okhttp3.logging.HttpLoggingInterceptor.Level,Logging,Event Logging
+okio,okio,okio.Buffer,Input-Output,Buffering Strategies
+okio,okio,okio.BufferedSink,Input-Output,Data Writing
+okio,okio,okio.Okio,Input-Output,Data Reading
+bouncycastle,openssl,org.bouncycastle.openssl.jcajce.JcaMiscPEMGenerator,Security,Encryption
+net,net,java.net.URI,Network,Protocol Implementation
+net,net,java.net.URLConnection,Network,Data Transmission
+security,security,java.security.GeneralSecurityException,Security,Encryption
+security,security,java.security.KeyStore,Security,Encryption
+security,security,java.security.SecureRandom,Security,Encryption
+security,cert,java.security.cert.Certificate,Security,Authentication
+security,cert,java.security.cert.CertificateException,Security,Authentication
+security,cert,java.security.cert.CertificateFactory,Security,Authentication
+security,cert,java.security.cert.X509Certificate,Security,Authentication
+text,text,java.text.DateFormat,Internationalization,Date/Time Formatting
+time,time,java.time.LocalDate,Utility,System Tools
+time,time,java.time.OffsetDateTime,Utility,System Tools
+time,format,java.time.format.DateTimeFormatter,Utility,Data Conversion
+bouncycastle,openssl,org.bouncycastle.openssl.jcajce.JcaPEMKeyConverter,Security,Encryption
+bouncycastle,util,org.bouncycastle.util.io.pem.PemWriter,Security,Encryption
+io,kubernetes,io.kubernetes.client.openapi.models.V1EnvFromSource,DevOps,Configuration Management
+util,regex,java.util.regex.Matcher,Search,Query Processing
+util,regex,java.util.regex.Pattern,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.auth.Authentication,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.auth.HttpBasicAuth,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.auth.HttpBearerAuth,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.auth.ApiKeyAuth,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2AllocatedDeviceStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2AllocationResult,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceAttribute,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceCounterConsumption,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceTaint,DevOps,Configuration Management
+util,concurrent,java.util.concurrent.atomic.AtomicReference,Multi-Thread,Thread Safety
+javax,annotation,javax.annotation.Nullable,Utility,Diagnostic Utilities
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2ResourceClaimConsumerReference,Cloud,Resource Management
+util,concurrent,java.util.concurrent.ThreadFactory,Multi-Thread,Thread Safety
+util,concurrent,java.util.concurrent.atomic.AtomicInteger,Multi-Thread,Thread Safety
+okio,okio,okio.GzipSink,Input-Output,Data Writing
+io,kubernetes,io.kubernetes.client.util.exception.TypeMetaReflectException,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.openapi.models.V1EnvVar,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceAllocationResult,Cloud,Resource Management
+gson,gson,com.google.gson.GsonBuilder,Utility,Data Conversion
+gson,gson,com.google.gson.JsonParseException,Error Handling,Exception Handling
+gson,annotations,com.google.gson.annotations.SerializedName,Utility,Data Conversion
+gson,internal,com.google.gson.internal.bind.util.ISO8601Utils,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1CounterSet,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1Device,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1IPAddressSpec,Cloud,Resource Management
+io,gsonfire,io.gsonfire.GsonFireBuilder,Input-Output,Data Reading
+io,gsonfire,io.gsonfire.TypeSelector,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.gson.V1MetadataExclusionStrategy,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.gson.V1StatusPreProcessor,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CustomResourceDefinitionList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.JSON,Input-Output,Data Reading
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ResourcePool,Cloud,Resource Management
+io,io,java.io.Closeable,Input-Output,Stream Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1Lifecycle,DevOps,Configuration Management
+io,io,java.io.StringReader,Input-Output,Data Reading
+io,kubernetes,io.kubernetes.client.openapi.models.V1Probe,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1ResourceRequirements,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1SecurityContext,Security,Authorization
+text,text,java.text.ParseException,Error Handling,Exception Handling
+text,text,java.text.ParsePosition,Internationalization,Date/Time Formatting
+io,kubernetes,io.kubernetes.client.openapi.models.V1VolumeDevice,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1VolumeMount,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1StorageVersion,Cloud,Resource Management
+time,format,java.time.format.DateTimeFormatterBuilder,Utility,Data Conversion
+time,format,java.time.format.DateTimeParseException,Error Handling,Exception Handling
+time,temporal,java.time.temporal.ChronoField,Utility,System Tools
+util,util,java.util.Date,Utility,System Tools
+util,util,java.util.Locale,Internationalization,Language Support
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1StorageVersionList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ExemptPriorityLevelConfiguration,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1HTTPIngressRuleValue,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1VolumeNodeResources,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PreferredSchedulingTerm,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LimitedPriorityLevelConfiguration,DevOps,Configuration Management
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.containing,Test,Integration Testing
+okio,okio,okio.ForwardingSink,Input-Output,Data Writing
+io,kubernetes,io.kubernetes.client.openapi.models.V1Overhead,DevOps,Configuration Management
+okio,okio,okio.Sink,Input-Output,Data Writing
+io,kubernetes,io.kubernetes.client.openapi.models.V1Scheduling,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2OpaqueDeviceConfiguration,Cloud,Resource Management
+springframework,context,org.springframework.context.ApplicationContext,Application,App Configuration
+springframework,context,org.springframework.context.ApplicationContextAware,Microservices/Services,Service Communication
+okio,okio,okio.ForwardingSource,Input-Output,Data Reading
+okio,okio,okio.Source,Input-Output,Data Reading
+io,kubernetes,io.kubernetes.client.openapi.models.V1DaemonSetSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1DaemonSetStatus,DevOps,Configuration Management
+okhttp3,okhttp3,okhttp3.WebSocketListener,Network,Data Transmission
+fasterxml,jackson,com.fasterxml.jackson.core.JsonProcessingException,Error Handling,Exception Handling
+fasterxml,jackson,com.fasterxml.jackson.databind.ObjectMapper,Utility,Data Conversion
+io,io,java.io.InterruptedIOException,Input-Output,Network IO
+time,time,java.time.Instant,Utility,System Tools
+junit,jupiter,org.junit.jupiter.api.Assertions.assertEquals,Test,Unit Testing
+time,temporal,java.time.temporal.ChronoUnit,Utility,System Tools
+io,kubernetes,io.kubernetes.client.common.KubernetesType,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.custom.IntOrString,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.custom.Quantity,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.V1JSONSchemaProps,DevOps,Configuration Management
+io,io,java.io.FileReader,Input-Output,Data Reading
+junit,jupiter,org.junit.jupiter.api.MethodOrderer.OrderAnnotation,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Order,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.TestMethodOrder,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1Secret,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1APIService,Cloud,Service Configuration
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecVaultAuthKubernetesSecretRef,Security,Authentication
+io,io,java.io.Writer,Input-Output,Data Writing
+lang,reflect,java.lang.reflect.Field,Utility,System Tools
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecVaultAuthKubernetesServiceAccountRef,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1APIServiceList,Cloud,Resource Management
+springframework,util,org.springframework.util.ReflectionUtils,Utility,System Tools
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.exactly,Test,Integration Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ServiceCIDRSpec,Cloud,Service Configuration
+util,util,java.util.Comparator,Utility,System Tools
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ServiceCIDRStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1TokenRequestSpec,Cloud,Cloud Security
+io,kubernetes,io.kubernetes.client.openapi.models.V1TokenRequestStatus,Cloud,Cloud Security
+io,kubernetes,io.kubernetes.client.spring.extended.manifests.annotation.FromYaml,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.apimachinery.NamespaceName,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2ResourceClaimTemplateSpec,Cloud,Resource Management
+yaml,snakeyaml,org.yaml.snakeyaml.DumperOptions,Utility,Data Conversion
+yaml,snakeyaml,org.yaml.snakeyaml.DumperOptions.FlowStyle,Parser,Data Conversion
+yaml,snakeyaml,org.yaml.snakeyaml.TypeDescription,Parser,Data Conversion
+yaml,snakeyaml,org.yaml.snakeyaml.constructor.BaseConstructor,Parser,Data Conversion
+yaml,snakeyaml,org.yaml.snakeyaml.constructor.Constructor,Parser,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.V1FieldSelectorRequirement,DevOps,Configuration Management
+yaml,snakeyaml,org.yaml.snakeyaml.introspector.Property,Parser,Data Conversion
+yaml,snakeyaml,org.yaml.snakeyaml.nodes.MappingNode,Parser,Data Conversion
+yaml,snakeyaml,org.yaml.snakeyaml.nodes.Node,Parser,Data Conversion
+yaml,snakeyaml,org.yaml.snakeyaml.nodes.NodeTuple,Parser,Syntax Parsing
+yaml,snakeyaml,org.yaml.snakeyaml.nodes.ScalarNode,Parser,Syntax Parsing
+yaml,snakeyaml,org.yaml.snakeyaml.nodes.Tag,Parser,Data Conversion
+yaml,snakeyaml,org.yaml.snakeyaml.representer.Represent,Utility,Data Conversion
+yaml,snakeyaml,org.yaml.snakeyaml.representer.Representer,Parser,Data Conversion
+assertj,core,org.assertj.core.api.Assertions.assertThatNoException,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V2HPAScalingPolicy,DevOps,Monitoring and Logging
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.postRequestedFor,Test,Integration Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceAllocationConfiguration,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1IPAddress,Network,Protocol Implementation
+io,kubernetes,io.kubernetes.client.Copy,Input-Output,Stream Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1IPAddressList,Network,Protocol Implementation
+io,kubernetes,io.kubernetes.client.openapi.models.V1Ingress,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1IngressClass,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1IngressClassList,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1IngressList,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1NetworkPolicy,Network,Network Security
+io,kubernetes,io.kubernetes.client.openapi.models.V1NetworkPolicyList,Network,Network Security
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceRequestAllocationResult,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServiceCIDR,Network,Protocol Implementation
+junit,jupiter,org.junit.jupiter.api.extension.ExtendWith,Test,Unit Testing
+mockito,mockito,org.mockito.Mock,Test,Unit Testing
+mockito,mockito,org.mockito.Mockito,Test,Unit Testing
+mockito,junit,org.mockito.junit.jupiter.MockitoExtension,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServiceCIDRList,Network,Protocol Implementation
+io,kubernetes,io.kubernetes.client.openapi.models.V1NamespaceList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceAttribute,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceCapacity,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceCounterConsumption,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.util.Config,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceTaint,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.util.generic.KubernetesApiResponse,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServiceBackendPort,Microservices/Services,Service Communication
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ParentReference,DevOps,Configuration Management
+awaitility,Awaitility,org.awaitility.Awaitility.await,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.any,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.atLeastOnce,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.eq,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1IPAddress,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1IPAddressList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ServiceCIDR,Network,Protocol Implementation
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ServiceCIDRList,Network,Protocol Implementation
+io,kubernetes,io.kubernetes.client.Resources,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3ResourceClaimSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3ResourceClaimStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ReplicaSetList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1Scale,DevOps,Configuration Management
+uk,webcompere,uk.org.webcompere.systemstubs.environment.EnvironmentVariables,Test,Unit Testing
+uk,webcompere,uk.org.webcompere.systemstubs.jupiter.SystemStub,Test,Unit Testing
+uk,webcompere,uk.org.webcompere.systemstubs.jupiter.SystemStubsExtension,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1TopologySelectorLabelRequirement,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ForNode,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ForZone,Cloud,Resource Management
+springframework,beans,org.springframework.beans.factory.ListableBeanFactory,Application,App Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1PriorityLevelConfigurationCondition,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3Counter,Microservices/Services,Service Communication
+yaml,snakeyaml,org.yaml.snakeyaml.error.YAMLException,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.spring.extended.manifests.annotation.KubectlApply,DevOps,Configuration Management
+security,security,java.security.KeyManagementException,Security,Encryption
+io,kubernetes,io.kubernetes.client.openapi.models.V1SelfSubjectAccessReviewSpec,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.CoreV1EventSeries,Event Handling,System Events
+auth,oauth2,com.google.auth.oauth2.AccessToken,Security,Authentication
+auth,oauth2,com.google.auth.oauth2.GoogleCredentials,Cloud,Cloud Security
+net,net,java.net.SocketTimeoutException,Network,Connection Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodAffinityTerm,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1WeightedPodAffinityTerm,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CSINodeDriver,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1LeaseCandidateSpec,DevOps,Configuration Management
+sql,sql,java.sql.Date,Databases,Query Execution
+io,kubernetes,io.kubernetes.client.openapi.models.V1RuntimeClass,Cloud,Virtualization
+io,kubernetes,io.kubernetes.client.openapi.models.V1RuntimeClassList,Cloud,Virtualization
+io,kubernetes,io.kubernetes.client.openapi.models.V1SelfSubjectReview,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1TokenReview,Security,Authentication
+util,util,java.util.Scanner,Input-Output,Data Reading
+javax,net,javax.net.ssl.HttpsURLConnection,Network,Network Security
+io,kubernetes,io.kubernetes.client.openapi.models.V1CustomResourceDefinition,DevOps,Configuration Management
+javax,net,javax.net.ssl.SSLContext,Security,Encryption
+io,kubernetes,io.kubernetes.client.openapi.models.V1IngressRule,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1IngressTLS,Cloud,Service Configuration
+javax,net,javax.net.ssl.TrustManagerFactory,Security,Authentication
+jose4j,json,org.jose4j.json.internal.json_simple.JSONObject,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.V1ConfigMapNodeConfigSource,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3BasicDevice,Cloud,Resource Management
+jose4j,json,org.jose4j.json.internal.json_simple.parser.JSONParser,Parser,Syntax Parsing
+jose4j,json,org.jose4j.json.internal.json_simple.parser.ParseException,Parser,Error Recovery
+jose4j,jwt,org.jose4j.jwt.MalformedClaimException,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1LifecycleHandler,DevOps,Configuration Management
+jose4j,jwt,org.jose4j.jwt.consumer.InvalidJwtException,Security,Authentication
+jose4j,lang,org.jose4j.lang.JoseException,Security,Encryption
+io,kubernetes,io.kubernetes.client.openapi.models.V1GRPCAction,Microservices/Services,Service Communication
+io,kubernetes,io.kubernetes.client.openapi.models.V1HorizontalPodAutoscalerSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1HorizontalPodAutoscalerStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.ApiextensionsV1WebhookClientConfig,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ClusterTrustBundleSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NamespaceStatus,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LocalSubjectAccessReview,Security,Authorization
+io,kubernetes,io.kubernetes.client.Exec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1SelfSubjectAccessReview,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.V1SelfSubjectRulesReview,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1SubjectAccessReview,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.V1AppArmorProfile,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.V1SELinuxOptions,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.V1SeccompProfile,Security,Compliance
+commons,io,org.apache.commons.io.IOUtils,Input-Output,Data Reading
+io,kubernetes,io.kubernetes.client.openapi.models.V1Sysctl,Cloud,Resource Management
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecVenafiCloud,Cloud,Cloud Security
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecVenafiTpp,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1WindowsSecurityContextOptions,Security,Authorization
+jose4j,jws,org.jose4j.jws.AlgorithmIdentifiers,Security,Encryption
+jose4j,jws,org.jose4j.jws.JsonWebSignature,Security,Encryption
+jose4j,jwt,org.jose4j.jwt.JwtClaims,Security,Authentication
+jose4j,jwt,org.jose4j.jwt.NumericDate,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3OpaqueDeviceConfiguration,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ConfigMap,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1DaemonSetUpdateStrategy,DevOps,Continuous Deployment
+nio,charset,java.nio.charset.StandardCharsets.UTF_8,Internationalization,Language Support
+io,kubernetes,io.kubernetes.client.openapi.models.DiscoveryV1EndpointPort,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1Endpoint,Microservices/Services,Service Discovery
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1NamedRuleWithOperations,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1IngressLoadBalancerStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodDisruptionBudget,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1Service,Microservices/Services,Service Communication
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServicePort,Microservices/Services,Service Communication
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodDisruptionBudgetList,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecVenafiCloudApiTokenSecretRef,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1ScaleSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ScaleStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1ContainerStateRunning,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceClaimConfiguration,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceConstraint,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceRequest,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ContainerStateTerminated,DevOps,Monitoring and Logging
+yaml,snakeyaml,org.yaml.snakeyaml.error.MarkedYAMLException,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.openapi.models.V1ContainerStateWaiting,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeConfigSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1HorizontalPodAutoscaler,DevOps,Monitoring and Logging
+io,cert,io.cert.manager.models.V1CertificateSpec,Security,Encryption
+io,cert,io.cert.manager.models.V1CertificateStatus,Security,Encryption
+io,kubernetes,io.kubernetes.client.openapi.models.V1HorizontalPodAutoscalerList,Cloud,Scalability Solutions
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceClaim,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ExecAction,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1HTTPGetAction,Microservices/Services,Service Communication
+gson,gson,com.google.gson.JsonArray,Data Structure,Data Manipulation
+gson,gson,com.google.gson.JsonDeserializationContext,Utility,Data Conversion
+gson,gson,com.google.gson.JsonDeserializer,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.V1SleepAction,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1TCPSocketAction,Network,Protocol Implementation
+io,kubernetes,io.kubernetes.client.openapi.models.V1NonResourceAttributes,DevOps,Configuration Management
+gson,gson,com.google.gson.TypeAdapterFactory,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceAllocationConfiguration,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceRequestAllocationResult,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ResourceAttributes,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ExpressionWarning,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1AggregationRule,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PolicyRule,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.V1ClusterRole,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V2HorizontalPodAutoscaler,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V2HorizontalPodAutoscalerList,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1ClusterRoleBinding,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ClusterRoleBindingList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ClusterRoleList,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1Certificate,Security,Encryption
+io,kubernetes,io.kubernetes.client.util.SSLUtils,Security,Encryption
+io,kubernetes,io.kubernetes.client.openapi.models.V1Role,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1RoleBinding,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1RoleBindingList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1RoleList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V2ContainerResourceMetricSource,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2ResourceSliceSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1DaemonSetCondition,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ResourceQuotaSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ResourceQuotaStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3AllocatedDeviceStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3AllocationResult,Cloud,Resource Management
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecVenafiTppCredentialsRef,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3ResourceClaimConsumerReference,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CronJob,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CronJobList,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1CertificateRequestSpec,Security,Encryption
+io,cert,io.cert.manager.models.V1CertificateRequestStatus,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.V1Job,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1JobList,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.EventsV1EventSeries,Event Handling,System Events
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1MutatingAdmissionPolicySpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V2ExternalMetricSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1VolumeProjection,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V2ObjectMetricSource,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V2PodsMetricSource,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V2ResourceMetricSource,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ValidatingAdmissionPolicySpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ValidatingAdmissionPolicyStatus,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1CertificateRequest,Security,Encryption
+io,kubernetes,io.kubernetes.client.spring.extended.manifests.annotation.KubectlCreate,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceClass,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceClassList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceTaintRule,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceTaintRuleList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3ResourceClaim,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3ResourceClaimList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3ResourceClaimTemplate,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3ResourceClaimTemplateList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3ResourceSlice,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3ResourceSliceList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1Affinity,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1DaemonEndpoint,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1EphemeralContainer,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LimitResponse,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CrossVersionObjectReference,Microservices/Services,Service Discovery
+io,kubernetes,io.kubernetes.client.openapi.models.V1HostAlias,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.RbacV1Subject,Security,Authorization
+io,cert,io.cert.manager.models.V1ClusterIssuerStatusAcme,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ClusterIssuerStatusConditionsInner,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodDNSConfig,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1RoleRef,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodOS,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1ClusterTrustBundle,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1ClusterTrustBundleList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodReadinessGate,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceClaimConfiguration,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceConstraint,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceRequest,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodResourceClaim,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodSchedulingGate,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1CertificateSpecIssuerRef,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3ResourceClaimTemplateSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceClass,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceClassList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ResourceClaim,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ResourceClaimList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ResourceClaimTemplate,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ResourceClaimTemplateList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ResourceSlice,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ResourceSliceList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodSecurityContext,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ExpressionWarning,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1CertificateSigningRequestList,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1NamedRuleWithOperations,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1Toleration,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1MutatingAdmissionPolicyBindingSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceClassSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1RollingUpdateDaemonSet,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceClass,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceClassList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2ResourceClaim,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2ResourceClaimList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2ResourceClaimTemplate,Cloud,Resource Management
+io,cert,io.cert.manager.models.V1CertificateRequestStatusConditionsInner,DevOps,Configuration Management
+auth,auth,com.amazonaws.auth.DefaultAWSCredentialsProviderChain,Cloud,Resource Management
+auth,auth,com.amazonaws.auth.STSAssumeRoleSessionCredentialsProvider,Cloud,Cloud Security
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ClusterTrustBundle,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ClusterTrustBundleList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2ResourceClaimTemplateList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2ResourceSlice,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.util.credentials.EKSAuthentication,Cloud,Cloud Security
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2ResourceSliceList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1IPAddressSpec,Network,Connection Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ValidatingAdmissionPolicyBindingSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1TopologySpreadConstraint,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1Volume,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1Counter,DevOps,Monitoring and Logging
+io,cert,io.cert.manager.models.V1IssuerSpec,Security,Authentication
+io,cert,io.cert.manager.models.V1IssuerStatus,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1SelfSubjectReviewStatus,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LimitRangeSpec,Cloud,Resource Management
+software,amazon,software.amazon.awssdk.auth.credentials.AwsCredentialsProvider,Cloud,Cloud Security
+software,amazon,software.amazon.awssdk.http.SdkHttpMethod,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha2LeaseCandidate,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha2LeaseCandidateList,Cloud,Resource Management
+io,cert,io.cert.manager.models.V1CertificateSpecAdditionalOutputFormatsInner,DevOps,Configuration Management
+software,amazon,software.amazon.awssdk.http.SdkHttpRequest,Cloud,Service Configuration
+io,cert,io.cert.manager.models.V1CertificateSpecKeystores,Security,Encryption
+io,cert,io.cert.manager.models.V1CertificateSpecPrivateKey,Security,Encryption
+io,cert,io.cert.manager.models.V1CertificateSpecSecretTemplate,Security,Encryption
+io,cert,io.cert.manager.models.V1CertificateSpecSubject,Security,Encryption
+software,amazon,software.amazon.awssdk.http.auth.aws.signer.AwsV4FamilyHttpSigner,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2CounterSet,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2Device,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2ResourcePool,Cloud,Resource Management
+software,amazon,software.amazon.awssdk.http.auth.aws.signer.AwsV4HttpSigner,Cloud,Cloud Security
+software,amazon,software.amazon.awssdk.http.auth.spi.signer.SignedRequest,Cloud,Cloud Security
+software,amazon,software.amazon.awssdk.utils.http.SdkHttpUtils,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1Preconditions,DevOps,Configuration Management
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.urlMatching,Test,Integration Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1PriorityClass,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PriorityClassList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1SessionAffinityConfig,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1Lease,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LeaseList,Cloud,Resource Management
+io,cert,io.cert.manager.models.V1Issuer,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PersistentVolumeSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1BasicDevice,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PersistentVolumeStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceClassSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1GroupSubject,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServiceAccountSubject,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1UserSubject,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V2ContainerResourceMetricStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V2ExternalMetricStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1MatchResources,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1ParamRef,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ContainerStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1FlowSchemaSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1FlowSchemaStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1LeaseCandidate,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1LeaseCandidateList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1HostIP,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodCondition,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodIP,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodResourceClaimStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodDisruptionBudgetSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ContainerState,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1ContainerUser,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ResourceStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1VolumeMountStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1MatchResources,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ParamRef,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1OpaqueDeviceConfiguration,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1DeploymentStatus,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodDisruptionBudgetStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V2ObjectMetricStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V2PodsMetricStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.AuthenticationV1TokenRequest,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1StorageVersionMigration,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.CoreV1EventList,Event Handling,System Events
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1StorageVersionMigrationList,Cloud,Data Migration
+io,kubernetes,io.kubernetes.client.openapi.models.V1Binding,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1CertificateSpecKeystoresJks,Security,Encryption
+io,cert,io.cert.manager.models.V1CertificateSpecKeystoresPkcs12,Security,Encryption
+io,kubernetes,io.kubernetes.client.openapi.models.V1ComponentStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1ComponentStatusList,DevOps,Monitoring and Logging
+lang,lang,java.lang.Double,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.V2ResourceMetricStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1ConfigMapList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1UserInfo,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1Eviction,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LimitRange,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LimitRangeList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NamespaceCondition,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PersistentVolume,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PersistentVolumeClaim,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PersistentVolumeClaimList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PersistentVolumeList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ConfigMapEnvSource,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodTemplateList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1SecretEnvSource,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ReplicationControllerList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ResourceQuota,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ResourceQuotaList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceClassConfiguration,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceSelector,Cloud,Resource Management
+io,cert,io.cert.manager.models.V1CertificateSpecKeystoresJksPasswordSecretRef,Security,Encryption
+io,kubernetes,io.kubernetes.client.openapi.models.V1SecretList,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1OrderSpec,DevOps,Continuous Deployment
+io,cert,io.cert.manager.models.V1OrderStatus,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServiceAccount,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServiceAccountList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ParentReference,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PersistentVolumeClaimSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1VolumeAttributesClass,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1VolumeAttributesClassList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1WebhookConversion,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PersistentVolumeClaimStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceAllocationConfiguration,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceRequestAllocationResult,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3ResourceSliceSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1MatchCondition,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1Mutation,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1ParamKind,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1Variable,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CSIDriver,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CSIDriverList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CSINode,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CSINodeList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CSIStorageCapacity,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CSIStorageCapacityList,Cloud,Resource Management
+io,cert,io.cert.manager.models.V1Order,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1StorageClass,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1StorageClassList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1VolumeAttachment,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1VolumeAttachmentList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LinuxContainerUser,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1CertificateSpecKeystoresPkcs12PasswordSecretRef,Security,Encryption
+io,cert,io.cert.manager.models.V1OrderSpecIssuerRef,DevOps,Configuration Management
+time,time,java.time.Clock,Utility,System Tools
+io,kubernetes,io.kubernetes.client.util.exception.TokenAquisitionException,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeRuntimeHandlerFeatures,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ScopeSelector,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1AzureFileVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CSIVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CephFSVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CinderVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ConfigMapVolumeSource,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1DownwardAPIVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1VolumeAttributesClass,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1VolumeAttributesClassList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceClassConfiguration,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceSelector,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1EmptyDirVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1EphemeralVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LoadBalancerStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1ApplyConfiguration,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1JSONPatch,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1FlexVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1EnvVarSource,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1GitRepoVolumeSource,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1AuditAnnotation,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1MatchCondition,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1GlusterfsVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ParamKind,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1Validation,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1Variable,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CustomResourceDefinitionSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CustomResourceDefinitionStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NetworkPolicySpec,Network,Network Security
+io,kubernetes,io.kubernetes.client.openapi.models.V1ISCSIVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ImageVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1SelfSubjectRulesReviewSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1SubjectRulesReviewStatus,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PersistentVolumeClaimVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ProjectedVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LimitRangeItem,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ComponentCondition,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1SecretReference,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3CounterSet,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3Device,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3ResourcePool,Cloud,Resource Management
+io,cert,io.cert.manager.models.V1OrderStatusAuthorizationsInner,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.V1ConfigMapKeySelector,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1TypeChecking,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1SecretKeySelector,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ClientIPConfig,Network,Protocol Implementation
+io,kubernetes,io.kubernetes.client.openapi.models.V1NetworkPolicyPeer,Network,Network Security
+io,kubernetes,io.kubernetes.client.openapi.models.V1NetworkPolicyPort,Network,Network Security
+io,kubernetes,io.kubernetes.client.openapi.models.V1HTTPHeader,Microservices/Services,Service Communication
+io,kubernetes,io.kubernetes.client.openapi.models.V1FlowDistinguisherMethod,Microservices/Services,Service Communication
+io,kubernetes,io.kubernetes.client.openapi.models.V1PolicyRulesWithSubjects,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceClaimConfiguration,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceConstraint,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceRequest,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServerAddressByClientCIDR,Network,Connection Management
+io,cert,io.cert.manager.models.V1OrderStatusAuthorizationsInnerChallengesInner,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceSubRequest,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ResourceClaimSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ResourceClaimStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2ExactDeviceRequest,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LocalObjectReference,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PriorityLevelConfigurationReference,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1DeploymentStrategy,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1RBDVolumeSource,Cloud,Virtualization
+io,kubernetes,io.kubernetes.client.openapi.models.V1ScaleIOVolumeSource,Cloud,Scalability Solutions
+io,kubernetes,io.kubernetes.client.openapi.models.V1SecretVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1StorageOSVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceSubRequest,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceToleration,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V2MetricTarget,DevOps,Monitoring and Logging
+gson,gson,com.google.gson.JsonSyntaxException,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.openapi.models.V1QueuingConfiguration,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeSelectorTerm,Cloud,Resource Management
+io,cert,io.cert.manager.models.V1CertificateStatusConditionsInner,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1CronJobSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CronJobStatus,DevOps,Monitoring and Logging
+springframework,boot,org.springframework.boot.test.context.SpringBootTest,Test,Integration Testing
+io,kubernetes,io.kubernetes.client.openapi.apis.CustomObjectsApi,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.ProxyContentTypeRequestBody,Network,Data Transmission
+io,kubernetes,io.kubernetes.client.openapi.models.V1ResourceClaim,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceToleration,DevOps,Configuration Management
+io,swagger,io.swagger.annotations.ApiModel,Microservices/Services,API Gateway
+io,swagger,io.swagger.annotations.ApiModelProperty,Microservices/Services,API Gateway
+io,kubernetes,io.kubernetes.client.util.generic.options.GetOptions,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1FlowSchemaCondition,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1DeploymentCondition,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1NonResourceRule,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ResourceRule,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V2MetricValueStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1VolumeAttachmentSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1VolumeAttachmentStatus,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1TypedObjectReference,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceClassSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1VolumeResourceRequirements,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ReplicaSetSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ReplicaSetStatus,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1StorageVersionStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2CELDeviceSelector,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PersistentVolumeClaimTemplate,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1JobSpec,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1IngressBackend,Microservices/Services,API Gateway
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3CELDeviceSelector,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1JobStatus,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1RollingUpdateDeployment,DevOps,Continuous Deployment
+io,cert,io.cert.manager.models.V1ChallengeSpec,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeStatus,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.V1CustomResourceConversion,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1JobTemplateSpec,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1CustomResourceDefinitionNames,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceClaim,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CustomResourceDefinitionVersion,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1Challenge,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1StatefulSetSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1StatefulSetStatus,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodDNSConfigOption,DevOps,Configuration Management
+util,function,java.util.function.UnaryOperator,Utility,Data Conversion
+javax,annotation,javax.annotation.Nonnull,Utility,System Tools
+io,kubernetes,io.kubernetes.client.openapi.models.V1SuccessPolicyRule,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.labels.EqualityMatcher.equal,DevOps,Configuration Management
+okhttp3,okhttp3,okhttp3.HttpUrl,Network,Data Transmission
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeSelectorRequirement,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.util.labels.EqualityMatcher.notEqual,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ModifyVolumeStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1APIServiceSpec,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1APIServiceStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PersistentVolumeClaimCondition,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1DownwardAPIVolumeFile,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1HTTPIngressPath,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.spring.extended.controller.annotation.AddWatchEventFilter,Event Handling,Event Driven Processing
+io,kubernetes,io.kubernetes.client.spring.extended.controller.annotation.DeleteWatchEventFilter,Event Handling,Event Driven Processing
+io,kubernetes,io.kubernetes.client.spring.extended.controller.annotation.GroupVersionResource,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1AllocatedDeviceStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1AllocationResult,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ResourceClaimConsumerReference,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.spring.extended.controller.annotation.KubernetesReconciler,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.spring.extended.controller.annotation.KubernetesReconcilerReadyFunc,DevOps,Configuration Management
+software,amazon,software.amazon.awssdk.auth.credentials.DefaultCredentialsProvider,Cloud,Cloud Security
+io,cert,io.cert.manager.models.V1ChallengeSpecIssuerRef,Security,Authentication
+io,cert,io.cert.manager.models.V1ChallengeSpecSolver,DevOps,Configuration Management
+software,amazon,software.amazon.awssdk.services.sts.StsClient,Cloud,Cloud Security
+software,amazon,software.amazon.awssdk.services.sts.auth.StsAssumeRoleCredentialsProvider,Cloud,Cloud Security
+io,kubernetes,io.kubernetes.client.openapi.models.V1CustomResourceDefinitionCondition,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.taints.Taints.taints,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1IPBlock,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ResourceHealth,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2NetworkDeviceData,Network,Protocol Implementation
+io,kubernetes,io.kubernetes.client.openapi.models.V1PortStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.FlowcontrolV1Subject,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NonResourcePolicyRule,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ResourcePolicyRule,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ScopedResourceSelectorRequirement,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceClassConfiguration,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceSelector,Cloud,Resource Management
+util,logging,java.util.logging.ConsoleHandler,Logging,Event Logging
+util,logging,java.util.logging.Level,Logging,Error Logs
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1StorageVersionMigrationSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1StorageVersionMigrationStatus,Cloud,Data Migration
+util,logging,java.util.logging.LogRecord,Logging,Event Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1Taint,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ObjectFieldSelector,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ResourceFieldSelector,DevOps,Configuration Management
+util,logging,java.util.logging.Logger,Logging,Event Logging
+okhttp3,internal,okhttp3.internal.concurrent.TaskRunner,Network,Connection Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServiceSpec,Microservices/Services,Service Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1ResourceClaimTemplateSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha3DeviceTaintRuleSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CustomResourceColumnDefinition,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CustomResourceSubresources,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CustomResourceValidation,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1SelectableField,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2DeviceAllocationResult,Cloud,Resource Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01,DevOps,Continuous Deployment
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverSelector,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServiceStatus,Microservices/Services,Service Discovery
+okhttp3,internal,okhttp3.internal.http2.Http2,Network,Protocol Implementation
+io,kubernetes,io.kubernetes.client.spring.extended.controller.annotation.KubernetesReconcilerWatch,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.spring.extended.controller.annotation.KubernetesReconcilerWatches,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.spring.extended.controller.annotation.UpdateWatchEventFilter,Event Handling,Event Driven Processing
+io,kubernetes,io.kubernetes.client.openapi.models.V1ValidatingAdmissionPolicySpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ValidatingAdmissionPolicyStatus,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LoadBalancerIngress,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.apis.VersionApi,DevOps,Version Control
+javax,annotation,javax.annotation.Resource,Microservices/Services,Service Communication
+io,kubernetes,io.kubernetes.client.openapi.models.V1CSIDriverSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V2MetricIdentifier,DevOps,Monitoring and Logging
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01AcmeDNS,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01Akamai,Cloud,Cloud Security
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01AzureDNS,Cloud,Cloud Security
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01CloudDNS,Cloud,Cloud Security
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01Cloudflare,Cloud,Cloud Security
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01Digitalocean,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01Rfc2136,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01Route53,Cloud,Resource Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01Webhook,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodFailurePolicyRule,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1IngressSpec,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1IngressStatus,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.ApiregistrationV1ServiceReference,Microservices/Services,Service Discovery
+springframework,boot,org.springframework.boot.autoconfigure.EnableAutoConfiguration,Application,App Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1AttachedVolume,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1GroupVersionResource,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ContainerImage,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeAddress,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeCondition,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeConfigStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CustomResourceSubresourceScale,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodFailurePolicy,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeDaemonEndpoints,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1SuccessPolicy,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeFeatures,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeRuntimeHandler,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeSystemInfo,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NetworkPolicyEgressRule,Network,Network Security
+io,kubernetes,io.kubernetes.client.openapi.models.V1NetworkPolicyIngressRule,Network,Network Security
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01AcmeDNSAccountSecretRef,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1APIServiceCondition,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1IngressServiceBackend,Microservices/Services,API Gateway
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1MigrationCondition,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1TypedLocalObjectReference,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceSubRequest,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1DeviceToleration,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ValidatingAdmissionPolicyBindingSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1JobCondition,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1UncountedTerminatedPods,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1ServerStorageVersion,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha1StorageVersionCondition,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.custom.MapUtils,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.V1SubjectAccessReviewSpec,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.V1SubjectAccessReviewStatus,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.V1IngressClassSpec,Cloud,Service Configuration
+springframework,beans,org.springframework.beans.factory.annotation.Qualifier,Application,App Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1VolumeAttachmentSource,Cloud,Resource Management
+awaitility,awaitility,org.awaitility.Awaitility,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1ReplicaSetCondition,DevOps,Configuration Management
+mockito,Mockito,org.mockito.Mockito.doReturn,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2ResourceClaimSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta2ResourceClaimStatus,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeSwapStatus,Cloud,Resource Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01AzureDNSClientSecretSecretRef,Cloud,Cloud Security
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01AzureDNSManagedIdentity,Cloud,Cloud Security
+io,kubernetes,io.kubernetes.client.openapi.models.V1beta1CELDeviceSelector,Cloud,Resource Management
+springframework,boot,org.springframework.boot.SpringBootConfiguration,Application,App Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V2HorizontalPodAutoscalerSpec,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V2HorizontalPodAutoscalerStatus,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1VolumeError,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.openapi.models.V1AWSElasticBlockStoreVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1AzureDiskVolumeSource,Cloud,Virtualization
+io,kubernetes,io.kubernetes.client.openapi.models.V1AzureFilePersistentVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CSIPersistentVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CephFSPersistentVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1CinderPersistentVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1FCVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1FlexPersistentVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1FlockerVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ExternalDocumentation,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ValidationRule,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1GCEPersistentDiskVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1GlusterfsPersistentVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1HostPathVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ISCSIPersistentVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LocalVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NFSVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PhotonPersistentDiskVolumeSource,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.extended.leaderelection.resourcelock.ConfigMapLock,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ReplicationControllerSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ReplicationControllerStatus,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodFailurePolicyOnExitCodesRequirement,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodFailurePolicyOnPodConditionsPattern,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1IngressClassParametersReference,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.extended.leaderelection.resourcelock.LeaseLock,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.apis.CoordinationV1Api,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1MatchResources,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ParamRef,DevOps,Configuration Management
+util,concurrent,java.util.concurrent.BrokenBarrierException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.CyclicBarrier,Multi-Thread,Synchronization
+io,kubernetes,io.kubernetes.client.openapi.models.V1alpha2LeaseCandidateSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1LabelSelectorRequirement,DevOps,Configuration Management
+mockito,Mockito,org.mockito.Mockito.never,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1BoundObjectReference,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1StatefulSetOrdinals,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1StatefulSetPersistentVolumeClaimRetentionPolicy,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1StatefulSetUpdateStrategy,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V2HPAScalingRules,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1NamedRuleWithOperations,DevOps,Configuration Management
+junit,jupiter,org.junit.jupiter.api.BeforeAll,Test,Unit Testing
+springframework,core,org.springframework.core.io.ClassPathResource,Utility,System Tools
+io,kubernetes,io.kubernetes.client.extended.controller.Controllers,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.controller.DefaultControllerWatch,DevOps,Monitoring and Logging
+springframework,core,org.springframework.core.io.Resource,Utility,System Tools
+io,kubernetes,io.kubernetes.client.extended.network.LoadBalanceStrategy,Network,Protocol Implementation
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01CloudflareApiKeySecretRef,Cloud,Cloud Security
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01CloudflareApiTokenSecretRef,Cloud,Cloud Security
+io,kubernetes,io.kubernetes.client.extended.controller.ControllerWatch,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.extended.controller.DefaultController,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1StatefulSetCondition,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.spring.extended.network.endpoints.EndpointsGetter,Network,Protocol Implementation
+github,benmanes,com.github.benmanes.caffeine.cache.Cache,Data Structure,Data Manipulation
+mockito,Mockito,org.mockito.Mockito.verifyNoMoreInteractions,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1AuditAnnotation,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ParamKind,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1Validation,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1Variable,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.Threads,Multi-Thread,Thread Safety
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServiceCIDRSpec,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServiceCIDRStatus,Network,Protocol Implementation
+io,kubernetes,io.kubernetes.client.openapi.models.V1RollingUpdateStatefulSetStrategy,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1PriorityLevelConfigurationSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PriorityLevelConfigurationStatus,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1TokenReviewSpec,Security,Authentication
+io,kubernetes,io.kubernetes.client.openapi.models.V1TokenReviewStatus,Security,Authentication
+github,benmanes,com.github.benmanes.caffeine.cache.Caffeine,Data Structure,Data Manipulation
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.moreThan,Test,Integration Testing
+io,kubernetes,io.kubernetes.client.extended.wait.Wait,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.extended.workqueue.RateLimitingQueue,DevOps,Continuous Deployment
+io,prometheus,io.prometheus.client.CollectorRegistry,DevOps,Monitoring and Logging
+io,prometheus,io.prometheus.client.Gauge,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.extended.workqueue.WorkQueue,DevOps,Continuous Deployment
+util,function,java.util.function.BiPredicate,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.V1ReplicationControllerCondition,DevOps,Configuration Management
+gson,gson,com.google.gson.InstanceCreator,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.openapi.models.V1TypeChecking,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.generic.dynamic.DynamicKubernetesListObject,DevOps,Configuration Management
+io,github,io.github.bucket4j.Bandwidth,Utility,Performance Tools
+io,github,io.github.bucket4j.Bucket,Utility,Performance Tools
+io,github,io.github.bucket4j.Refill,Utility,Performance Tools
+io,github,io.github.bucket4j.local.LocalBucket,Utility,Performance Tools
+io,github,io.github.bucket4j.local.SynchronizationStrategy,Multi-Thread,Synchronization
+io,kubernetes,io.kubernetes.client.util.annotations.Annotations,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V2CrossVersionObjectReference,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V2HorizontalPodAutoscalerBehavior,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V2MetricSpec,DevOps,Monitoring and Logging
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01Rfc2136TsigSecretSecretRef,DevOps,Configuration Management
+commons,lang3,org.apache.commons.lang3.RandomStringUtils,Utility,Data Conversion
+lang,annotation,java.lang.annotation.Annotation,Language,Standard Libraries
+jetbrains,annotations,org.jetbrains.annotations.NotNull,Utility,Diagnostic Utilities
+reflections,reflections,org.reflections.Reflections,Utility,System Tools
+io,kubernetes,io.kubernetes.client.util.generic.options.PatchOptions,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.Strings.isNullOrEmpty,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.util.TestUtils.getApiKeyAuthFromClient,Test,Unit Testing
+springframework,aot,org.springframework.aot.hint.MemberCategory,Application,App Configuration
+springframework,aot,org.springframework.aot.hint.RuntimeHints,Application,App Configuration
+springframework,aot,org.springframework.aot.hint.TypeReference,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.aot.BeanFactoryInitializationAotContribution,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.aot.BeanFactoryInitializationAotProcessor,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.config.ConfigurableListableBeanFactory,Application,App Configuration
+springframework,boot,org.springframework.boot.autoconfigure.AutoConfigurationPackages,Microservices/Services,Service Deployment
+commons,collections4,org.apache.commons.collections4.CollectionUtils,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.informer.ListerWatcher,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.informer.ResyncRunnable,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.util.generic.options.CreateOptions,DevOps,Configuration Management
+util,util,java.util.Deque,Data Structure,Linear Structures
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01Route53AccessKeyIDSecretRef,Cloud,Cloud Security
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverDns01Route53SecretAccessKeySecretRef,Cloud,Cloud Security
+io,kubernetes,io.kubernetes.client.util.generic.options.DeleteOptions,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1OwnerReference,DevOps,Configuration Management
+software,amazon,software.amazon.awssdk.auth.credentials.AwsSessionCredentials,Cloud,Cloud Security
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.anyString,Test,Unit Testing
+util,util,java.util.NoSuchElementException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.locks.Condition,Multi-Thread,Synchronization
+util,concurrent,java.util.concurrent.locks.ReadWriteLock,Multi-Thread,Synchronization
+util,concurrent,java.util.concurrent.locks.ReentrantReadWriteLock,Multi-Thread,Synchronization
+io,kubernetes,io.kubernetes.client.openapi.models.V1ClusterTrustBundleProjection,Cloud,Cloud Security
+io,kubernetes,io.kubernetes.client.openapi.models.V1ConfigMapProjection,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1DownwardAPIProjection,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.util.labels.Labels,DevOps,Configuration Management
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.matching,Test,Integration Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.post,Test,Integration Testing
+io,kubernetes,io.kubernetes.client.informer.exception.BadNotificationException,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.util.TestUtils,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.extended.kubectl.KubectlExec.copyAsync,DevOps,Continuous Deployment
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.okForContentType,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.util.generic.options.UpdateOptions,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.kubectl.util.deployment.DeploymentHelper,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1ControllerRevision,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ControllerRevisionList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ReplicaSet,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.util.labels.LabelSelector,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01GatewayHTTPRoute,DevOps,Continuous Deployment
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01Ingress,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.taints.Taints,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.taints.Taints.TaintsBuilder,DevOps,Configuration Management
+util,concurrent,java.util.concurrent.atomic.AtomicLong,Multi-Thread,Thread Safety
+lang,annotation,java.lang.annotation.ElementType,Language,Standard Libraries
+lang,annotation,java.lang.annotation.Retention,Language,Standard Libraries
+lang,annotation,java.lang.annotation.RetentionPolicy,Language,Standard Libraries
+lang,annotation,java.lang.annotation.Target,Language,Standard Libraries
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01GatewayHTTPRouteParentRefsInner,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.controller.builder.Constants,DevOps,Configuration Management
+util,util,java.util.LinkedList,Data Structure,Linear Structures
+util,concurrent,java.util.concurrent.CancellationException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.RejectedExecutionException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.ScheduledFuture,Multi-Thread,Concurrency Control
+io,kubernetes,io.kubernetes.client.extended.network.exception.NoAvailableAddressException,Network,Connection Management
+lang,annotation,java.lang.annotation.Documented,Language,Standard Libraries
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressIngressTemplate,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplate,DevOps,Continuous Deployment
+lang,annotation,java.lang.annotation.Inherited,Language,Standard Libraries
+io,kubernetes,io.kubernetes.client.spring.extended.controller.annotation.KubernetesInformer,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.spring.extended.controller.annotation.KubernetesInformers,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.spring.extended.controller.config.KubernetesInformerProperties,DevOps,Configuration Management
+springframework,boot,org.springframework.boot.autoconfigure.condition.ConditionalOnProperty,Application,App Configuration
+springframework,beans,org.springframework.beans.BeansException,Error Handling,Exception Handling
+springframework,beans,org.springframework.beans.factory.BeanFactory,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.BeanFactoryAware,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.annotation.Autowired,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.support.BeanDefinitionBuilder,Application,App Configuration
+springframework,beans,org.springframework.beans.factory.support.BeanDefinitionRegistry,Application,App Configuration
+util,concurrent,java.util.concurrent.BlockingQueue,Multi-Thread,Synchronization
+springframework,beans,org.springframework.beans.factory.support.BeanDefinitionRegistryPostProcessor,Application,App Configuration
+util,concurrent,java.util.concurrent.ConcurrentMap,Data Structure,Data Manipulation
+util,concurrent,java.util.concurrent.DelayQueue,Multi-Thread,Concurrency Control
+util,concurrent,java.util.concurrent.Delayed,Multi-Thread,Concurrency Control
+springframework,beans,org.springframework.beans.factory.support.RootBeanDefinition,Application,App Configuration
+springframework,core,org.springframework.core.Ordered,Utility,System Tools
+util,concurrent,java.util.concurrent.LinkedBlockingQueue,Multi-Thread,Thread Safety
+springframework,core,org.springframework.core.ResolvableType,Application,App Configuration
+springframework,core,org.springframework.core.annotation.AnnotatedElementUtils,Application,App Configuration
+io,kubernetes,io.kubernetes.client.extended.workqueue.ratelimiter.DefaultControllerRateLimiter,DevOps,Continuous Deployment
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressIngressTemplateMetadata,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.workqueue.ratelimiter.RateLimiter,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.spring.extended.controller.KubernetesInformerFactoryProcessor,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.workqueue.DefaultWorkQueue,DevOps,Continuous Deployment
+springframework,boot,org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean,Application,App Configuration
+springframework,boot,org.springframework.boot.context.properties.EnableConfigurationProperties,Microservices/Services,Service Deployment
+io,kubernetes,io.kubernetes.client.informer.cache.ReflectorRunnable,DevOps,Monitoring and Logging
+springframework,boot,org.springframework.boot.context.properties.ConfigurationProperties,Application,App Configuration
+io,kubernetes,io.kubernetes.client.extended.workqueue.DefaultRateLimitingQueue,DevOps,Continuous Deployment
+util,concurrent,java.util.concurrent.Semaphore,Multi-Thread,Resource Sharing
+junit,jupiter,org.junit.jupiter.api.AfterEach,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Timeout,Test,Unit Testing
+mockito,invocation,org.mockito.invocation.InvocationOnMock,Test,Unit Testing
+mockito,stubbing,org.mockito.stubbing.Answer,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.doAnswer,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.extended.leaderelection.LeaderElectionRecord,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.leaderelection.Lock,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateMetadata,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpec,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.extended.event.legacy.EventAggregator,Event Handling,Event Logging
+io,kubernetes,io.kubernetes.client.extended.event.legacy.EventUtils,Event Handling,Event Logging
+io,kubernetes,io.kubernetes.client.openapi.models.CoreV1Event,Event Handling,System Events
+io,kubernetes,io.kubernetes.client.openapi.models.CoreV1EventBuilder,Event Handling,System Events
+io,kubernetes,io.kubernetes.client.openapi.models.V1ObjectReference,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.event.legacy.EventCorrelator,Event Handling,Event Driven Processing
+io,kubernetes,io.kubernetes.client.extended.event.legacy.EventSpamFilter,Event Handling,Event Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1EventSourceBuilder,Event Handling,System Events
+io,kubernetes,io.kubernetes.client.openapi.models.V1ObjectMetaBuilder,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ObjectReferenceBuilder,DevOps,Configuration Management
+commons,lang3,org.apache.commons.lang3.tuple.MutablePair,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.extended.event.legacy.EventLogger,Event Handling,Event Logging
+springframework,beans,org.springframework.beans.factory.FactoryBean,Application,App Configuration
+io,kubernetes,io.kubernetes.client.spring.extended.manifests.configmaps.PollingConfigMapGetter,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecAffinity,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecImagePullSecretsInner,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecTolerationsInner,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1NamespaceSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.VersionInfo,DevOps,Version Control
+io,kubernetes,io.kubernetes.client.util.CSRUtils,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.version.Version,Utility,System Tools
+security,security,java.security.KeyPairGenerator,Security,Encryption
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.patch,Test,Integration Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.patchRequestedFor,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.util.generic.dynamic.DynamicKubernetesApi,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.generic.dynamic.Dynamics,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecAffinityNodeAffinity,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecAffinityPodAffinity,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecAffinityPodAntiAffinity,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.informer.SharedIndexInformer,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.informer.SharedInformerFactory,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.informer.cache.Lister,DevOps,Configuration Management
+github,tomakehurst,com.github.tomakehurst.wiremock.matching.EqualToPattern,Test,Unit Testing
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecAffinityNodeAffinityPreferredDuringSchedulingIgnoredDuringExecutionInner,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecAffinityNodeAffinityRequiredDuringSchedulingIgnoredDuringExecution,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.kubectl.exception.KubectlException,Error Handling,Exception Handling
+io,kubernetes,io.kubernetes.client.openapi.models.V1Node,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1DaemonSet,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodTemplateSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1StatefulSet,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.Yaml,Utility,Data Conversion
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecAffinityNodeAffinityPreferredDuringSchedulingIgnoredDuringExecutionInnerPreference,DevOps,Configuration Management
+github,tomakehurst,com.github.tomakehurst.wiremock.stubbing.Scenario,Test,Integration Testing
+io,kubernetes,io.kubernetes.client.util.ModelMapper,Utility,Data Conversion
+io,kubernetes,io.kubernetes.client.Attach,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.apis.BatchV1Api,Cloud,Resource Management
+io,cert,io.cert.manager.models.V1alpha2IssuerSpecSelfSigned,Security,Authentication
+io,cert,io.cert.manager.models.V1beta1Issuer,Security,Authentication
+io,cert,io.cert.manager.models.V1beta1IssuerList,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1beta1IssuerSpec,Security,Authentication
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecAffinityNodeAffinityPreferredDuringSchedulingIgnoredDuringExecutionInnerPreferenceMatchExpressionsInner,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.controller.Controller,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.controller.ControllerManager,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.controller.LeaderElectingController,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.controller.builder.ControllerBuilder,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.controller.reconciler.Reconciler,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.controller.reconciler.Request,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.controller.reconciler.Result,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.extended.event.EventType,Event Handling,Event Driven Processing
+io,kubernetes,io.kubernetes.client.extended.event.legacy.EventBroadcaster,Event Handling,Event Logging
+io,kubernetes,io.kubernetes.client.extended.event.legacy.EventRecorder,Event Handling,Event Logging
+io,kubernetes,io.kubernetes.client.extended.event.legacy.LegacyEventBroadcaster,Event Handling,Event Logging
+io,kubernetes,io.kubernetes.client.extended.leaderelection.LeaderElectionConfig,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.leaderelection.LeaderElector,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecAffinityNodeAffinityRequiredDuringSchedulingIgnoredDuringExecutionNodeSelectorTermsInner,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.leaderelection.resourcelock.EndpointsLock,DevOps,Configuration Management
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.delete,Test,Integration Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.deleteRequestedFor,Test,Integration Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1EventSource,Event Handling,System Events
+io,kubernetes,io.kubernetes.client.openapi.models.V1NodeList,Cloud,Resource Management
+commons,cli,org.apache.commons.cli.CommandLine,Parser,Syntax Parsing
+commons,cli,org.apache.commons.cli.CommandLineParser,Parser,Syntax Parsing
+commons,cli,org.apache.commons.cli.DefaultParser,Parser,Syntax Parsing
+commons,cli,org.apache.commons.cli.Option,Utility,System Tools
+commons,cli,org.apache.commons.cli.Options,Utility,System Tools
+commons,cli,org.apache.commons.cli.ParseException,Parser,Error Recovery
+io,kubernetes,io.kubernetes.client.openapi.models.V1DeploymentSpec,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServiceList,Microservices/Services,Service Discovery
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecAffinityPodAffinityPreferredDuringSchedulingIgnoredDuringExecutionInner,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecAffinityPodAffinityRequiredDuringSchedulingIgnoredDuringExecutionInner,DevOps,Configuration Management
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.equalToJson,Test,Unit Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.matchingJsonPath,Test,Integration Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.put,Test,Integration Testing
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.putRequestedFor,Test,Unit Testing
+io,kubernetes,io.kubernetes.client.openapi.models.V1PodBuilder,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecAffinityPodAffinityPreferredDuringSchedulingIgnoredDuringExecutionInnerPodAffinityTerm,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.informer.ResourceEventHandler,Event Handling,Event Driven Processing
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecAffinityPodAffinityPreferredDuringSchedulingIgnoredDuringExecutionInnerPodAffinityTermLabelSelector,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ChallengeSpecSolverHttp01IngressPodTemplateSpecAffinityPodAffinityPreferredDuringSchedulingIgnoredDuringExecutionInnerPodAffinityTermNamespaceSelector,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.util.KubeConfig,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl.apiResources,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl.copy,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl.cordon,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl.delete,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl.drain,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl.exec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl.label,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl.log,Logging,Event Logging
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl.portforward,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl.scale,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl.taint,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl.top,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl.uncordon,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.kubectl.Kubectl.version,DevOps,Version Control
+io,kubernetes,io.kubernetes.client.extended.kubectl.KubectlTop.podMetricSum,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.extended.kubectl.KubectlExec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.extended.kubectl.KubectlPortForward,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ReplicationController,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1DaemonSetList,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1StatefulSetList,DevOps,Configuration Management
+util,util,java.util.UUID,Utility,System Tools
+io,kubernetes,io.kubernetes.client.PodLogs,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.Metrics,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.custom.ContainerMetrics,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.extended.pager.Pager,DevOps,Configuration Management
+util,concurrent,java.util.concurrent.TimeUnit.SECONDS,Utility,Performance Tools
+util,concurrent,java.util.concurrent.locks.ReentrantLock,Multi-Thread,Synchronization
+io,kubernetes,io.kubernetes.client.util.PatchUtils,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.PortForward,Network,Connection Management
+net,net,java.net.ServerSocket,Network,Connection Management
+net,net,java.net.Socket,Network,Connection Management
+io,kubernetes,io.kubernetes.client.monitoring.Monitoring,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.CoreV1EndpointPort,Cloud,Service Configuration
+coreos,monitoring,com.coreos.monitoring.models.V1Prometheus,DevOps,Monitoring and Logging
+coreos,monitoring,com.coreos.monitoring.models.V1PrometheusList,DevOps,Monitoring and Logging
+coreos,monitoring,com.coreos.monitoring.models.V1PrometheusSpec,DevOps,Monitoring and Logging
+io,kubernetes,io.kubernetes.client.openapi.models.V1EndpointAddress,Network,Connection Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1EndpointSubset,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.ProtoClient,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.ProtoClient.ObjectOrStatus,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.proto.Meta.ObjectMeta,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.proto.V1.Namespace,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.proto.V1.NamespaceSpec,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.proto.V1.Pod,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.proto.V1.PodList,Cloud,Resource Management
+io,kubernetes,io.kubernetes.client.extended.controller.builder.DefaultControllerBuilder,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.informer.SharedInformer,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1Endpoints,Cloud,Service Configuration
+io,kubernetes,io.kubernetes.client.openapi.models.V1EndpointsList,Cloud,Service Configuration
+springframework,beans,org.springframework.beans.factory.annotation.Value,Application,App Configuration
+springframework,boot,org.springframework.boot.CommandLineRunner,Application,App Configuration
+springframework,boot,org.springframework.boot.SpringApplication,Microservices/Services,Service Deployment
+springframework,boot,org.springframework.boot.autoconfigure.SpringBootApplication,Microservices/Services,Service Deployment
+springframework,context,org.springframework.context.annotation.Bean,Application,App Configuration
+springframework,context,org.springframework.context.annotation.Configuration,Application,App Configuration
+springframework,stereotype,org.springframework.stereotype.Component,Microservices/Services,Service Communication
+io,kubernetes,io.kubernetes.client.extended.network.EndpointsLoadBalancer,Network,Protocol Implementation
+io,kubernetes,io.kubernetes.client.extended.network.LoadBalancer,Network,Protocol Implementation
+io,kubernetes,io.kubernetes.client.extended.network.RoundRobinLoadBalanceStrategy,Network,Protocol Implementation
+io,kubernetes,io.kubernetes.client.spring.extended.network.endpoints.InformerEndpointsGetter,Network,Connection Management
+io,cert,io.cert.manager.models.V1ClusterIssuerSpec,Security,Authentication
+io,cert,io.cert.manager.models.V1ClusterIssuerStatus,Security,Authorization
+io,kubernetes,io.kubernetes.client.openapi.models.V1DeleteOptions,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1ServiceBuilder,Microservices/Services,Service Deployment
+lang,lang,java.lang.SuppressWarnings,Utility,System Tools
+io,kubernetes,io.kubernetes.client.fluent.BaseFluent,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.fluent.VisitableBuilder,DevOps,Configuration Management
+github,tomakehurst,com.github.tomakehurst.wiremock.client.WireMock.urlEqualTo,Test,Integration Testing
+lang,lang,java.lang.Integer,Utility,Data Conversion
+github,tomakehurst,com.github.tomakehurst.wiremock.core.WireMockConfiguration,Test,Integration Testing
+io,kubernetes,io.kubernetes.client.fluent.Nested,DevOps,Configuration Management
+lang,lang,java.lang.Byte,Utility,Data Conversion
+io,cert,io.cert.manager.models.V1ClusterIssuer,Security,Authorization
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecAcme,Security,Authentication
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecCa,Security,Authorization
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecSelfSigned,Security,Encryption
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecVault,DevOps,Configuration Management
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecVenafi,Security,Authentication
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecAcmeExternalAccountBinding,Security,Authentication
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecAcmePrivateKeySecretRef,Security,Encryption
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecAcmeSolversInner,DevOps,Configuration Management
+io,kubernetes,io.kubernetes.client.openapi.models.V1DeploymentBuilder,DevOps,Continuous Deployment
+io,kubernetes,io.kubernetes.client.openapi.models.V1LabelSelector,DevOps,Configuration Management
+time,time,java.time.LocalDateTime,Utility,System Tools
+io,cert,io.cert.manager.models.V1ClusterIssuerSpecAcmeExternalAccountBindingKeySecretRef,Security,Authentication
+lang,lang,java.lang.Long,Utility,Data Conversion
