@@ -1,0 +1,356 @@
+helper,helper,org.jsoup.helper.RequestAuthenticator,Security,Authentication
+nodes,nodes,org.jsoup.nodes.Document,Parser,Syntax Parsing
+parser,parser,org.jsoup.parser.Parser,Parser,Syntax Parsing
+parser,parser,org.jsoup.parser.StreamParser,Parser,Syntax Parsing
+jspecify,annotations,org.jspecify.annotations.Nullable,Utility,Data Conversion
+javax,net,javax.net.ssl.SSLSocketFactory,Network,Network Security
+io,io,java.io.BufferedInputStream,Input-Output,Buffering Strategies
+io,io,java.io.IOException,Input-Output,Network IO
+io,io,java.io.InputStream,Input-Output,Data Reading
+io,io,java.io.UncheckedIOException,Error Handling,Exception Handling
+net,net,java.net.Authenticator,Network,Network Security
+net,net,java.net.CookieStore,Network,Connection Management
+net,net,java.net.Proxy,Network,Connection Management
+net,net,java.net.URL,Network,Protocol Implementation
+util,util,java.util.Collection,Data Structure,Data Manipulation
+util,util,java.util.List,Data Structure,Linear Structures
+util,util,java.util.Map,Data Structure,Data Manipulation
+helper,helper,org.jsoup.helper.DataUtil,Parser,Data Conversion
+helper,helper,org.jsoup.helper.HttpConnection,Network,Connection Management
+nodes,nodes,org.jsoup.nodes.Element,Parser,Syntax Parsing
+safety,safety,org.jsoup.safety.Cleaner,Security,Data Integrity
+safety,safety,org.jsoup.safety.Safelist,Security,Data Integrity
+io,io,java.io.File,Input-Output,File Management
+nio,file,java.nio.file.Path,Input-Output,File Management
+internal,SharedConstants,org.jsoup.internal.SharedConstants.DummyUri,Parser,Syntax Parsing
+jspecify,annotations,org.jspecify.annotations.NullMarked,Utility,System Tools
+integration,integration,org.jsoup.integration.ParseTest,Test,Integration Testing
+junit,jupiter,org.junit.jupiter.api.Test,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertEquals,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.extension.AfterEachCallback,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.extension.ExtendWith,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.extension.ExtensionContext,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.ParameterizedTest,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.provider.Arguments,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.provider.ArgumentsProvider,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.provider.ArgumentsSource,Test,Unit Testing
+util,util,java.util.Locale,Internationalization,Language Support
+util,stream,java.util.stream.Stream,Utility,Data Conversion
+Connection,Connection,org.jsoup.Connection.Method,Network,Connection Management
+util,regex,java.util.regex.Pattern,Utility,Data Conversion
+undefined,undefined,org.jsoup.Connection,Network,Connection Management
+undefined,undefined,org.jsoup.Jsoup,Parser,Syntax Parsing
+internal,internal,org.jsoup.internal.StringUtil,Utility,Data Conversion
+helper,helper,org.jsoup.helper.Validate,Utility,System Tools
+nodes,nodes,org.jsoup.nodes.Node,Parser,Syntax Parsing
+nodes,nodes,org.jsoup.nodes.TextNode,Parser,Syntax Parsing
+select,select,org.jsoup.select.Elements,Parser,Syntax Parsing
+select,select,org.jsoup.select.NodeVisitor,Parser,Syntax Parsing
+util,util,java.util.HashSet,Data Structure,Linear Structures
+parser,parser,org.jsoup.parser.XmlTreeBuilder,Parser,Syntax Parsing
+lang,reflect,java.lang.reflect.Constructor,Utility,System Tools
+net,net,java.net.PasswordAuthentication,Network,Network Security
+junit,jupiter,org.junit.jupiter.api.BeforeEach,Test,Unit Testing
+parser,parser,org.jsoup.parser.CharacterReader,Parser,Syntax Parsing
+net,net,java.net.CookieManager,Network,Connection Management
+net,net,java.net.MalformedURLException,Network,Protocol Implementation
+net,net,java.net.URI,Network,Protocol Implementation
+net,net,java.net.URISyntaxException,Error Handling,Exception Handling
+util,util,java.util.Collections,Utility,Performance Tools
+util,util,java.util.HashMap,Data Structure,Data Manipulation
+javax,servlet,javax.servlet.http.HttpServletResponse,Application,App Configuration
+util,util,java.util.LinkedHashSet,Data Structure,Linear Structures
+util,util,java.util.Set,Data Structure,Linear Structures
+util,function,java.util.function.BiConsumer,Utility,Data Conversion
+io,io,java.io.FileInputStream,Input-Output,Data Reading
+internal,internal,org.jsoup.internal.ControllableInputStream,Input-Output,Stream Management
+internal,internal,org.jsoup.internal.Normalizer,Parser,Data Conversion
+internal,internal,org.jsoup.internal.SimpleStreamReader,Parser,Syntax Parsing
+nodes,nodes,org.jsoup.nodes.Comment,Parser,Syntax Parsing
+nodes,nodes,org.jsoup.nodes.XmlDeclaration,Parser,Syntax Parsing
+select,select,org.jsoup.select.Evaluator,Parser,Syntax Parsing
+select,select,org.jsoup.select.Selector,Parser,Syntax Parsing
+io,io,java.io.OutputStream,Input-Output,Data Writing
+io,io,java.io.Reader,Input-Output,Data Reading
+nio,nio,java.nio.ByteBuffer,Input-Output,Buffering Strategies
+nio,channels,java.nio.channels.Channels,Input-Output,Stream Management
+select,select,org.jsoup.select.Nodes,Parser,Syntax Parsing
+nio,channels,java.nio.channels.SeekableByteChannel,Input-Output,Data Reading
+nio,charset,java.nio.charset.Charset,Internationalization,Language Support
+nio,charset,java.nio.charset.IllegalCharsetNameException,Internationalization,Language Support
+nio,file,java.nio.file.Files,Input-Output,"Data Reading, Data Writing, File Management"
+util,util,java.util.Random,Utility,System Tools
+util,regex,java.util.regex.Matcher,Search,Query Processing
+util,zip,java.util.zip.GZIPInputStream,Input-Output,Data Reading
+internal,SharedConstants,org.jsoup.internal.SharedConstants.DefaultBufferSize,Parser,Optimization
+undefined,undefined,org.jsoup.HttpStatusException,Error Handling,Exception Handling
+undefined,undefined,org.jsoup.Progress,Parser,Syntax Parsing
+undefined,undefined,org.jsoup.UnsupportedMimeTypeException,Error Handling,Exception Handling
+parser,Parser,org.jsoup.parser.Parser.NamespaceMathml,Parser,Syntax Parsing
+parser,Parser,org.jsoup.parser.Parser.NamespaceSvg,Parser,Syntax Parsing
+io,io,java.io.BufferedReader,Input-Output,Buffering Strategies
+io,io,java.io.BufferedWriter,Input-Output,Data Writing
+io,io,java.io.ByteArrayInputStream,Input-Output,Data Reading
+io,io,java.io.InputStreamReader,Input-Output,Data Reading
+io,io,java.io.OutputStreamWriter,Input-Output,Data Writing
+net,net,java.net.InetSocketAddress,Network,Connection Management
+nodes,nodes,org.jsoup.nodes.Entities,Parser,Data Conversion
+net,net,java.net.URLEncoder,Network,Data Transmission
+nio,nio,java.nio.Buffer,Input-Output,Buffering Strategies
+nio,charset,java.nio.charset.StandardCharsets,Internationalization,Language Support
+util,util,java.util.ArrayList,Data Structure,Linear Structures
+util,util,java.util.LinkedHashMap,Data Structure,Linear Structures
+util,concurrent,java.util.concurrent.locks.ReentrantLock,Multi-Thread,Synchronization
+util,zip,java.util.zip.Inflater,Utility,Data Conversion
+util,zip,java.util.zip.InflaterInputStream,Input-Output,Data Reading
+Connection,Method,org.jsoup.Connection.Method.HEAD,Network,Connection Management
+helper,DataUtil,org.jsoup.helper.DataUtil.UTF_8,Utility,Data Conversion
+internal,Normalizer,org.jsoup.internal.Normalizer.lowerCase,Parser,Data Conversion
+internal,internal,org.jsoup.internal.SharedConstants,Utility,System Tools
+helper,HttpConnection,org.jsoup.helper.HttpConnection.Request,Network,Connection Management
+helper,HttpConnection,org.jsoup.helper.HttpConnection.Response,Network,Connection Management
+io,io,java.io.UnsupportedEncodingException,Internationalization,Language Support
+net,net,java.net.IDN,Internationalization,Language Support
+net,net,java.net.URLDecoder,Network,Data Transmission
+internal,internal,org.jsoup.internal.Functions,Parser,Syntax Parsing
+nodes,nodes,org.jsoup.nodes.LeafNode,Parser,Syntax Parsing
+javax,net,javax.net.ssl.HttpsURLConnection,Network,Network Security
+net,net,java.net.HttpURLConnection,Network,Data Transmission
+parser,Parser,org.jsoup.parser.Parser.NamespaceXml,Parser,Syntax Parsing
+nodes,nodes,org.jsoup.nodes.Attribute,Parser,Syntax Parsing
+parser,parser,org.jsoup.parser.HtmlTreeBuilder,Parser,Syntax Parsing
+w3c,dom,org.w3c.dom.Comment,Parser,Syntax Parsing
+w3c,dom,org.w3c.dom.DOMException,Error Handling,Exception Handling
+w3c,dom,org.w3c.dom.DOMImplementation,Application,Compatibility Checks
+w3c,dom,org.w3c.dom.Document,Parser,Syntax Parsing
+w3c,dom,org.w3c.dom.DocumentType,Parser,Validation
+w3c,dom,org.w3c.dom.Element,Application,App Configuration
+w3c,dom,org.w3c.dom.Node,Data Structure,Tree Structures
+w3c,dom,org.w3c.dom.NodeList,Data Structure,Tree Structures
+w3c,dom,org.w3c.dom.Text,Parser,Syntax Parsing
+javax,xml,javax.xml.parsers.DocumentBuilder,Parser,Data Conversion
+javax,xml,javax.xml.parsers.DocumentBuilderFactory,Parser,Data Conversion
+javax,xml,javax.xml.parsers.ParserConfigurationException,Parser,Error Recovery
+javax,xml,javax.xml.transform.OutputKeys,Input-Output,Data Writing
+javax,xml,javax.xml.transform.Transformer,Utility,Data Conversion
+javax,xml,javax.xml.transform.TransformerException,Error Handling,Exception Handling
+javax,xml,javax.xml.transform.TransformerFactory,Utility,Data Conversion
+javax,xml,javax.xml.transform.dom.DOMSource,Input-Output,Data Reading
+javax,xml,javax.xml.transform.stream.StreamResult,Input-Output,Data Writing
+javax,xml,javax.xml.xpath.XPathConstants,Utility,Data Conversion
+javax,xml,javax.xml.xpath.XPathExpression,Parser,Syntax Parsing
+javax,xml,javax.xml.xpath.XPathExpressionException,Error Handling,Exception Handling
+javax,xml,javax.xml.xpath.XPathFactory,Utility,Data Conversion
+javax,xml,javax.xml.xpath.XPathFactoryConfigurationException,Error Handling,Exception Handling
+io,io,java.io.StringWriter,Input-Output,Data Writing
+util,util,java.util.Properties,Utility,System Tools
+javax,xml,javax.xml.transform.OutputKeys.METHOD,Input-Output,Data Writing
+nodes,Document,org.jsoup.nodes.Document.OutputSettings.Syntax,Parser,Syntax Parsing
+parser,parser,org.jsoup.parser.ParseErrorList,Parser,Error Recovery
+io,io,java.io.FilterInputStream,Input-Output,Data Reading
+net,net,java.net.SocketTimeoutException,Network,Connection Management
+util,util,java.util.IdentityHashMap,Data Structure,Linear Structures
+util,function,java.util.function.Function,Utility,Data Conversion
+undefined,undefined,org.jsoup.SerializationException,Error Handling,Exception Handling
+util,stream,java.util.stream.Collectors.toCollection,Utility,Data Conversion
+nio,nio,java.nio.CharBuffer,Input-Output,Buffering Strategies
+nio,charset,java.nio.charset.CharsetDecoder,Internationalization,Language Support
+nio,charset,java.nio.charset.CoderResult,Internationalization,Language Support
+nio,charset,java.nio.charset.CodingErrorAction,Internationalization,Language Support
+internal,SimpleBufferedInput,org.jsoup.internal.SimpleBufferedInput.BufferPool,Input-Output,Buffering Strategies
+lang,ref,java.lang.ref.SoftReference,Utility,Performance Tools
+util,util,java.util.ArrayDeque,Data Structure,Linear Structures
+util,function,java.util.function.Supplier,Utility,System Tools
+util,util,java.util.Comparator,Utility,System Tools
+util,util,java.util.Arrays,Utility,Data Conversion
+util,util,java.util.Iterator,Data Structure,Linear Structures
+util,stream,java.util.stream.Collector,Utility,Data Conversion
+util,stream,java.util.stream.Collectors,Utility,Data Conversion
+internal,internal,org.jsoup.internal.QuietAppendable,Parser,Syntax Parsing
+util,util,java.util.Objects,Utility,Diagnostic Utilities
+parser,parser,org.jsoup.parser.ParseSettings,Parser,Syntax Parsing
+util,util,java.util.AbstractMap,Data Structure,Data Manipulation
+util,util,java.util.AbstractSet,Data Structure,Tree Structures
+util,function,java.util.function.Predicate,Utility,Data Conversion
+util,function,java.util.function.UnaryOperator,Utility,Data Conversion
+util,util,java.util.ConcurrentModificationException,Error Handling,Exception Handling
+util,util,java.util.NoSuchElementException,Error Handling,Exception Handling
+nodes,nodes,org.jsoup.nodes.PseudoTextElement,Parser,Syntax Parsing
+internal,SharedConstants,org.jsoup.internal.SharedConstants.AttrRangeKey,Parser,Syntax Parsing
+nodes,Range,org.jsoup.nodes.Range.AttributeRange.UntrackedAttr,Parser,Syntax Parsing
+internal,StringUtil,org.jsoup.internal.StringUtil.normaliseWhitespace,Utility,Data Conversion
+parser,parser,org.jsoup.parser.Tag,Parser,Syntax Parsing
+parser,Parser,org.jsoup.parser.Parser.NamespaceHtml,Parser,Syntax Parsing
+parser,parser,org.jsoup.parser.TokenQueue,Parser,Syntax Parsing
+select,select,org.jsoup.select.Collector,Parser,Syntax Parsing
+select,select,org.jsoup.select.NodeFilter,Parser,Syntax Parsing
+select,NodeFilter,org.jsoup.select.NodeFilter.FilterResult,Parser,Syntax Parsing
+lang,ref,java.lang.ref.WeakReference,Utility,Performance Tools
+util,concurrent,java.util.concurrent.atomic.AtomicBoolean,Multi-Thread,Thread Safety
+util,function,java.util.function.Consumer,Utility,Data Conversion
+util,regex,java.util.regex.PatternSyntaxException,Error Handling,Exception Handling
+internal,Normalizer,org.jsoup.internal.Normalizer.normalize,Parser,Data Conversion
+nodes,Document,org.jsoup.nodes.Document.OutputSettings.Syntax.xml,Parser,Syntax Parsing
+nodes,TextNode,org.jsoup.nodes.TextNode.lastCharIsWhitespace,Parser,Syntax Parsing
+parser,TokenQueue,org.jsoup.parser.TokenQueue.escapeCssIdentifier,Parser,Syntax Parsing
+select,Selector,org.jsoup.select.Selector.evaluatorOf,Parser,Syntax Parsing
+select,StructuralEvaluator,org.jsoup.select.StructuralEvaluator.ImmediateParentRun,Parser,Syntax Parsing
+nodes,Document,org.jsoup.nodes.Document.OutputSettings,Parser,Data Conversion
+nio,charset,java.nio.charset.CharsetEncoder,Internationalization,Language Support
+nodes,Entities,org.jsoup.nodes.Entities.EscapeMode.base,Parser,Data Conversion
+nodes,Entities,org.jsoup.nodes.Entities.EscapeMode.extended,Parser,Data Conversion
+nodes,nodes,org.jsoup.nodes.NodeIterator,Parser,Syntax Parsing
+io,io,java.io.ByteArrayOutputStream,Input-Output,Data Writing
+net,net,java.net.ProxySelector,Network,Connection Management
+net,net,java.net.SocketAddress,Network,Connection Management
+net,http,java.net.http.HttpClient,Network,Data Transmission
+net,http,java.net.http.HttpHeaders,Network,Data Transmission
+net,http,java.net.http.HttpRequest,Network,Data Transmission
+net,http,java.net.http.HttpResponse,Network,Data Transmission
+time,time,java.time.Duration,Utility,System Tools
+util,util,java.util.LinkedList,Data Structure,Linear Structures
+helper,HttpConnection,org.jsoup.helper.HttpConnection.Response.writePost,Network,Data Transmission
+helper,helper,org.jsoup.helper.W3CDom,Parser,Data Conversion
+util,util,java.util.Spliterator,Data Structure,Data Manipulation
+util,util,java.util.Spliterators,Utility,Performance Tools
+util,stream,java.util.stream.StreamSupport,Utility,Performance Tools
+integration,ParseTest,org.jsoup.integration.ParseTest.getFile,Test,Integration Testing
+integration,ParseTest,org.jsoup.integration.ParseTest.getPath,Test,Integration Testing
+MultiLocaleExtension,MultiLocaleExtension,org.jsoup.MultiLocaleExtension.MultiLocaleTest,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.provider.ValueSource,Test,Unit Testing
+internal,internal,org.jsoup.internal.SoftPool,Utility,Performance Tools
+io,io,java.io.StringReader,Input-Output,Data Reading
+nodes,nodes,org.jsoup.nodes.Attributes,Parser,Syntax Parsing
+nodes,nodes,org.jsoup.nodes.CDataNode,Parser,Syntax Parsing
+nodes,nodes,org.jsoup.nodes.DataNode,Parser,Data Conversion
+helper,HttpConnection,org.jsoup.helper.HttpConnection.Response.fixHeaderEncoding,Network,Protocol Implementation
+nodes,nodes,org.jsoup.nodes.FormElement,Parser,Syntax Parsing
+junit,jupiter,org.junit.jupiter.api.Assertions,Test,Unit Testing
+undefined,undefined,org.jsoup.TextUtil,Parser,Data Conversion
+internal,StringUtil,org.jsoup.internal.StringUtil.inSorted,Utility,Data Conversion
+parser,HtmlTreeBuilderState,org.jsoup.parser.HtmlTreeBuilderState.Constants.InTableFoster,Parser,Syntax Parsing
+parser,HtmlTreeBuilderState,org.jsoup.parser.HtmlTreeBuilderState.ForeignContent,Parser,Syntax Parsing
+nodes,nodes,org.jsoup.nodes.DocumentType,Parser,Syntax Parsing
+nodes,nodes,org.jsoup.nodes.Range,Parser,Syntax Parsing
+junit,jupiter,org.junit.jupiter.params.provider.MethodSource,Test,Unit Testing
+parser,HtmlTreeBuilder,org.jsoup.parser.HtmlTreeBuilder.isSpecial,Parser,Syntax Parsing
+xml,sax,org.xml.sax.InputSource,Parser,Syntax Parsing
+TextUtil,TextUtil,org.jsoup.TextUtil.normalizeSpaces,Utility,Data Conversion
+util,util,java.util.Date,Utility,System Tools
+io,io,java.io.Closeable,Input-Output,Stream Management
+integration,servlets,org.jsoup.integration.servlets.EchoServlet,Application,Integration
+integration,servlets,org.jsoup.integration.servlets.FileServlet,Utility,System Tools
+integration,servlets,org.jsoup.integration.servlets.SlowRider,Application,Integration
+util,util,java.util.Queue,Data Structure,Linear Structures
+junit,jupiter,org.junit.jupiter.api.BeforeAll,Test,Unit Testing
+util,concurrent,java.util.concurrent.atomic.AtomicInteger,Multi-Thread,Thread Safety
+helper,AuthenticationHandlerTest,org.jsoup.helper.AuthenticationHandlerTest.MaxAttempts,Test,Unit Testing
+helper,HttpConnection,org.jsoup.helper.HttpConnection.CONTENT_TYPE,Network,Connection Management
+helper,HttpConnection,org.jsoup.helper.HttpConnection.MULTIPART_FORM_DATA,Network,Data Transmission
+junit,jupiter,org.junit.jupiter.api.Disabled,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertNotNull,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertTrue,Test,Unit Testing
+nio,file,java.nio.file.Paths,Input-Output,File Management
+integration,servlets,org.jsoup.integration.servlets.AuthFilter,Security,Authentication
+integration,servlets,org.jsoup.integration.servlets.HelloServlet,Application,Integration
+integration,servlets,org.jsoup.integration.servlets.ProxyServlet,Network,Data Transmission
+integration,servlets,org.jsoup.integration.servlets.RedirectServlet,Application,Integration
+integration,ConnectTest,org.jsoup.integration.ConnectTest.ihVal,Test,Integration Testing
+util,concurrent,java.util.concurrent.ConcurrentHashMap,Data Structure,Linear Structures
+integration,servlets,org.jsoup.integration.servlets.CookieServlet,Application,Integration
+eclipse,jetty,org.eclipse.jetty.http.HttpVersion,Network,Protocol Implementation
+eclipse,jetty,org.eclipse.jetty.server.Connector,Network,Connection Management
+eclipse,jetty,org.eclipse.jetty.server.HttpConfiguration,Network,Protocol Implementation
+eclipse,jetty,org.eclipse.jetty.server.HttpConnectionFactory,Network,Protocol Implementation
+eclipse,jetty,org.eclipse.jetty.server.SecureRequestCustomizer,Security,Encryption
+eclipse,jetty,org.eclipse.jetty.server.Server,Network,Connection Management
+eclipse,jetty,org.eclipse.jetty.server.ServerConnector,Network,Connection Management
+eclipse,jetty,org.eclipse.jetty.server.SslConnectionFactory,Network,Network Security
+eclipse,jetty,org.eclipse.jetty.server.handler.HandlerWrapper,Network,Protocol Implementation
+eclipse,jetty,org.eclipse.jetty.servlet.FilterHolder,Microservices/Services,API Gateway
+eclipse,jetty,org.eclipse.jetty.servlet.FilterMapping,Microservices/Services,Service Communication
+eclipse,jetty,org.eclipse.jetty.servlet.ServletHandler,Microservices/Services,Service Communication
+eclipse,jetty,org.eclipse.jetty.util.log.Log,Logging,Error Logs
+eclipse,jetty,org.eclipse.jetty.util.log.StdErrLog,Logging,Error Logs
+eclipse,jetty,org.eclipse.jetty.util.ssl.SslContextFactory,Security,Encryption
+integration,servlets,org.jsoup.integration.servlets.BaseServlet,Web Scraping,DomainError
+javax,net,javax.net.ssl.SSLContext,Security,Encryption
+javax,net,javax.net.ssl.TrustManager,Security,Authentication
+javax,net,javax.net.ssl.TrustManagerFactory,Security,Authentication
+io,io,java.io.FileNotFoundException,Input-Output,File Management
+security,security,java.security.KeyManagementException,Security,Encryption
+security,security,java.security.KeyStore,Security,Encryption
+security,security,java.security.KeyStoreException,Security,Encryption
+security,security,java.security.NoSuchAlgorithmException,Security,Encryption
+security,cert,java.security.cert.CertificateException,Security,Authentication
+io,io,java.io.CharArrayWriter,Input-Output,Data Writing
+util,concurrent,java.util.concurrent.CountDownLatch,Multi-Thread,Synchronization
+util,concurrent,java.util.concurrent.ExecutorService,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.Executors,Multi-Thread,Parallel Processing
+internal,StringUtil,org.jsoup.internal.StringUtil.resolve,Utility,Data Conversion
+gson,gson,com.google.gson.Gson,Utility,Data Conversion
+gson,reflect,com.google.gson.reflect.TypeToken,Utility,Data Conversion
+io,io,java.io.FileWriter,Input-Output,Data Writing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertThrows,Test,Unit Testing
+util,concurrent,java.util.concurrent.atomic.AtomicReference,Multi-Thread,Thread Safety
+helper,helper,org.jsoup.helper.ValidationException,Error Handling,Exception Handling
+select,select,org.jsoup.select.QueryParser,Parser,Syntax Parsing
+nodes,NodeIteratorTest,org.jsoup.nodes.NodeIteratorTest.assertIterates,Test,Unit Testing
+nodes,NodeIteratorTest,org.jsoup.nodes.NodeIteratorTest.trackSeen,Test,Unit Testing
+select,SelectorTest,org.jsoup.select.SelectorTest.assertSelectedIds,Test,Unit Testing
+select,SelectorTest,org.jsoup.select.SelectorTest.assertSelectedOwnText,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertDoesNotThrow,Test,Unit Testing
+integration,integration,org.jsoup.integration.TestServer,Test,Integration Testing
+select,select,org.jsoup.select.SelectorTest,Test,Unit Testing
+util,util,java.util.Optional,Utility,Data Conversion
+nodes,NodeIteratorTest,org.jsoup.nodes.NodeIteratorTest.assertContents,Test,Unit Testing
+integration,ParseTest,org.jsoup.integration.ParseTest.getFileAsString,Test,Integration Testing
+parser,ParseSettings,org.jsoup.parser.ParseSettings.preserveCase,Parser,Syntax Parsing
+parser,HtmlTreeBuilderState,org.jsoup.parser.HtmlTreeBuilderState.Constants,Parser,Syntax Parsing
+lang,reflect,java.lang.reflect.Field,Utility,System Tools
+lang,reflect,java.lang.reflect.Modifier,Utility,System Tools
+parser,HtmlTreeBuilderState,org.jsoup.parser.HtmlTreeBuilderState.Constants.InBodyStartInputAttribs,Parser,Syntax Parsing
+lang,annotation,java.lang.annotation.Annotation,Language,Standard Libraries
+lang,reflect,java.lang.reflect.Method,Utility,System Tools
+junit,jupiter,org.junit.jupiter.api.Assertions.assertNotSame,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertArrayEquals,Test,Unit Testing
+parser,CharacterReader,org.jsoup.parser.CharacterReader.BufferSize,Parser,Syntax Parsing
+parser,parser,org.jsoup.parser.TagSet,Parser,Syntax Parsing
+junit,jupiter,org.junit.jupiter.api.Assertions.assertFalse,Test,Unit Testing
+select,EvaluatorDebug,org.jsoup.select.EvaluatorDebug.asElement,Parser,Syntax Parsing
+select,EvaluatorDebug,org.jsoup.select.EvaluatorDebug.sexpr,Parser,Syntax Parsing
+select,Selector,org.jsoup.select.Selector.SelectorParseException,Parser,Syntax Parsing
+junit,jupiter,org.junit.jupiter.api.Assertions.fail,Test,Unit Testing
+javax,xml,javax.xml.xpath.XPath,Parser,Syntax Parsing
+javax,xml,javax.xml.xpath.XPathFunctionResolver,Utility,System Tools
+javax,xml,javax.xml.xpath.XPathVariableResolver,Parser,Syntax Parsing
+helper,W3CDom,org.jsoup.helper.W3CDom.XPathFactoryProperty,Parser,Data Conversion
+junit,jupiter,org.junit.jupiter.api.Assertions.assertInstanceOf,Test,Unit Testing
+helper,helper,org.jsoup.helper.HttpClientExecutorTest,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.AfterAll,Test,Unit Testing
+javax,servlet,javax.servlet.Filter,Application,App Configuration
+javax,servlet,javax.servlet.FilterChain,Application,Integration
+javax,servlet,javax.servlet.FilterConfig,Application,App Configuration
+javax,servlet,javax.servlet.ServletException,Error Handling,Exception Handling
+javax,servlet,javax.servlet.ServletRequest,Application,App Configuration
+javax,servlet,javax.servlet.ServletResponse,Application,Integration
+javax,servlet,javax.servlet.http.HttpServletRequest,Application,App Configuration
+util,util,java.util.Base64,Utility,Data Conversion
+javax,servlet,javax.servlet.http.HttpServlet,Application,Integration
+javax,servlet,javax.servlet.http.Cookie,Application,App Configuration
+io,io,java.io.PrintWriter,Input-Output,Data Writing
+util,zip,java.util.zip.Deflater,Utility,Performance Tools
+util,zip,java.util.zip.DeflaterOutputStream,Input-Output,Data Writing
+eclipse,jetty,org.eclipse.jetty.server.Request,Network,Protocol Implementation
+javax,servlet,javax.servlet.MultipartConfigElement,Application,App Configuration
+javax,servlet,javax.servlet.http.Part,Application,Integration
+util,util,java.util.Enumeration,Utility,System Tools
+nodes,Entities,org.jsoup.nodes.Entities.escape,Parser,Data Conversion
+javax,servlet,javax.servlet.ServletOutputStream,Input-Output,Data Writing
+parser,parser,org.jsoup.parser.CharacterReaderTest,Test,Unit Testing
+eclipse,jetty,org.eclipse.jetty.client.api.Response,Network,Data Transmission
+eclipse,jetty,org.eclipse.jetty.proxy.AsyncProxyServlet,Network,Data Transmission
+eclipse,jetty,org.eclipse.jetty.proxy.ConnectHandler,Network,Protocol Implementation
+eclipse,jetty,org.eclipse.jetty.server.Handler,Network,Protocol Implementation
+eclipse,jetty,org.eclipse.jetty.servlet.ServletHolder,Microservices/Services,Service Communication
+integration,servlets,org.jsoup.integration.servlets.AuthFilter.ProxyRealm,Security,Authentication

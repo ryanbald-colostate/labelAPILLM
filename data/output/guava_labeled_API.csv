@@ -1,0 +1,1911 @@
+common,base,com.google.common.base.CharMatcher,Utility,Data Conversion
+errorprone,refaster,com.google.errorprone.refaster.annotation.AfterTemplate,Error Handling,Error Prevention
+errorprone,refaster,com.google.errorprone.refaster.annotation.BeforeTemplate,Error Handling,Error Prevention
+common,collect,com.google.common.collect.TreeTraverser,Data Structure,Tree Structures
+common,graph,com.google.common.graph.Traverser,Data Structure,Graph Structures
+common,collect,com.google.common.collect.Sets.newConcurrentHashSet,Data Structure,Data Manipulation
+errorprone,refaster,com.google.errorprone.refaster.annotation.Placeholder,Error Handling,Error Prevention
+gwt,core,com.google.gwt.core.client.EntryPoint,User Interface,Interaction Design
+junit,junit,org.junit.Before,Test,Unit Testing
+common,reflect,com.google.common.reflect.ClassPath,Utility,System Tools
+common,reflect,com.google.common.reflect.ClassPath.ClassInfo,Utility,System Tools
+gwt,junit,com.google.gwt.junit.client.GWTTestCase,Test,Unit Testing
+gwt,junit,com.google.gwt.junit.tools.GWTTestSuite,Test,Unit Testing
+io,io,java.io.IOException,Input-Output,Data Reading
+junit,framework,junit.framework.Test,Test,Unit Testing
+junit,framework,junit.framework.TestCase,Test,Unit Testing
+lang,annotation,java.lang.annotation.Documented,Language,Standard Libraries
+lang,annotation,java.lang.annotation.ElementType,Language,Standard Libraries
+lang,annotation,java.lang.annotation.Retention,Language,Standard Libraries
+lang,annotation,java.lang.annotation.RetentionPolicy,Language,Standard Libraries
+lang,annotation,java.lang.annotation.Target,Language,Standard Libraries
+util,concurrent,java.util.concurrent.atomic.AtomicIntegerFieldUpdater.newUpdater,Multi-Thread,Thread Safety
+common,graph,com.google.common.graph.TestUtil.assertEdgeNotInGraphErrorMessage,Test,Unit Testing
+common,graph,com.google.common.graph.TestUtil.assertEdgeRemovedFromGraphErrorMessage,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.INTEGER_MANY_VALUES_STATS_ITERABLE,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.INTEGER_MANY_VALUES_STATS_VARARGS,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.LARGE_INTEGER_VALUES_MEAN,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.LARGE_INTEGER_VALUES_POPULATION_VARIANCE,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.LARGE_INTEGER_VALUES_STATS,Test,Unit Testing
+util,concurrent,java.util.concurrent.Executors.newFixedThreadPool,Multi-Thread,Parallel Processing
+junit,Assert,org.junit.Assert.assertFalse,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.LARGE_LONG_VALUES_MEAN,Test,Unit Testing
+junit,Assert,org.junit.Assert.assertTrue,Test,Unit Testing
+junit,Assert,org.junit.Assert.fail,Test,Unit Testing
+common,base,com.google.common.base.Preconditions.checkNotNull,Error Handling,Error Prevention
+common,annotations,com.google.common.annotations.GwtCompatible,Utility,System Tools
+common,annotations,com.google.common.annotations.GwtIncompatible,Utility,System Tools
+common,annotations,com.google.common.annotations.J2ktIncompatible,Utility,System Tools
+util,util,java.util.Collections,Utility,Performance Tools
+util,util,java.util.Set,Data Structure,Data Manipulation
+jspecify,annotations,org.jspecify.annotations.Nullable,Utility,Diagnostic Utilities
+common,base,com.google.common.base.NullnessCasts.uncheckedCastNullableTToT,Utility,Data Conversion
+common,base,com.google.common.base.Preconditions.checkState,Error Handling,Exception Handling
+common,math,com.google.common.math.StatsTesting.LARGE_LONG_VALUES_POPULATION_VARIANCE,Test,Unit Testing
+errorprone,annotations,com.google.errorprone.annotations.CanIgnoreReturnValue,Error Handling,Error Prevention
+util,util,java.util.Iterator,Data Structure,Linear Structures
+util,util,java.util.NoSuchElementException,Error Handling,Exception Handling
+common,math,com.google.common.math.StatsTesting.LARGE_LONG_VALUES_STATS,Test,Unit Testing
+common,base,com.google.common.base.Preconditions.checkArgument,Error Handling,Error Prevention
+common,math,com.google.common.math.StatsTesting.LARGE_VALUES_MEAN,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.LARGE_VALUES_STATS,Test,Unit Testing
+nio,charset,java.nio.charset.StandardCharsets,Internationalization,Language Support
+util,Objects,java.util.Objects.requireNonNull,Error Handling,Exception Handling
+common,collect,com.google.common.collect.testing.AbstractMapTester,Test,Unit Testing
+io,io,java.io.Serializable,Input-Output,Data Writing
+util,concurrent,java.util.concurrent.atomic.AtomicIntegerFieldUpdater,Multi-Thread,Concurrency Control
+common,math,com.google.common.math.StatsTesting.LONG_MANY_VALUES_STATS_ITERATOR,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.LONG_MANY_VALUES_STATS_SNAPSHOT,Test,Unit Testing
+common,base,com.google.common.base.Preconditions.checkPositionIndex,Error Handling,Error Prevention
+common,annotations,com.google.common.annotations.VisibleForTesting,Test,Unit Testing
+errorprone,annotations,com.google.errorprone.annotations.InlineMe,Error Handling,Error Prevention
+errorprone,annotations,com.google.errorprone.annotations.InlineMeValidationDisabled,Error Handling,Error Prevention
+util,util,java.util.Arrays,Utility,Data Conversion
+util,util,java.util.BitSet,Data Structure,Linear Structures
+nio,charset,java.nio.charset.Charset,Internationalization,Language Support
+common,math,com.google.common.math.StatsTesting.MANY_VALUES_STATS_ITERATOR,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.MANY_VALUES_STATS_SNAPSHOT,Test,Unit Testing
+lang,reflect,java.lang.reflect.UndeclaredThrowableException,Error Handling,Exception Handling
+errorprone,annotations,com.google.errorprone.annotations.CheckReturnValue,Error Handling,Error Prevention
+errorprone,annotations,com.google.errorprone.annotations.ForOverride,Error Handling,Error Prevention
+errorprone,annotations,com.google.errorprone.annotations.concurrent.LazyInit,Multi-Thread,Thread Safety
+j2objc,annotations,com.google.j2objc.annotations.RetainedWith,Utility,System Tools
+util,concurrent,java.util.concurrent.Semaphore,Multi-Thread,Resource Sharing
+errorprone,annotations,com.google.errorprone.annotations.MustBeClosed,Error Handling,Error Prevention
+io,io,java.io.BufferedReader,Input-Output,Buffering Strategies
+lang,ref,java.lang.ref.WeakReference,Utility,Performance Tools
+lang,reflect,java.lang.reflect.Field,Utility,System Tools
+util,util,java.util.EnumSet,Utility,System Tools
+util,util,java.util.HashMap,Data Structure,Data Manipulation
+util,util,java.util.Map,Data Structure,Data Manipulation
+util,util,java.util.WeakHashMap,Data Structure,Data Manipulation
+util,concurrent,java.util.concurrent.locks.ReadWriteLock,Multi-Thread,Synchronization
+common,base,com.google.common.base.CaseFormat,Utility,Data Conversion
+io,io,java.io.StringReader,Input-Output,Data Reading
+io,io,java.io.UncheckedIOException,Error Handling,Exception Handling
+common,cache,com.google.common.cache.TestingRemovalListeners.CountingRemovalListener,Test,Unit Testing
+common,cache,com.google.common.cache.TestingRemovalListeners.QueuingRemovalListener,Test,Unit Testing
+util,util,java.util.Objects,Utility,System Tools
+util,function,java.util.function.BiPredicate,Utility,Data Conversion
+jspecify,annotations,org.jspecify.annotations.NonNull,Utility,Diagnostic Utilities
+common,collect,com.google.common.collect.testing.Helpers.assertEqualInOrder,Test,Unit Testing
+util,concurrent,java.util.concurrent.atomic.AtomicLongFieldUpdater,Multi-Thread,Concurrency Control
+util,function,java.util.function.DoubleBinaryOperator,Utility,Data Conversion
+util,function,java.util.function.DoubleUnaryOperator,Utility,Data Conversion
+lang,ref,java.lang.ref.PhantomReference,Utility,System Tools
+lang,ref,java.lang.ref.ReferenceQueue,Utility,System Tools
+common,collect,com.google.common.collect.testing.Platform.format,Test,Unit Testing
+errorprone,annotations,com.google.errorprone.annotations.DoNotMock,Test,Unit Testing
+common,collect,com.google.common.collect.testing.AbstractContainerTester,Test,Unit Testing
+common,collect,com.google.common.collect.Iterators.advance,Data Structure,Data Manipulation
+io,io,java.io.Closeable,Input-Output,Stream Management
+io,io,java.io.FileNotFoundException,Input-Output,File Management
+common,collect,com.google.common.collect.Iterators.all,Utility,Data Conversion
+common,collect,com.google.common.collect.Iterators.any,Utility,Performance Tools
+lang,ref,java.lang.ref.Reference,Utility,System Tools
+common,primitives,com.google.common.primitives.ImmutableLongArray,Data Structure,Data Manipulation
+lang,reflect,java.lang.reflect.Method,Utility,System Tools
+net,net,java.net.URL,Network,Protocol Implementation
+net,net,java.net.URLClassLoader,Utility,System Tools
+util,logging,java.util.logging.Level,Logging,Error Logs
+util,logging,java.util.logging.Logger,Logging,Event Logging
+common,collect,com.google.common.collect.Iterators.filter,Utility,Data Conversion
+common,collect,com.google.common.collect.Iterators.find,Utility,System Tools
+common,collect,com.google.common.collect.Iterators.frequency,Data Structure,Data Manipulation
+lang,ref,java.lang.ref.SoftReference,Utility,Performance Tools
+common,collect,com.google.common.collect.Iterators.get,Utility,Data Conversion
+common,collect,com.google.common.collect.Iterators.getLast,Data Structure,Data Manipulation
+common,cache,com.google.common.cache.TestingWeighers.intKeyWeigher,Test,Unit Testing
+common,cache,com.google.common.cache.TestingWeighers.intValueWeigher,Test,Unit Testing
+common,collect,com.google.common.collect.Iterators.getOnlyElement,Utility,Data Conversion
+common,collect,com.google.common.collect.Iterators.tryFind,Utility,Performance Tools
+common,cache,com.google.common.cache.CacheTesting.Receiver,Test,Unit Testing
+common,cache,com.google.common.cache.TestingCacheLoaders.IdentityLoader,Test,Unit Testing
+jsinterop,annotations,jsinterop.annotations.JsFunction,Language,Language Extensions
+jsinterop,annotations,jsinterop.annotations.JsOptional,Utility,System Tools
+common,base,com.google.common.base.Throwables.throwIfInstanceOf,Error Handling,Exception Handling
+common,base,com.google.common.base.Throwables.throwIfUnchecked,Error Handling,Exception Handling
+common,collect,com.google.common.collect.testing.features.CollectionFeature.FAILS_FAST_ON_CONCURRENT_MODIFICATION,Test,Unit Testing
+common,graph,com.google.common.graph.TestUtil.EdgeType.DIRECTED,Test,Unit Testing
+common,graph,com.google.common.graph.TestUtil.EdgeType.UNDIRECTED,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.CollectionFeature.SUPPORTS_ADD,Test,Unit Testing
+lang,annotation,java.lang.annotation.ElementType.CONSTRUCTOR,Language,Standard Libraries
+lang,annotation,java.lang.annotation.ElementType.FIELD,Utility,System Tools
+lang,annotation,java.lang.annotation.ElementType.METHOD,Language,Standard Libraries
+lang,annotation,java.lang.annotation.ElementType.TYPE,Language,Standard Libraries
+util,Spliterator,java.util.Spliterator.OfPrimitive,Data Structure,Data Manipulation
+common,graph,com.google.common.graph.TestUtil.EdgeType,Test,Unit Testing
+time,time,java.time.Duration,Utility,Performance Tools
+common,util,com.google.common.util.concurrent.Callables,Multi-Thread,Parallel Processing
+nio,nio,java.nio.Buffer,Input-Output,Buffering Strategies
+common,util,com.google.common.util.concurrent.InterruptibleTask.Blocker,Multi-Thread,Synchronization
+util,util,java.util.DoubleSummaryStatistics,Utility,Performance Tools
+util,regex,java.util.regex.Matcher,Search,Query Processing
+util,regex,java.util.regex.Pattern,Utility,System Tools
+nio,channels,java.nio.channels.spi.AbstractInterruptibleChannel,Input-Output,Stream Management
+util,function,java.util.function.LongBinaryOperator,Utility,Data Conversion
+junit,runners,org.junit.runners.Parameterized,Test,Unit Testing
+junit,runners,org.junit.runners.Parameterized.Parameters,Test,Unit Testing
+util,util,java.util.AbstractList,Data Structure,Linear Structures
+common,graph,com.google.common.graph.ElementOrder.insertion,Data Structure,Graph Structures
+common,graph,com.google.common.graph.ElementOrder.unordered,Data Structure,Graph Structures
+util,util,java.util.List,Data Structure,Linear Structures
+common,collect,com.google.common.collect.testing.SampleElements.Chars,Test,Unit Testing
+util,Map,java.util.Map.Entry,Data Structure,Data Manipulation
+lang,reflect,java.lang.reflect.Array,Utility,System Tools
+io,io,java.io.File,Input-Output,File Management
+io,io,java.io.FileInputStream,Input-Output,Data Reading
+io,io,java.io.FileOutputStream,Input-Output,Data Writing
+util,function,java.util.function.LongUnaryOperator,Utility,Data Conversion
+util,util,java.util.Collection,Data Structure,Data Manipulation
+util,util,java.util.OptionalDouble,Utility,Data Conversion
+util,util,java.util.OptionalInt,Utility,Data Conversion
+util,util,java.util.OptionalLong,Utility,Performance Tools
+common,cache,com.google.common.cache.LocalCache.AbstractCacheSet,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.features.CollectionSize.SEVERAL,Test,Unit Testing
+common,cache,com.google.common.cache.TestingCacheLoaders.bulkLoader,Test,Unit Testing
+common,io,com.google.common.io.FileWriteMode.APPEND,Input-Output,Data Writing
+common,collect,com.google.common.collect.testing.features.CollectionSize.ZERO,Test,Unit Testing
+common,cache,com.google.common.cache.TestingCacheLoaders.errorLoader,Test,Unit Testing
+common,cache,com.google.common.cache.TestingCacheLoaders.exceptionLoader,Test,Unit Testing
+common,collect,com.google.common.collect.ObjectArrays.checkElementNotNull,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.google.ReflectionFreeAssertThrows.assertThrows,Test,Unit Testing
+util,util,java.util.Vector,Data Structure,Linear Structures
+common,graph,com.google.common.graph.SuccessorsFunction,Data Structure,Graph Structures
+jspecify,annotations,org.jspecify.annotations.NullMarked,Utility,Diagnostic Utilities
+common,testing,com.google.common.testing.TearDownAccepter,Test,Unit Testing
+common,cache,com.google.common.cache.TestingCacheLoaders.CountingLoader,Test,Unit Testing
+common,base,com.google.common.base.Functions.constant,Utility,Data Conversion
+lang,annotation,java.lang.annotation.ElementType.PARAMETER,Language,Standard Libraries
+lang,annotation,java.lang.annotation.RetentionPolicy.CLASS,Language,Standard Libraries
+common,collect,com.google.common.collect.BoundType,Data Structure,Tree Structures
+common,testing,com.google.common.testing.TestLogHandler,Test,Unit Testing
+common,net,com.google.common.net.ReflectionFreeAssertThrows.assertThrows,Test,Unit Testing
+common,collect,com.google.common.collect.Lists.asList,Data Structure,Linear Structures
+errorprone,annotations,com.google.errorprone.annotations.RestrictedApi,Error Handling,Error Prevention
+common,util,com.google.common.util.concurrent.ClosingFuture.State.CLOSED,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.ClosingFuture.State.CLOSING,Multi-Thread,Concurrency Control
+util,util,java.util.Locale,Internationalization,Language Support
+common,util,com.google.common.util.concurrent.ClosingFuture.State.OPEN,Multi-Thread,Thread Safety
+io,io,java.io.RandomAccessFile,Input-Output,"Data Reading, Data Writing"
+nio,nio,java.nio.MappedByteBuffer,Input-Output,Buffering Strategies
+common,base,com.google.common.base.Strings.lenientFormat,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.ClosingFuture.State.SUBSUMED,Multi-Thread,Concurrency Control
+nio,channels,java.nio.channels.FileChannel.MapMode,Input-Output,File Management
+common,util,com.google.common.util.concurrent.ClosingFuture.State.WILL_CLOSE,Multi-Thread,Resource Sharing
+common,util,com.google.common.util.concurrent.ClosingFuture.State.WILL_CREATE_VALUE_AND_CLOSER,Multi-Thread,Resource Sharing
+common,util,com.google.common.util.concurrent.JdkFutureAdapters.listenInPoolThread,Multi-Thread,Parallel Processing
+common,util,com.google.common.util.concurrent.Futures.nonCancellationPropagating,Multi-Thread,Thread Safety
+common,graph,com.google.common.graph.Graphs.hasCycle,Data Structure,Graph Structures
+util,util,java.util.ArrayList,Data Structure,Linear Structures
+util,logging,java.util.logging.Level.FINER,Logging,Event Logging
+common,collect,com.google.common.collect.testing.testers.TestExceptions.SomeCheckedException,Test,Unit Testing
+common,collect,com.google.common.collect.Multimaps.synchronizedMultimap,Data Structure,Data Manipulation
+common,util,com.google.common.util.concurrent.FuturesTest.ExecutorSpy,Test,Unit Testing
+common,collect,com.google.common.collect.testing.AbstractCollectionTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.SampleElements.Enums,Test,Unit Testing
+common,graph,com.google.common.graph.Graphs.copyOf,Data Structure,Graph Structures
+common,graph,com.google.common.graph.Graphs.inducedSubgraph,Data Structure,Graph Structures
+common,cache,com.google.common.cache.LocalCache.Strength.STRONG,Data Structure,Data Manipulation
+common,graph,com.google.common.graph.Graphs.reachableNodes,Data Structure,Graph Structures
+common,graph,com.google.common.graph.Graphs.transitiveClosure,Data Structure,Graph Structures
+common,graph,com.google.common.graph.Graphs.transpose,Data Structure,Graph Structures
+common,util,com.google.common.util.concurrent.ClosingFuture.Combiner.AsyncCombiningCallable,Multi-Thread,Parallel Processing
+common,base,com.google.common.base.CharMatcher.NamedFastMatcher,Utility,Data Conversion
+nio,file,java.nio.file.FileSystemException,Input-Output,File Management
+nio,file,java.nio.file.SecureDirectoryStream,Input-Output,File Management
+common,util,com.google.common.util.concurrent.ClosingFuture.Combiner.CombiningCallable,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.Futures.FutureCombiner,Multi-Thread,Parallel Processing
+common,collect,com.google.common.collect.testing.features.MapFeature.SUPPORTS_REMOVE,Test,Unit Testing
+common,collect,com.google.common.collect.testing.SampleElements.Ints,Test,Unit Testing
+common,cache,com.google.common.cache.TestingCacheLoaders.incrementingLoader,Test,Unit Testing
+util,util,java.util.LinkedHashMap,Data Structure,Linear Structures
+common,cache,com.google.common.cache.TestingCacheLoaders.IncrementingLoader,Test,Unit Testing
+util,stream,java.util.stream.Stream,Utility,Data Conversion
+util,stream,java.util.stream.StreamSupport,Utility,Performance Tools
+common,io,com.google.common.io.CharStreams.createBuffer,Input-Output,Buffering Strategies
+util,concurrent,java.util.concurrent.TimeUnit.DAYS,Utility,Performance Tools
+util,concurrent,java.util.concurrent.TimeUnit.HOURS,Utility,Performance Tools
+util,concurrent,java.util.concurrent.TimeUnit.MICROSECONDS,Utility,Performance Tools
+util,concurrent,java.util.concurrent.TimeUnit.MILLISECONDS,Utility,Performance Tools
+util,concurrent,java.util.concurrent.TimeUnit.MINUTES,Utility,Performance Tools
+util,concurrent,java.util.concurrent.TimeUnit.NANOSECONDS,Utility,Performance Tools
+util,concurrent,java.util.concurrent.TimeUnit.SECONDS,Utility,Performance Tools
+j2objc,annotations,com.google.j2objc.annotations.J2ObjCIncompatible,Utility,System Tools
+common,collect,com.google.common.collect.testing.testers.TestExceptions.SomeError,Test,Unit Testing
+util,concurrent,java.util.concurrent.TimeUnit,Multi-Thread,Concurrency Control
+common,collect,com.google.common.collect.testing.testers.TestExceptions.SomeOtherCheckedException,Test,Unit Testing
+lang,Math,java.lang.Math.min,Utility,Performance Tools
+util,logging,java.util.logging.Level.WARNING,Logging,Error Logs
+common,collect,com.google.common.collect.testing.features.MapFeature.SUPPORTS_PUT,Test,Unit Testing
+junit,framework,junit.framework.Assert.assertFalse,Test,Unit Testing
+junit,framework,junit.framework.Assert.assertNotNull,Test,Unit Testing
+junit,framework,junit.framework.Assert.assertNotSame,Test,Unit Testing
+common,base,com.google.common.base.Internal.toNanosSaturated,Utility,Performance Tools
+junit,framework,junit.framework.Assert.assertNull,Test,Unit Testing
+junit,framework,junit.framework.Assert.assertSame,Test,Unit Testing
+io,io,java.io.FilePermission,Security,Authorization
+util,concurrent,java.util.concurrent.RejectedExecutionException,Error Handling,Exception Handling
+common,cache,com.google.common.cache.LocalCache.LocalLoadingCache,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Lists.newArrayListWithCapacity,Data Structure,Linear Structures
+io,io,java.io.ObjectInputStream,Input-Output,Data Reading
+security,security,java.security.CodeSource,Security,Compliance
+security,security,java.security.Permission,Security,Authorization
+security,security,java.security.PermissionCollection,Security,Authorization
+common,net,com.google.common.net.MediaType.ANY_APPLICATION_TYPE,Network,Data Transmission
+common,net,com.google.common.net.MediaType.ANY_AUDIO_TYPE,Multimedia,Media Playback
+common,net,com.google.common.net.MediaType.ANY_IMAGE_TYPE,Multimedia,Media Playback
+util,Arrays,java.util.Arrays.asList,Utility,Data Conversion
+util,Collections,java.util.Collections.unmodifiableList,Utility,System Tools
+common,net,com.google.common.net.MediaType.ANY_TEXT_TYPE,Network,Data Transmission
+common,net,com.google.common.net.MediaType.ANY_TYPE,Network,Data Transmission
+nio,file,java.nio.file.LinkOption.NOFOLLOW_LINKS,Input-Output,File Management
+common,net,com.google.common.net.MediaType.ANY_VIDEO_TYPE,Multimedia,Streaming
+common,net,com.google.common.net.MediaType.HTML_UTF_8,Network,Data Transmission
+common,net,com.google.common.net.MediaType.JPEG,Multimedia,Encoding and Decoding
+common,net,com.google.common.net.MediaType.PLAIN_TEXT_UTF_8,Network,Data Transmission
+io,io,java.io.PrintWriter,Input-Output,Data Writing
+io,io,java.io.StringWriter,Input-Output,Data Writing
+lang,reflect,java.lang.reflect.InvocationTargetException,Error Handling,Exception Handling
+security,security,java.security.Permissions,Security,Authorization
+security,security,java.security.Policy,Security,Authorization
+lang,reflect,java.lang.reflect.Modifier.isFinal,Utility,System Tools
+common,collect,com.google.common.collect.testing.IteratorFeature.SUPPORTS_REMOVE,Test,Unit Testing
+common,cache,com.google.common.cache.CacheTesting.checkEmpty,Test,Unit Testing
+common,collect,com.google.common.collect.testing.IteratorFeature.SUPPORTS_SET,Test,Unit Testing
+security,security,java.security.ProtectionDomain,Security,Authorization
+common,base,com.google.common.base.Preconditions.checkPositionIndexes,Error Handling,Exception Handling
+lang,Character,java.lang.Character.MAX_SURROGATE,Internationalization,Language Support
+lang,Character,java.lang.Character.MIN_SURROGATE,Internationalization,Language Support
+nio,channels,java.nio.channels.Channels,Input-Output,Stream Management
+nio,channels,java.nio.channels.SeekableByteChannel,Input-Output,Data Reading
+security,security,java.security.SecurityPermission,Security,Authorization
+nio,file,java.nio.file.DirectoryIteratorException,Error Handling,Exception Handling
+nio,file,java.nio.file.DirectoryStream,Input-Output,File Management
+nio,file,java.nio.file.FileAlreadyExistsException,Error Handling,Exception Handling
+nio,file,java.nio.file.Files,Input-Output,"Data Reading, Data Writing, File Management"
+common,collect,com.google.common.collect.ImmutableMap,Data Structure,Data Manipulation
+nio,file,java.nio.file.LinkOption,Input-Output,File Management
+nio,file,java.nio.file.NoSuchFileException,Error Handling,Exception Handling
+nio,file,java.nio.file.NotDirectoryException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.Callable,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.ConcurrentMap,Data Structure,Data Manipulation
+util,concurrent,java.util.concurrent.ExecutionException,Error Handling,Exception Handling
+nio,file,java.nio.file.OpenOption,Input-Output,File Management
+nio,file,java.nio.file.Path,Input-Output,File Management
+common,util,com.google.common.util.concurrent.UncheckedExecutionException,Error Handling,Exception Handling
+nio,file,java.nio.file.StandardOpenOption,Input-Output,Data Writing
+nio,file,java.nio.file.attribute.BasicFileAttributeView,Input-Output,File Management
+nio,file,java.nio.file.attribute.BasicFileAttributes,Input-Output,File Management
+nio,file,java.nio.file.attribute.FileAttribute,Input-Output,File Management
+nio,file,java.nio.file.attribute.FileTime,Input-Output,File Management
+common,util,com.google.common.util.concurrent.ExecutionError,Error Handling,Exception Handling
+common,cache,com.google.common.cache.CacheBuilderFactory.DurationSpec,Utility,Performance Tools
+util,util,java.util.PropertyPermission,Security,Authorization
+errorprone,annotations,com.google.errorprone.annotations.CompatibleWith,Error Handling,Error Prevention
+common,collect,com.google.common.collect.testing.ListIteratorTester,Test,Unit Testing
+common,graph,com.google.common.graph.TestUtil.ERROR_ELEMENT_NOT_IN_GRAPH,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.CollectionSpliteratorTester.getSpliteratorNotImmutableCollectionAllowsAddMethod,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.mock,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.verify,Test,Unit Testing
+common,base,com.google.common.base.Ascii,Utility,Data Conversion
+common,base,com.google.common.base.Equivalence,Utility,Data Conversion
+common,base,com.google.common.base.MoreObjects,Utility,System Tools
+common,base,com.google.common.base.Supplier,Utility,System Tools
+common,base,com.google.common.base.Suppliers,Utility,System Tools
+mockito,Mockito,org.mockito.Mockito.when,Test,Unit Testing
+common,base,com.google.common.base.Ticker,Utility,Performance Tools
+common,cache,com.google.common.cache.AbstractCache.SimpleStatsCounter,Utility,Performance Tools
+common,cache,com.google.common.cache.AbstractCache.StatsCounter,Data Structure,Data Manipulation
+common,cache,com.google.common.cache.LocalCache.Strength,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.testers.CollectionSpliteratorTester.getSpliteratorNotImmutableCollectionAllowsRemoveMethod,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListListIteratorTester.getListIteratorFullyModifiableMethod,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListSubListTester.getSubListOriginalListSetAffectsSubListLargeListMethod,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListSubListTester.getSubListOriginalListSetAffectsSubListMethod,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListSubListTester.getSubListSubListRemoveAffectsOriginalLargeListMethod,Test,Unit Testing
+util,util,java.util.ConcurrentModificationException,Error Handling,Exception Handling
+util,util,java.util.IdentityHashMap,Data Structure,Linear Structures
+util,concurrent,java.util.concurrent.RejectedExecutionHandler,Multi-Thread,Concurrency Control
+common,base,com.google.common.base.Strings.isNullOrEmpty,Utility,Data Conversion
+io,io,java.io.FilenameFilter,Input-Output,File Management
+util,regex,java.util.regex.PatternSyntaxException,Error Handling,Exception Handling
+common,escape,com.google.common.escape.testing.EscaperAsserts.assertEscaping,Test,Unit Testing
+common,escape,com.google.common.escape.testing.EscaperAsserts.assertUnescaped,Test,Unit Testing
+common,base,com.google.common.base.Splitter,Utility,Data Conversion
+common,escape,com.google.common.escape.testing.EscaperAsserts.assertUnicodeEscaping,Test,Unit Testing
+common,collect,com.google.common.collect.ImmutableList,Data Structure,Linear Structures
+common,cache,com.google.common.cache.LocalCache.DISCARDING_QUEUE,Data Structure,Linear Structures
+common,util,com.google.common.util.concurrent.Futures.immediateFuture,Multi-Thread,Thread Safety
+common,cache,com.google.common.cache.LocalCache.DRAIN_THRESHOLD,Data Structure,Data Manipulation
+common,cache,com.google.common.cache.LocalCache.nullEntry,Data Structure,Data Manipulation
+common,cache,com.google.common.cache.LocalCache.unset,Data Structure,Data Manipulation
+common,base,com.google.common.base.Function,Utility,Data Conversion
+nio,charset,java.nio.charset.CharsetEncoder,Internationalization,Language Support
+common,util,com.google.common.util.concurrent.ListenableFuture,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.ListenableFutureTask,Multi-Thread,Parallel Processing
+nio,charset,java.nio.charset.CoderResult,Internationalization,Language Support
+nio,charset,java.nio.charset.CodingErrorAction,Internationalization,Language Support
+util,concurrent,java.util.concurrent.Executor,Multi-Thread,Parallel Processing
+common,math,com.google.common.math.LongMath.saturatedAdd,Utility,Performance Tools
+common,math,com.google.common.math.LongMath.saturatedSubtract,Utility,Performance Tools
+lang,Math,java.lang.Math.max,Utility,Performance Tools
+common,util,com.google.common.util.concurrent.MoreExecutors.listeningDecorator,Multi-Thread,Concurrency Control
+common,base,com.google.common.base.Preconditions,Error Handling,Error Prevention
+common,collect,com.google.common.collect.ForwardingObject,Utility,System Tools
+lang,Thread,java.lang.Thread.State.WAITING,Multi-Thread,Synchronization
+util,concurrent,java.util.concurrent.Executors.newSingleThreadExecutor,Multi-Thread,Thread Safety
+junit,junit,org.junit.Ignore,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.CollectionAddAllTester,Test,Unit Testing
+util,concurrent,java.util.concurrent.locks.ReentrantReadWriteLock,Multi-Thread,Synchronization
+common,collect,com.google.common.collect.testing.testers.CollectionAddTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.CollectionClearTester,Test,Unit Testing
+common,cache,com.google.common.cache.LocalCache.EntryFactory,Data Structure,Data Manipulation
+common,cache,com.google.common.cache.LocalCache.LoadingValueReference,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.testers.CollectionContainsAllTester,Test,Unit Testing
+common,cache,com.google.common.cache.LocalCache.LocalManualCache,Data Structure,Data Manipulation
+common,base,com.google.common.base.StandardSystemProperty.JAVA_IO_TMPDIR,Input-Output,File Management
+common,base,com.google.common.base.StandardSystemProperty.USER_NAME,Utility,System Tools
+common,collect,com.google.common.collect.testing.testers.CollectionContainsTester,Test,Unit Testing
+nio,file,java.nio.file.attribute.AclEntryFlag.DIRECTORY_INHERIT,Security,Authorization
+nio,file,java.nio.file.attribute.AclEntryFlag.FILE_INHERIT,Security,Authorization
+nio,file,java.nio.file.attribute.AclEntryType.ALLOW,Security,Authorization
+nio,file,java.nio.file.attribute.PosixFilePermissions.asFileAttribute,Input-Output,File Management
+common,collect,com.google.common.collect.Lists.computeArrayListCapacity,Data Structure,Linear Structures
+common,collect,com.google.common.collect.Lists.partition,Data Structure,Linear Structures
+common,cache,com.google.common.cache.CacheBuilder.NULL_TICKER,Utility,Performance Tools
+common,cache,com.google.common.cache.CacheBuilder.UNSET_INT,Utility,Performance Tools
+common,util,com.google.common.util.concurrent.Futures.immediateFailedFuture,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.Futures.transform,Multi-Thread,Parallel Processing
+common,util,com.google.common.util.concurrent.MoreExecutors.directExecutor,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.Uninterruptibles.getUninterruptibly,Multi-Thread,Thread Safety
+util,Collections,java.util.Collections.unmodifiableSet,Data Structure,Data Manipulation
+nio,file,java.nio.file.FileSystems,Input-Output,File Management
+nio,file,java.nio.file.Paths,Input-Output,File Management
+util,util,java.util.Spliterators,Utility,Performance Tools
+nio,file,java.nio.file.attribute.AclEntry,Security,Authorization
+nio,file,java.nio.file.attribute.AclEntryPermission,Security,Authorization
+common,collect,com.google.common.collect.testing.testers.CollectionCreationTester,Test,Unit Testing
+common,base,com.google.common.base.Stopwatch,Utility,Performance Tools
+nio,file,java.nio.file.attribute.PosixFilePermissions,Input-Output,File Management
+nio,file,java.nio.file.attribute.UserPrincipal,Input-Output,File Management
+common,collect,com.google.common.collect.testing.testers.CollectionEqualsTester,Test,Unit Testing
+common,cache,com.google.common.cache.CacheBuilder.NullListener,Utility,Performance Tools
+common,cache,com.google.common.cache.CacheBuilder.OneWeigher,Data Structure,Data Manipulation
+common,cache,com.google.common.cache.CacheLoader.InvalidCacheLoadException,Error Handling,Exception Handling
+common,cache,com.google.common.cache.CacheLoader.UnsupportedLoadingOperationException,Error Handling,Exception Handling
+common,collect,com.google.common.collect.AbstractSequentialIterator,Data Structure,Linear Structures
+common,collect,com.google.common.collect.testing.testers.CollectionForEachTester,Test,Unit Testing
+common,collect,com.google.common.collect.ImmutableSet,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Maps,Data Structure,Data Manipulation
+common,primitives,com.google.common.primitives.Ints,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.testers.CollectionIsEmptyTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.CollectionIteratorTester,Test,Unit Testing
+common,util,com.google.common.util.concurrent.SettableFuture,Multi-Thread,Synchronization
+math,math,java.math.BigDecimal,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.Uninterruptibles,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.testing.ConcurrentMapTestSuiteBuilder,Test,Unit Testing
+errorprone,annotations,com.google.errorprone.annotations.concurrent.GuardedBy,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.testing.TestStringMapGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.CollectionFeature,Test,Unit Testing
+j2objc,annotations,com.google.j2objc.annotations.Weak,Utility,System Tools
+common,math,com.google.common.math.MathPreconditions.checkNonNegative,Error Handling,Error Prevention
+io,io,java.io.InvalidObjectException,Error Handling,Exception Handling
+common,math,com.google.common.math.MathPreconditions.checkPositive,Error Handling,Error Prevention
+common,math,com.google.common.math.MathPreconditions.checkRoundingUnnecessary,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.features.CollectionSize,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.MapFeature,Test,Unit Testing
+math,RoundingMode,java.math.RoundingMode.HALF_EVEN,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.testers.CollectionRemoveAllTester,Test,Unit Testing
+util,util,java.util.AbstractCollection,Data Structure,Linear Structures
+util,util,java.util.AbstractMap,Data Structure,Data Manipulation
+util,util,java.util.AbstractQueue,Data Structure,Linear Structures
+util,util,java.util.AbstractSet,Data Structure,Tree Structures
+common,collect,com.google.common.collect.testing.testers.CollectionRemoveIfTester,Test,Unit Testing
+common,net,com.google.common.net.UrlEscaperTesting.assertBasicUrlEscaper,Test,Unit Testing
+common,net,com.google.common.net.UrlEscaperTesting.assertPathEscaper,Test,Unit Testing
+util,util,java.util.LinkedHashSet,Data Structure,Linear Structures
+common,net,com.google.common.net.UrlEscapers.urlFormParameterEscaper,Network,Data Transmission
+common,util,com.google.common.util.concurrent.ListeningExecutorService,Multi-Thread,Parallel Processing
+util,util,java.util.Queue,Data Structure,Linear Structures
+common,net,com.google.common.net.UrlEscapers.urlFragmentEscaper,Network,Data Transmission
+common,net,com.google.common.net.UrlEscapers.urlPathSegmentEscaper,Utility,Data Conversion
+util,concurrent,java.util.concurrent.ConcurrentLinkedQueue,Data Structure,Linear Structures
+common,collect,com.google.common.collect.testing.testers.CollectionRemoveTester,Test,Unit Testing
+common,math,com.google.common.math.DoubleUtils.IMPLICIT_BIT,Utility,Data Conversion
+util,concurrent,java.util.concurrent.atomic.AtomicInteger,Multi-Thread,Thread Safety
+util,concurrent,java.util.concurrent.atomic.AtomicReferenceArray,Data Structure,Linear Structures
+util,concurrent,java.util.concurrent.locks.ReentrantLock,Multi-Thread,Synchronization
+util,function,java.util.function.BiFunction,Utility,Data Conversion
+common,math,com.google.common.math.DoubleUtils.SIGNIFICAND_BITS,Utility,Performance Tools
+util,function,java.util.function.Function,Utility,Data Conversion
+util,function,java.util.function.Predicate,Utility,Data Conversion
+common,math,com.google.common.math.DoubleUtils.getSignificand,Utility,Data Conversion
+common,math,com.google.common.math.DoubleUtils.isFinite,Utility,Diagnostic Utilities
+jspecify,annotations,org.jspecify.annotations.NullUnmarked,Utility,System Tools
+common,math,com.google.common.math.DoubleUtils.isNormal,Utility,Diagnostic Utilities
+common,math,com.google.common.math.DoubleUtils.scaleNormalize,Utility,Data Conversion
+common,math,com.google.common.math.MathPreconditions.checkInRangeForRoundingInputs,Error Handling,Error Prevention
+util,concurrent,java.util.concurrent.atomic.LongAdder,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.testing.testers.CollectionRetainAllTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.ListGenerators.CharactersOfCharSequenceGenerator,Test,Unit Testing
+lang,Math,java.lang.Math.abs,Utility,Data Conversion
+lang,Math,java.lang.Math.copySign,Utility,Data Conversion
+lang,Math,java.lang.Math.getExponent,Utility,Performance Tools
+lang,Math,java.lang.Math.log,Utility,Performance Tools
+lang,Math,java.lang.Math.rint,Utility,Performance Tools
+common,collect,com.google.common.collect.testing.google.ListGenerators.CharactersOfStringGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.CollectionSerializationTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.CollectionSizeTester,Test,Unit Testing
+common,cache,com.google.common.cache.LocalCache.ValueReference,Data Structure,Data Manipulation
+lang,Double,java.lang.Double.MAX_EXPONENT,Utility,Performance Tools
+lang,Double,java.lang.Double.MIN_EXPONENT,Utility,Data Conversion
+lang,Double,java.lang.Double.POSITIVE_INFINITY,Utility,Data Conversion
+lang,Double,java.lang.Double.doubleToRawLongBits,Utility,Data Conversion
+lang,Double,java.lang.Double.isNaN,Utility,Diagnostic Utilities
+lang,Double,java.lang.Double.longBitsToDouble,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.ExecutionSequencer.RunningState.CANCELLED,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.ExecutionSequencer.RunningState.NOT_RUN,Multi-Thread,Concurrency Control
+util,AbstractMap,java.util.AbstractMap.SimpleImmutableEntry,Data Structure,Data Manipulation
+common,util,com.google.common.util.concurrent.ExecutionSequencer.RunningState.STARTED,Multi-Thread,Concurrency Control
+common,collect,com.google.common.collect.NullnessCasts.uncheckedCastNullableTToT,Utility,Data Conversion
+junit,framework,junit.framework.TestSuite,Test,Unit Testing
+common,cache,com.google.common.cache.CacheBuilder.EMPTY_STATS,Utility,Performance Tools
+common,math,com.google.common.math.MathPreconditions.checkNoOverflow,Error Handling,Error Prevention
+j2objc,annotations,com.google.j2objc.annotations.WeakOuter,Language,Language Extensions
+common,cache,com.google.common.cache.LocalCacheTest.SMALL_MAX_SIZE,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.CollectionSpliteratorTester,Test,Unit Testing
+io,io,java.io.ObjectOutputStream,Input-Output,Data Writing
+common,collect,com.google.common.collect.testing.testers.CollectionStreamTester,Test,Unit Testing
+common,util,com.google.common.util.concurrent.Futures.immediateVoidFuture,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.testing.testers.CollectionToArrayTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.CollectionToStringTester,Test,Unit Testing
+math,RoundingMode,java.math.RoundingMode.HALF_UP,Utility,Data Conversion
+lang,Thread,java.lang.Thread.UncaughtExceptionHandler,Error Handling,Exception Handling
+nio,charset,java.nio.charset.StandardCharsets.UTF_16LE,Internationalization,Language Support
+util,util,java.util.ListIterator,Data Structure,Linear Structures
+junit,Assert,org.junit.Assert.assertArrayEquals,Test,Unit Testing
+common,collect,com.google.common.collect.testing.Helpers.assertEqualIgnoringOrder,Test,Unit Testing
+common,primitives,com.google.common.primitives.ReflectionFreeAssertThrows.assertThrows,Test,Unit Testing
+lang,Double,java.lang.Double.NaN,Error Handling,Exception Handling
+common,collect,com.google.common.collect.MapMakerInternalMap.DRAIN_THRESHOLD,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.Helpers.copyToList,Test,Unit Testing
+util,Collections,java.util.Collections.emptyList,Utility,Performance Tools
+common,collect,com.google.common.collect.MapMakerInternalMap.Segment,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.features.CollectionSize.ONE,Test,Unit Testing
+common,collect,com.google.common.collect.MapMakerInternalMap.WeakValueEntry,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.MapMakerInternalMap.WeakValueReference,Data Structure,Data Manipulation
+common,hash,com.google.common.hash.HashTestUtils.RandomHasherAction,Test,Unit Testing
+common,util,com.google.common.util.concurrent.Uninterruptibles.awaitUninterruptibly,Multi-Thread,Synchronization
+common,collect,com.google.common.collect.Maps.immutableEntry,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Maps.safeGet,Utility,System Tools
+common,primitives,com.google.common.primitives.UnsignedLongs,Utility,Data Conversion
+common,cache,com.google.common.cache.CacheTesting.checkValidState,Test,Unit Testing
+common,collect,com.google.common.collect.Maps.ViewCachingAbstractMap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.Helpers.copyToSet,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.CollectionFeature.SUPPORTS_ITERATOR_REMOVE,Test,Unit Testing
+util,Collections,java.util.Collections.frequency,Utility,Performance Tools
+util,util,java.util.Comparator,Utility,System Tools
+util,util,java.util.Hashtable,Data Structure,Linear Structures
+lang,Double,java.lang.Double.doubleToLongBits,Utility,Data Conversion
+util,util,java.util.NavigableMap,Data Structure,Tree Structures
+util,util,java.util.NavigableSet,Data Structure,Tree Structures
+util,util,java.util.RandomAccess,Data Structure,Linear Structures
+util,util,java.util.SortedMap,Data Structure,Tree Structures
+util,util,java.util.SortedSet,Data Structure,Tree Structures
+util,util,java.util.Spliterator,Data Structure,Data Manipulation
+util,function,java.util.function.BiConsumer,Utility,Data Conversion
+common,collect,com.google.common.collect.ConcurrentHashMultiset,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.CollectPreconditions.checkNonnegative,Utility,Diagnostic Utilities
+common,collect,com.google.common.collect.CollectPreconditions.checkRemove,Error Handling,Exception Handling
+common,collect,com.google.common.collect.ForwardingDeque,Data Structure,Linear Structures
+common,collect,com.google.common.collect.testing.AbstractTester,Test,Unit Testing
+util,util,java.util.Stack,Data Structure,Linear Structures
+lang,Double,java.lang.Double.isFinite,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.FeatureSpecificTestSuiteBuilder,Test,Unit Testing
+common,hash,com.google.common.hash.BloomFilter.toBloomFilter,Data Structure,Data Manipulation
+io,io,java.io.ObjectStreamException,Input-Output,Stream Management
+common,hash,com.google.common.hash.Funnels.unencodedCharsFunnel,Utility,Data Conversion
+common,primitives,com.google.common.primitives.Doubles,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.OneSizeTestContainerGenerator,Test,Unit Testing
+util,function,java.util.function.ObjIntConsumer,Utility,Data Conversion
+common,collect,com.google.common.collect.ForwardingQueue,Data Structure,Linear Structures
+common,io,com.google.common.io.BaseEncoding,Input-Output,Data Reading
+lang,Double,java.lang.Double.NEGATIVE_INFINITY,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.PerCollectionSizeTestSuiteBuilder,Test,Unit Testing
+common,collect,com.google.common.collect.Multisets.setCountImpl,Data Structure,Data Manipulation
+util,concurrent,java.util.concurrent.ConcurrentLinkedDeque,Data Structure,Linear Structures
+util,util,java.util.Date,Utility,Data Conversion
+util,concurrent,java.util.concurrent.locks.Condition,Multi-Thread,Synchronization
+common,hash,com.google.common.hash.Hashing.ChecksumType.ADLER_32,Utility,Data Conversion
+common,math,com.google.common.math.DoubleUtils.ensureNonNegative,Utility,Data Conversion
+common,math,com.google.common.math.StatsAccumulator.calculateNewMeanNonFinite,Utility,Performance Tools
+common,hash,com.google.common.hash.Hashing.ChecksumType.CRC_32,Utility,Data Conversion
+common,collect,com.google.common.collect.Maps.IteratorBasedAbstractMap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.google.DerivedGoogleCollectionGenerators.BiMapValueSetGenerator,Test,Unit Testing
+lang,invoke,java.lang.invoke.MethodType,Language,Standard Libraries
+common,collect,com.google.common.collect.testing.google.DerivedGoogleCollectionGenerators.InverseBiMapGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.DerivedGoogleCollectionGenerators.MapGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.AbstractCollectionTestSuiteBuilder,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.CollectionFeature.SERIALIZABLE_INCLUDING_VIEWS,Test,Unit Testing
+nio,charset,java.nio.charset.StandardCharsets.ISO_8859_1,Internationalization,Language Support
+common,primitives,com.google.common.primitives.Chars.max,Utility,Data Conversion
+util,Collections,java.util.Collections.emptySet,Utility,System Tools
+common,primitives,com.google.common.primitives.Chars.min,Utility,Data Conversion
+common,collect,com.google.common.collect.Maps.transformEntries,Utility,Data Conversion
+common,collect,com.google.common.collect.Maps.unmodifiableNavigableMap,Data Structure,Tree Structures
+common,collect,com.google.common.collect.testing.DerivedGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.ReflectionFreeAssertThrows.assertThrows,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ConcurrentMapPutIfAbsentTester,Test,Unit Testing
+nio,charset,java.nio.charset.StandardCharsets.US_ASCII,Internationalization,Language Support
+common,collect,com.google.common.collect.testing.testers.ConcurrentMapRemoveTester,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.inOrder,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ConcurrentMapReplaceEntryTester,Test,Unit Testing
+common,collect,com.google.common.collect.Lists.cartesianProduct,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.testers.ConcurrentMapReplaceTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.TestSubjectGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.Maps.ValueDifferenceImpl,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Sets.unmodifiableNavigableSet,Data Structure,Tree Structures
+util,Collections,java.util.Collections.unmodifiableSortedSet,Data Structure,Data Manipulation
+util,Collections,java.util.Collections.nCopies,Utility,Performance Tools
+common,collect,com.google.common.collect.testing.Helpers.castOrCopyToList,Test,Unit Testing
+common,collect,com.google.common.collect.testing.Helpers.entryComparator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.Helpers.equal,Test,Unit Testing
+mockito,mockito,org.mockito.InOrder,Test,Unit Testing
+util,function,java.util.function.IntToDoubleFunction,Utility,Data Conversion
+common,io,com.google.common.io.BaseEncoding.base16,Input-Output,Data Reading
+net,net,java.net.InetAddress,Network,Protocol Implementation
+text,text,java.text.ParseException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.ConcurrentSkipListSet,Data Structure,Tree Structures
+common,collect,com.google.common.collect.testing.MapInterfaceTest,Test,Unit Testing
+common,collect,com.google.common.collect.ImmutableSortedMultiset.Builder,Data Structure,Tree Structures
+util,concurrent,java.util.concurrent.locks.Lock,Multi-Thread,Synchronization
+common,util,com.google.common.util.concurrent.MoreExecutors.invokeAnyImpl,Multi-Thread,Parallel Processing
+common,hash,com.google.common.hash.Hashing,Utility,Performance Tools
+common,io,com.google.common.io.ByteStreams,Input-Output,Data Reading
+common,primitives,com.google.common.primitives.Doubles.max,Utility,Performance Tools
+common,collect,com.google.common.collect.testing.MinimalSet,Test,Unit Testing
+net,net,java.net.Inet4Address,Network,Protocol Implementation
+net,net,java.net.Inet6Address,Network,Protocol Implementation
+common,primitives,com.google.common.primitives.Doubles.min,Utility,Data Conversion
+net,net,java.net.NetworkInterface,Network,Connection Management
+net,net,java.net.SocketException,Network,Connection Management
+net,net,java.net.UnknownHostException,Network,Connection Management
+common,util,com.google.common.util.concurrent.MoreExecutors.renamingDecorator,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.Sets.newHashSet,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.IteratorFeature.UNMODIFIABLE,Test,Unit Testing
+common,base,com.google.common.base.Preconditions.checkElementIndex,Error Handling,Error Prevention
+lang,System,java.lang.System.arraycopy,Utility,System Tools
+util,Collections,java.util.Collections.emptyMap,Utility,System Tools
+errorprone,annotations,com.google.errorprone.annotations.DoNotCall,Error Handling,Error Prevention
+common,collect,com.google.common.collect.testing.features.ListFeature.SUPPORTS_ADD_WITH_INDEX,Test,Unit Testing
+common,base,com.google.common.base.Strings,Utility,Data Conversion
+thirdparty,publicsuffix,com.google.thirdparty.publicsuffix.PublicSuffixPatterns,Utility,System Tools
+thirdparty,publicsuffix,com.google.thirdparty.publicsuffix.PublicSuffixType,Utility,System Tools
+common,collect,com.google.common.collect.testing.IteratorTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.MinimalCollection,Test,Unit Testing
+common,base,com.google.common.base.CharMatcher.ascii,Utility,Data Conversion
+common,base,com.google.common.base.CharMatcher.javaIsoControl,Utility,Data Conversion
+common,base,com.google.common.base.MoreObjects.firstNonNull,Utility,System Tools
+common,collect,com.google.common.collect.testing.MinimalIterable,Test,Unit Testing
+common,collect,com.google.common.collect.testing.SampleElements.Strings,Test,Unit Testing
+util,Objects,java.util.Objects.hash,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.Helpers.getMethod,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.FeatureUtil.addImpliedFeatures,Test,Unit Testing
+common,util,com.google.common.util.concurrent.CollectionFuture.ListFuture,Multi-Thread,Thread Safety
+common,base,com.google.common.base.Joiner.MapJoiner,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.ImmediateFuture.ImmediateCancelledFuture,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.ImmutableListMultimap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.ImmutableMultiset,Data Structure,Data Manipulation
+common,util,com.google.common.util.concurrent.AtomicLongMap,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.ImmediateFuture.ImmediateFailedFuture,Error Handling,Exception Handling
+util,Collections,java.util.Collections.disjoint,Utility,Performance Tools
+common,collect,com.google.common.collect.Multimaps,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.SortedMapInterfaceTest,Test,Unit Testing
+common,collect,com.google.common.collect.testing.TestCharacterListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.Platform.reduceExponentIfGwt,Utility,Performance Tools
+common,math,com.google.common.math.IntMath,Utility,Performance Tools
+nio,charset,java.nio.charset.IllegalCharsetNameException,Internationalization,Language Support
+nio,charset,java.nio.charset.UnsupportedCharsetException,Internationalization,Language Support
+common,collect,com.google.common.collect.Platform.reduceIterationsIfGwt,Utility,Performance Tools
+mockito,Mockito,org.mockito.Mockito.times,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.ConflictingRequirementsException,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.FeatureUtil,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.TesterRequirements,Test,Unit Testing
+common,collect,com.google.common.collect.testing.TestUnhashableCollectionGenerator,Test,Unit Testing
+util,Collections,java.util.Collections.singletonMap,Utility,Data Conversion
+util,stream,java.util.stream.Collectors.collectingAndThen,Utility,Data Conversion
+util,stream,java.util.stream.Collectors.toMap,Utility,Data Conversion
+nio,charset,java.nio.charset.StandardCharsets.UTF_16,Internationalization,Language Support
+common,collect,com.google.common.collect.TestExceptions.SomeCheckedException,Test,Unit Testing
+common,collect,com.google.common.collect.TestExceptions.SomeUncheckedException,Test,Unit Testing
+nio,charset,java.nio.charset.StandardCharsets.UTF_16BE,Internationalization,Language Support
+util,util,java.util.EnumMap,Data Structure,Linear Structures
+common,util,com.google.common.util.concurrent.MoreExecutors.Application,Multi-Thread,Thread Safety
+common,escape,com.google.common.escape.UnicodeEscaper,Internationalization,Language Support
+util,util,java.util.TreeMap,Data Structure,Tree Structures
+util,function,java.util.function.BinaryOperator,Utility,Data Conversion
+junit,Assert,org.junit.Assert.assertEquals,Test,Unit Testing
+util,function,java.util.function.Supplier,Utility,System Tools
+util,function,java.util.function.ToIntFunction,Utility,Data Conversion
+util,stream,java.util.stream.Collector,Utility,Data Conversion
+lang,Thread,java.lang.Thread.State,Multi-Thread,Thread Safety
+common,primitives,com.google.common.primitives.Floats.max,Utility,Performance Tools
+common,primitives,com.google.common.primitives.Floats.min,Utility,Data Conversion
+common,base,com.google.common.base.Predicate,Utility,System Tools
+common,base,com.google.common.base.Predicates,Utility,System Tools
+common,collect,com.google.common.collect.Sets.newTreeSet,Data Structure,Tree Structures
+common,collect,com.google.common.collect.testing.SampleElements.Strings.AFTER_LAST,Test,Unit Testing
+junit,junit,org.junit.Assert,Test,Unit Testing
+lang,Float,java.lang.Float.NaN,Error Handling,Exception Handling
+common,collect,com.google.common.collect.testing.SampleElements.Strings.AFTER_LAST_2,Test,Unit Testing
+common,collect,com.google.common.collect.testing.SampleElements.Strings.BEFORE_FIRST,Test,Unit Testing
+util,function,java.util.function.Consumer,Utility,Data Conversion
+javax,crypto,javax.crypto.SecretKey,Security,Encryption
+common,collect,com.google.common.collect.MoreCollectors.toOptional,Utility,Data Conversion
+security,jca,sun.security.jca.ProviderList,Security,Encryption
+security,jca,sun.security.jca.Providers,Security,Encryption
+util,function,java.util.function.DoubleConsumer,Utility,Data Conversion
+util,function,java.util.function.IntConsumer,Utility,Data Conversion
+util,function,java.util.function.IntFunction,Utility,Data Conversion
+util,function,java.util.function.LongConsumer,Utility,Performance Tools
+util,stream,java.util.stream.IntStream,Utility,Performance Tools
+common,collect,com.google.common.collect.testing.SampleElements.Strings.BEFORE_FIRST_2,Test,Unit Testing
+common,hash,com.google.common.hash.Hashing.murmur3_128,Utility,Performance Tools
+common,collect,com.google.common.collect.CompactHashing.UNSET,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Hashing.smearedHash,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.MultimapBuilder.MultimapBuilderWithKeys,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.NullnessCasts.unsafeNull,Utility,Data Conversion
+common,collect,com.google.common.collect.MultimapBuilder.SortedSetMultimapBuilder,Data Structure,Tree Structures
+common,hash,com.google.common.hash.HashTestUtils.HashFn,Test,Unit Testing
+common,primitives,com.google.common.primitives.TestPlatform.reduceIterationsIfGwt,Test,Unit Testing
+common,hash,com.google.common.hash.Hashing.murmur3_32,Utility,Performance Tools
+common,hash,com.google.common.hash.Hashing.murmur3_32_fixed,Utility,Performance Tools
+common,collect,com.google.common.collect.testing.TestCollidingSetGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.TestIntegerSortedSetGenerator,Test,Unit Testing
+common,escape,com.google.common.escape.Escapers.computeReplacement,Utility,Data Conversion
+common,collect,com.google.common.collect.Multimaps.synchronizedListMultimap,Data Structure,Linear Structures
+common,collect,com.google.common.collect.testing.features.CollectionFeature.ALLOWS_NULL_VALUES,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.CollectionFeature.SUPPORTS_REMOVE,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.AbstractMultisetSetCountTester.getSetCountDuplicateInitializingMethods,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MultisetCountTester.getCountDuplicateInitializingMethods,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MultisetElementSetTester.getElementSetDuplicateInitializingMethods,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MultisetForEachEntryTester.getForEachEntryDuplicateInitializingMethods,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MultisetIteratorTester.getIteratorDuplicateInitializingMethods,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MultisetRemoveTester.getRemoveDuplicateInitializingMethods,Test,Unit Testing
+lang,reflect,java.lang.reflect.Proxy.newProxyInstance,Utility,System Tools
+common,util,com.google.common.util.concurrent.AbstractFuture.TrustedFuture,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.RateLimiter.SleepingStopwatch,Multi-Thread,Concurrency Control
+common,html,com.google.common.html.HtmlEscapers.htmlEscaper,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.TestCollectionGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.TestListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MultimapFeature,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MultimapTestSuiteBuilder,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.ListMultimapTestSuiteBuilder,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.TestStringListMultimapGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.TestListMultimapGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.TestMultimapGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.TestSetMultimapGenerator,Test,Unit Testing
+util,concurrent,java.util.concurrent.locks.AbstractOwnableSynchronizer,Multi-Thread,Synchronization
+common,collect,com.google.common.collect.TableCollectionTest.ColumnMapTests,Test,Unit Testing
+junit,framework,junit.framework.TestResult,Test,Unit Testing
+common,collect,com.google.common.collect.testing.Helpers.assertContains,Test,Unit Testing
+common,collect,com.google.common.collect.testing.Helpers.assertContainsAllOf,Test,Unit Testing
+common,collect,com.google.common.collect.TableCollectionTest.ColumnTests,Test,Unit Testing
+common,io,com.google.common.io.BaseEncoding.base32,Input-Output,Data Reading
+common,io,com.google.common.io.BaseEncoding.base32Hex,Input-Output,Data Reading
+common,io,com.google.common.io.BaseEncoding.base64,Input-Output,Data Writing
+common,io,com.google.common.io.BaseEncoding.base64Url,Input-Output,Data Writing
+common,collect,com.google.common.collect.TableCollectionTest.RowMapTests,Test,Unit Testing
+common,io,com.google.common.io.ReflectionFreeAssertThrows.assertThrows,Test,Unit Testing
+common,collect,com.google.common.collect.testing.Helpers.assertContentsInOrder,Test,Unit Testing
+common,collect,com.google.common.collect.TableCollectionTest.RowTests,Test,Unit Testing
+common,collect,com.google.common.collect.testing.Helpers.assertEmpty,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.CollectionSerializationEqualTester,Test,Unit Testing
+common,io,com.google.common.io.BaseEncoding.DecodingException,Error Handling,Exception Handling
+common,collect,com.google.common.collect.testing.testers.ListAddAllAtIndexTester,Test,Unit Testing
+util,util,java.util.Optional,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.testers.ListAddAllTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListAddAtIndexTester,Test,Unit Testing
+common,collect,com.google.common.collect.Multimaps.flatteningToMultimap,Data Structure,Data Manipulation
+common,primitives,com.google.common.primitives.Booleans,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.testers.ListAddTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListCreationTester,Test,Unit Testing
+common,collect,com.google.common.collect.Multimaps.synchronizedSetMultimap,Data Structure,Data Manipulation
+util,Comparator,java.util.Comparator.comparing,Utility,Data Conversion
+util,Comparator,java.util.Comparator.nullsLast,Utility,System Tools
+util,Comparator,java.util.Comparator.naturalOrder,Utility,Data Conversion
+common,collect,com.google.common.collect.Multimaps.synchronizedSortedSetMultimap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Multimaps.toMultimap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.testers.ListEqualsTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListGetTester,Test,Unit Testing
+util,Collections,java.util.Collections.synchronizedSet,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.Helpers.nefariousMapEntry,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListIndexOfTester,Test,Unit Testing
+common,io,com.google.common.io.TestOption.CLOSE_THROWS,Test,Unit Testing
+common,io,com.google.common.io.TestOption.OPEN_THROWS,Test,Unit Testing
+common,io,com.google.common.io.TestOption.READ_THROWS,Test,Unit Testing
+common,io,com.google.common.io.TestOption.WRITE_THROWS,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListLastIndexOfTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListListIteratorTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListRemoveAllTester,Test,Unit Testing
+common,collect,com.google.common.collect.Lists.newArrayListWithExpectedSize,Data Structure,Linear Structures
+common,collect,com.google.common.collect.testing.testers.ListRemoveAtIndexTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListRemoveTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListReplaceAllTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListRetainAllTester,Test,Unit Testing
+common,io,com.google.common.io.SourceSinkFactory.ByteSinkFactory,Input-Output,Data Writing
+common,io,com.google.common.io.SourceSinkFactory.CharSinkFactory,Input-Output,Data Writing
+common,collect,com.google.common.collect.Serialization.FieldSetter,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.testers.ListSetTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListSubListTester,Test,Unit Testing
+util,Collections,java.util.Collections.shuffle,Utility,Performance Tools
+common,collect,com.google.common.collect.testing.testers.ListToArrayTester,Test,Unit Testing
+common,util,com.google.common.util.concurrent.TestExceptions.SomeOtherCheckedException,Test,Unit Testing
+util,Collections,java.util.Collections.emptyIterator,Utility,System Tools
+util,concurrent,java.util.concurrent.FutureTask,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.FilteredCollectionsTestUtil.AbstractFilteredCollectionTest,Test,Unit Testing
+common,util,com.google.common.util.concurrent.ListenableScheduledFuture,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.ListeningScheduledExecutorService,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.ConcurrentHashMap,Data Structure,Linear Structures
+common,collect,com.google.common.collect.Iterables.concat,Utility,Data Conversion
+common,io,com.google.common.io.TestOption.AVAILABLE_ALWAYS_ZERO,Test,Unit Testing
+common,collect,com.google.common.collect.testing.ReflectionFreeAssertThrows.assertThrows,Test,Unit Testing
+common,io,com.google.common.io.TestOption.SKIP_THROWS,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.CollectionFeature.REJECTS_DUPLICATES_AT_CREATION,Test,Unit Testing
+common,collect,com.google.common.collect.testing.CollectionTestSuiteBuilder,Test,Unit Testing
+common,collect,com.google.common.collect.testing.TestStringCollectionGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.Lists.charactersOf,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.SpliteratorTester,Test,Unit Testing
+common,io,com.google.common.io.SourceSinkFactory.ByteSourceFactory,Input-Output,Data Reading
+common,collect,com.google.common.collect.ImmutableMap.IteratorBasedImmutableMap,Data Structure,Data Manipulation
+errorprone,annotations,com.google.errorprone.annotations.Immutable,Error Handling,Error Prevention
+common,io,com.google.common.io.SourceSinkFactory.CharSourceFactory,Input-Output,Data Reading
+common,collect,com.google.common.collect.Multisets.difference,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Multisets.intersection,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Multisets.sum,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Multisets.union,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Multisets.unmodifiableMultiset,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.MapTestSuiteBuilder,Test,Unit Testing
+common,collect,com.google.common.collect.testing.DerivedCollectionGenerators.keySetGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.MapFeature.ALLOWS_NULL_KEYS,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.MapFeature.ALLOWS_NULL_VALUES,Test,Unit Testing
+common,collect,com.google.common.collect.testing.DerivedCollectionGenerators.MapEntrySetGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.DerivedCollectionGenerators.MapValueCollectionGenerator,Test,Unit Testing
+common,util,com.google.common.util.concurrent.MoreExecutors.newSequentialExecutor,Multi-Thread,Parallel Processing
+common,primitives,com.google.common.primitives.Ints.max,Utility,Data Conversion
+common,primitives,com.google.common.primitives.Ints.min,Utility,Data Conversion
+math,math,java.math.BigInteger,Utility,Data Conversion
+common,collect,com.google.common.collect.Iterators.emptyIterator,Utility,System Tools
+common,collect,com.google.common.collect.testing.testers.MapClearTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapComputeIfAbsentTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapComputeIfPresentTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.SetTestSuiteBuilder,Test,Unit Testing
+security,AccessController,java.security.AccessController.doPrivileged,Security,Authorization
+common,collect,com.google.common.collect.testing.TestStringSetGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapComputeTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapContainsKeyTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.Feature,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapContainsValueTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapCreationTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapEqualsTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapForEachTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapGetOrDefaultTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapGetTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapHashCodeTester,Test,Unit Testing
+util,function,java.util.function.BooleanSupplier,Utility,System Tools
+common,collect,com.google.common.collect.testing.testers.MapIsEmptyTester,Test,Unit Testing
+common,collect,com.google.common.collect.Platform.getDeclaringClassOrObjectForJ2cl,Utility,System Tools
+common,collect,com.google.common.collect.testing.testers.MapMergeTester,Test,Unit Testing
+common,collect,com.google.common.collect.Maps.uniqueIndex,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.DerivedComparable,Test,Unit Testing
+common,primitives,com.google.common.primitives.UnsignedInts.INT_MASK,Utility,Data Conversion
+common,primitives,com.google.common.primitives.UnsignedInts.compare,Utility,Data Conversion
+common,primitives,com.google.common.primitives.UnsignedInts.toLong,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.Callables.threadRenaming,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.Futures.getDone,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.MoreExecutors.rejectionPropagatingExecutor,Multi-Thread,Concurrency Control
+caliper,api,com.google.caliper.api.Footprint,Utility,Performance Tools
+common,collect,com.google.common.collect.BenchmarkHelpers.BiMapImpl,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.BenchmarkHelpers.MapImpl,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.BenchmarkHelpers.MapsImplEnum,Test,Performance Testing
+common,collect,com.google.common.collect.BenchmarkHelpers.SortedMapImpl,Data Structure,Tree Structures
+common,collect,com.google.common.collect.ImmutableClassToInstanceMapTest.Impl,Test,Unit Testing
+common,collect,com.google.common.collect.ImmutableClassToInstanceMapTest.TestClassToInstanceMapGenerator,Test,Unit Testing
+common,util,com.google.common.util.concurrent.NullnessCasts.uncheckedCastNullableTToT,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.Platform.isInstanceOfThrowableClass,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.Platform.restoreInterruptIfIsInterruptedException,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.SneakyThrows.sneakyThrow,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.internal.InternalFutureFailureAccess,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.internal.InternalFutures,Multi-Thread,Thread Safety
+common,primitives,com.google.common.primitives.Longs.max,Utility,Performance Tools
+common,primitives,com.google.common.primitives.Longs.min,Utility,Performance Tools
+common,collect,com.google.common.collect.Tables.newCustomTable,Data Structure,Data Manipulation
+j2objc,annotations,com.google.j2objc.annotations.RetainedLocalRef,Utility,System Tools
+lang,Long,java.lang.Long.MIN_VALUE,Utility,Data Conversion
+lang,reflect,java.lang.reflect.InvocationHandler,Utility,System Tools
+lang,reflect,java.lang.reflect.Proxy,Utility,System Tools
+common,base,com.google.common.base.StandardSystemProperty.JAVA_CLASS_PATH,Utility,System Tools
+common,base,com.google.common.base.StandardSystemProperty.PATH_SEPARATOR,Utility,System Tools
+common,collect,com.google.common.collect.FluentIterable,Utility,Data Conversion
+common,collect,com.google.common.collect.Comparators.emptiesFirst,Utility,System Tools
+common,collect,com.google.common.collect.Comparators.emptiesLast,Utility,Performance Tools
+util,util,java.util.ArrayDeque,Data Structure,Linear Structures
+common,collect,com.google.common.collect.Comparators.isInOrder,Utility,Performance Tools
+common,io,com.google.common.io.ByteSource,Input-Output,Data Reading
+common,io,com.google.common.io.CharSource,Input-Output,Data Reading
+common,io,com.google.common.io.Resources,Input-Output,Data Reading
+common,collect,com.google.common.collect.Comparators.isInStrictOrder,Utility,Performance Tools
+common,collect,com.google.common.collect.Comparators.max,Utility,Performance Tools
+net,net,java.net.MalformedURLException,Network,Protocol Implementation
+net,net,java.net.URISyntaxException,Error Handling,Exception Handling
+common,collect,com.google.common.collect.Comparators.min,Utility,Performance Tools
+common,base,com.google.common.base.Predicates.in,Utility,Data Conversion
+common,base,com.google.common.base.Predicates.not,Utility,System Tools
+common,collect,com.google.common.collect.testing.Helpers.testComparator,Test,Unit Testing
+util,Comparator,java.util.Comparator.reverseOrder,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.testers.MapPutAllTester,Test,Unit Testing
+common,collect,com.google.common.collect.Queues,Data Structure,Linear Structures
+common,util,com.google.common.util.concurrent.ForwardingListenableFuture.SimpleForwardingListenableFuture,Multi-Thread,Thread Safety
+util,jar,java.util.jar.Attributes,Utility,System Tools
+util,jar,java.util.jar.JarEntry,Utility,System Tools
+util,jar,java.util.jar.JarFile,Utility,System Tools
+util,jar,java.util.jar.Manifest,Utility,System Tools
+common,collect,com.google.common.collect.testing.testers.MapPutIfAbsentTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapPutTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapRemoveEntryTester,Test,Unit Testing
+common,util,com.google.common.util.concurrent.NullnessCasts.uncheckedNull,Utility,System Tools
+common,base,com.google.common.base.MoreObjects.toStringHelper,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.Platform.interruptCurrentThread,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.Platform.rethrowIfErrorOtherThanStackOverflow,Error Handling,Exception Handling
+common,collect,com.google.common.collect.ForwardingMap,Data Structure,Data Manipulation
+lang,Integer,java.lang.Integer.signum,Utility,Data Conversion
+lang,Integer,java.lang.Integer.toHexString,Utility,Data Conversion
+lang,System,java.lang.System.identityHashCode,Utility,System Tools
+common,collect,com.google.common.collect.testing.testers.MapRemoveTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapReplaceAllTester,Test,Unit Testing
+util,logging,java.util.logging.Level.SEVERE,Logging,Error Logs
+common,collect,com.google.common.collect.testing.testers.MapReplaceEntryTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapReplaceTester,Test,Unit Testing
+lang,annotation,java.lang.annotation.Annotation,Language,Standard Libraries
+lang,reflect,java.lang.reflect.AccessibleObject,Utility,System Tools
+lang,reflect,java.lang.reflect.AnnotatedElement,Utility,System Tools
+lang,reflect,java.lang.reflect.AnnotatedType,Language,Type Systems
+lang,reflect,java.lang.reflect.Constructor,Utility,System Tools
+common,collect,com.google.common.collect.testing.testers.MapSerializationTester,Test,Unit Testing
+lang,reflect,java.lang.reflect.Member,Utility,System Tools
+util,concurrent,java.util.concurrent.Delayed,Multi-Thread,Concurrency Control
+lang,reflect,java.lang.reflect.Modifier,Utility,System Tools
+lang,reflect,java.lang.reflect.Type,Language,Type Systems
+lang,reflect,java.lang.reflect.TypeVariable,Language,Type Systems
+common,collect,com.google.common.collect.testing.testers.MapSizeTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapToStringTester,Test,Unit Testing
+j2objc,annotations,com.google.j2objc.annotations.ReflectionSupport,Utility,System Tools
+common,collect,com.google.common.collect.ForwardingMapEntry,Data Structure,Data Manipulation
+common,util,com.google.common.util.concurrent.AbstractListeningExecutorService,Multi-Thread,Parallel Processing
+common,collect,com.google.common.collect.Ordering.ArbitraryOrdering,Data Structure,Data Sorting
+common,collect,com.google.common.collect.Ordering.IncomparableValueException,Error Handling,Exception Handling
+common,collect,com.google.common.collect.testing.Helpers,Test,Unit Testing
+common,util,com.google.common.util.concurrent.MoreExecutors,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.ScheduledFuture,Multi-Thread,Concurrency Control
+common,base,com.google.common.base.Predicates.and,Utility,System Tools
+common,util,com.google.common.util.concurrent.AbstractFuture.getDoneValue,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.AbstractFuture.notInstanceOfDelegatingToFuture,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.Maps.valuePredicateOnEntries,Utility,Data Conversion
+lang,Boolean,java.lang.Boolean.parseBoolean,Utility,Data Conversion
+io,io,java.io.FilterReader,Input-Output,Data Reading
+common,collect,com.google.common.collect.MapMakerInternalMap.Strength.STRONG,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.MapMakerInternalMap.Strength.WEAK,Data Structure,Data Manipulation
+common,testing,com.google.common.testing.SerializableTester.reserializeAndAssert,Test,Unit Testing
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.isA,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.eq,Test,Unit Testing
+util,concurrent,java.util.concurrent.atomic.AtomicReferenceFieldUpdater.newUpdater,Multi-Thread,Concurrency Control
+util,concurrent,java.util.concurrent.ThreadPoolExecutor.CallerRunsPolicy,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.Iterators.peekingIterator,Data Structure,Linear Structures
+common,base,com.google.common.base.Joiner,Utility,Data Conversion
+common,base,com.google.common.base.Optional,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.google.MultisetTestSuiteBuilder,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.TestStringMultisetGenerator,Test,Unit Testing
+common,util,com.google.common.util.concurrent.AbstractFuture.Listener,Multi-Thread,Thread Safety
+mockito,Mockito,org.mockito.Mockito.doThrow,Test,Unit Testing
+lang,reflect,java.lang.reflect.ParameterizedType,Language,Type Systems
+jsinterop,annotations,jsinterop.annotations.JsMethod,Language,Language Extensions
+jsinterop,annotations,jsinterop.annotations.JsPackage,Utility,System Tools
+util,concurrent,java.util.concurrent.BlockingDeque,Multi-Thread,Synchronization
+lang,reflect,java.lang.reflect.GenericArrayType,Language,Type Systems
+common,collect,com.google.common.collect.testing.features.CollectionFeature.ALLOWS_NULL_QUERIES,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.CollectionFeature.KNOWN_ORDER,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.CollectionFeature.NON_STANDARD_TOSTRING,Test,Unit Testing
+lang,reflect,java.lang.reflect.WildcardType,Language,Type Systems
+common,collect,com.google.common.collect.testing.features.CollectionFeature.RESTRICTS_ELEMENTS,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.NavigableSetNavigationTester.getHoleMethods,Test,Unit Testing
+util,util,java.util.Deque,Data Structure,Linear Structures
+lang,Long,java.lang.Long.MAX_VALUE,Utility,Performance Tools
+common,collect,com.google.common.collect.testing.NavigableSetTestSuiteBuilder,Test,Unit Testing
+lang,Thread,java.lang.Thread.currentThread,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.testing.google.SetGenerators.ContiguousSetDescendingGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ContiguousSetGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ContiguousSetHeadsetGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ContiguousSetSubsetGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ContiguousSetTailsetGenerator,Test,Unit Testing
+util,concurrent,java.util.concurrent.Executors.newCachedThreadPool,Multi-Thread,Parallel Processing
+lang,reflect,java.lang.reflect.GenericDeclaration,Language,Type Systems
+common,primitives,com.google.common.primitives.Shorts.max,Utility,Data Conversion
+common,primitives,com.google.common.primitives.Shorts.min,Utility,Data Conversion
+util,concurrent,java.util.concurrent.atomic.AtomicReferenceFieldUpdater,Multi-Thread,Concurrency Control
+util,concurrent,java.util.concurrent.locks.LockSupport,Multi-Thread,Synchronization
+security,security,java.security.AccessControlException,Security,Authorization
+common,io,com.google.common.io.FileBackedOutputStreamTest.write,Test,Unit Testing
+util,concurrent,java.util.concurrent.atomic.AtomicReference,Multi-Thread,Thread Safety
+common,base,com.google.common.base.StandardSystemProperty.OS_NAME,Operating System,Process Management
+util,Collections,java.util.Collections.reverse,Utility,Data Conversion
+nio,file,java.nio.file.attribute.PosixFilePermission.OWNER_READ,Security,Authorization
+nio,file,java.nio.file.attribute.PosixFilePermission.OWNER_WRITE,Security,Authorization
+common,collect,com.google.common.collect.testing.DerivedCollectionGenerators.Bound,Test,Unit Testing
+common,collect,com.google.common.collect.testing.DerivedCollectionGenerators.ForwardingTestMapGenerator,Test,Unit Testing
+util,zip,java.util.zip.Checksum,Utility,System Tools
+common,collect,com.google.common.collect.testing.DerivedCollectionGenerators.SortedMapSubmapTestMapGenerator,Test,Unit Testing
+nio,file,java.nio.file.attribute.PosixFileAttributeView,Input-Output,File Management
+nio,file,java.nio.file.attribute.PosixFileAttributes,Input-Output,File Management
+common,collect,com.google.common.collect.testing.Helpers.mapEntry,Test,Unit Testing
+common,collect,com.google.common.collect.testing.Helpers.orderEntriesByKey,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.NavigableMapNavigationTester,Test,Unit Testing
+common,util,com.google.common.util.concurrent.ServiceManager.Listener,Microservices/Services,Fault Tolerance
+common,collect,com.google.common.collect.testing.features.FeatureEnumTest.assertGoodFeatureEnum,Test,Unit Testing
+common,collect,com.google.common.collect.testing.SampleElements,Test,Unit Testing
+common,collect,com.google.common.collect.testing.Helpers.testCompareToAndEquals,Test,Unit Testing
+util,concurrent,java.util.concurrent.AbstractExecutorService,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.Maps.keyOrNull,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.google.BiMapTestSuiteBuilder,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.TestBiMapGenerator,Test,Unit Testing
+nio,file,java.nio.file.attribute.PosixFilePermission.OWNER_EXECUTE,Security,Authorization
+common,collect,com.google.common.collect.testing.features.FeatureUtil.buildDeclaredTesterRequirements,Test,Unit Testing
+common,primitives,com.google.common.primitives.SignedBytes.max,Utility,Data Conversion
+common,primitives,com.google.common.primitives.SignedBytes.min,Utility,Data Conversion
+util,concurrent,java.util.concurrent.RunnableFuture,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.testing.testers.CollectionToArrayTester.getToArrayIsPlainObjectArrayMethod,Test,Unit Testing
+common,util,com.google.common.util.concurrent.Futures.immediateCancelledFuture,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.Internal.toNanosSaturated,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.testing.features.CollectionFeature.DESCENDING_VIEW,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.CollectionFeature.SUBSET_VIEW,Test,Unit Testing
+common,util,com.google.common.util.concurrent.SmoothRateLimiter.SmoothBursty,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.SmoothRateLimiter.SmoothWarmingUp,Multi-Thread,Concurrency Control
+common,io,com.google.common.io.Files.simplifyPath,Input-Output,File Management
+common,collect,com.google.common.collect.testing.DerivedCollectionGenerators.SortedSetSubsetTestSetGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.NavigableSetNavigationTester,Test,Unit Testing
+common,collect,com.google.common.collect.TestExceptions.SomeError,Test,Unit Testing
+common,collect,com.google.common.collect.TestExceptions.SomeOtherCheckedException,Test,Unit Testing
+common,primitives,com.google.common.primitives.UnsignedBytes.max,Utility,Data Conversion
+common,primitives,com.google.common.primitives.UnsignedBytes.min,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.SequentialExecutor.WorkerRunningState.IDLE,Multi-Thread,Thread Safety
+lang,Math,java.lang.Math.signum,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.SequentialExecutor.WorkerRunningState.QUEUED,Multi-Thread,Concurrency Control
+util,concurrent,java.util.concurrent.ScheduledExecutorService,Multi-Thread,Parallel Processing
+common,primitives,com.google.common.primitives.Bytes,Utility,Data Conversion
+common,collect,com.google.common.collect.ForwardingSortedMap.unsafeCompare,Data Structure,Tree Structures
+common,testing,com.google.common.testing.AbstractPackageSanityTests.Chopper.suffix,Test,Unit Testing
+common,util,com.google.common.util.concurrent.SequentialExecutor.WorkerRunningState.QUEUING,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.SequentialExecutor.WorkerRunningState.RUNNING,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.BoundType.CLOSED,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.BoundType.OPEN,Data Structure,Tree Structures
+common,collect,com.google.common.collect.testing.testers.ListAddTester.getAddSupportedNullPresentMethod,Test,Unit Testing
+common,collect,com.google.common.collect.testing.AnEnum,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListSetTester.getSetNullSupportedMethod,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.FeatureUtil.buildTesterRequirements,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MultisetFeature,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.FeatureUtil.getTesterAnnotations,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.TestEnumMultisetGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.ListFeature.SUPPORTS_SET,Test,Unit Testing
+lang,annotation,java.lang.annotation.RetentionPolicy.RUNTIME,Utility,System Tools
+common,testing,com.google.common.testing.NullPointerTester.Visibility,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.Platform.listListIteratorTesterNumIterations,Test,Unit Testing
+util,logging,java.util.logging.Formatter,Logging,Event Logging
+common,util,com.google.common.util.concurrent.Service.State.FAILED,Microservices/Services,Fault Tolerance
+common,util,com.google.common.util.concurrent.Service.State.NEW,Microservices/Services,Fault Tolerance
+common,util,com.google.common.util.concurrent.Service.State.RUNNING,Microservices/Services,Fault Tolerance
+common,util,com.google.common.util.concurrent.Service.State.STARTING,Microservices/Services,Fault Tolerance
+common,util,com.google.common.util.concurrent.Service.State.STOPPING,Microservices/Services,Fault Tolerance
+common,util,com.google.common.util.concurrent.Service.State.TERMINATED,Microservices/Services,Fault Tolerance
+common,primitives,com.google.common.primitives.UnsignedInts.max,Utility,Data Conversion
+common,primitives,com.google.common.primitives.UnsignedInts.min,Utility,Data Conversion
+junit,junit,org.junit.Test,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.CollectionAddAllTester.getAddAllUnsupportedNonePresentMethod,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.CollectionAddAllTester.getAddAllUnsupportedSomePresentMethod,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.CollectionAddTester.getAddUnsupportedNotPresentMethod,Test,Unit Testing
+common,util,com.google.common.util.concurrent.Monitor.Guard,Multi-Thread,Synchronization
+common,util,com.google.common.util.concurrent.Service.State,Microservices/Services,Fault Tolerance
+common,collect,com.google.common.collect.testing.testers.CollectionCreationTester.getCreateWithNullUnsupportedMethod,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapCreationTester.getCreateWithNullKeyUnsupportedMethod,Test,Unit Testing
+common,base,com.google.common.base.Defaults,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.testers.MapEntrySetTester.getContainsEntryWithIncomparableKeyMethod,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapEntrySetTester.getContainsEntryWithIncomparableValueMethod,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapMergeTester.getMergeNullValueMethod,Test,Unit Testing
+common,collect,com.google.common.collect.Sets.difference,Data Structure,Data Manipulation
+lang,reflect,java.lang.reflect.Modifier.isPublic,Utility,System Tools
+lang,reflect,java.lang.reflect.Modifier.isStatic,Utility,System Tools
+common,collect,com.google.common.collect.testing.testers.MapPutAllTester.getPutAllNullKeyUnsupportedMethod,Test,Unit Testing
+common,collect,com.google.common.collect.FilteredCollectionsTestUtil.AbstractFilteredSetTest,Test,Unit Testing
+common,collect,com.google.common.collect.ClassToInstanceMap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.testers.MapPutTester.getPutNullKeyUnsupportedMethod,Test,Unit Testing
+common,collect,com.google.common.collect.ImmutableClassToInstanceMap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.ImmutableCollection,Data Structure,Data Manipulation
+common,primitives,com.google.common.primitives.UnsignedLongs.max,Utility,Data Conversion
+common,collect,com.google.common.collect.FilteredCollectionsTestUtil.AbstractFilteredNavigableSetTest,Test,Unit Testing
+common,collect,com.google.common.collect.ImmutableMultimap,Data Structure,Data Manipulation
+common,primitives,com.google.common.primitives.UnsignedLongs.min,Utility,Data Conversion
+common,collect,com.google.common.collect.ImmutableSetMultimap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.ImmutableSortedMap,Data Structure,Tree Structures
+common,collect,com.google.common.collect.ImmutableSortedMultiset,Data Structure,Tree Structures
+common,collect,com.google.common.collect.ImmutableSortedSet,Data Structure,Tree Structures
+common,collect,com.google.common.collect.ImmutableTable,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.ListMultimap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.MapDifference,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.FilteredCollectionsTestUtil.AbstractFilteredSortedSetTest,Test,Unit Testing
+common,collect,com.google.common.collect.PeekingIterator,Data Structure,Linear Structures
+common,collect,com.google.common.collect.Range,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.RowSortedTable,Data Structure,Tree Structures
+common,collect,com.google.common.collect.SetMultimap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.SortedMapDifference,Data Structure,Tree Structures
+common,collect,com.google.common.collect.SortedMultiset,Data Structure,Tree Structures
+common,collect,com.google.common.collect.SortedSetMultimap,Data Structure,Tree Structures
+common,collect,com.google.common.collect.Table,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Tables,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.TreeBasedTable,Data Structure,Tree Structures
+common,collect,com.google.common.collect.TreeMultimap,Data Structure,Tree Structures
+common,io,com.google.common.io.ByteSink,Input-Output,Data Writing
+common,collect,com.google.common.collect.Sets.cartesianProduct,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Sets.newEnumSet,Data Structure,Data Manipulation
+common,io,com.google.common.io.CharSink,Input-Output,Data Writing
+common,collect,com.google.common.collect.Sets.powerSet,Data Structure,Data Manipulation
+common,primitives,com.google.common.primitives.UnsignedInteger,Utility,Data Conversion
+common,primitives,com.google.common.primitives.UnsignedLong,Utility,Data Conversion
+errorprone,annotations,com.google.errorprone.annotations.Keep,Error Handling,Error Prevention
+common,collect,com.google.common.collect.Sets.toImmutableEnumSet,Data Structure,Data Manipulation
+util,Arrays,java.util.Arrays.sort,Utility,Performance Tools
+io,io,java.io.PrintStream,Input-Output,Data Writing
+io,ObjectStreamConstants,java.io.ObjectStreamConstants.TC_REFERENCE,Input-Output,Data Reading
+io,ObjectStreamConstants,java.io.ObjectStreamConstants.baseWireHandle,Input-Output,Stream Management
+common,collect,com.google.common.collect.testing.Helpers.assertContentsAnyOrder,Test,Unit Testing
+common,collect,com.google.common.collect.CollectPreconditions.checkPositive,Utility,Performance Tools
+common,collect,com.google.common.collect.testing.features.FeatureUtil.impliedFeatures,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.FeatureUtilTest.ExampleFeature.BAR,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.QueueElementTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.QueueOfferTester,Test,Unit Testing
+common,collect,com.google.common.collect.Multimaps.filterKeys,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Multimaps.filterValues,Data Structure,Data Manipulation
+util,stream,java.util.stream.Collectors,Utility,Data Conversion
+nio,nio,java.nio.DoubleBuffer,Data Structure,Linear Structures
+nio,nio,java.nio.FloatBuffer,Data Structure,Data Manipulation
+nio,nio,java.nio.IntBuffer,Data Structure,Linear Structures
+common,primitives,com.google.common.primitives.Primitives,Utility,Data Conversion
+nio,nio,java.nio.LongBuffer,Data Structure,Linear Structures
+nio,nio,java.nio.ShortBuffer,Input-Output,Buffering Strategies
+common,collect,com.google.common.collect.testing.testers.QueuePeekTester,Test,Unit Testing
+common,collect,com.google.common.collect.Multisets.AbstractEntry,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.testers.QueuePollTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.QueueRemoveTester,Test,Unit Testing
+common,util,com.google.common.util.concurrent.AggregateFuture.ReleaseResourcesReason.ALL_INPUT_FUTURES_PROCESSED,Multi-Thread,Parallel Processing
+util,util,java.util.Currency,Internationalization,Currency Conversion
+common,util,com.google.common.util.concurrent.AggregateFuture.ReleaseResourcesReason.OUTPUT_FUTURE_DONE,Multi-Thread,Resource Sharing
+common,collect,com.google.common.collect.testing.features.FeatureUtilTest.ExampleFeature.FOO,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.FeatureUtilTest.ExampleFeature.IMPLIES_BAR,Test,Unit Testing
+common,collect,com.google.common.collect.testing.TestEnumSetGenerator,Test,Unit Testing
+common,jimfs,com.google.common.jimfs.Configuration,Input-Output,File Management
+common,jimfs,com.google.common.jimfs.Jimfs,Input-Output,File Management
+common,collect,com.google.common.collect.Iterables.removeIf,Utility,System Tools
+common,collect,com.google.common.collect.testing.features.FeatureUtilTest.ExampleFeature.IMPLIES_FOO,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.SetFeature,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.MapFeature.ALLOWS_NULL_VALUE_QUERIES,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.FeatureUtilTest.ExampleFeature.IMPLIES_IMPLIES_FOO,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.FeatureUtilTest.ExampleFeature.IMPLIES_IMPLIES_FOO_AND_IMPLIES_BAR,Test,Unit Testing
+util,util,java.util.HashSet,Data Structure,Linear Structures
+common,collect,com.google.common.collect.Collections2,Utility,Data Conversion
+util,util,java.util.Random,Utility,System Tools
+errorprone,annotations,com.google.errorprone.annotations.OverridingMethodsMustInvokeSuper,Error Handling,Error Prevention
+util,Collections,java.util.Collections.singletonList,Utility,Data Conversion
+util,util,java.util.UUID,Utility,Data Conversion
+common,io,com.google.common.io.RecursiveDeleteOption.ALLOW_INSECURE,Input-Output,File Management
+common,collect,com.google.common.collect.Iterables.getOnlyElement,Utility,Data Conversion
+common,jimfs,com.google.common.jimfs.Feature.SECURE_DIRECTORY_STREAM,Input-Output,File Management
+common,jimfs,com.google.common.jimfs.Feature.SYMBOLIC_LINKS,Input-Output,File Management
+util,concurrent,java.util.concurrent.ConcurrentNavigableMap,Data Structure,Tree Structures
+util,concurrent,java.util.concurrent.ConcurrentSkipListMap,Data Structure,Tree Structures
+util,concurrent,java.util.concurrent.CountDownLatch,Multi-Thread,Synchronization
+common,collect,com.google.common.collect.testing.testers.CollectionAddAllTester.getAddAllNullUnsupportedMethod,Test,Unit Testing
+util,concurrent,java.util.concurrent.ScheduledThreadPoolExecutor,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.ThreadFactory,Multi-Thread,Thread Safety
+util,concurrent,java.util.concurrent.ThreadPoolExecutor,Multi-Thread,Parallel Processing
+common,collect,com.google.common.collect.testing.testers.CollectionAddTester.getAddNullSupportedMethod,Test,Unit Testing
+common,collect,com.google.common.collect.ObjectArrays,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.IteratorFeature,Test,Unit Testing
+util,regex,java.util.regex.MatchResult,Utility,System Tools
+common,collect,com.google.common.collect.testing.testers.CollectionAddTester.getAddNullUnsupportedMethod,Test,Unit Testing
+common,jimfs,com.google.common.jimfs.Feature,Input-Output,File Management
+common,collect,com.google.common.collect.MultimapBuilder,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.testers.SetAddTester.getAddSupportedNullPresentMethod,Test,Unit Testing
+nio,file,java.nio.file.FileSystem,Input-Output,File Management
+common,testing,com.google.common.testing.NullPointerTester.isNullable,Test,Unit Testing
+nio,file,java.nio.file.FileVisitResult,Input-Output,File Management
+common,collect,com.google.common.collect.ArrayListMultimap,Data Structure,Linear Structures
+common,collect,com.google.common.collect.ObjectArrays.checkElementsNotNull,Utility,Data Conversion
+common,collect,com.google.common.collect.RegularImmutableList.EMPTY,Data Structure,Linear Structures
+nio,file,java.nio.file.SimpleFileVisitor,Input-Output,File Management
+common,collect,com.google.common.collect.MutableClassToInstanceMap,Data Structure,Data Manipulation
+common,reflect,com.google.common.reflect.Invokable,Utility,System Tools
+common,reflect,com.google.common.reflect.Parameter,Utility,Data Conversion
+common,reflect,com.google.common.reflect.Reflection,Utility,System Tools
+common,io,com.google.common.io.MoreFiles.deleteRecursively,Input-Output,File Management
+common,testing,com.google.common.testing.RelationshipTester.Item,Test,Unit Testing
+common,testing,com.google.common.testing.RelationshipTester.ItemReporter,Test,Unit Testing
+nio,file,java.nio.file.Files.createDirectory,Input-Output,File Management
+nio,file,java.nio.file.Files.createFile,Input-Output,File Management
+nio,file,java.nio.file.Files.createSymbolicLink,Input-Output,File Management
+util,function,java.util.function.UnaryOperator,Utility,Data Conversion
+common,collect,com.google.common.collect.Sets.intersection,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Sets.symmetricDifference,Data Structure,Data Manipulation
+common,testing,com.google.common.testing.ForwardingWrapperTester,Test,Unit Testing
+common,collect,com.google.common.collect.Sets.union,Data Structure,Data Manipulation
+junit,framework,junit.framework.Assert,Test,Unit Testing
+junit,framework,junit.framework.AssertionFailedError,Test,Unit Testing
+junit,framework,junit.framework.Assert.assertTrue,Test,Unit Testing
+nio,file,java.nio.file.Files.createTempDirectory,Input-Output,File Management
+common,collect,com.google.common.collect.testing.features.FeatureUtilTest.ExampleFeature.NotTesterAnnotation,Test,Unit Testing
+common,io,com.google.common.io.Closer,Error Handling,Exception Handling
+common,io,com.google.common.io.Files,Input-Output,"Data Reading, Data Writing, File Management"
+common,collect,com.google.common.collect.Sets.SetView,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.features.FeatureUtilTest.ExampleFeature.Require,Test,Unit Testing
+common,reflect,com.google.common.reflect.ClassPath.ResourceInfo,Utility,System Tools
+common,reflect,com.google.common.reflect.AbstractInvocationHandler,Utility,System Tools
+common,collect,com.google.common.collect.CollectPreconditions.checkEntryNotNull,Error Handling,Error Prevention
+common,collect,com.google.common.collect.testing.features.MapFeature.ALLOWS_NULL_KEY_QUERIES,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.ListFeature.SUPPORTS_REMOVE_WITH_INDEX,Test,Unit Testing
+common,collect,com.google.common.collect.testing.ListTestSuiteBuilder,Test,Unit Testing
+common,collect,com.google.common.collect.testing.TestStringListGenerator,Test,Unit Testing
+util,jar,java.util.jar.JarOutputStream,Input-Output,Data Writing
+junit,framework,junit.framework.Assert.assertEquals,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.ListFeature,Test,Unit Testing
+util,zip,java.util.zip.ZipEntry,Utility,Backup Tools
+lang,reflect,java.lang.reflect.Modifier.STATIC,Language,Standard Libraries
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.any,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.atLeast,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.GoogleHelpers.assertEmpty,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.verifyNoMoreInteractions,Test,Unit Testing
+common,util,com.google.common.util.concurrent.GeneratedMonitorTest.startThread,Test,Unit Testing
+common,util,com.google.common.util.concurrent.Uninterruptibles.joinUninterruptibly,Multi-Thread,Synchronization
+common,util,com.google.common.util.concurrent.GeneratedMonitorTest.FlagGuard,Test,Unit Testing
+util,concurrent,java.util.concurrent.atomic.AtomicLong,Multi-Thread,Thread Safety
+junit,framework,junit.framework.Assert.fail,Test,Unit Testing
+common,util,com.google.common.util.concurrent.FuturesTest.pseudoTimedGetUninterruptibly,Test,Unit Testing
+common,base,com.google.common.base.Throwables,Error Handling,Exception Handling
+common,collect,com.google.common.collect.testing.testers.SetAddAllTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.SetAddTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.SetCreationTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.SetEqualsTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.SetRemoveTester,Test,Unit Testing
+common,collect,com.google.common.collect.Streams.findLast,Utility,Data Conversion
+common,reflect,com.google.common.reflect.ImmutableTypeToInstanceMapTest.TestTypeToInstanceMapGenerator,Test,Unit Testing
+common,util,com.google.common.util.concurrent.AbstractFutureBenchmarks.Facade,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.AbstractFutureBenchmarks.Impl,Multi-Thread,Concurrency Control
+common,collect,com.google.common.collect.HashBasedTable,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.testers.SortedMapNavigationTester,Test,Unit Testing
+common,truth,com.google.common.truth.IterableSubject,Test,Unit Testing
+common,collect,com.google.common.collect.testing.NavigableMapTestSuiteBuilder,Test,Unit Testing
+common,collect,com.google.common.collect.testing.SafeTreeMap,Test,Unit Testing
+common,collect,com.google.common.collect.LinkedHashMultimap,Data Structure,Linear Structures
+common,collect,com.google.common.collect.LinkedHashMultiset,Data Structure,Linear Structures
+common,collect,com.google.common.collect.testing.TestStringSortedMapGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.TestContainerGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.MapEntrySetTester,Test,Unit Testing
+errorprone,annotations,com.google.errorprone.annotations.RequiredModifiers,Error Handling,Error Prevention
+common,collect,com.google.common.collect.testing.testers.SortedSetNavigationTester,Test,Unit Testing
+common,util,com.google.common.util.concurrent.AbstractFutureBenchmarks.OldAbstractFuture,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.TreeMultiset,Data Structure,Tree Structures
+javax,lang,javax.lang.model.element.Modifier,Language,Compiler/Interpreter Enhancements
+common,collect,com.google.common.collect.Synchronized.SynchronizedBiMap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Synchronized.SynchronizedSet,Data Structure,Data Manipulation
+util,Collections,java.util.Collections.sort,Utility,Performance Tools
+common,util,com.google.common.util.concurrent.Callables.returning,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.testing.SafeTreeSet,Test,Unit Testing
+common,collect,com.google.common.collect.SortedLists.KeyAbsentBehavior,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.SortedLists.KeyPresentBehavior,Data Structure,Data Sorting
+common,util,com.google.common.util.concurrent.TestPlatform.verifyThreadWasNotInterrupted,Test,Unit Testing
+io,io,java.io.FilterWriter,Input-Output,Data Writing
+common,util,com.google.common.util.concurrent.FuturesGetChecked.checkExceptionClassValidity,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetChecked.classValueValidator,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.FuturesGetChecked.getChecked,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetChecked.isCheckedException,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetChecked.weakSetValidator,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.FuturesGetChecked.GetCheckedTypeValidator,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.Synchronized.SynchronizedCollection,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.SortedLists.KeyAbsentBehavior.NEXT_HIGHER,Data Structure,Data Sorting
+common,collect,com.google.common.collect.SortedLists.KeyAbsentBehavior.NEXT_LOWER,Data Structure,Data Sorting
+common,collect,com.google.common.collect.SortedLists.KeyPresentBehavior.ANY_PRESENT,Data Structure,Data Sorting
+security,security,java.security.GeneralSecurityException,Security,Encryption
+security,security,java.security.KeyException,Security,Encryption
+common,collect,com.google.common.collect.testing.QueueTestSuiteBuilder,Test,Unit Testing
+common,collect,com.google.common.collect.testing.TestStringQueueGenerator,Test,Unit Testing
+util,util,java.util.TooManyListenersException,Event Handling,Notifications
+util,concurrent,java.util.concurrent.BrokenBarrierException,Error Handling,Exception Handling
+util,prefs,java.util.prefs.BackingStoreException,Error Handling,Exception Handling
+util,prefs,java.util.prefs.InvalidPreferencesFormatException,Error Handling,Exception Handling
+util,zip,java.util.zip.DataFormatException,Error Handling,Exception Handling
+javax,security,javax.security.auth.RefreshFailedException,Security,Authentication
+common,util,com.google.common.util.concurrent.UncaughtExceptionHandlers.Exiter,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.UncaughtExceptionHandlers.RuntimeWrapper,Error Handling,Exception Handling
+common,math,com.google.common.math.IntMath.sqrt,Utility,Performance Tools
+common,collect,com.google.common.collect.Synchronized.SynchronizedNavigableMap,Data Structure,Tree Structures
+util,concurrent,java.util.concurrent.Future,Multi-Thread,Concurrency Control
+util,concurrent,java.util.concurrent.TimeoutException,Error Handling,Exception Handling
+math,math,java.math.RoundingMode,Utility,Data Conversion
+common,collect,com.google.common.collect.Synchronized.SynchronizedNavigableSet,Data Structure,Tree Structures
+common,collect,com.google.common.collect.Synchronized.SynchronizedSortedMap,Data Structure,Tree Structures
+util,Arrays,java.util.Arrays.stream,Utility,Data Conversion
+util,stream,java.util.stream.Stream.concat,Utility,Data Conversion
+lang,annotation,java.lang.annotation.Inherited,Language,Standard Libraries
+math,RoundingMode,java.math.RoundingMode.DOWN,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.InterruptionUtil.repeatedlyInterruptTestThread,Test,Unit Testing
+common,collect,com.google.common.collect.testing.Helpers.NullsBeforeTwo,Test,Unit Testing
+math,RoundingMode,java.math.RoundingMode.HALF_DOWN,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.SortedMapTestSuiteBuilder,Test,Unit Testing
+math,RoundingMode,java.math.RoundingMode.UP,Utility,Data Conversion
+math,RoundingMode,java.math.RoundingMode.values,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.AbstractFuture,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.Synchronized.SynchronizedSortedSet,Data Structure,Tree Structures
+math,math,java.math.MathContext,Utility,Performance Tools
+common,collect,com.google.common.collect.testing.features.MapFeature.FAILS_FAST_ON_CONCURRENT_MODIFICATION,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.ALL_BIGINTEGER_CANDIDATES,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.ALL_ROUNDING_MODES,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.ALL_SAFE_ROUNDING_MODES,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.NEGATIVE_BIGINTEGER_CANDIDATES,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.NONZERO_BIGINTEGER_CANDIDATES,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.POSITIVE_BIGINTEGER_CANDIDATES,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SortedMultisetTestSuiteBuilder,Test,Unit Testing
+common,math,com.google.common.math.ReflectionFreeAssertThrows.assertThrows,Test,Unit Testing
+common,collect,com.google.common.collect.Maps.newTreeMap,Data Structure,Tree Structures
+math,BigInteger,java.math.BigInteger.ONE,Utility,Data Conversion
+math,BigInteger,java.math.BigInteger.TEN,Utility,Data Conversion
+math,BigInteger,java.math.BigInteger.ZERO,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.MoreExecutors.newDirectExecutorService,Multi-Thread,Parallel Processing
+common,util,com.google.common.util.concurrent.Uninterruptibles.awaitTerminationUninterruptibly,Multi-Thread,Synchronization
+common,collect,com.google.common.collect.testing.features.TesterAnnotation,Test,Unit Testing
+common,util,com.google.common.util.concurrent.Uninterruptibles.putUninterruptibly,Multi-Thread,Synchronization
+common,util,com.google.common.util.concurrent.Uninterruptibles.takeUninterruptibly,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.Uninterruptibles.tryAcquireUninterruptibly,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.Uninterruptibles.tryLockUninterruptibly,Multi-Thread,Synchronization
+common,collect,com.google.common.collect.testing.SortedSetTestSuiteBuilder,Test,Unit Testing
+common,collect,com.google.common.collect.testing.TestStringSortedSetGenerator,Test,Unit Testing
+errorprone,annotations,com.google.errorprone.annotations.FormatMethod,Error Handling,Error Prevention
+common,collect,com.google.common.collect.Tables.transformValues,Utility,Data Conversion
+common,collect,com.google.common.collect.Tables.transpose,Utility,Data Conversion
+common,collect,com.google.common.collect.Tables.unmodifiableRowSortedTable,Data Structure,Tree Structures
+common,collect,com.google.common.collect.Tables.unmodifiableTable,Data Structure,Data Manipulation
+common,escape,com.google.common.escape.CharEscaper,Utility,Data Conversion
+common,collect,com.google.common.collect.Iterables.get,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Iterables.size,Utility,Performance Tools
+common,math,com.google.common.math.MathTesting.ALL_DOUBLE_CANDIDATES,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.DOUBLE_CANDIDATES_EXCEPT_NAN,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.FINITE_DOUBLE_CANDIDATES,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.FRACTIONAL_DOUBLE_CANDIDATES,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.INFINITIES,Test,Unit Testing
+util,logging,java.util.logging.Handler,Logging,Event Logging
+util,logging,java.util.logging.LogRecord,Logging,Event Logging
+common,truth,com.google.common.truth.Truth.assertThat,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.INTEGRAL_DOUBLE_CANDIDATES,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.NEGATIVE_INTEGER_CANDIDATES,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.POSITIVE_FINITE_DOUBLE_CANDIDATES,Test,Unit Testing
+lang,annotation,java.lang.annotation.ElementType.ANNOTATION_TYPE,Language,Standard Libraries
+common,collect,com.google.common.collect.Iterables.cycle,Utility,System Tools
+common,collect,com.google.common.collect.Iterables.limit,Utility,Performance Tools
+common,collect,com.google.common.collect.testing.testers.TestExceptions.SomeUncheckedException,Test,Unit Testing
+junit,Assert,org.junit.Assert.assertThrows,Test,Unit Testing
+common,collect,com.google.common.collect.Tables.immutableCell,Data Structure,Data Manipulation
+common,eventbus,com.google.common.eventbus.EventBus,Event Handling,Event Driven Processing
+junit,framework,junit.framework.TestCase.assertEquals,Test,Unit Testing
+junit,framework,junit.framework.TestCase.assertTrue,Test,Unit Testing
+common,eventbus,com.google.common.eventbus.Subscribe,Event Handling,Event Driven Processing
+common,eventbus,com.google.common.eventbus.outside.AbstractNotAnnotatedInSuperclassTest.SubClass,Test,Unit Testing
+junit,framework,junit.framework.TestCase.fail,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.TestStringBiMapGenerator,Test,Unit Testing
+common,eventbus,com.google.common.eventbus.outside.AnnotatedAndAbstractInSuperclassTest.SubClass,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.ALL_INTEGER_CANDIDATES,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.EXPONENTS,Test,Unit Testing
+common,collect,com.google.common.collect.Hashing.smear,Data Structure,Data Manipulation
+common,math,com.google.common.math.MathTesting.NONZERO_INTEGER_CANDIDATES,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.POSITIVE_INTEGER_CANDIDATES,Test,Unit Testing
+common,collect,com.google.common.collect.TableCollectionTest.FIRST_CHARACTER,Test,Unit Testing
+common,eventbus,com.google.common.eventbus.outside.AnnotatedNotAbstractInSuperclassTest.SubClass,Test,Unit Testing
+common,math,com.google.common.math.TestPlatform.intsCanGoOutOfRange,Test,Unit Testing
+math,BigInteger,java.math.BigInteger.valueOf,Utility,Data Conversion
+common,collect,com.google.common.collect.TableCollectionTest.DIVIDE_BY_2,Test,Unit Testing
+common,collect,com.google.common.collect.MapMaker.Dummy,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.MapMakerInternalMap.InternalEntry,Data Structure,Linear Structures
+common,collect,com.google.common.collect.testing.google.SetMultimapTestSuiteBuilder,Test,Unit Testing
+common,util,com.google.common.util.concurrent.AtomicDouble,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.testing.google.TestStringSetMultimapGenerator,Test,Unit Testing
+common,eventbus,com.google.common.eventbus.outside.BaseSubscriberFinderTest.Subscriber,Test,Unit Testing
+jsinterop,annotations,jsinterop.annotations.JsProperty,Language,Language Extensions
+jsinterop,annotations,jsinterop.annotations.JsType,Language,Language Extensions
+common,eventbus,com.google.common.eventbus.outside.DeepInterfaceTest.SubscriberClass,Event Handling,Event Driven Processing
+common,math,com.google.common.math.StatsTesting.assertDiagonalLinearTransformation,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.assertHorizontalLinearTransformation,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.assertLinearTransformationNaN,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.assertVerticalLinearTransformation,Test,Unit Testing
+common,eventbus,com.google.common.eventbus.outside.NeitherAbstractNorAnnotatedInSuperclassTest.SubClass,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.ALL_LONG_CANDIDATES,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.NEGATIVE_LONG_CANDIDATES,Test,Unit Testing
+common,base,com.google.common.base.Predicates.instanceOf,Utility,System Tools
+common,math,com.google.common.math.MathTesting.NONZERO_LONG_CANDIDATES,Test,Unit Testing
+common,math,com.google.common.math.MathTesting.POSITIVE_LONG_CANDIDATES,Test,Unit Testing
+common,util,com.google.common.util.concurrent.ReflectionFreeAssertThrows.assertThrows,Test,Unit Testing
+common,util,com.google.common.util.concurrent.Runnables.doNothing,Utility,Performance Tools
+util,util,java.util.Enumeration,Data Structure,Data Manipulation
+common,util,com.google.common.util.concurrent.TestPlatform.getDoneFromTimeoutOverload,Test,Unit Testing
+common,util,com.google.common.util.concurrent.TestPlatform.verifyGetOnPendingFuture,Test,Unit Testing
+common,util,com.google.common.util.concurrent.TestPlatform.verifyTimedGetOnPendingFuture,Test,Unit Testing
+util,util,java.util.PriorityQueue,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.ImmutableBiMap.toImmutableBiMap,Data Structure,Data Manipulation
+util,concurrent,java.util.concurrent.DelayQueue,Data Structure,Linear Structures
+common,util,com.google.common.util.concurrent.AbstractFutureTest.TimedWaiterThread,Test,Unit Testing
+common,collect,com.google.common.collect.RegularImmutableMap.makeImmutable,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.ImmutableBiMap.Builder,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.google.BiMapGenerators.ImmutableBiMapCopyOfEntriesGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.BiMapGenerators.ImmutableBiMapCopyOfGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.BiMapGenerators.ImmutableBiMapGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.BiMapInverseTester,Test,Unit Testing
+common,util,com.google.common.util.concurrent.testing.MockFutureListener,Test,Unit Testing
+common,collect,com.google.common.collect.Multisets,Data Structure,Data Manipulation
+common,testing,com.google.common.testing.ClassSanityTester.FactoryMethodReturnsNullException,Test,Unit Testing
+common,testing,com.google.common.testing.ClassSanityTester.ParameterHasNoDistinctValueException,Test,Unit Testing
+common,testing,com.google.common.testing.ClassSanityTester.ParameterNotInstantiableException,Test,Unit Testing
+common,testing,com.google.common.testing.CollectorTester,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ReflectionFreeAssertThrows.assertThrows,Test,Unit Testing
+common,util,com.google.common.util.concurrent.ClosingFuture.withoutCloser,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.MoreExecutors.shutdownAndAwaitTermination,Multi-Thread,Resource Sharing
+common,testing,com.google.common.testing.ReflectionFreeAssertThrows.assertThrows,Test,Unit Testing
+common,collect,com.google.common.collect.testing.TestMapGenerator,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.ALLOWED_ERROR,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.ALL_MANY_VALUES,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.EMPTY_STATS_ITERABLE,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.MANY_VALUES,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.MANY_VALUES_COUNT,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.MANY_VALUES_STATS_ITERABLE,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.MANY_VALUES_SUM_OF_PRODUCTS_OF_DELTAS,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.ONE_VALUE,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.ONE_VALUE_STATS,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.OTHER_MANY_VALUES,Test,Unit Testing
+common,collect,com.google.common.collect.Maps.toImmutableEnumMap,Data Structure,Data Manipulation
+common,math,com.google.common.math.StatsTesting.OTHER_MANY_VALUES_COUNT,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.OTHER_MANY_VALUES_STATS,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.OTHER_ONE_VALUE,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.CollectionFeature.SERIALIZABLE,Test,Unit Testing
+util,concurrent,java.util.concurrent.ExecutorService,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.Executors,Multi-Thread,Parallel Processing
+common,math,com.google.common.math.StatsTesting.OTHER_ONE_VALUE_STATS,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.OTHER_TWO_VALUES,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.OTHER_TWO_VALUES_STATS,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.TWO_VALUES,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.TWO_VALUES_STATS,Test,Unit Testing
+util,AbstractMap,java.util.AbstractMap.SimpleEntry,Data Structure,Linear Structures
+util,util,java.util.AbstractSequentialList,Data Structure,Linear Structures
+common,math,com.google.common.math.StatsTesting.TWO_VALUES_SUM_OF_PRODUCTS_OF_DELTAS,Test,Unit Testing
+common,collect,com.google.common.collect.testing.TestEnumMapGenerator,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.timeout,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.assertStatsApproxEqual,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.MapFeature.REJECTS_DUPLICATES_AT_CREATION,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.createFilledPairedStatsAccumulator,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.createPartitionedFilledPairedStatsAccumulator,Test,Unit Testing
+common,truth,com.google.common.truth.FailureStrategy,Test,Unit Testing
+common,truth,com.google.common.truth.StandardSubjectBuilder,Test,Unit Testing
+common,util,com.google.common.util.concurrent.ClosingFuture.AsyncClosingCallable,Multi-Thread,Concurrency Control
+common,math,com.google.common.math.StatsTesting.ManyValues,Test,Unit Testing
+common,util,com.google.common.util.concurrent.ClosingFuture.AsyncClosingFunction,Multi-Thread,Concurrency Control
+common,collect,com.google.common.collect.Iterables.unmodifiableIterable,Utility,System Tools
+common,reflect,com.google.common.reflect.Reflection.newProxy,Utility,System Tools
+common,util,com.google.common.util.concurrent.ClosingFuture.ClosingCallable,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.ClosingFuture.ClosingFunction,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.ClosingFuture.Combiner,Multi-Thread,Concurrency Control
+common,math,com.google.common.math.StatsTesting.ALL_PAIRED_STATS,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.CONSTANT_VALUES_PAIRED_STATS,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.DUPLICATE_MANY_VALUES_PAIRED_STATS,Test,Unit Testing
+common,collect,com.google.common.collect.Iterators.elementsEqual,Utility,Data Conversion
+common,math,com.google.common.math.StatsTesting.EMPTY_PAIRED_STATS,Test,Unit Testing
+common,collect,com.google.common.collect.testing.TestSortedMapGenerator,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.HORIZONTAL_VALUES_PAIRED_STATS,Test,Unit Testing
+common,util,com.google.common.util.concurrent.ClosingFuture.Combiner2.AsyncClosingFunction2,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.ClosingFuture.Combiner2.ClosingFunction2,Multi-Thread,Concurrency Control
+common,collect,com.google.common.collect.ImmutableListMultimap.flatteningToImmutableListMultimap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.ImmutableListMultimap.toImmutableListMultimap,Data Structure,Data Manipulation
+common,math,com.google.common.math.StatsTesting.MANY_VALUES_PAIRED_STATS,Test,Unit Testing
+common,util,com.google.common.util.concurrent.ClosingFuture.Combiner3.ClosingFunction3,Multi-Thread,Concurrency Control
+common,collect,com.google.common.collect.testing.google.SortedSetMultimapTestSuiteBuilder,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.MANY_VALUES_STATS_VARARGS,Test,Unit Testing
+common,collect,com.google.common.collect.testing.features.MapFeature.ALLOWS_ANY_NULL_QUERIES,Test,Unit Testing
+common,util,com.google.common.util.concurrent.ClosingFuture.Combiner4.ClosingFunction4,Multi-Thread,Concurrency Control
+common,math,com.google.common.math.StatsTesting.ONE_VALUE_PAIRED_STATS,Test,Unit Testing
+common,util,com.google.common.util.concurrent.ClosingFuture.Combiner5.ClosingFunction5,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.ClosingFuture.DeferredCloser,Multi-Thread,Thread Safety
+util,util,java.util.LinkedList,Data Structure,Linear Structures
+common,util,com.google.common.util.concurrent.ClosingFuture.Peeker,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.ClosingFuture.ValueAndCloser,Multi-Thread,Resource Sharing
+common,util,com.google.common.util.concurrent.ClosingFuture.ValueAndCloserConsumer,Multi-Thread,Resource Sharing
+common,collect,com.google.common.collect.ImmutableListMultimap.Builder,Data Structure,Data Manipulation
+common,math,com.google.common.math.StatsTesting.TWO_VALUES_PAIRED_STATS,Test,Unit Testing
+util,concurrent,java.util.concurrent.CopyOnWriteArrayList,Data Structure,Linear Structures
+common,collect,com.google.common.collect.testing.google.UnmodifiableCollectionTests,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.VERTICAL_VALUES_PAIRED_STATS,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.createPairedStatsOf,Test,Unit Testing
+common,collect,com.google.common.collect.MapMakerInternalMap.Strength,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.Helpers.NullsBeforeB,Test,Unit Testing
+common,collect,com.google.common.collect.testing.Helpers.misleadingSizeCollection,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.ListGenerators.BuilderAddAllListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.ListGenerators.BuilderReversedListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.ListGenerators.ImmutableListHeadSubListGenerator,Test,Unit Testing
+common,testing,com.google.common.testing.GcFinalization.FinalizationPredicate,Test,Unit Testing
+util,concurrent,java.util.concurrent.CancellationException,Error Handling,Exception Handling
+common,collect,com.google.common.collect.testing.google.ListGenerators.ImmutableListMiddleSubListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.ListGenerators.ImmutableListOfGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.ListGenerators.ImmutableListTailSubListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.ListGenerators.UnhashableElementsImmutableListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.ListHashCodeTester,Test,Unit Testing
+mockito,mockito,org.mockito.Mockito,Test,Unit Testing
+common,base,com.google.common.base.Predicates.compose,Utility,Data Conversion
+lang,Math,java.lang.Math.ceil,Utility,Data Conversion
+common,testing,com.google.common.testing.anotherpackage.SomeClassThatDoesNotUseNullable,Test,Unit Testing
+common,testing,com.google.common.testing.TearDown,Test,Unit Testing
+common,testing,com.google.common.testing.TearDownStack,Test,Unit Testing
+common,util,com.google.common.util.concurrent.testing.TestingExecutors,Test,Unit Testing
+common,base,com.google.common.base.Converter,Utility,Data Conversion
+common,collect,com.google.common.collect.MapDifference.ValueDifference,Data Structure,Data Manipulation
+javax,annotation,javax.annotation.CheckForNull,Error Handling,Error Prevention
+common,math,com.google.common.math.Quantiles.median,Utility,Data Conversion
+common,math,com.google.common.math.Quantiles.percentiles,Utility,Data Conversion
+common,math,com.google.common.math.Quantiles.quartiles,Utility,Data Conversion
+common,collect,com.google.common.collect.Range.range,Data Structure,Data Manipulation
+common,base,com.google.common.base.VerifyException,Error Handling,Exception Handling
+util,concurrent,java.util.concurrent.locks.AbstractQueuedSynchronizer,Multi-Thread,Synchronization
+common,math,com.google.common.math.Quantiles.ScaleAndIndexes,Utility,Data Conversion
+common,collect,com.google.common.collect.ImmutableMap.Builder,Data Structure,Data Manipulation
+common,truth,com.google.common.truth.Correspondence,Test,Unit Testing
+util,util,java.util.Properties,Utility,System Tools
+common,truth,com.google.common.truth.Correspondence.BinaryPredicate,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MapGenerators.ImmutableMapCopyOfEntriesGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MapGenerators.ImmutableMapCopyOfEnumMapGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MapGenerators.ImmutableMapCopyOfGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MapGenerators.ImmutableMapEntryListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MapGenerators.ImmutableMapGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MapGenerators.ImmutableMapKeyListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MapGenerators.ImmutableMapUnhashableValuesGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MapGenerators.ImmutableMapValueListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MapGenerators.ImmutableMapValuesAsSingletonSetGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.ImmutableMap.toImmutableMap,Data Structure,Data Manipulation
+caliper,caliper,com.google.caliper.BeforeExperiment,Test,Performance Testing
+caliper,caliper,com.google.caliper.Benchmark,Test,Performance Testing
+caliper,caliper,com.google.caliper.Param,Test,Performance Testing
+common,base,com.google.common.base.BenchmarkHelpers.SampleMatcherConfig,Test,Performance Testing
+common,base,com.google.common.base.Throwables.lazyStackTrace,Error Handling,Exception Handling
+caliper,api,com.google.caliper.api.SkipThisScenarioException,Error Handling,Exception Handling
+common,math,com.google.common.math.StatsTesting.INTEGER_MANY_VALUES,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.INTEGER_MANY_VALUES_COUNT,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.INTEGER_MANY_VALUES_MAX,Test,Unit Testing
+common,collect,com.google.common.collect.testing.SampleElements.Colliders,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.INTEGER_MANY_VALUES_MEAN,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.INTEGER_MANY_VALUES_MIN,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.INTEGER_MANY_VALUES_SUM_OF_SQUARES_OF_DELTAS,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.LONG_MANY_VALUES,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.LONG_MANY_VALUES_COUNT,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.LONG_MANY_VALUES_MAX,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.LONG_MANY_VALUES_MEAN,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.LONG_MANY_VALUES_MIN,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.LONG_MANY_VALUES_SUM_OF_SQUARES_OF_DELTAS,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.MANY_VALUES_MAX,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.MANY_VALUES_MEAN,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.MANY_VALUES_MIN,Test,Unit Testing
+common,collect,com.google.common.collect.ImmutableMultimap.Builder,Data Structure,Data Manipulation
+common,math,com.google.common.math.StatsTesting.MANY_VALUES_SUM_OF_SQUARES_OF_DELTAS,Test,Unit Testing
+common,collect,com.google.common.collect.testing.SampleElements.Unhashables,Test,Unit Testing
+util,util,java.util.TreeSet,Data Structure,Tree Structures
+common,collect,com.google.common.collect.testing.UnhashableObject,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.MEGA_STREAM_COUNT,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.MEGA_STREAM_MAX,Test,Unit Testing
+common,cache,com.google.common.cache.LocalCache.Segment,Data Structure,Data Manipulation
+common,math,com.google.common.math.StatsTesting.MEGA_STREAM_MEAN,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.MEGA_STREAM_MIN,Test,Unit Testing
+caliper,caliper,com.google.caliper.AfterExperiment,Test,Performance Testing
+common,math,com.google.common.math.StatsTesting.MEGA_STREAM_POPULATION_VARIANCE,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.TWO_VALUES_MAX,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.TWO_VALUES_MEAN,Test,Unit Testing
+common,collect,com.google.common.collect.Maps.EntryTransformer,Data Structure,Data Manipulation
+common,math,com.google.common.math.StatsTesting.TWO_VALUES_MIN,Test,Unit Testing
+JSci,maths,JSci.maths.statistics.ProbabilityDistribution,Machine Learning,Prediction
+common,math,com.google.common.math.StatsTesting.TWO_VALUES_SUM_OF_SQUARES_OF_DELTAS,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.megaPrimitiveDoubleStream,Test,Unit Testing
+common,collect,com.google.common.collect.MapMaker,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.ImmutableMultiset.toImmutableMultiset,Data Structure,Data Manipulation
+common,math,com.google.common.math.StatsTesting.megaPrimitiveDoubleStreamPart1,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.megaPrimitiveDoubleStreamPart2,Test,Unit Testing
+lang,Math,java.lang.Math.sqrt,Utility,Performance Tools
+lang,reflect,java.lang.reflect.Modifier.PRIVATE,Language,Standard Libraries
+lang,reflect,java.lang.reflect.Modifier.PROTECTED,Language,Standard Libraries
+lang,reflect,java.lang.reflect.Modifier.PUBLIC,Language,Standard Libraries
+util,stream,java.util.stream.DoubleStream.concat,Utility,Performance Tools
+common,math,com.google.common.math.Stats.toStats,Utility,Data Conversion
+common,escape,com.google.common.escape.testing.EscaperAsserts,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.ALL_STATS,Test,Unit Testing
+common,math,com.google.common.math.StatsTesting.EMPTY_STATS_VARARGS,Test,Unit Testing
+common,escape,com.google.common.escape.ReflectionFreeAssertThrows.assertThrows,Test,Unit Testing
+common,util,com.google.common.util.concurrent.ThreadFactoryBuilder,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.Multiset.Entry,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.TestSetGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.CollectionBenchmarkSampleData.Element,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.ImmutableSetMultimap.flatteningToImmutableSetMultimap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.ImmutableSetMultimap.toImmutableSetMultimap,Data Structure,Data Manipulation
+common,primitives,com.google.common.primitives.Chars.asList,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.AbstractScheduledService.Scheduler.newFixedDelaySchedule,Multi-Thread,Concurrency Control
+common,collect,com.google.common.collect.ImmutableSetMultimap.Builder,Data Structure,Data Manipulation
+util,concurrent,java.util.concurrent.CyclicBarrier,Multi-Thread,Synchronization
+common,util,com.google.common.util.concurrent.AbstractScheduledService.Cancellable,Multi-Thread,Thread Safety
+common,util,com.google.common.util.concurrent.AbstractScheduledService.Scheduler,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.DiscreteDomain.integers,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.BenchmarkHelpers.SetImpl,Test,Performance Testing
+common,collect,com.google.common.collect.ImmutableSet.toImmutableSet,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.ImmutableSet.Builder,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.google.SetGenerators.DegeneratedImmutableSetGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSetAsListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSetCopyOfGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSetSizedBuilderGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSetTooBigBuilderGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSetTooSmallBuilderGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSetUnsizedBuilderGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSetWithBadHashesGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.MoreCollectors.onlyElement,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.Service.Listener,Microservices/Services,Fault Tolerance
+common,graph,com.google.common.graph.TestUtil.assertNodeNotInGraphErrorMessage,Test,Unit Testing
+common,graph,com.google.common.graph.TestUtil.assertNodeRemovedFromGraphErrorMessage,Test,Unit Testing
+common,graph,com.google.common.graph.TestUtil.assertStronglyEquivalent,Test,Unit Testing
+common,graph,com.google.common.graph.TestUtil.sanityCheckSet,Test,Unit Testing
+common,truth,com.google.common.truth.TruthJUnit.assume,Test,Unit Testing
+util,concurrent,java.util.concurrent.ArrayBlockingQueue,Multi-Thread,Thread Safety
+util,concurrent,java.util.concurrent.BlockingQueue,Multi-Thread,Synchronization
+util,concurrent,java.util.concurrent.LinkedBlockingDeque,Data Structure,Linear Structures
+util,concurrent,java.util.concurrent.LinkedBlockingQueue,Multi-Thread,Thread Safety
+util,concurrent,java.util.concurrent.PriorityBlockingQueue,Data Structure,Data Manipulation
+util,concurrent,java.util.concurrent.SynchronousQueue,Multi-Thread,Synchronization
+common,collect,com.google.common.collect.ImmutableSortedMap.toImmutableSortedMap,Data Structure,Tree Structures
+common,collect,com.google.common.collect.ImmutableSortedMap.Builder,Data Structure,Tree Structures
+caliper,api,com.google.caliper.api.VmOptions,Utility,Performance Tools
+common,collect,com.google.common.collect.testing.google.SortedMapGenerators.ImmutableSortedMapCopyOfEntriesGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SortedMapGenerators.ImmutableSortedMapEntryListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SortedMapGenerators.ImmutableSortedMapGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SortedMapGenerators.ImmutableSortedMapKeyListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SortedMapGenerators.ImmutableSortedMapValueListGenerator,Test,Unit Testing
+common,math,com.google.common.math.MathBenchmarking.ARRAY_MASK,Utility,Performance Tools
+common,math,com.google.common.math.MathBenchmarking.ARRAY_SIZE,Utility,Performance Tools
+common,math,com.google.common.math.MathBenchmarking.RANDOM_SOURCE,Utility,Performance Tools
+common,math,com.google.common.math.MathBenchmarking.randomBigInteger,Utility,Performance Tools
+common,math,com.google.common.math.MathBenchmarking.randomNonNegativeBigInteger,Utility,Performance Tools
+common,collect,com.google.common.collect.ImmutableMapEntry.createEntryArray,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.RegularImmutableMap.MAX_HASH_BUCKET_LENGTH,Data Structure,Linear Structures
+common,collect,com.google.common.collect.RegularImmutableMap.checkNoConflictInKeyBucket,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.ImmutableMapEntry.NonTerminalImmutableBiMapEntry,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.RegularImmutableMap.BucketOverflowException,Error Handling,Exception Handling
+common,math,com.google.common.math.MathBenchmarking.randomNonZeroBigInteger,Utility,Performance Tools
+common,math,com.google.common.math.MathBenchmarking.randomPositiveBigInteger,Utility,Performance Tools
+common,math,com.google.common.math.MathBenchmarking.randomDouble,Utility,Performance Tools
+common,math,com.google.common.math.MathBenchmarking.randomPositiveDouble,Utility,Performance Tools
+common,collect,com.google.common.collect.testing.WrongType,Test,Unit Testing
+common,collect,com.google.common.collect.ImmutableMapEntry.NonTerminalImmutableMapEntry,Data Structure,Data Manipulation
+common,math,com.google.common.math.MathBenchmarking.randomExponent,Utility,Performance Tools
+common,collect,com.google.common.collect.Multisets.ImmutableEntry,Data Structure,Data Manipulation
+common,util,com.google.common.util.concurrent.TestExceptions.SomeCheckedException,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.MultisetFeature.ENTRIES_ARE_VIEWS,Test,Unit Testing
+common,collect,com.google.common.collect.ImmutableSortedSet.toImmutableSortedSet,Data Structure,Tree Structures
+common,collect,com.google.common.collect.Iterables.elementsEqual,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSortedSetAsListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSortedSetCopyOfGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSortedSetDescendingAsListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSortedSetDescendingGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSortedSetExplicitComparator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSortedSetExplicitSuperclassComparatorGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.ContiguousSet,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.DiscreteDomain,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSortedSetReversedOrderGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSortedSetSubsetAsListGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.google.SetGenerators.ImmutableSortedSetUnhashableGenerator,Test,Unit Testing
+common,collect,com.google.common.collect.testing.testers.SetHashCodeTester,Test,Unit Testing
+common,base,com.google.common.base.ReflectionFreeAssertThrows.assertThrows,Test,Unit Testing
+common,base,com.google.common.base.SneakyThrows.sneakyThrow,Error Handling,Exception Handling
+common,base,com.google.common.base.TestExceptions.SomeCheckedException,Test,Unit Testing
+common,base,com.google.common.base.TestExceptions.SomeUncheckedException,Test,Unit Testing
+common,testing,com.google.common.testing.GcFinalization,Test,Unit Testing
+common,collect,com.google.common.collect.TableCollectors.toImmutableTable,Data Structure,Data Manipulation
+common,base,com.google.common.base.CaseFormat.LOWER_CAMEL,Utility,Data Conversion
+common,math,com.google.common.math.IntMath.saturatedAdd,Utility,Performance Tools
+common,base,com.google.common.base.CaseFormat.LOWER_HYPHEN,Utility,Data Conversion
+common,base,com.google.common.base.CaseFormat.LOWER_UNDERSCORE,Utility,Data Conversion
+common,base,com.google.common.base.CaseFormat.UPPER_CAMEL,Utility,Data Conversion
+common,base,com.google.common.base.CaseFormat.UPPER_UNDERSCORE,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.CycleDetectingLockFactory.Policies,Multi-Thread,Concurrency Control
+common,truth,com.google.common.truth.Truth.assertWithMessage,Test,Unit Testing
+common,util,com.google.common.util.concurrent.CycleDetectingLockFactory.Policy,Multi-Thread,Concurrency Control
+common,util,com.google.common.util.concurrent.CycleDetectingLockFactory.PotentialDeadlockException,Multi-Thread,Deadlock Resolution
+common,collect,com.google.common.collect.Collections2.FilteredCollection,Data Structure,Data Manipulation
+common,testing,com.google.common.testing.NullPointerTester,Test,Unit Testing
+common,testing,com.google.common.testing.SerializableTester,Test,Unit Testing
+common,base,com.google.common.base.CharMatcher.anyOf,Utility,Data Conversion
+common,base,com.google.common.base.CharMatcher.breakingWhitespace,Utility,Data Conversion
+common,base,com.google.common.base.CharMatcher.forPredicate,Utility,Data Conversion
+common,base,com.google.common.base.CharMatcher.inRange,Utility,Data Conversion
+common,base,com.google.common.base.CharMatcher.is,Utility,Data Conversion
+common,base,com.google.common.base.CharMatcher.isNot,Utility,Data Conversion
+common,base,com.google.common.base.CharMatcher.noneOf,Utility,Data Conversion
+common,base,com.google.common.base.CharMatcher.whitespace,Utility,Data Conversion
+common,collect,com.google.common.collect.Interners.InternerImpl,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.FilteredCollectionsTestUtil.AbstractFilteredIterableTest,Test,Unit Testing
+util,concurrent,java.util.concurrent.CopyOnWriteArraySet,Data Structure,Linear Structures
+common,collect,com.google.common.collect.Iterables.all,Utility,Performance Tools
+common,collect,com.google.common.collect.Iterables.any,Utility,Performance Tools
+common,collect,com.google.common.collect.Iterables.filter,Utility,Data Conversion
+common,collect,com.google.common.collect.Iterables.find,Utility,Data Conversion
+common,collect,com.google.common.collect.Iterables.frequency,Utility,Performance Tools
+common,collect,com.google.common.collect.Iterables.mergeSorted,Data Structure,Data Sorting
+common,base,com.google.common.base.Functions.toStringFunction,Utility,Data Conversion
+common,collect,com.google.common.collect.Iterables.skip,Utility,System Tools
+common,collect,com.google.common.collect.Iterables.tryFind,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.Futures.allAsList,Multi-Thread,Parallel Processing
+common,collect,com.google.common.collect.Iterators.singletonIterator,Data Structure,Linear Structures
+util,Collections,java.util.Collections.singleton,Utility,Data Conversion
+common,collect,com.google.common.collect.testing.IteratorFeature.MODIFIABLE,Test,Unit Testing
+common,testing,com.google.common.testing.EqualsTester,Test,Unit Testing
+common,collect,com.google.common.collect.Lists.transform,Data Structure,Data Manipulation
+common,base,com.google.common.base.Equivalence.Wrapper,Utility,Data Conversion
+common,testing,com.google.common.testing.EquivalenceTester,Test,Unit Testing
+util,concurrent,java.util.concurrent.Executors.newScheduledThreadPool,Multi-Thread,Parallel Processing
+lang,Integer,java.lang.Integer.parseInt,Utility,Data Conversion
+junit,runner,org.junit.runner.RunWith,Test,Unit Testing
+junit,runners,org.junit.runners.JUnit4,Test,Unit Testing
+common,base,com.google.common.base.internal.Finalizer,Utility,System Tools
+lang,ref,java.lang.ref.Cleaner,Utility,System Tools
+lang,ref,java.lang.ref.Cleaner.Cleanable,Utility,System Tools
+net,net,java.net.ServerSocket,Network,Connection Management
+mockito,Answers,org.mockito.Answers.CALLS_REAL_METHODS,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.doReturn,Test,Unit Testing
+junit,junit,org.junit.After,Test,Unit Testing
+common,base,com.google.common.base.Predicates.alwaysTrue,Utility,Automation Scripts
+common,base,com.google.common.base.Predicates.equalTo,Utility,Data Conversion
+common,collect,com.google.common.collect.Maps.asMapEntryIterator,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Maps.safeContainsKey,Data Structure,Data Manipulation
+common,testing,com.google.common.testing.ClassSanityTester,Test,Unit Testing
+common,util,com.google.common.util.concurrent.Futures.addCallback,Multi-Thread,Concurrency Control
+common,collect,com.google.common.collect.Sets.ImprovedAbstractSet,Data Structure,Linear Structures
+common,util,com.google.common.util.concurrent.TestExceptions.SomeError,Test,Unit Testing
+common,collect,com.google.common.collect.Lists.newArrayList,Data Structure,Linear Structures
+common,collect,com.google.common.collect.ForwardingList,Data Structure,Linear Structures
+common,collect,com.google.common.collect.SneakyThrows.sneakyThrow,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.ClassPathUtil.parseJavaClassPath,Utility,System Tools
+common,util,com.google.common.util.concurrent.Futures.getChecked,Multi-Thread,Concurrency Control
+common,annotations,com.google.common.annotations.Beta,Utility,System Tools
+common,math,com.google.common.math.LongMath,Utility,Performance Tools
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.CHECKED_EXCEPTION,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.ERROR,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.ERROR_FUTURE,Error Handling,Exception Handling
+util,util,java.util.PrimitiveIterator,Data Structure,Data Manipulation
+util,Spliterators,java.util.Spliterators.AbstractSpliterator,Data Structure,Data Manipulation
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.FAILED_FUTURE_CHECKED_EXCEPTION,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.FAILED_FUTURE_ERROR,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.FAILED_FUTURE_OTHER_THROWABLE,Error Handling,Exception Handling
+util,stream,java.util.stream.BaseStream,Utility,Performance Tools
+util,stream,java.util.stream.DoubleStream,Utility,Performance Tools
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.FAILED_FUTURE_UNCHECKED_EXCEPTION,Error Handling,Exception Handling
+util,stream,java.util.stream.LongStream,Utility,Performance Tools
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.OTHER_THROWABLE,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.RUNTIME_EXCEPTION,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.RUNTIME_EXCEPTION_FUTURE,Error Handling,Exception Handling
+common,testing,com.google.common.testing.SerializableTester.reserialize,Test,Unit Testing
+common,collect,com.google.common.collect.Maps.transformValues,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.UNCHECKED_EXCEPTION,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.ExceptionWithBadConstructor,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.ExceptionWithGoodAndBadConstructor,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.ExceptionWithManyConstructors,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.ExceptionWithManyConstructorsButOnlyOneThrowable,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.ExceptionWithPrivateConstructor,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.ExceptionWithSomePrivateConstructors,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.ExceptionWithWrongTypesConstructor,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.ExceptionWithoutThrowableConstructor,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.TwoArgConstructorException,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.FuturesGetCheckedInputs.TwoArgConstructorRuntimeException,Error Handling,Exception Handling
+common,testing,com.google.common.testing.AbstractPackageSanityTests,Test,Unit Testing
+common,testing,com.google.common.testing.ArbitraryInstances,Test,Unit Testing
+common,util,com.google.common.util.concurrent.Futures.getUnchecked,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.Tables.AbstractCell,Data Structure,Data Manipulation
+util,Collections,java.util.Collections.unmodifiableMap,Utility,System Tools
+util,Collections,java.util.Collections.unmodifiableSortedMap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Table.Cell,Data Structure,Data Manipulation
+common,base,com.google.common.base.TestExceptions.SomeError,Test,Unit Testing
+common,base,com.google.common.base.TestExceptions.SomeOtherCheckedException,Test,Unit Testing
+common,collect,com.google.common.collect.Iterables.transform,Utility,Data Conversion
+common,collect,com.google.common.collect.Iterators.mergeSorted,Data Structure,Data Sorting
+common,base,com.google.common.base.Functions.identity,Utility,Data Conversion
+common,collect,com.google.common.collect.ImmutableList.toImmutableList,Data Structure,Data Manipulation
+common,base,com.google.common.base.Splitter.MapSplitter,Utility,Data Conversion
+common,util,com.google.common.util.concurrent.Futures.catching,Error Handling,Exception Handling
+common,util,com.google.common.util.concurrent.Futures.catchingAsync,Error Handling,Exception Handling
+common,base,com.google.common.base.StandardSystemProperty.JAVA_COMPILER,Utility,System Tools
+common,base,com.google.common.base.StandardSystemProperty.JAVA_EXT_DIRS,Utility,System Tools
+common,util,com.google.common.util.concurrent.Futures.inCompletionOrder,Multi-Thread,Parallel Processing
+common,util,com.google.common.util.concurrent.Futures.lazyTransform,Multi-Thread,Parallel Processing
+common,util,com.google.common.util.concurrent.Futures.scheduleAsync,Multi-Thread,Parallel Processing
+common,util,com.google.common.util.concurrent.Futures.submit,Multi-Thread,Parallel Processing
+common,util,com.google.common.util.concurrent.Futures.submitAsync,Multi-Thread,Parallel Processing
+common,util,com.google.common.util.concurrent.Futures.successfulAsList,Multi-Thread,Parallel Processing
+common,util,com.google.common.util.concurrent.Futures.transformAsync,Multi-Thread,Parallel Processing
+common,util,com.google.common.util.concurrent.Futures.whenAllComplete,Multi-Thread,Parallel Processing
+common,testing,com.google.common.testing.FakeTicker,Test,Unit Testing
+common,util,com.google.common.util.concurrent.Futures.whenAllSucceed,Multi-Thread,Parallel Processing
+common,util,com.google.common.util.concurrent.TestPlatform.clearInterrupt,Test,Unit Testing
+common,util,com.google.common.util.concurrent.testing.TestingExecutors.noOpScheduledExecutor,Test,Unit Testing
+util,concurrent,java.util.concurrent.Executors.newSingleThreadScheduledExecutor,Multi-Thread,Parallel Processing
+io,io,java.io.NotSerializableException,Input-Output,Data Writing
+common,util,com.google.common.util.concurrent.TestExceptions.SomeUncheckedException,Test,Unit Testing
+common,base,com.google.common.base.StandardSystemProperty.JAVA_SPECIFICATION_VERSION,Utility,System Tools
+common,base,com.google.common.base.Throwables.getCausalChain,Error Handling,Exception Handling
+common,base,com.google.common.base.Throwables.getCauseAs,Error Handling,Exception Handling
+common,base,com.google.common.base.Throwables.getRootCause,Error Handling,Exception Handling
+common,base,com.google.common.base.Throwables.getStackTraceAsString,Error Handling,Exception Handling
+common,base,com.google.common.base.Throwables.lazyStackTraceIsLazy,Error Handling,Exception Handling
+common,base,com.google.common.base.Throwables.propagate,Error Handling,Exception Handling
+common,base,com.google.common.base.Throwables.propagateIfInstanceOf,Error Handling,Exception Handling
+common,base,com.google.common.base.Throwables.propagateIfPossible,Error Handling,Exception Handling
+util,regex,java.util.regex.Pattern.quote,Utility,Data Conversion
+common,base,com.google.common.base.TestExceptions.SomeChainingException,Test,Unit Testing
+common,base,com.google.common.base.TestExceptions.YetAnotherCheckedException,Test,Unit Testing
+common,collect,com.google.common.collect.Multisets.UnmodifiableMultiset,Data Structure,Data Manipulation
+lang,Character,java.lang.Character.MAX_CODE_POINT,Internationalization,Language Support
+lang,Character,java.lang.Character.MAX_HIGH_SURROGATE,Internationalization,Language Support
+lang,Character,java.lang.Character.MAX_LOW_SURROGATE,Internationalization,Language Support
+lang,Character,java.lang.Character.MIN_HIGH_SURROGATE,Internationalization,Language Support
+lang,Character,java.lang.Character.MIN_LOW_SURROGATE,Internationalization,Language Support
+lang,Character,java.lang.Character.MIN_SUPPLEMENTARY_CODE_POINT,Internationalization,Language Support
+util,Collections,java.util.Collections.max,Utility,Performance Tools
+common,base,com.google.common.base.Verify.verify,Error Handling,Exception Handling
+common,base,com.google.common.base.Verify.verifyNotNull,Error Handling,Error Prevention
+common,cache,com.google.common.cache.CacheBuilderSpec.parse,Utility,Performance Tools
+common,cache,com.google.common.cache.TestingWeighers.constantWeigher,Test,Unit Testing
+common,cache,com.google.common.cache.CacheBuilder,Data Structure,Data Manipulation
+common,cache,com.google.common.cache.CacheLoader,Data Structure,Data Manipulation
+common,cache,com.google.common.cache.LoadingCache,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.HashMultimap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Iterators,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Lists,Data Structure,Linear Structures
+common,cache,com.google.common.cache.ReflectionFreeAssertThrows.assertThrows,Test,Unit Testing
+common,collect,com.google.common.collect.Multimap,Data Structure,Data Manipulation
+common,cache,com.google.common.cache.TestingCacheLoaders.constantLoader,Test,Unit Testing
+common,reflect,com.google.common.reflect.TypeToken,Utility,Data Conversion
+common,cache,com.google.common.cache.TestingCacheLoaders.identityLoader,Test,Unit Testing
+common,cache,com.google.common.cache.TestingRemovalListeners.countingRemovalListener,Test,Unit Testing
+common,cache,com.google.common.cache.TestingRemovalListeners.nullRemovalListener,Test,Unit Testing
+common,cache,com.google.common.cache.TestingRemovalListeners.queuingRemovalListener,Test,Unit Testing
+common,graph,com.google.common.graph.GraphConstants.ENDPOINTS_MISMATCH,Data Structure,Graph Structures
+common,graph,com.google.common.graph.GraphConstants.NODE_PAIR_REMOVED_FROM_GRAPH,Data Structure,Graph Structures
+common,graph,com.google.common.graph.GraphConstants.NODE_REMOVED_FROM_GRAPH,Data Structure,Graph Structures
+common,collect,com.google.common.collect.Sets,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.UnmodifiableIterator,Data Structure,Data Manipulation
+common,graph,com.google.common.graph.Graphs.checkNonNegative,Data Structure,Graph Structures
+common,graph,com.google.common.graph.Graphs.checkPositive,Data Structure,Graph Structures
+common,collect,com.google.common.collect.Iterables,Data Structure,Data Manipulation
+common,graph,com.google.common.graph.GraphConstants.EDGE_REMOVED_FROM_GRAPH,Data Structure,Graph Structures
+common,graph,com.google.common.graph.GraphConstants.MULTIPLE_EDGES_CONNECTING,Data Structure,Graph Structures
+common,graph,com.google.common.graph.GraphConstants.INNER_CAPACITY,Data Structure,Graph Structures
+common,graph,com.google.common.graph.GraphConstants.INNER_LOAD_FACTOR,Data Structure,Graph Structures
+common,collect,com.google.common.collect.AbstractIterator,Data Structure,Data Manipulation
+util,concurrent,java.util.concurrent.atomic.AtomicBoolean,Multi-Thread,Thread Safety
+common,collect,com.google.common.collect.HashMultiset,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Multiset,Data Structure,Data Manipulation
+common,graph,com.google.common.graph.GraphConstants.EXPECTED_DEGREE,Data Structure,Graph Structures
+common,collect,com.google.common.collect.BiMap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.HashBiMap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.ImmutableBiMap,Data Structure,Data Manipulation
+common,base,com.google.common.base.MoreObjects.ToStringHelper,Utility,System Tools
+common,collect,com.google.common.collect.Ordering,Data Structure,Data Sorting
+common,graph,com.google.common.graph.GraphConstants.NOT_AVAILABLE_ON_UNDIRECTED,Data Structure,Graph Structures
+common,graph,com.google.common.graph.GraphConstants.NODE_NOT_IN_GRAPH,Data Structure,Graph Structures
+common,base,com.google.common.base.Functions,Utility,Data Conversion
+common,graph,com.google.common.graph.GraphConstants.Presence,Data Structure,Graph Structures
+common,collect,com.google.common.collect.ForwardingSet,Data Structure,Linear Structures
+common,graph,com.google.common.graph.GraphConstants.PARALLEL_EDGES_NOT_ALLOWED,Data Structure,Graph Structures
+common,graph,com.google.common.graph.GraphConstants.REUSING_EDGE,Data Structure,Graph Structures
+common,graph,com.google.common.graph.GraphConstants.SELF_LOOPS_NOT_ALLOWED,Data Structure,Graph Structures
+common,graph,com.google.common.graph.GraphConstants.DEFAULT_EDGE_COUNT,Data Structure,Graph Structures
+common,graph,com.google.common.graph.GraphConstants.DEFAULT_NODE_COUNT,Data Structure,Graph Structures
+common,graph,com.google.common.graph.GraphConstants.EDGE_NOT_IN_GRAPH,Data Structure,Graph Structures
+common,primitives,com.google.common.primitives.Chars,Utility,Data Conversion
+common,primitives,com.google.common.primitives.Longs,Utility,Data Conversion
+common,primitives,com.google.common.primitives.Shorts,Utility,Data Conversion
+nio,nio,java.nio.ByteBuffer,Input-Output,Buffering Strategies
+nio,nio,java.nio.ByteOrder,Input-Output,Data Reading
+io,io,java.io.ByteArrayOutputStream,Input-Output,Data Writing
+lang,Byte,java.lang.Byte.toUnsignedInt,Utility,Data Conversion
+common,hash,com.google.common.hash.BloomFilterStrategies.LockFreeBitArray,Data Structure,Linear Structures
+common,math,com.google.common.math.DoubleMath,Utility,Performance Tools
+common,primitives,com.google.common.primitives.SignedBytes,Utility,Data Conversion
+common,primitives,com.google.common.primitives.UnsignedBytes,Utility,Data Conversion
+io,io,java.io.DataInputStream,Input-Output,Data Reading
+io,io,java.io.DataOutputStream,Input-Output,Data Writing
+io,io,java.io.InputStream,Input-Output,Data Reading
+io,io,java.io.OutputStream,Input-Output,Data Writing
+util,concurrent,java.util.concurrent.atomic.AtomicLongArray,Multi-Thread,Thread Safety
+common,hash,com.google.common.hash.SneakyThrows.sneakyThrow,Error Handling,Exception Handling
+lang,invoke,java.lang.invoke.MethodHandle,Language,Standard Libraries
+lang,invoke,java.lang.invoke.MethodHandles,Language,Standard Libraries
+common,hash,com.google.common.hash.LittleEndianByteArray.load32,Utility,Data Conversion
+common,hash,com.google.common.hash.LittleEndianByteArray.load64,Utility,Data Conversion
+lang,Long,java.lang.Long.rotateRight,Utility,System Tools
+common,hash,com.google.common.hash.LittleEndianByteArray.load64Safely,Utility,Data Conversion
+common,primitives,com.google.common.primitives.UnsignedInts,Utility,Data Conversion
+lang,invoke,java.lang.invoke.MethodType.methodType,Language,Standard Libraries
+security,security,java.security.Key,Security,Encryption
+util,zip,java.util.zip.Adler32,Utility,Performance Tools
+util,zip,java.util.zip.CRC32,Utility,Performance Tools
+javax,crypto,javax.crypto.spec.SecretKeySpec,Security,Encryption
+io,io,java.io.FilterInputStream,Input-Output,Data Reading
+io,io,java.io.FilterOutputStream,Input-Output,Data Writing
+lang,invoke,java.lang.invoke.MethodHandles.byteArrayViewVarHandle,Utility,Data Conversion
+nio,ByteOrder,java.nio.ByteOrder.LITTLE_ENDIAN,Input-Output,Data Reading
+lang,invoke,java.lang.invoke.VarHandle,Multi-Thread,Synchronization
+security,security,java.security.AccessController,Security,Authorization
+security,security,java.security.PrivilegedActionException,Security,Authorization
+security,security,java.security.PrivilegedExceptionAction,Security,Authorization
+misc,misc,sun.misc.Unsafe,Operating System,Memory Management
+security,security,java.security.InvalidKeyException,Security,Encryption
+security,security,java.security.NoSuchAlgorithmException,Security,Encryption
+javax,crypto,javax.crypto.Mac,Security,Data Integrity
+security,security,java.security.MessageDigest,Security,Data Integrity
+nio,charset,java.nio.charset.StandardCharsets.UTF_8,Internationalization,Language Support
+common,escape,com.google.common.escape.Escaper,Utility,Data Conversion
+common,escape,com.google.common.escape.Escapers,Utility,Data Conversion
+io,io,java.io.Flushable,Input-Output,Stream Management
+io,io,java.io.Writer,Input-Output,Data Writing
+common,math,com.google.common.math.IntMath.divide,Utility,Performance Tools
+common,math,com.google.common.math.IntMath.log2,Utility,Performance Tools
+math,RoundingMode,java.math.RoundingMode.CEILING,Utility,Data Conversion
+math,RoundingMode,java.math.RoundingMode.FLOOR,Utility,Data Conversion
+math,RoundingMode,java.math.RoundingMode.UNNECESSARY,Utility,Data Conversion
+io,io,java.io.Reader,Input-Output,Data Reading
+io,io,java.io.DataInput,Input-Output,Data Reading
+io,io,java.io.DataOutput,Input-Output,Data Writing
+io,io,java.io.BufferedOutputStream,Input-Output,Buffering Strategies
+io,io,java.io.OutputStreamWriter,Input-Output,Data Writing
+common,io,com.google.common.io.ByteStreams.skipUpTo,Input-Output,Stream Management
+common,hash,com.google.common.hash.Funnels,Utility,Data Conversion
+common,hash,com.google.common.hash.HashCode,Utility,Data Conversion
+common,hash,com.google.common.hash.HashFunction,Utility,Data Conversion
+common,hash,com.google.common.hash.Hasher,Utility,Data Conversion
+io,io,java.io.BufferedInputStream,Input-Output,Buffering Strategies
+io,io,java.io.ByteArrayInputStream,Input-Output,Data Reading
+io,io,java.io.InputStreamReader,Input-Output,Data Reading
+io,io,java.io.EOFException,Input-Output,Data Reading
+nio,channels,java.nio.channels.FileChannel,Input-Output,"Data Reading, Data Writing"
+nio,channels,java.nio.channels.ReadableByteChannel,Input-Output,Data Reading
+nio,channels,java.nio.channels.WritableByteChannel,Input-Output,Data Writing
+nio,nio,java.nio.CharBuffer,Input-Output,Buffering Strategies
+common,base,com.google.common.base.StandardSystemProperty.LINE_SEPARATOR,Utility,System Tools
+io,io,java.io.BufferedWriter,Input-Output,Data Writing
+common,collect,com.google.common.collect.Streams.stream,Utility,Data Conversion

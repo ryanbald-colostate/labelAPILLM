@@ -1,0 +1,1490 @@
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.ModuleReflectionUtil,Utility,Diagnostic Utilities
+common,truth,com.google.common.truth.Truth.assertWithMessage,Test,Unit Testing
+io,io,java.io.BufferedReader,Input-Output,Buffering Strategies
+io,io,java.io.ByteArrayInputStream,Input-Output,Data Reading
+io,io,java.io.ByteArrayOutputStream,Input-Output,Data Writing
+io,io,java.io.File,Input-Output,File Management
+io,io,java.io.IOException,Input-Output,Network IO
+io,io,java.io.InputStreamReader,Input-Output,Data Reading
+io,io,java.io.LineNumberReader,Input-Output,Data Reading
+nio,charset,java.nio.charset.StandardCharsets,Internationalization,Language Support
+nio,file,java.nio.file.Files,Input-Output,"Data Reading, Data Writing, File Management"
+nio,file,java.nio.file.Path,Input-Output,File Management
+text,text,java.text.MessageFormat,Internationalization,Localization
+util,util,java.util.ArrayList,Data Structure,Linear Structures
+util,util,java.util.Collections,Utility,Performance Tools
+util,util,java.util.HashMap,Data Structure,Data Manipulation
+util,util,java.util.List,Data Structure,Linear Structures
+util,util,java.util.Locale,Internationalization,Language Support
+util,util,java.util.Map,Data Structure,Data Manipulation
+util,util,java.util.Properties,Utility,System Tools
+util,concurrent,java.util.concurrent.AbstractExecutorService,Multi-Thread,Parallel Processing
+common,annotations,com.google.common.annotations.GwtCompatible,Utility,System Tools
+util,regex,java.util.regex.Pattern,Utility,Data Conversion
+util,stream,java.util.stream.Collectors,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.AbstractPathTestSupport,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.Checker,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.DefaultConfiguration,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.TreeWalker,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.AbstractViolationReporter,Utility,Diagnostic Utilities
+javax,swing,javax.swing.WindowConstants.EXIT_ON_CLOSE,User Interface,Interaction Design
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.CheckstyleException,Error Handling,Exception Handling
+test,chapter2filebasic,com.google.checkstyle.test.chapter2filebasic.rule21filename.FileNameTest,Test,Unit Testing
+test,chapter3filestructure,com.google.checkstyle.test.chapter3filestructure.rule3sourcefile.SourceFileStructureTest,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.Configuration,Utility,Diagnostic Utilities
+common,reflect,com.google.common.reflect.ImmutableTypeToInstanceMap,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.bdd.InlineConfigParser,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.bdd.TestInputViolation,Test,Unit Testing
+awt,awt,java.awt.Dialog,User Interface,Interaction Design
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.utils.BriefUtLogger,Logging,Event Logging
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.CommonUtil,Utility,Diagnostic Utilities
+util,Collections,java.util.Collections.emptyList,Utility,Performance Tools
+io,io,java.io.Writer,Input-Output,Data Writing
+util,concurrent,java.util.concurrent.ThreadFactory,Multi-Thread,Thread Safety
+util,util,java.util.UUID,Utility,System Tools
+util,regex,java.util.regex.Matcher,Search,Query Processing
+javax,swing,javax.swing.WindowConstants.DO_NOTHING_ON_CLOSE,User Interface,Interaction Design
+base,base,org.checkstyle.base.AbstractCheckstyleModuleTestSupport,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.io.TempDir,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.JavaParser,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.DetailAST,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.FileText,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.filters.SuppressionXpathFilter,Utility,Automation Scripts
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.xpath.XpathQueryGenerator,Parser,Syntax Parsing
+junit,jupiter,org.junit.jupiter.api.Test,Test,Unit Testing
+javax,swing,javax.swing.WindowConstants.DISPOSE_ON_CLOSE,User Interface,Interaction Design
+test,chapter2filebasic,com.google.checkstyle.test.chapter2filebasic.rule21filename.InputFileName1,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck,Utility,Diagnostic Utilities
+common,reflect,com.google.common.reflect.TypeToken,Utility,Data Conversion
+util,util,java.util.Arrays,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.AnnotationUtil.containsAnnotation,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.AnnotationUtil.getAnnotation,Utility,Diagnostic Utilities
+net,net,java.net.CacheRequest,Network,Data Transmission
+lang,annotation,java.lang.annotation.ElementType.TYPE_USE,Language,Type Systems
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.AbstractClassNameCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationLocationCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationOnSameLineCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationUseStyleCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.AnonInnerLengthCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.ArrayTrailingCommaCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.ArrayTypeStyleCheck,Language,Type Systems
+awt,geom,java.awt.geom.Rectangle2D,Computer Graphics,Image Rendering
+base,base,org.checkstyle.base.AbstractItModuleTestSupport,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.ConfigurationLoader,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PropertiesExpander,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.AvoidDoubleBraceInitializationCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.AvoidEscapedUnicodeCharactersCheck.MSG_KEY,Internationalization,Localization
+lang,annotation,java.lang.annotation.ElementType.CONSTRUCTOR,Language,Standard Libraries
+lang,annotation,java.lang.annotation.ElementType.FIELD,Utility,System Tools
+javax,accessibility,javax.accessibility.Accessible,User Interface,Accessibility
+lang,annotation,java.lang.annotation.ElementType.METHOD,Language,Standard Libraries
+lang,annotation,java.lang.annotation.ElementType.PARAMETER,Language,Standard Libraries
+lang,annotation,java.lang.annotation.ElementType.TYPE,Language,Standard Libraries
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryNullCheckWithInstanceOfCheck.MSG_UNNECESSARY_NULLCHECK,Error Handling,Error Prevention
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.AvoidEscapedUnicodeCharactersCheck,Language,Syntax Features
+lang,annotation,java.lang.annotation.ElementType.TYPE_PARAMETER,Language,Type Systems
+time,time,java.time.Clock,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck.MSG_ASSIGN,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck.MSG_EXPR,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck.MSG_IDENT,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck.MSG_LAMBDA,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.AvoidInlineConditionalsCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck.MSG_LITERAL,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck.MSG_RETURN,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck.MSG_STRING,Language,Syntax Features
+awt,awt,java.awt.Button,User Interface,Interaction Design
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.AvoidNestedBlocksCheck,Language,Syntax Features
+awt,awt,java.awt.Frame,User Interface,Layout Design
+android,graphics,android.graphics.drawable.Icon.TYPE_ADAPTIVE_BITMAP,User Interface,Interaction Design
+android,graphics,android.graphics.drawable.Icon.TYPE_BITMAP,User Interface,Interaction Design
+android,graphics,android.graphics.drawable.Icon.TYPE_DATA,User Interface,Interaction Design
+android,graphics,android.graphics.drawable.Icon.TYPE_RESOURCE,User Interface,Interaction Design
+android,graphics,android.graphics.drawable.Icon.TYPE_URI,User Interface,Interaction Design
+androidx,annotation,androidx.annotation.RestrictTo.Scope.LIBRARY,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.AvoidNoArgumentSuperConstructorCallCheck,Utility,Diagnostic Utilities
+androidx,annotation,androidx.annotation.RestrictTo.Scope.LIBRARY_GROUP,Utility,Diagnostic Utilities
+android,app,android.app.ActivityManager,Application Performance Manager,Resource Allocation
+android,content,android.content.ContentResolver,Application,App Configuration
+android,content,android.content.Context,Application,App Configuration
+android,content,android.content.Intent,Application,Integration
+android,content,android.content.pm.ApplicationInfo,Application,App Configuration
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck,Language,Syntax Features
+android,graphics,android.graphics.Shader,Computer Graphics,Texture Mapping
+android,graphics,android.graphics.drawable.BitmapDrawable,User Interface,Layout Design
+android,os,android.os.Parcelable,Application,Integration
+android,text,android.text.TextUtils,Utility,Data Conversion
+android,util,android.util.Log,Logging,Event Logging
+androidx,annotation,androidx.annotation.ColorInt,User Interface,Layout Design
+androidx,annotation,androidx.annotation.DrawableRes,User Interface,Layout Design
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.AvoidStaticImportCheck,Language,Syntax Features
+androidx,annotation,androidx.annotation.IdRes,User Interface,Layout Design
+androidx,annotation,androidx.annotation.IntDef,Utility,System Tools
+androidx,annotation,androidx.annotation.RestrictTo,Utility,System Tools
+androidx,annotation,androidx.annotation.VisibleForTesting,Test,Unit Testing
+androidx,core,androidx.core.content.ContextCompat,Utility,System Tools
+androidx,core,androidx.core.content.res.ResourcesCompat,User Interface,Accessibility
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck,Logic,Validation Checks
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.AbstractNameCheck.MSG_INVALID_PATTERN,Language,Syntax Features
+androidx,core,androidx.core.util.Preconditions,Utility,System Tools
+javax,swing,javax.swing.JComponent,User Interface,Layout Design
+commons,lang3,org.apache.commons.lang3.StringUtils,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.CatchParameterNameCheck,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.modifier.ClassMemberImpliedModifierCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck,Language,Type Systems
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.ConstructorsDeclarationGroupingCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.CovariantEqualsCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck,Language,Syntax Features
+io,io,java.io.Externalizable,Input-Output,Data Writing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessarySemicolonAfterOuterTypeDeclarationCheck.MSG_SEMI,Language,Syntax Features
+javax,xml,javax.xml.parsers.SAXParserFactory,Parser,Syntax Parsing
+net,net,java.net.InetAddress,Network,Connection Management
+net,net,java.net.UnknownHostException,Network,Connection Management
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.DefaultComesLastCheck,Language,Syntax Features
+xml,sax,org.xml.sax.XMLReader,Parser,Syntax Parsing
+xml,sax,org.xml.sax.helpers.DefaultHandler,Parser,Validation
+io,io,java.io.ObjectInput,Input-Output,Data Reading
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.DescendantTokenCheck,Language,Syntax Features
+util,util,java.util.Hashtable,Data Structure,Linear Structures
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessarySemicolonAfterTypeMemberDeclarationCheck.MSG_SEMI,Language,Syntax Features
+io,io,java.io.ObjectOutput,Input-Output,Data Writing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck,Utility,System Tools
+junit,framework,junit.framework.AssertionFailedError,Test,Unit Testing
+junit,framework,junit.framework.Test,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessarySemicolonInEnumerationCheck.MSG_SEMI,Language,Syntax Features
+tools,ant,org.apache.tools.ant.util.DOMElementWriter,Utility,Automation Scripts
+tools,ant,org.apache.tools.ant.util.DateUtils,Utility,Data Conversion
+tools,ant,org.apache.tools.ant.util.FileUtils,Utility,Automation Scripts
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.EmptyBlockCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessarySemicolonInTryWithResourcesCheck.MSG_SEMI,Language,Syntax Features
+w3c,dom,org.w3c.dom.Text,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.grammar.antlr4.LifecyclePhase.GENERATE_RESOURCES,Parser,Code Generation
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnusedCatchParameterShouldBeUnnamedCheck.MSG_UNUSED_CATCH_PARAMETER,Error Handling,Exception Handling
+lang,String,java.lang.String.format,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck,Error Handling,Exception Handling
+junit,platform,org.junit.platform.commons.logging.Logger,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyForInitializerPadCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.PadOption,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnusedLambdaParameterShouldBeUnnamedCheck.MSG_UNUSED_LAMBDA_PARAMETER,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyForIteratorPadCheck,Language,Syntax Features
+javax,xml,javax.xml.crypto.dsig.keyinfo.KeyValue,Security,Encryption
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.utils.TestUtil,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assumptions.assumeFalse,Test,Unit Testing
+awt,awt,java.awt.Component,User Interface,Layout Design
+awt,awt,java.awt.Container,User Interface,Layout Design
+awt,awt,java.awt.GraphicsEnvironment,User Interface,Layout Design
+junit,jupiter,org.junit.jupiter.api.BeforeEach,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck,Language,Syntax Features
+javax,crypto,javax.crypto.BadPaddingException,Security,Encryption
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.EqualsAvoidNullCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.EqualsHashCodeCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck.MSG_KEY,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.ExplicitInitializationCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.FallThroughCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.FinalClassCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.FinalLocalVariableCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.GenericWhitespaceCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck.MSG_KEY,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck,Utility,System Tools
+awt,awt,java.awt.List,User Interface,Interaction Design
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck,Error Handling,Exception Handling
+undefined,undefined,.redundantimport,Utility,Automation Scripts
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.illegaltype.InputIllegalTypeGregCal.SubCal,Language,Type Systems
+awt,awt,java.awt.Point,User Interface,Layout Design
+awt,awt,java.awt.Shape,Computer Graphics,Modeling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnusedLocalVariableCheck.MSG_UNUSED_NAMED_LOCAL_VARIABLE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.AbstractNameCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.IllegalIdentifierNameCheck,Language,Syntax Features
+util,Arrays,java.util.Arrays.asList,Utility,Data Conversion
+lang,reflect,java.lang.reflect.AnnotatedElement,Utility,System Tools
+common,collect,com.google.common.collect.ImmutableMap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Maps,Data Structure,Data Manipulation
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.LocalizedMessage.Utf8Control,Internationalization,Localization
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.IllegalImportCheck,Language,Syntax Features
+javax,net,javax.net.ssl.KeyManager,Security,Encryption
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.IllegalInstantiationCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.bdd.TestInputConfiguration,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.IllegalInstantiationCheck,Language,Syntax Features
+lang,reflect,java.lang.reflect.TypeVariable,Language,Type Systems
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.xpath.RootNode,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.VariableDeclarationUsageDistanceCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.VariableDeclarationUsageDistanceCheck.MSG_KEY_EXT,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.IllegalThrowsCheck,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.WhenShouldBeUsedCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.redundantimport.Example1,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.IllegalTokenCheck,Language,Syntax Features
+util,function,java.util.function.IntFunction,Utility,Data Conversion
+common,truth,com.google.common.truth.Truth.assertThat,Test,Unit Testing
+tools,javac,com.sun.tools.javac.Main,Language,Compiler/Interpreter Enhancements
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck.MSG_KEY,Utility,System Tools
+io,io,java.io.FileReader,Input-Output,Data Reading
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.IllegalTokenTextCheck,Language,Syntax Features
+util,Map,java.util.Map.copyOf,Data Structure,Data Manipulation
+util,Arrays,java.util.Arrays.copyOf,Utility,Data Conversion
+util,util,java.util.Stack,Data Structure,Linear Structures
+util,function,java.util.function.BiPredicate,Utility,Data Conversion
+w3c,dom,org.w3c.dom.Document,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.IllegalTypeCheck,Language,Type Systems
+w3c,dom,org.w3c.dom.NamedNodeMap,Data Structure,Tree Structures
+w3c,dom,org.w3c.dom.Node,Data Structure,Tree Structures
+lang,annotation,java.lang.annotation.RetentionPolicy.RUNTIME,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.utils.XmlUtil,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.utils.TestUtil.isUtilsClassHasPrivateConstructor,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.ImportControlCheck,Utility,System Tools
+io,io,java.io.FileOutputStream,Input-Output,Data Writing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.InnerAssignmentCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.InnerTypeLastCheck.MSG_KEY,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.InnerTypeLastCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.InterfaceIsTypeCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.modifier.InterfaceMemberImpliedModifierCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.InterfaceTypeParameterNameCheck.MSG_INVALID_PATTERN,Language,Type Systems
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.InterfaceTypeParameterNameCheck,Language,Type Systems
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.InvalidJavadocPositionCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocContentLocationCheck,Parser,Validation
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck.MSG_EXPECTED_TAG,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck.MSG_INVALID_INHERIT_DOC,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck,Language,Standard Libraries
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck.MSG_MISSING_TAG,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck.MSG_TAG_FORMAT,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.illegaltype.InputIllegalType.SomeStaticClass,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTagInfo,Language,Standard Libraries
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.FinalClassCheck.MSG_KEY,Utility,System Tools
+util,function,java.util.function.BiFunction,Utility,Data Conversion
+undefined,undefined,.unusedimports,Utility,System Tools
+util,jar,java.util.jar.JarInputStream,Input-Output,Data Reading
+util,jar,java.util.jar.Manifest,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.Checker.EXCEPTION_MSG,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.DefaultLogger.AUDIT_FINISHED_MESSAGE,Logging,Audit Trails
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.DefaultLogger.AUDIT_STARTED_MESSAGE,Logging,Audit Trails
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck.MSG_KEY_NO_NEWLINE_EOF,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck,Utility,Performance Tools
+io,io,java.io.BufferedWriter,Input-Output,Data Writing
+io,io,java.io.IOError,Input-Output,Data Reading
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.LambdaBodyLengthCheck,Utility,Automation Scripts
+time,time,java.time.OffsetDateTime,Utility,System Tools
+time,time,java.time.ZoneOffset,Utility,System Tools
+commons,beanutils,org.apache.commons.beanutils.locale.converters.ByteLocaleConverter,Internationalization,Localization
+commons,beanutils,org.apache.commons.beanutils.BasicDynaBean,Utility,Data Conversion
+lang,reflect,java.lang.reflect.Field,Utility,System Tools
+lang,reflect,java.lang.reflect.Method,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.LambdaParameterNameCheck,Language,Syntax Features
+lang,annotation,java.lang.annotation.Native,Language,Standard Libraries
+time,time,java.time.LocalDateTime,Utility,System Tools
+errorprone,annotations,com.google.errorprone.annotations.CheckReturnValue,Error Handling,Error Prevention
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.InterfaceIsTypeCheck.MSG_KEY,Language,Type Systems
+errorprone,annotations,com.google.errorprone.annotations.CanIgnoreReturnValue,Error Handling,Error Prevention
+errorprone,annotations,com.google.errorprone.annotations.CompatibleWith,Error Handling,Error Prevention
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyOption,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.LocalFinalVariableNameCheck.MSG_INVALID_PATTERN,Language,Syntax Features
+errorprone,annotations,com.google.errorprone.annotations.concurrent.LazyInit,Multi-Thread,Thread Safety
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.MutableExceptionCheck.MSG_KEY,Error Handling,Exception Handling
+time,time,java.time.Instant,Utility,System Tools
+errorprone,annotations,com.google.errorprone.annotations.DoNotCall,Error Handling,Error Prevention
+util,util,java.util.EnumSet,Data Structure,Data Manipulation
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.LocalFinalVariableNameCheck,Language,Syntax Features
+errorprone,annotations,com.google.errorprone.annotations.CompileTimeConstant,Error Handling,Error Prevention
+util,util,java.util.Vector,Data Structure,Linear Structures
+util,function,java.util.function.IntConsumer,Utility,Data Conversion
+errorprone,annotations,com.google.errorprone.annotations.FormatString,Error Handling,Error Prevention
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.classdataabstractioncoupling.ignore.Example7,Utility,Diagnostic Utilities
+io,io,java.io.PipedOutputStream,Input-Output,Data Writing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.classdataabstractioncoupling.ignore.Example8,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck,Utility,Diagnostic Utilities
+awt,event,java.awt.event.InputEvent,Event Handling,User Interactions
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.MatchXpathCheck,Utility,Automation Scripts
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.MethodCountCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck.MSG_KEY,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.MethodParamPadCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.MethodTypeParameterNameCheck.MSG_INVALID_PATTERN,Language,Type Systems
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.MethodTypeParameterNameCheck,Language,Type Systems
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.MissingCtorCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.TranslationCheck,Internationalization,Localization
+util,util,java.util.TimeZone,Internationalization,Date/Time Formatting
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocPackageCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.filefilters.BeforeExecutionExclusionFileFilter,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.filters.SuppressionFilter,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.testmodules.CheckWhichThrowsError,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.testmodules.DebugAuditAdapter,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.testmodules.DebugFilter,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.testmodules.TestBeforeExecutionFileFilter,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.testmodules.TestFileSetCheck,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.utils.CloseAndFlushTestByteArrayOutputStream,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.OneTopLevelClassCheck.MSG_KEY,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.classdataabstractioncoupling.ignore.Example9,Utility,Diagnostic Utilities
+de,thetaphi,de.thetaphi.forbiddenapis.SuppressForbidden,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.classdataabstractioncoupling.ignore.deeper.Example4,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.classdataabstractioncoupling.ignore.deeper.Example5,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.MissingNullCaseInSwitchCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.classdataabstractioncoupling.ignore.deeper.Example6,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.MissingOverrideCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.SealedShouldHavePermitsListCheck.MSG_KEY,Utility,System Tools
+lang,lang,java.lang.Long,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.ThrowsCountCheck.MSG_KEY,Error Handling,Exception Handling
+lang,lang,java.lang.Double,Utility,Data Conversion
+junit,jupiter,org.junit.jupiter.api.Assertions.assertThrows,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck,Language,Syntax Features
+mockito,Mockito,org.mockito.Mockito.mockConstruction,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.when,Test,Unit Testing
+lang,lang,java.lang.Object,Utility,System Tools
+lang,reflect,java.lang.reflect.Constructor,Utility,System Tools
+time,chrono,java.time.chrono.ChronoLocalDate,Utility,System Tools
+time,chrono,java.time.chrono.ChronoLocalDateTime,Utility,System Tools
+lang,lang,java.lang.Boolean,Utility,Data Conversion
+lang,lang,java.lang.Byte,Utility,Data Conversion
+lang,lang,java.lang.Short,Utility,Data Conversion
+lang,lang,java.lang.Number,Utility,Data Conversion
+lang,lang,java.lang.Runnable,Multi-Thread,Thread Safety
+lang,lang,java.lang.Thread,Multi-Thread,Synchronization
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.ModifiedControlVariableCheck,Language,Syntax Features
+mockito,mockito,org.mockito.MockedConstruction,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.RepeatedTest,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.ConfigurationLoader.IgnoredModulesOptions,Utility,Diagnostic Utilities
+util,List,java.util.List.of,Data Structure,Linear Structures
+util,Calendar,java.util.Calendar.MONTH,Utility,System Tools
+lang,lang,java.lang.Class,Language,Standard Libraries
+lang,lang,java.lang.Float,Utility,Data Conversion
+lang,lang,java.lang.Character,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.modifier.ModifierOrderCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.MultipleStringLiteralsCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.MultipleStringLiteralsCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.MutableExceptionCheck,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck.MSG_KEY_NEED_BRACES,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.NestedForDepthCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.NestedTryDepthCheck,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.NoArrayTrailingCommaCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.NoCloneCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.NoEnumTrailingCommaCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.NoFinalizerCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.NoLineWrapCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.NoWhitespaceAfterCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.NoWhitespaceBeforeCaseDefaultColonCheck,Language,Syntax Features
+util,util,java.util.TreeMap,Data Structure,Tree Structures
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck.MSG_MISMATCH,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck.MSG_MISSING,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.NoWhitespaceBeforeCheck,Language,Syntax Features
+lang,lang,java.lang.String,Utility,Data Conversion
+lang,lang,java.lang.Integer,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck,Utility,Performance Tools
+lang,annotation,java.lang.annotation.Annotation,Language,Standard Libraries
+junit,jupiter,org.junit.jupiter.api.AfterEach,Test,Unit Testing
+junit,Assert,org.junit.Assert.assertEquals,Test,Unit Testing
+lang,Math,java.lang.Math.abs,Utility,Data Conversion
+javax,swing,javax.swing.JCheckBox,User Interface,Interaction Design
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.OneTopLevelClassCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.header.MultiFileRegexpHeaderCheck.MSG_HEADER_MISMATCH,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.header.MultiFileRegexpHeaderCheck.MSG_HEADER_MISSING,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.CommonUtil.EMPTY_STRING_ARRAY,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck,Language,Syntax Features
+junit,jupiter,org.junit.jupiter.api.Assertions,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.unusedimports.InputUnusedImportsShadowed,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.unusedimports.InputUnusedImportsShadowed.Deprecated,Language,Syntax Features
+lang,reflect,java.lang.reflect.Proxy,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.OuterTypeFilenameCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.unusedimports.InputUnusedImportsShadowed.Foo,Language,Standard Libraries
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.unusedimports.InputUnusedImportsShadowed.Inner,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.unusedimports.InputUnusedImportsShadowed.Nested,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck.MSG_HEADER_MISMATCH,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck.MSG_HEADER_MISSING,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.unusedimports.InputUnusedImportsShadowed.Nested.List.Map.Entry,Language,Standard Libraries
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.JavadocDetailNodeParser.MSG_JAVADOC_MISSED_HTML_CLOSE,Parser,Validation
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.OuterTypeNumberCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.JavadocDetailNodeParser.MSG_JAVADOC_PARSE_RULE_ERROR,Parser,Validation
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.JavadocDetailNodeParser.MSG_JAVADOC_WRONG_SINGLETON_TAG,Parser,Validation
+util,concurrent,java.util.concurrent.ExecutorService,Multi-Thread,Parallel Processing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.OverloadMethodsDeclarationOrderCheck,Language,Syntax Features
+time,time,java.time.Duration,Utility,System Tools
+common,base,com.google.common.base.Preconditions,Error Handling,Error Prevention
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.PackageAnnotationCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.PackageDeclarationCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.ParameterAssignmentCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.ParameterAssignmentCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.AbstractParenPadCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.PatternVariableAssignmentCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.PatternVariableNameCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.RecordComponentNameCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.RecordComponentNumberCheck,Utility,Diagnostic Utilities
+lang,reflect,java.lang.reflect.Modifier,Utility,System Tools
+javax,swing,javax.swing.JMenuItem,User Interface,Interaction Design
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.RecordTypeParameterNameCheck,Language,Type Systems
+lang,annotation,java.lang.annotation.Documented,Language,Standard Libraries
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck.MSG_KEY,Language,Syntax Features
+time,time,java.time.LocalDate,Utility,System Tools
+time,time,java.time.LocalTime,Utility,System Tools
+time,time,java.time.Month,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.RedundantImportCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.AvoidStaticImportCheck.MSG_KEY,Language,Syntax Features
+common,base,com.google.common.base.Objects,Utility,System Tools
+lang,lang,java.lang.StringBuilder,Utility,Performance Tools
+javax,crypto,javax.crypto.Cipher,Security,Encryption
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.AnnotationUtil,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck,Language,Syntax Features
+undefined,undefined,.avoidstaticimport,Utility,Diagnostic Utilities
+io,io,java.io.FileNotFoundException,Input-Output,File Management
+net,net,java.net.ResponseCache,Network,Data Transmission
+commons,io,org.apache.commons.io.FileUtils,Input-Output,File Management
+itsallcode,io,org.itsallcode.io.Capturable,Utility,System Tools
+itsallcode,junit,org.itsallcode.junit.sysextensions.SystemErrGuard,Test,Unit Testing
+itsallcode,junit,org.itsallcode.junit.sysextensions.SystemErrGuard.SysErr,Test,Unit Testing
+itsallcode,junit,org.itsallcode.junit.sysextensions.SystemOutGuard,Test,Unit Testing
+itsallcode,junit,org.itsallcode.junit.sysextensions.SystemOutGuard.SysOut,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck.MSG_LEX,Language,Syntax Features
+junit,jupiter,org.junit.jupiter.api.extension.ExtendWith,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck.MSG_LINE_SEPARATOR,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck.MSG_NONGROUP_EXPECTED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck.MSG_NONGROUP_IMPORT,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocContentLocationCheck.MSG_JAVADOC_CONTENT_SECOND_LINE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck.MSG_ORDER,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck.MSG_SEPARATED_IN_GROUP,Language,Syntax Features
+util,concurrent,java.util.concurrent.atomic.AtomicReference,Multi-Thread,Thread Safety
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.RequireThisCheck,Language,Syntax Features
+util,util,java.util.PriorityQueue,Data Structure,Tree Structures
+javax,annotation,javax.annotation.CheckForNull,Error Handling,Error Prevention
+javax,annotation,javax.annotation.meta.TypeQualifierDefault,Utility,System Tools
+awt,awt,java.awt.AWTException,Error Handling,Exception Handling
+io,io,java.io.EOFException,Input-Output,Data Reading
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.ReturnCountCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyOption,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.SealedShouldHavePermitsListCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.SeparatorWrapCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanReturnCheck.MSG_KEY,Logic,Validation Checks
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanReturnCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.SingleSpaceSeparatorCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.StringLiteralEqualityCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.AbstractSuperCheck,Language,Compiler/Interpreter Enhancements
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.SuperCloneCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.SuperFinalizeCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.SuppressWarningsCheck.MSG_KEY_SUPPRESSED_WARNING_NOT_ALLOWED,Error Handling,Error Prevention
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.SuppressWarningsCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.ThrowsCountCheck,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck.MSG_KEY,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck,Utility,System Tools
+net,net,java.net.URLStreamHandler,Network,Protocol Implementation
+util,concurrent,java.util.concurrent.atomic.AtomicBoolean,Multi-Thread,Thread Safety
+sql,sql,java.sql.SQLException,Databases,Query Execution
+junitpioneer,jupiter,org.junitpioneer.jupiter.DefaultLocale,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.AbstractPathTestSupport.addEndOfLine,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck,Language,Syntax Features
+junit,jupiter,org.junit.jupiter.api.Assumptions.assumeTrue,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.mock,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.mockStatic,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.verify,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.IllegalImportCheck.MSG_KEY,Language,Syntax Features
+io,io,java.io.PrintStream,Input-Output,Data Writing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.TypecastParenPadCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.ImportControlCheck.MSG_DISALLOWED,Language,Syntax Features
+android,app,android.app.slice.SliceItem.FORMAT_TEXT,User Interface,Interaction Design
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.ImportControlCheck.MSG_MISSING_FILE,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.ImportControlCheck.MSG_UNKNOWN_PKG,Language,Syntax Features
+util,logging,java.util.logging.Handler,Logging,Error Logs
+nio,file,java.nio.file.FileAlreadyExistsException,Error Handling,Exception Handling
+common,annotations,com.google.common.annotations.VisibleForTesting,Test,Unit Testing
+junit,junit,org.junit.ClassRule,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck,Language,Syntax Features
+junit,rules,org.junit.rules.TemporaryFolder,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.AbstractJavadocCheck.MSG_KEY_UNCLOSED_HTML_TAG,Language,Syntax Features
+mockito,mockito,org.mockito.MockedStatic,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.UncommentedMainCheck,Utility,Diagnostic Utilities
+mockito,mockito,org.mockito.Mockito,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryNullCheckWithInstanceOfCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.testmodules.TestRootModuleChecker,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessarySemicolonAfterOuterTypeDeclarationCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessarySemicolonAfterTypeMemberDeclarationCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessarySemicolonInEnumerationCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnnecessarySemicolonInTryWithResourcesCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnusedCatchParameterShouldBeUnnamedCheck,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnusedLambdaParameterShouldBeUnnamedCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnusedLocalVariableCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.UpperEllCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.VariableDeclarationUsageDistanceCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck.MSG_KEY,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.WhenShouldBeUsedCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck,Language,Syntax Features
+lang,annotation,java.lang.annotation.ElementType,Language,Standard Libraries
+lang,annotation,java.lang.annotation.Target,Language,Standard Libraries
+lang,annotation,java.lang.annotation.Repeatable,Language,Standard Libraries
+xml,sax,org.xml.sax.helpers.AttributesImpl,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.utils.TestUtil.getExpectedThrowable,Test,Unit Testing
+util,concurrent,java.util.concurrent.atomic.AtomicIntegerFieldUpdater,Multi-Thread,Concurrency Control
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck.MSG_SEPARATED_IN_GROUP,Language,Syntax Features
+util,util,java.util.Comparator,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck.MSG_SEPARATION,Language,Syntax Features
+util,util,java.util.HashSet,Data Structure,Data Manipulation
+util,util,java.util.Scanner,Input-Output,Data Reading
+javax,accessibility,javax.accessibility.AccessibleAttributeSequence,User Interface,Accessibility
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PackageObjectFactory.AMBIGUOUS_MODULE_NAME_EXCEPTION_MESSAGE,Error Handling,Exception Handling
+util,function,java.util.function.Function,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PackageObjectFactory.BASE_PACKAGE,Utility,System Tools
+io,io,java.io.CharArrayWriter,Input-Output,Data Writing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PackageObjectFactory.CHECK_SUFFIX,Utility,Diagnostic Utilities
+io,io,java.io.StringWriter,Input-Output,Data Writing
+math,math,java.math.BigDecimal,Utility,Data Conversion
+math,math,java.math.BigInteger,Utility,Data Conversion
+math,math,java.math.MathContext,Utility,Performance Tools
+util,concurrent,java.util.concurrent.atomic.AtomicInteger,Multi-Thread,Thread Safety
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PackageObjectFactory.ModuleLoadOption.SEARCH_REGISTERED_PACKAGES,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PackageObjectFactory.ModuleLoadOption.TRY_IN_ALL_REGISTERED_PACKAGES,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PackageObjectFactory.NULL_LOADER_MESSAGE,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PackageObjectFactory.NULL_PACKAGE_MESSAGE,Error Handling,User Notification
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PackageObjectFactory.PACKAGE_SEPARATOR,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PackageObjectFactory.STRING_SEPARATOR,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PackageObjectFactory.UNABLE_TO_INSTANTIATE_EXCEPTION_MESSAGE,Error Handling,Exception Handling
+math,BigInteger,java.math.BigInteger.ZERO,Utility,Data Conversion
+common,collect,com.google.common.collect.ImmutableSet,Data Structure,Data Manipulation
+util,util,java.util.Date,Utility,System Tools
+util,util,java.util.Timer,Utility,Automation Scripts
+util,Arrays,java.util.Arrays.sort,Utility,Performance Tools
+io,io,java.io.FileInputStream,Input-Output,Data Reading
+lang,Math,java.lang.Math.PI,Utility,Performance Tools
+io,io,java.io.Console,Input-Output,Data Reading
+util,function,java.util.function.Consumer,Utility,Data Conversion
+io,io,java.io.Serializable,Input-Output,Data Writing
+util,util,java.util.Set,Data Structure,Tree Structures
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.needbraces.InputNeedBracesSingleLineStatements,Language,Syntax Features
+util,util,java.util.LinkedHashMap,Data Structure,Linear Structures
+junit,platform,org.junit.platform.engine.support.hierarchical.Node,Test,Unit Testing
+io,io,java.io.PipedReader,Input-Output,Data Reading
+io,io,java.io.Reader,Input-Output,Data Reading
+util,function,java.util.function.Predicate,Utility,Data Conversion
+javax,annotation,javax.annotation.Generated,Utility,System Tools
+beans,beans,java.beans.PropertyDescriptor,Utility,Data Conversion
+lang,reflect,java.lang.reflect.InvocationTargetException,Error Handling,Exception Handling
+net,net,java.net.URI,Network,Protocol Implementation
+util,util,java.util.Collection,Data Structure,Data Manipulation
+util,util,java.util.StringTokenizer,Utility,Data Conversion
+javax,annotation,javax.annotation.Nullable,Utility,Diagnostic Utilities
+commons,beanutils,org.apache.commons.beanutils.BeanUtilsBean,Utility,Data Conversion
+commons,beanutils,org.apache.commons.beanutils.ConversionException,Error Handling,Exception Handling
+commons,beanutils,org.apache.commons.beanutils.ConvertUtilsBean,Utility,Data Conversion
+commons,beanutils,org.apache.commons.beanutils.Converter,Utility,Data Conversion
+commons,beanutils,org.apache.commons.beanutils.PropertyUtils,Utility,Data Conversion
+commons,beanutils,org.apache.commons.beanutils.PropertyUtilsBean,Utility,Data Conversion
+commons,beanutils,org.apache.commons.beanutils.converters.ArrayConverter,Utility,Data Conversion
+commons,beanutils,org.apache.commons.beanutils.converters.BooleanConverter,Utility,Data Conversion
+commons,beanutils,org.apache.commons.beanutils.converters.ByteConverter,Utility,Data Conversion
+commons,beanutils,org.apache.commons.beanutils.converters.CharacterConverter,Utility,Data Conversion
+commons,beanutils,org.apache.commons.beanutils.converters.DoubleConverter,Utility,Data Conversion
+commons,beanutils,org.apache.commons.beanutils.converters.FloatConverter,Utility,Data Conversion
+commons,beanutils,org.apache.commons.beanutils.converters.IntegerConverter,Utility,Data Conversion
+commons,beanutils,org.apache.commons.beanutils.converters.LongConverter,Utility,Data Conversion
+commons,beanutils,org.apache.commons.beanutils.converters.ShortConverter,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.Configurable,Utility,System Tools
+junit,junit,org.junit.AfterClass,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.Context,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.Contextualizable,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.Scope,Parser,Validation
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.SeverityLevel,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.AccessModifierOption,Language,Syntax Features
+junit,junit,org.junit.BeforeClass,Test,Unit Testing
+io,io,java.io.FileWriter,Input-Output,Data Writing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.RedundantImportCheck.MSG_DUPLICATE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.RedundantImportCheck.MSG_LANG,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.DetailNode,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.RedundantImportCheck.MSG_SAME,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.TokenTypes,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.JavadocUtil,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.TokenUtil,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.utils.CheckUtil,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.AuditEvent,Event Handling,Event Logging
+io,io,java.io.PrintWriter,Input-Output,Data Writing
+io,io,java.io.UnsupportedEncodingException,Input-Output,Data Reading
+nio,charset,java.nio.charset.Charset,Internationalization,Language Support
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.any,Test,Unit Testing
+undefined,undefined,.redundantimport.,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck.MSG_KEY,Language,Syntax Features
+util,util,java.util.SortedSet,Data Structure,Tree Structures
+util,util,java.util.TreeSet,Data Structure,Tree Structures
+util,stream,java.util.stream.Stream,Utility,Data Conversion
+commons,logging,org.apache.commons.logging.Log,Logging,Event Logging
+commons,logging,org.apache.commons.logging.LogFactory,Logging,Event Logging
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.AuditListener,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.BeforeExecutionFileFilter,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.BeforeExecutionFileFilterSet,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.ExternalResourceHolder,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.FileSetCheck,Language,Compiler/Interpreter Enhancements
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.Filter,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.FilterSet,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.MessageDispatcher,Error Handling,Error Logging
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.RootModule,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.SeverityLevelCounter,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.Violation,Utility,Diagnostic Utilities
+io,io,java.io.OutputStream,Input-Output,Data Writing
+io,io,java.io.OutputStreamWriter,Input-Output,Data Writing
+antlr,v4,org.antlr.v4.runtime.BailErrorStrategy,Parser,Error Recovery
+antlr,v4,org.antlr.v4.runtime.InputMismatchException,Parser,Error Recovery
+antlr,v4,org.antlr.v4.runtime.Parser,Parser,Syntax Parsing
+antlr,v4,org.antlr.v4.runtime.Token,Parser,Syntax Parsing
+util,util,java.util.ArrayDeque,Data Structure,Linear Structures
+util,util,java.util.Deque,Data Structure,Linear Structures
+util,util,java.util.Iterator,Data Structure,Linear Structures
+util,util,java.util.Optional,Utility,Data Conversion
+javax,xml,javax.xml.parsers.ParserConfigurationException,Parser,Error Recovery
+xml,sax,org.xml.sax.Attributes,Parser,Syntax Parsing
+xml,sax,org.xml.sax.InputSource,Parser,Syntax Parsing
+xml,sax,org.xml.sax.SAXException,Error Handling,Exception Handling
+xml,sax,org.xml.sax.SAXParseException,Parser,Error Recovery
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.AutomaticBean,Utility,Automation Scripts
+util,util,java.util.BitSet,Data Structure,Linear Structures
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.UnmodifiableCollectionUtil,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.JavadocDetailNodeParser.ParseErrorMessage,Parser,Error Recovery
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.JavadocDetailNodeParser.ParseStatus,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.JavadocTokenTypes,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck.MSG_KEY_BLOCK,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.ParserUtil,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck.MSG_KEY_SINGLE,Language,Syntax Features
+lang,annotation,java.lang.annotation.Inherited,Language,Standard Libraries
+lang,annotation,java.lang.annotation.Retention,Language,Standard Libraries
+lang,annotation,java.lang.annotation.RetentionPolicy,Language,Standard Libraries
+junit,jupiter,org.junit.jupiter.api.condition.DisabledOnOs,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.condition.OS,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.ParameterizedTest,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.params.provider.ValueSource,Test,Unit Testing
+common,io,com.google.common.io.BaseEncoding,Input-Output,Data Reading
+common,io,com.google.common.io.ByteStreams,Input-Output,Data Reading
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck.MSG_CHILD_ERROR,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck.MSG_CHILD_ERROR_MULTI,Language,Syntax Features
+util,util,java.util.Queue,Data Structure,Linear Structures
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck.MSG_ERROR,Language,Syntax Features
+antlr,v4,org.antlr.v4.runtime.BufferedTokenStream,Parser,Syntax Parsing
+antlr,v4,org.antlr.v4.runtime.CommonTokenStream,Parser,Syntax Parsing
+antlr,v4,org.antlr.v4.runtime.ParserRuleContext,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck.MSG_ERROR_MULTI,Language,Syntax Features
+antlr,v4,org.antlr.v4.runtime.tree.ParseTree,Parser,Syntax Parsing
+antlr,v4,org.antlr.v4.runtime.tree.TerminalNode,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.grammar.java.JavaLanguageLexer,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.grammar.java.JavaLanguageParser,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.grammar.java.JavaLanguageParserBaseVisitor,Parser,Syntax Parsing
+antlr,v4,org.antlr.v4.runtime.BaseErrorListener,Parser,Error Recovery
+antlr,v4,org.antlr.v4.runtime.CharStreams,Parser,Syntax Parsing
+antlr,v4,org.antlr.v4.runtime.CommonToken,Parser,Syntax Parsing
+antlr,v4,org.antlr.v4.runtime.FailedPredicateException,Parser,Error Recovery
+antlr,v4,org.antlr.v4.runtime.NoViableAltException,Parser,Error Recovery
+antlr,v4,org.antlr.v4.runtime.RecognitionException,Parser,Error Recovery
+antlr,v4,org.antlr.v4.runtime.Recognizer,Parser,Syntax Parsing
+undefined,undefined,.avoidstarimport,Utility,Automation Scripts
+antlr,v4,org.antlr.v4.runtime.atn.PredictionMode,Language,Compiler/Interpreter Enhancements
+antlr,v4,org.antlr.v4.runtime.misc.Interval,Parser,Syntax Parsing
+antlr,v4,org.antlr.v4.runtime.misc.ParseCancellationException,Parser,Error Recovery
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocNodeImpl,Language,Standard Libraries
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.grammar.javadoc.JavadocLexer,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.grammar.javadoc.JavadocParser,Parser,Syntax Parsing
+lang,lang,java.lang.AbstractMethodError,Error Handling,Exception Handling
+picocli,picocli,picocli.CommandLine,Parser,Syntax Parsing
+picocli,CommandLine,picocli.CommandLine.Command,Utility,System Tools
+picocli,CommandLine,picocli.CommandLine.Option,Utility,System Tools
+picocli,CommandLine,picocli.CommandLine.ParameterException,Error Handling,Exception Handling
+picocli,CommandLine,picocli.CommandLine.Parameters,Parser,Syntax Parsing
+picocli,CommandLine,picocli.CommandLine.ParseResult,Parser,Syntax Parsing
+util,util,java.util.ListIterator,Data Structure,Linear Structures
+antlr,v4,org.antlr.v4.runtime.CharStream,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.FileContents,Parser,Syntax Parsing
+net,net,java.net.URL,Network,Protocol Implementation
+net,net,java.net.URLConnection,Network,Data Transmission
+util,util,java.util.MissingResourceException,Error Handling,Exception Handling
+util,util,java.util.PropertyResourceBundle,Internationalization,Localization
+util,util,java.util.ResourceBundle,Internationalization,Localization
+util,ResourceBundle,java.util.ResourceBundle.Control,Internationalization,Localization
+io,io,java.io.InputStream,Input-Output,Data Reading
+util,util,java.util.LinkedList,Data Structure,Linear Structures
+util,util,java.util.Objects,Utility,System Tools
+util,logging,java.util.logging.ConsoleHandler,Logging,Event Logging
+util,logging,java.util.logging.Filter,Logging,Event Logging
+util,logging,java.util.logging.Level,Logging,Error Logs
+util,logging,java.util.logging.LogRecord,Logging,Event Logging
+util,logging,java.util.logging.Logger,Logging,Event Logging
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.AbstractAutomaticBean.OutputStreamOptions,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.ChainedPropertyUtil,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.XpathUtil,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.JavadocDetailNodeParser.MSG_UNCLOSED_HTML_TAG,Parser,Validation
+mockito,Mockito,org.mockito.Mockito.CALLS_REAL_METHODS,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.doThrow,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.AbstractJavadocCheck.MSG_JAVADOC_MISSED_HTML_CLOSE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.AbstractJavadocCheck.MSG_JAVADOC_WRONG_SINGLETON_TAG,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck.MSG_SUMMARY_FIRST_SENTENCE,Language,Syntax Features
+nio,file,java.nio.file.StandardCopyOption,Input-Output,File Management
+io,io,java.io.BufferedInputStream,Input-Output,Buffering Strategies
+util,util,java.util.Enumeration,Utility,System Tools
+util,util,java.util.LinkedHashSet,Data Structure,Linear Structures
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.AtclauseOrderCheck.MSG_KEY,Language,Syntax Features
+mockito,internal,org.mockito.internal.util.Checks,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.InvalidJavadocPositionCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.NoCodeInFileCheck,Utility,Automation Scripts
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocBlockTagLocationCheck.MSG_BLOCK_TAG_LOCATION,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck,Language,Standard Libraries
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocParagraphCheck,Language,Standard Libraries
+util,Map,java.util.Map.Entry,Data Structure,Data Manipulation
+util,function,java.util.function.Supplier,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocContentLocationCheck.MSG_JAVADOC_CONTENT_FIRST_LINE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.filters.SuppressWithNearbyCommentFilter,Utility,Diagnostic Utilities
+math,BigInteger,java.math.BigInteger.ONE,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocLeadingAsteriskAlignCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck.MSG_DUPLICATE_TAG,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.header.AbstractHeaderCheck,Language,Syntax Features
+io,io,java.io.ObjectOutputStream,Input-Output,Data Writing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck.MSG_UNUSED_TAG_GENERAL,Utility,Diagnostic Utilities
+security,security,java.security.MessageDigest,Security,Data Integrity
+security,security,java.security.NoSuchAlgorithmException,Security,Encryption
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.OsSpecificUtil,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.AbstractCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.AbstractFileSetCheck,Utility,Diagnostic Utilities
+spotify,x,com.spotify.x.R,Application,Integration
+javax,inject,javax.inject.Inject,Microservices/Services,Service Communication
+android,support,android.support.test.espresso.action.ViewActions.click,Test,Unit Testing
+android,support,android.support.test.espresso.matcher.ViewMatchers.isDisplayed,Test,Unit Testing
+android,support,android.support.test.espresso.matcher.ViewMatchers.withContentDescription,Test,Unit Testing
+android,support,android.support.test.espresso.matcher.ViewMatchers.withText,Test,Unit Testing
+spotify,X,com.spotify.X.o,Application,Integration
+hamcrest,core,org.hamcrest.core.AllOf.allOf,Test,Unit Testing
+android,os,android.os.SystemClock,Operating System,Process Management
+android,support,android.support.test.InstrumentationRegistry,Test,Integration Testing
+android,support,android.support.test.runner.AndroidJUnit4,Test,Unit Testing
+android,test,android.test.suitebuilder.annotation.LargeTest,Test,Integration Testing
+junit,junit,org.junit.Before,Test,Unit Testing
+junit,junit,org.junit.Rule,Test,Unit Testing
+junit,junit,org.junit.Test,Test,Unit Testing
+junit,runner,org.junit.runner.RunWith,Test,Unit Testing
+twitter,android,com.twitter.android.utils.EspressoHelpers.goBack,Test,Unit Testing
+twitter,android,com.twitter.android.utils.EspressoHelpers.swipeAwayAndWait,Test,Unit Testing
+twitter,android,com.twitter.android.utils.EspressoHelpers.swipeDown,User Interface,Interaction Design
+twitter,android,com.twitter.android.utils.EspressoHelpers.tapOnHomeTab,User Interface,Interaction Design
+twitter,android,com.twitter.android.utils.EspressoHelpers.tapOnTweetWithText,Test,Unit Testing
+assertj,core,org.assertj.core.api.Assertions.assertThat,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMissingLeadingAsteriskCheck.MSG_MISSING_ASTERISK,Language,Syntax Features
+time,time,java.time.DayOfWeek,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMissingWhitespaceAfterAsteriskCheck.MSG_KEY,Language,Syntax Features
+tools,ant,org.apache.tools.ant.BuildException,Error Handling,Exception Handling
+tools,ant,org.apache.tools.ant.DirectoryScanner,Utility,Automation Scripts
+tools,ant,org.apache.tools.ant.FileScanner,Utility,Automation Scripts
+tools,ant,org.apache.tools.ant.Project,DevOps,Configuration Management
+tools,ant,org.apache.tools.ant.Task,DevOps,Configuration Management
+tools,ant,org.apache.tools.ant.taskdefs.LogOutputStream,Logging,Error Logs
+tools,ant,org.apache.tools.ant.types.EnumeratedAttribute,Utility,Automation Scripts
+tools,ant,org.apache.tools.ant.types.FileSet,Utility,Automation Scripts
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.DefaultLogger,Logging,Event Logging
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.ModuleFactory,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PackageObjectFactory,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.SarifLogger,Logging,Error Logs
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.ThreadModeSettings,Multi-Thread,Concurrency Control
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.XMLLogger,Logging,Event Logging
+undefined,undefined,java.io,Input-Output,"Data Reading, Data Writing, Stream Management, File Management, Network IO"
+util,function,java.util.function.BinaryOperator,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck.MSG_LEGACY_PACKAGE_HTML,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck.MSG_PACKAGE_INFO,Language,Standard Libraries
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocParagraphCheck.MSG_LINE_BEFORE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocParagraphCheck.MSG_MISPLACED_TAG,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocParagraphCheck.MSG_PRECEDED_BLOCK_TAG,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocParagraphCheck.MSG_REDUNDANT_PARAGRAPH,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.AbstractAutomaticBean,Utility,Automation Scripts
+util,util,java.util.EventListener,Event Handling,Event Driven Processing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocParagraphCheck.MSG_TAG_AFTER,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck.MSG_EMPTY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck.MSG_EXTRA_HTML,Language,Syntax Features
+io,File,java.io.File.pathSeparator,Input-Output,File Management
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.grammar.CommentListener,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.CheckUtil,Utility,Diagnostic Utilities
+io,io,java.io.StringReader,Input-Output,Data Reading
+nio,charset,java.nio.charset.CharsetDecoder,Internationalization,Language Support
+nio,charset,java.nio.charset.CodingErrorAction,Internationalization,Language Support
+nio,charset,java.nio.charset.UnsupportedCharsetException,Internationalization,Language Support
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck.MSG_INCOMPLETE_TAG,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck.MSG_NO_PERIOD,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck.MSG_UNCLOSED_HTML,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTagContinuationIndentationCheck.MSG_KEY,Language,Syntax Features
+lang,Math,java.lang.Math.E,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck.MSG_UNKNOWN_TAG,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck.MSG_UNUSED_TAG,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck.MSG_UNUSED_TAG_GENERAL,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.LocalizedMessage,Internationalization,Localization
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.StatelessCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck.MSG_JAVADOC_MISSING,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.FileStatefulCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.TextBlock,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.CodePointUtil,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PropertyType,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.XdocsPropertyType,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.CheckUtilTest,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocPackageCheck.MSG_PKG_JAVADOC_MISSING,Language,Syntax Features
+undefined,undefined,.avoidstaticimport.,Utility,System Tools
+io,io,java.io.RandomAccessFile,Input-Output,"Data Reading, Data Writing"
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.NonEmptyAtclauseDescriptionCheck.MSG_KEY,Language,Syntax Features
+http,conn,org.apache.http.conn.ClientConnectionManager,Network,Connection Management
+neurologic,http,com.neurologic.http.impl.ApacheHttpClient,Network,Connection Management
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.RequireEmptyLineBeforeBlockTagGroupCheck.MSG_JAVADOC_TAG_LINE_BEFORE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.avoidstaticimport.InputAvoidStaticImportNestedClass.InnerClass.one,Language,Standard Libraries
+puppycrawl,tools,com.puppycrawl.tools.checkstyle,Parser,Validation
+undefined,undefined,.customimportorder,Utility,Automation Scripts
+security,security,java.security.KeyManagementException,Security,Encryption
+javax,net,javax.net.ssl.TrustManager,Security,Authentication
+awt,color,java.awt.color.ColorSpace,Computer Graphics,Image Rendering
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.SingleLineJavadocCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck.MSG_SUMMARY_JAVADOC,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck.MSG_SUMMARY_JAVADOC_MISSING,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck.MSG_SUMMARY_MISSING_PERIOD,Language,Syntax Features
+linux,server,org.linux.apache.server.SoapServer,Microservices/Services,Service Communication
+neurologic,http,com.neurologic.http.HttpClient,Network,Data Transmission
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.WriteTagCheck.MSG_MISSING_TAG,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.WriteTagCheck.MSG_TAG_FORMAT,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.WriteTagCheck.MSG_WRITE_TAG,Language,Syntax Features
+nio,file,java.nio.file.NoSuchFileException,Error Handling,Exception Handling
+some,Class,com.some.Class.MESSAGE_ORDERING,Event Handling,Event Driven Processing
+io,io,java.io.ObjectStreamField,Input-Output,Data Writing
+lang,Math,java.lang.Math.sqrt,Utility,Performance Tools
+some,api,com.some.api.DetailClass,Application,Integration
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.Definitions,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.GlobalStatefulCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck.MSG_KEY,Logic,Validation Checks
+common,annotations,com.google.common.annotations.Beta,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.FullIdent,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck.MSG_KEY,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck.MSG_KEY,Utility,Performance Tools
+javax,annotation,javax.annotation.ParametersAreNonnullByDefault,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck.MSG_KEY,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.classdataabstractioncoupling.Example2,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.classdataabstractioncoupling.Example3,Utility,Diagnostic Utilities
+lang,ref,java.lang.ref.WeakReference,Utility,Performance Tools
+commons,io,org.apache.commons.io.ByteOrderMark,Input-Output,Data Reading
+tools,util,sun.tools.util.ModifierFilter.ALL_ACCESS,Utility,System Tools
+antlr,antlr,antlr.CommonASTWithHiddenTokens,Parser,Syntax Parsing
+antlr,antlr,antlr.Token,Parser,Syntax Parsing
+antlr,collections,antlr.collections.AST,Parser,Syntax Parsing
+util,regex,java.util.regex.PatternSyntaxException,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.TreeWalkerAuditEvent,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.TreeWalkerFilter,Parser,Validation
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck.MSG_CLASS,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck.MSG_FILE,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck.MSG_METHOD,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck.MSG_RECORD,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.FilterUtil,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck.MSG_KEY,Utility,Performance Tools
+javax,lang,javax.lang.model.element.AnnotationValue,Language,Standard Libraries
+common,collect,com.google.common.collect.HashMultimap,Data Structure,Data Manipulation
+javax,lang,javax.lang.model.SourceVersion,Language,Compiler/Interpreter Enhancements
+tools,util,sun.tools.util.CommandLine.parse,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.XmlLoader,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.modifier.InterfaceMemberImpliedModifierCheck.MSG_KEY,Language,Syntax Features
+lang,reflect,java.lang.reflect.GenericDeclaration,Language,Type Systems
+lang,reflect,java.lang.reflect.Type,Language,Type Systems
+javax,transaction,javax.transaction.xa.XAException,Error Handling,Exception Handling
+javax,transaction,javax.transaction.xa.Xid,Databases,Transaction Management
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.classdataabstractioncoupling.Example1,Utility,Diagnostic Utilities
+javax,xml,javax.xml.transform.Source,Input-Output,Data Reading
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.modifier.ModifierOrderCheck.MSG_ANNOTATION_ORDER,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.modifier.ModifierOrderCheck.MSG_MODIFIER_ORDER,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.SuppressWarningsHolder,Utility,Diagnostic Utilities
+awt,Button,java.awt.Button.ABOR,User Interface,Interaction Design
+util,AbstractMap,java.util.AbstractMap.SimpleEntry,Data Structure,Linear Structures
+common,collect,com.google.common.collect.Multiset,Data Structure,Data Manipulation
+io,io,java.io.Fil,Input-Output,File Management
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck.MSG_KEY,Language,Syntax Features
+undefined,undefined,java.util,Utility,Data Conversion
+common,collect,com.google.common.collect.Multiset.Entry,Data Structure,Data Manipulation
+util,util,java.util.ConcurrentModificationException,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck.MSG_KEY,Language,Syntax Features
+tools,util,sun.tools.util.ModifierFilter.PACKAGE,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.AbstractClassNameCheck.MSG_ILLEGAL_ABSTRACT_CLASS_NAME,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.AbstractClassNameCheck.MSG_NO_ABSTRACT_CLASS_MODIFIER,Language,Syntax Features
+nio,file,java.nio.file.Paths,Input-Output,File Management
+nio,nio,java.nio.ByteBuffer,Input-Output,Buffering Strategies
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderOption,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.HtmlTag,Parser,Syntax Parsing
+undefined,undefined,.illegalimport,Security,Intrusion Detection
+lang,lang,java.lang.ArithmeticException,Error Handling,Exception Handling
+javax,annotation,javax.annotation.processing.Generated,Utility,System Tools
+util,function,java.util.function.ToIntFunction,Utility,Data Conversion
+lang,lang,java.lang.SuppressWarnings,Language,Standard Libraries
+lang,lang,java.lang.Deprecated,Language,Standard Libraries
+lang,lang,java.lang.System,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.xpath.AbstractNode,Parser,Syntax Parsing
+net,sf,net.sf.saxon.Configuration,Parser,Syntax Parsing
+net,sf,net.sf.saxon.om.Item,Parser,Data Conversion
+net,sf,net.sf.saxon.sxpath.XPathDynamicContext,Language,Standard Libraries
+net,sf,net.sf.saxon.sxpath.XPathEvaluator,Language,Standard Libraries
+net,sf,net.sf.saxon.sxpath.XPathExpression,Language,Standard Libraries
+net,sf,net.sf.saxon.trans.XPathException,Error Handling,Exception Handling
+util,jar,java.util.jar.Some,Utility,System Tools
+antlr,v4,org.antlr.v4.runtime.Lexer,Parser,Syntax Parsing
+antlr,v4,org.antlr.v4.runtime.atn.ATN,Parser,Syntax Parsing
+antlr,v4,org.antlr.v4.runtime.atn.LexerATNSimulator,Language,Compiler/Interpreter Enhancements
+antlr,v4,org.antlr.v4.runtime.atn.PredictionContextCache,Parser,Optimization
+antlr,v4,org.antlr.v4.runtime.dfa.DFA,Parser,Syntax Parsing
+util,util,java.util.EventObject,Event Handling,Event Driven Processing
+javax,swing,javax.swing.CellEditor,User Interface,Interaction Design
+javax,swing,javax.swing.event.CellEditorListener,User Interface,Interaction Design
+javax,swing,javax.swing.event.ChangeEvent,User Interface,User Feedback
+javax,swing,javax.swing.event.EventListenerList,Event Handling,Event Driven Processing
+awt,awt,java.awt.Color,Computer Graphics,Image Rendering
+util,jar,java.util.jar.JarInputMy,Input-Output,Data Reading
+javax,swing,javax.swing.JTextArea,User Interface,Interaction Design
+io,netty,io.netty.handler.codec.http.HttpConstants.COLON,Network,Protocol Implementation
+io,netty,io.netty.handler.codec.http.HttpHeaders.addHeader,Network,Protocol Implementation
+io,netty,io.netty.handler.codec.http.HttpHeaders.setHeader,Network,Protocol Implementation
+javax,swing,javax.swing.ListSelectionModel,User Interface,Interaction Design
+javax,swing,javax.swing.tree.DefaultTreeSelectionModel,User Interface,Interaction Design
+javax,swing,javax.swing.tree.TreePath,User Interface,Interaction Design
+javax,swing,javax.swing.SwingUtilities,User Interface,Interaction Design
+javax,swing,javax.swing.WindowConstants,User Interface,Interaction Design
+awt,awt,java.awt.BorderLayout,User Interface,Layout Design
+awt,awt,java.awt.FlowLayout,User Interface,Layout Design
+awt,awt,java.awt.GridLayout,User Interface,Layout Design
+awt,awt,java.awt.Toolkit,User Interface,Interaction Design
+awt,event,java.awt.event.ActionEvent,Event Handling,User Interactions
+awt,event,java.awt.event.KeyEvent,Event Handling,User Interactions
+javax,swing,javax.swing.AbstractAction,User Interface,Interaction Design
+javax,swing,javax.swing.BorderFactory,User Interface,Layout Design
+javax,swing,javax.swing.JButton,User Interface,Interaction Design
+javax,swing,javax.swing.JComboBox,User Interface,Interaction Design
+javax,swing,javax.swing.JFileChooser,User Interface,Interaction Design
+javax,swing,javax.swing.JFrame,User Interface,Interaction Design
+javax,swing,javax.swing.JLabel,User Interface,User Feedback
+javax,swing,javax.swing.JOptionPane,User Interface,User Feedback
+javax,swing,javax.swing.JPanel,User Interface,Layout Design
+javax,swing,javax.swing.JScrollPane,User Interface,Layout Design
+javax,swing,javax.swing.JSplitPane,User Interface,Layout Design
+io,netty,io.netty.handler.codec.http.HttpHeaders.Names.addDate,Network,Protocol Implementation
+javax,swing,javax.swing.SwingConstants,User Interface,Layout Design
+javax,swing,javax.swing.border.Border,User Interface,Layout Design
+javax,swing,javax.swing.filechooser.FileFilter,User Interface,Interaction Design
+io,netty,io.netty.handler.codec.http.HttpHeaders.Names.DATE,Network,Protocol Implementation
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.gui.MainFrameModel.ParseMode,Parser,Syntax Parsing
+javax,swing,javax.swing.event.TreeModelEvent,User Interface,Interaction Design
+javax,swing,javax.swing.event.TreeModelListener,User Interface,Interaction Design
+javax,swing,javax.swing.tree.TreeModel,User Interface,Interaction Design
+javax,naming,javax.naming.NamingException,Error Handling,Exception Handling
+io,netty,io.netty.handler.codec.http.HttpHeaders.NAMES.DATE,Network,Protocol Implementation
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.JavadocDetailNodeParser,Parser,Syntax Parsing
+javax,io,javax.io.File,Input-Output,File Management
+awt,awt,java.awt.Dimension,User Interface,Layout Design
+awt,awt,java.awt.FontMetrics,User Interface,Layout Design
+test,test,java.test.javax,Test,Unit Testing
+awt,event,java.awt.event.MouseAdapter,Event Handling,User Interactions
+awt,event,java.awt.event.MouseEvent,Event Handling,User Interactions
+awt,awt,java.awt.Dialo,User Interface,User Feedback
+javax,javax,javax.swin,User Interface,Layout Design
+javax,swing,javax.swing.Action,User Interface,Interaction Design
+javax,swing,javax.swing.JTable,User Interface,Interaction Design
+javax,swing,javax.swing.JTree,User Interface,Interaction Design
+javax,swing,javax.swing.KeyStroke,User Interface,Interaction Design
+hc,core5,org.apache.hc.core5.http.ssl.TlsCiphers,Security,Encryption
+hc,core5,org.apache.hc.core5.http.protocol.BasicHttpContext,Network,Protocol Implementation
+hc,core5,org.apache.hc.core5.http.nio.ssl.BasicClientTlsStrategy,Network,Network Security
+javax,swing,javax.swing.LookAndFeel,User Interface,Layout Design
+javax,swing,javax.swing.table.TableCellEditor,User Interface,Interaction Design
+hc,core5,org.apache.hc.core5.http.nio.command.CommandSupport,Network,Protocol Implementation
+util,io,java.util.java.io.File,Input-Output,File Management
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.xpath.ElementNode,Parser,Syntax Parsing
+awt,awt,java.awt.Graphics,Computer Graphics,Image Rendering
+javax,swing,javax.swing.UIManager,User Interface,Interaction Design
+javax,swing,javax.swing.table.TableCellRenderer,User Interface,Interaction Design
+javax,swing,javax.swing.tree.DefaultTreeCellRenderer,User Interface,Interaction Design
+javax,swing,javax.swing.tree.TreeCellRenderer,User Interface,Interaction Design
+infinispan,test,org.infinispan.test.TestingUtil.extractComponent,Test,Unit Testing
+sql,sql,java.sql.Time,Databases,Query Execution
+javax,swing,javax.swing.event.TreeExpansionEvent,User Interface,Interaction Design
+javax,swing,javax.swing.event.TreeExpansionListener,User Interface,Interaction Design
+common,primitives,com.google.common.primitives.Doubles,Utility,Data Conversion
+javax,swing,javax.swing.table.AbstractTableModel,User Interface,Interaction Design
+javax,lang,javax.lang.model.type.ArrayType,Language,Type Systems
+infinispan,infinispan,org.infinispan.Cache,Databases,Database Optimization
+infinispan,commons,org.infinispan.commons.api.BasicCacheContainer,Databases,Database Optimization
+javax,xml,javax.xml.transform.TransformerException,Error Handling,Exception Handling
+util,util,java.util.OptionalDouble,Utility,Data Conversion
+util,util,java.util.OptionalInt,Utility,Data Conversion
+util,util,java.util.OptionalLong,Utility,Data Conversion
+util,stream,java.util.stream.DoubleStream,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.AbstractJavadocCheck,Utility,Diagnostic Utilities
+util,stream,java.util.stream.LongStream,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck.DEFAULT_PATTERN,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.MetadataGeneratorLogger,Logging,Event Logging
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck.MSG_DUPLICATE_REGEXP,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck.MSG_REQUIRED_REGEXP,Language,Syntax Features
+javax,xml,javax.xml.XMLConstants,Utility,Data Conversion
+javax,xml,javax.xml.parsers.DocumentBuilder,Parser,Data Conversion
+javax,xml,javax.xml.parsers.DocumentBuilderFactory,Parser,Data Conversion
+reflections,reflections,org.reflections.Reflections,Utility,System Tools
+reflections,scanners,org.reflections.scanners.Scanners,Utility,System Tools
+w3c,dom,org.w3c.dom.Element,Application,App Configuration
+w3c,dom,org.w3c.dom.NodeList,Data Structure,Tree Structures
+undefined,undefined,.importcontrol,Utility,System Tools
+awt,awt,java.awt.Image,Computer Graphics,Image Rendering
+javax,xml,javax.xml.transform.OutputKeys,Input-Output,Data Writing
+javax,xml,javax.xml.transform.Transformer,Utility,Data Conversion
+javax,xml,javax.xml.transform.TransformerFactory,Utility,Data Conversion
+javax,xml,javax.xml.transform.dom.DOMSource,Input-Output,Data Reading
+javax,xml,javax.xml.transform.stream.StreamResult,Input-Output,Data Writing
+beans,beans,java.beans.Introspector,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.BlockCommentPosition,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.MultilineDetector.MSG_EMPTY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.MultilineDetector.MSG_REGEXP_EXCEEDED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.MultilineDetector.MSG_REGEXP_MINIMUM,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.MultilineDetector.MSG_STACKOVERFLOW,Error Handling,Error Logging
+maven,doxia,org.apache.maven.doxia.macro.AbstractMacro,Utility,Automation Scripts
+maven,doxia,org.apache.maven.doxia.macro.Macro,Utility,Automation Scripts
+maven,doxia,org.apache.maven.doxia.macro.MacroExecutionException,Error Handling,Exception Handling
+maven,doxia,org.apache.maven.doxia.macro.MacroRequest,Utility,Automation Scripts
+maven,doxia,org.apache.maven.doxia.sink.Sink,Utility,Automation Scripts
+codehaus,plexus,org.codehaus.plexus.component.annotations.Component,DevOps,Configuration Management
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.classfanoutcomplexity.inputs.a.aa.AAClass,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.meta.JavadocMetadataScraper,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.classfanoutcomplexity.inputs.a.ab.ABClass,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.classfanoutcomplexity.inputs.b.BClass,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.metrics.classfanoutcomplexity.inputs.c.CClass,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.testmodules.TestLoggingReporter,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.RegexpOnFilenameCheck.MSG_MATCH,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.RegexpOnFilenameCheck.MSG_MISMATCH,Language,Syntax Features
+control_unknown,control_unknown,control_unknown.xm,Utility,Data Conversion
+android,app,android.app.slice.Slice.HINT_ACTIONS,User Interface,Interaction Design
+android,app,android.app.slice.Slice.HINT_ERROR,Error Handling,User Notification
+android,app,android.app.slice.Slice.HINT_SUMMARY,User Interface,Interaction Design
+maven,doxia,org.apache.maven.doxia.module.xdoc.XdocSink,Utility,Automation Scripts
+order,order,order.lex,Parser,Syntax Parsing
+order,line,order.line.separator,Utility,System Tools
+order,nonGroup,order.nonGroup.expected,Error Handling,Exception Handling
+order,nonGroup,order.nonGroup.import,Utility,Data Conversion
+order,separated,order.separated.internally,Utility,Data Conversion
+android,app,android.app.slice.Slice.HINT_TITLE,User Interface,Interaction Design
+util,util,java.util.RandomAccess,Data Structure,Linear Structures
+androidx,slice,androidx.slice.builders.ListBuilder.ICON_IMAGE,User Interface,Layout Design
+androidx,slice,androidx.slice.builders.ListBuilder.INFINITY,User Interface,Layout Design
+androidx,slice,androidx.slice.builders.ListBuilder.LARGE_IMAGE,User Interface,Layout Design
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.SinglelineDetector.MSG_REGEXP_EXCEEDED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.SinglelineDetector.MSG_REGEXP_MINIMUM,Language,Syntax Features
+androidx,slice,androidx.slice.core.SliceHints.SUBTYPE_MIN,User Interface,Interaction Design
+android,app,android.app.PendingIntent,Application,Integration
+android,net,android.net.Uri,Network,Protocol Implementation
+androidx,annotation,androidx.annotation.NonNull,Utility,System Tools
+androidx,core,androidx.core.graphics.drawable.IconCompat,User Interface,Interaction Design
+lang,module,java.lang.module.ModuleDescriptor.Version,Language,Standard Libraries
+lang,reflect,java.lang.reflect.Array,Utility,System Tools
+lang,reflect,java.lang.reflect.ParameterizedType,Language,Type Systems
+androidx,slice,androidx.slice.Clock,Utility,System Tools
+androidx,slice,androidx.slice.Slice,User Interface,Interaction Design
+androidx,slice,androidx.slice.builders.SliceAction,User Interface,Interaction Design
+control,control,control.disallowed,Security,Authorization
+control,missing,control.missing.file,Error Handling,Exception Handling
+control,unknown,control.unknown.pkg,Utility,System Tools
+util,stream,java.util.stream.IntStream,Utility,Performance Tools
+common,collect,com.google.common.collect.Lists,Data Structure,Linear Structures
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PackageNamesLoader,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.PropertyCacheFile,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.modifier.ClassMemberImpliedModifierCheck.MSG_KEY,Language,Syntax Features
+common,base,com.google.common.base.Preconditions.checkArgument,Error Handling,Exception Handling
+common,base,com.google.common.base.Preconditions.checkNotNull,Error Handling,Error Prevention
+common,base,com.google.common.base.Throwables.throwIfUnchecked,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.AnonInnerLengthCheck.MSG_KEY,Language,Syntax Features
+lang,reflect,java.lang.reflect.Parameter,Language,Standard Libraries
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.RegexpMultilineCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck,Language,Syntax Features
+common,collect,com.google.common.collect.ArrayListMultimap,Data Structure,Linear Structures
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.FileLengthCheck.MSG_KEY,Utility,Diagnostic Utilities
+undefined,undefined,.ImportOrderOption},Utility,System Tools
+javax,swing,javax.swing.text.html.HTML.Attribute,User Interface,Interaction Design
+groups,separated,groups.separated.internally,Utility,System Tools
+maven,doxia,org.apache.maven.doxia.macro.manager.MacroNotFoundException,Error Handling,Exception Handling
+maven,doxia,org.apache.maven.doxia.module.xdoc.XdocParser,Parser,Syntax Parsing
+maven,doxia,org.apache.maven.doxia.parser.ParseException,Parser,Error Recovery
+maven,doxia,org.apache.maven.doxia.parser.Parser,Parser,Syntax Parsing
+codehaus,plexus,org.codehaus.plexus.util.IOUtil,Input-Output,Data Reading
+codehaus,plexus,org.codehaus.plexus.util.xml.pull.XmlPullParser,Parser,Syntax Parsing
+javax,swing,javax.swing.text.MutableAttributeSet,User Interface,Interaction Design
+maven,doxia,org.apache.maven.doxia.markup.HtmlMarkup,Parser,Data Conversion
+maven,doxia,org.apache.maven.doxia.sink.SinkEventAttributes,Utility,System Tools
+maven,doxia,org.apache.maven.doxia.sink.impl.SinkEventAttributeSet,Utility,Automation Scripts
+common,collect,com.google.common.collect.ListMultimap,Data Structure,Data Manipulation
+maven,doxia,org.apache.maven.doxia.sink.SinkFactory,Utility,Automation Scripts
+maven,doxia,org.apache.maven.doxia.sink.impl.AbstractTextSinkFactory,Utility,Automation Scripts
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.CatchParameterNameCheck.MSG_INVALID_PATTERN,Error Handling,Exception Handling
+common,collect,com.google.common.collect.MutableClassToInstanceMap,Data Structure,Data Manipulation
+common,collect,com.google.common.collect.Ordering,Data Structure,Data Sorting
+common,collect,com.google.common.collect.Sets,Data Structure,Data Manipulation
+awt,Button,java.awt.Button.A,User Interface,Interaction Design
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.LambdaBodyLengthCheck.MSG_KEY,Language,Syntax Features
+common,primitives,com.google.common.primitives.Ints,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck.MSG_INVALID_PATTERN,Language,Syntax Features
+common,reflect,com.google.common.reflect.Reflection,Utility,System Tools
+tngtech,archunit,com.tngtech.archunit.thirdparty.com.google.common.annotations.GwtIncompatible,Utility,Diagnostic Utilities
+javax,swing,javax.swing.WindowConstants.HIDE_ON_CLOSE,User Interface,Interaction Design
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.MethodCountCheck.MSG_MANY_METHODS,Utility,Performance Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.MethodCountCheck.MSG_PACKAGE_METHODS,Utility,Diagnostic Utilities
+tools,tools,sun.tools.java.ArrayType,Data Structure,Linear Structures
+mockito,mockito,org.mockito.Mock,Test,Unit Testing
+io,io,java.io.Closeable,Input-Output,Stream Management
+undefined,undefined,.importorder,Utility,Automation Scripts
+net,net,java.net.MalformedURLException,Network,Protocol Implementation
+net,net,java.net.URISyntaxException,Error Handling,Exception Handling
+lang,Math,java.lang.Math.cos,Utility,Performance Tools
+javax,xml,javax.xml.transform.TransformerFactory.newInstance,Utility,Data Conversion
+junit,Assert,org.junit.Assert.fail,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.MethodCountCheck.MSG_PRIVATE_METHODS,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.MethodCountCheck.MSG_PROTECTED_METHODS,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.MethodCountCheck.MSG_PUBLIC_METHODS,Utility,Diagnostic Utilities
+awt,event,java.awt.event.ItemEvent,Event Handling,User Interactions
+awt,event,java.awt.event.ItemListener,Event Handling,User Interactions
+checkerframework,checker,org.checkerframework.checker.index.qual.IndexOrLow,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.InvalidJavadocTag,Parser,Validation
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTag,Language,Standard Libraries
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.OuterTypeNumberCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTags,Language,Standard Libraries
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.utils.BlockTagUtil,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.utils.InlineTagUtil,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.utils.TagInfo,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck.MSG_INVALID_PATTERN,Language,Syntax Features
+antlr,v4,org.antlr.v4.runtime.Recognizer.EOF,Parser,Syntax Parsing
+common,reflect,com.google.common.reflect.ClassPath,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck.MSG_INVALID_PATTERN,Utility,Diagnostic Utilities
+myOrgorgan,myOrgorgan,org.myOrgorgan.Test,Test,Unit Testing
+util,util,java.util.AbstractMap,Data Structure,Data Manipulation
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.DetailAstImpl,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.RecordComponentNumberCheck.MSG_KEY,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck.MSG_INVALID_PATTERN,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyForInitializerPadCheck.MSG_NOT_PRECEDED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyForInitializerPadCheck.MSG_PRECEDED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyForIteratorPadCheck.MSG_WS_FOLLOWED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyForIteratorPadCheck.MSG_WS_NOT_FOLLOWED,Language,Syntax Features
+util,util,java.util.SortedMap,Data Structure,Tree Structures
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck.MSG_MULTIPLE_LINES,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck.MSG_MULTIPLE_LINES_AFTER,Language,Syntax Features
+javax,annotation,javax.annotation.Nonnull,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.AstTreeStringPrinter,Parser,Syntax Parsing
+antlr,v4,org.antlr.v4.runtime.misc.NotNull,Parser,Validation
+net,sf,net.sf.saxon.om.NodeInfo,Parser,Syntax Parsing
+suppressionxpathfilter,interfaceistype,org.checkstyle.suppressionxpathfilter.interfaceistype.InputXpathInterfaceIsTypeAllowMarker.a,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.xpath.iterators.DescendantIterator,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.xpath.iterators.FollowingIterator,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.xpath.iterators.PrecedingIterator,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.xpath.iterators.ReverseListIterator,Data Structure,Linear Structures
+net,sf,net.sf.saxon.om.AxisInfo,Parser,Syntax Parsing
+net,sf,net.sf.saxon.om.NamespaceUri,Utility,Data Conversion
+net,sf,net.sf.saxon.tree.iter.ArrayIterator,Data Structure,Tree Structures
+net,sf,net.sf.saxon.tree.iter.AxisIterator,Parser,Syntax Parsing
+net,sf,net.sf.saxon.tree.iter.EmptyIterator,Utility,System Tools
+net,sf,net.sf.saxon.tree.iter.SingleNodeIterator,Data Structure,Tree Structures
+net,sf,net.sf.saxon.tree.util.Navigator,Utility,Data Conversion
+net,sf,net.sf.saxon.type.Type,Parser,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck.MSG_MULTIPLE_LINES_INSIDE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck.MSG_SHOULD_BE_SEPARATED,Language,Syntax Features
+net,sf,net.sf.saxon.event.Receiver,Event Handling,Event Driven Processing
+net,sf,net.sf.saxon.om.AtomicSequence,Data Structure,Data Manipulation
+net,sf,net.sf.saxon.om.NamespaceBinding,Data Structure,Tree Structures
+net,sf,net.sf.saxon.om.NamespaceMap,Data Structure,Tree Structures
+util,concurrent,java.util.concurrent.CompletableFuture,Multi-Thread,Parallel Processing
+net,sf,net.sf.saxon.om.TreeInfo,Data Structure,Tree Structures
+net,sf,net.sf.saxon.pattern.NodePredicate,Parser,Validation
+net,sf,net.sf.saxon.s9api.Location,Parser,Validation
+net,sf,net.sf.saxon.str.UnicodeString,Internationalization,Language Support
+net,sf,net.sf.saxon.type.SchemaType,Parser,Validation
+util,zip,java.util.zip.ZipFile,Utility,System Tools
+net,sf,net.sf.saxon.om.GenericTreeInfo,Data Structure,Tree Structures
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.GenericWhitespaceCheck.MSG_WS_FOLLOWED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.GenericWhitespaceCheck.MSG_WS_ILLEGAL_FOLLOW,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.GenericWhitespaceCheck.MSG_WS_NOT_PRECEDED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.GenericWhitespaceCheck.MSG_WS_PRECEDED,Language,Syntax Features
+util,util,java.util.NavigableMap,Data Structure,Tree Structures
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.MethodParamPadCheck.MSG_LINE_PREVIOUS,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.MethodParamPadCheck.MSG_WS_NOT_PRECEDED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.MethodParamPadCheck.MSG_WS_PRECEDED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.NoLineWrapCheck.MSG_KEY,Language,Syntax Features
+junit,jupiter,org.junit.jupiter.api.Assertions.assertDoesNotThrow,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.NoWhitespaceAfterCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.NoWhitespaceBeforeCaseDefaultColonCheck.MSG_KEY,Language,Syntax Features
+tools,ant,org.apache.tools.ant.Location,Utility,Automation Scripts
+tools,ant,org.apache.tools.ant.types.Path,Utility,Automation Scripts
+tools,ant,org.apache.tools.ant.types.resources.FileResource,Utility,Automation Scripts
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.NoWhitespaceBeforeCheck.MSG_KEY,Language,Syntax Features
+common,truth,com.google.common.truth.StandardSubjectBuilder,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.testmodules.CheckstyleAntTaskLogStub,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.testmodules.CheckstyleAntTaskStub,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.testmodules.MessageLevelPair,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.AbstractModuleTestSupport,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck.MSG_LINE_NEW,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck.MSG_LINE_PREVIOUS,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.AbstractParenPadCheck.MSG_WS_FOLLOWED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.AbstractParenPadCheck.MSG_WS_NOT_FOLLOWED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.AbstractParenPadCheck.MSG_WS_NOT_PRECEDED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.AbstractParenPadCheck.MSG_WS_PRECEDED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.SeparatorWrapCheck.MSG_LINE_NEW,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.SeparatorWrapCheck.MSG_LINE_PREVIOUS,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.SingleSpaceSeparatorCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck.MSG_WS_NOT_FOLLOWED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck.MSG_WS_TYPECAST,Language,Syntax Features
+util,function,java.util.function.IntPredicate,Utility,Data Conversion
+util,regex,java.util.regex.MatchResult,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck.MSG_WS_NOT_FOLLOWED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck.MSG_WS_NOT_PRECEDED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.filters.SeverityMatchFilter,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck.MSG_ORDERING,Language,Syntax Features
+nl,jqno,nl.jqno.equalsverifier.EqualsVerifier,Test,Unit Testing
+nl,jqno,nl.jqno.equalsverifier.EqualsVerifierReport,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.CommonUtil.EMPTY_OBJECT_ARRAY,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.meta.ModuleDetails,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.meta.ModulePropertyDetails,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.meta.XmlMetaReader,Parser,Validation
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.ant.CheckstyleAntTask,Utility,Automation Scripts
+util,util,java.util.Random,Utility,System Tools
+junit,junit,org.junit.Ignore,Test,Unit Testing
+lang,System,java.lang.System.out,Input-Output,Data Writing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.ArrayTypeStyleCheck.MSG_KEY,Language,Type Systems
+io,File,java.io.File.separator,Input-Output,File Management
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.DescendantTokenCheck.MSG_KEY_MAX,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.DescendantTokenCheck.MSG_KEY_MIN,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.DescendantTokenCheck.MSG_KEY_SUM_MAX,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.DescendantTokenCheck.MSG_KEY_SUM_MIN,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.AuditEventFormatter,Logging,Audit Trails
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck.MSG_KEY_UNABLE_OPEN,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck.MSG_KEY_WRONG_ENDING,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.NoCodeInFileCheck.MSG_KEY_NO_CODE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.OrderedPropertiesCheck.MSG_IO_EXCEPTION_KEY,Error Handling,Error Logging
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.OrderedPropertiesCheck.MSG_KEY,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.naming.AbstractAccessControlNameCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.OuterTypeFilenameCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.UnusedLocalVariableCheck.MSG_UNUSED_LOCAL_VARIABLE,Language,Syntax Features
+util,concurrent,java.util.concurrent.FutureTask,Multi-Thread,Parallel Processing
+util,concurrent,java.util.concurrent.TimeUnit,Multi-Thread,Concurrency Control
+junit,jupiter,org.junit.jupiter.api.function.Executable,Test,Unit Testing
+codehaus,plexus,org.codehaus.plexus.DefaultPlexusContainer,DevOps,Configuration Management
+codehaus,plexus,org.codehaus.plexus.PlexusContainer,DevOps,Configuration Management
+codehaus,plexus,org.codehaus.plexus.util.ReaderFactory,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.site.XdocsTemplateParser,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.site.XdocsTemplateSinkFactory,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.TranslationCheck.MSG_KEY,Internationalization,Localization
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.TranslationCheck.MSG_KEY_MISSING_TRANSLATION_FILE,Internationalization,Localization
+junit,jupiter,org.junit.jupiter.api.function.ThrowingConsumer,Test,Unit Testing
+net,net,java.net.InetSocketAddress,Network,Connection Management
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.AbstractXmlTestSupport,Test,Unit Testing
+net,net,java.net.Socket,Network,Connection Management
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.UncommentedMainCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.utils.XpathIteratorUtil.findNode,Utility,Automation Scripts
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.UniquePropertiesCheck.MSG_IO_EXCEPTION_KEY,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.UniquePropertiesCheck.MSG_KEY,Internationalization,Localization
+undefined,undefined,.ImportOrderChec,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.UpperEllCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.FinalLocalVariableCheck.MSG_KEY,Language,Syntax Features
+a,a,a.ClassExample,Application,App Configuration
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.TreeWalkerTest,Test,Unit Testing
+nl,jqno,nl.jqno.equalsverifier.Warning,Test,Unit Testing
+net,net,java.net.HttpURLConnection,Network,Connection Management
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.LineColumn,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.IllegalTokenTextCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck.MSG_KEY,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck.MSG_JAVADOC_MISSING,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck.MSG_JAVADOC_MISSING,Language,Syntax Features
+util,util,java.util.EnumMap,Data Structure,Linear Structures
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck.MSG_RETURN_EXPECTED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck.MSG_UNUSED_TAG,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck.MSG_CONTAINS_TAB,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck.MSG_FILE_CONTAINS_TAB,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.AbstractTreeTestSupport,Test,Unit Testing
+junit,jupiter,org.junit.jupiter.api.Assumptions,Test,Unit Testing
+antlr,v4,org.antlr.v4.runtime.VocabularyImpl,Parser,Syntax Parsing
+util,function,java.util.function.UnaryOperator,Utility,Data Conversion
+common,collect,com.google.common.collect.ImmutableList,Data Structure,Linear Structures
+junit,jupiter,org.junit.jupiter.api.Disabled,Test,Unit Testing
+mockito,ArgumentMatchers,org.mockito.ArgumentMatchers.startsWith,Test,Unit Testing
+mockito,Mockito,org.mockito.Mockito.doCallRealMethod,Test,Unit Testing
+awt,awt,java.awt.Window,User Interface,Interaction Design
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationLocationCheck.MSG_KEY_ANNOTATION_LOCATION,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationLocationCheck.MSG_KEY_ANNOTATION_LOCATION_ALONE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationOnSameLineCheck.MSG_KEY_ANNOTATION_ON_SAME_LINE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.AbstractGuiTestSupport,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationUseStyleCheck.MSG_KEY_ANNOTATION_INCORRECT_STYLE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationUseStyleCheck.MSG_KEY_ANNOTATION_PARENS_MISSING,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationUseStyleCheck.MSG_KEY_ANNOTATION_PARENS_PRESENT,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationUseStyleCheck.MSG_KEY_ANNOTATION_TRAILING_COMMA_MISSING,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationUseStyleCheck.MSG_KEY_ANNOTATION_TRAILING_COMMA_PRESENT,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.TokenTypes.BLOCK_COMMENT_BEGIN,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.TokenTypes.CLASS_DEF,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.TokenTypes.COMMENT_CONTENT,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.TokenTypes.IDENT,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.TokenTypes.MODIFIERS,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.MissingDeprecatedCheck.MSG_KEY_ANNOTATION_MISSING_DEPRECATED,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.MissingDeprecatedCheck.MSG_KEY_JAVADOC_DUPLICATE_TAG,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.MissingOverrideCheck.MSG_KEY_ANNOTATION_MISSING_OVERRIDE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.MissingOverrideCheck.MSG_KEY_TAG_NOT_VALID_ON,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.annotation.PackageAnnotationCheck.MSG_KEY,Utility,Diagnostic Utilities
+awt,event,java.awt.event.ActionListener,Event Handling,User Interactions
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.AvoidNestedBlocksCheck.MSG_KEY_BLOCK_NESTED,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.EmptyBlockCheck.MSG_KEY_BLOCK_EMPTY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.EmptyBlockCheck.MSG_KEY_BLOCK_NO_STATEMENT,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck.MSG_KEY_CATCH_BLOCK_EMPTY,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck.MSG_KEY_LINE_BREAK_AFTER,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.utils.ConfigurationUtil,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck.MSG_KEY_LINE_NEW,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.utils.XdocUtil,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck.MSG_KEY_LINE_ALONE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck.MSG_KEY_LINE_BREAK_BEFORE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck.MSG_KEY_LINE_SAME,Language,Syntax Features
+tngtech,archunit,com.tngtech.archunit.lang.syntax.ArchRuleDefinition.classes,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.ArrayTrailingCommaCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.AvoidDoubleBraceInitializationCheck.MSG_KEY,Language,Syntax Features
+tngtech,archunit,com.tngtech.archunit.base.DescribedPredicate,Test,Unit Testing
+tngtech,archunit,com.tngtech.archunit.core.domain.JavaClass,Utility,System Tools
+tngtech,archunit,com.tngtech.archunit.core.domain.JavaClasses,Test,Unit Testing
+tngtech,archunit,com.tngtech.archunit.core.domain.JavaType,Test,Unit Testing
+tngtech,archunit,com.tngtech.archunit.core.domain.properties.HasName,Utility,System Tools
+tngtech,archunit,com.tngtech.archunit.core.importer.ClassFileImporter,Test,Unit Testing
+tngtech,archunit,com.tngtech.archunit.core.importer.ImportOption,Test,Unit Testing
+tngtech,archunit,com.tngtech.archunit.lang.ArchCondition,Test,Unit Testing
+tngtech,archunit,com.tngtech.archunit.lang.ArchRule,Test,Unit Testing
+tngtech,archunit,com.tngtech.archunit.lang.ConditionEvents,Test,Unit Testing
+tngtech,archunit,com.tngtech.archunit.lang.SimpleConditionEvent,Test,Unit Testing
+tngtech,archunit,com.tngtech.archunit.lang.syntax.ArchRuleDefinition.methods,Utility,System Tools
+tngtech,archunit,com.tngtech.archunit.lang.syntax.ArchRuleDefinition.noClasses,Utility,System Tools
+tngtech,archunit,com.tngtech.archunit.core.domain.JavaModifier,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.AvoidInlineConditionalsCheck.MSG_KEY,Language,Syntax Features
+tngtech,archunit,com.tngtech.archunit.lang.EvaluationResult,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.AvoidNoArgumentSuperConstructorCallCheck.MSG_CTOR,Language,Syntax Features
+picocli,CommandLine,picocli.CommandLine.Model.OptionSpec,Parser,Syntax Parsing
+util,util,java.util.Spliterator,Data Structure,Data Manipulation
+util,util,java.util.Spliterators,Utility,Performance Tools
+util,stream,java.util.stream.StreamSupport,Utility,Performance Tools
+eclipse,jgit,org.eclipse.jgit.api.Git,DevOps,Version Control
+eclipse,jgit,org.eclipse.jgit.api.errors.GitAPIException,Error Handling,Exception Handling
+eclipse,jgit,org.eclipse.jgit.lib.Constants,Utility,System Tools
+eclipse,jgit,org.eclipse.jgit.lib.ObjectId,Utility,Data Conversion
+eclipse,jgit,org.eclipse.jgit.lib.Repository,DevOps,Version Control
+eclipse,jgit,org.eclipse.jgit.revwalk.RevCommit,Utility,Backup Tools
+eclipse,jgit,org.eclipse.jgit.revwalk.RevWalk,Utility,Backup Tools
+eclipse,jgit,org.eclipse.jgit.storage.file.FileRepositoryBuilder,DevOps,Version Control
+tngtech,archunit,com.tngtech.archunit.base.DescribedPredicate.doNot,Test,Unit Testing
+tngtech,archunit,com.tngtech.archunit.base.DescribedPredicate.not,Test,Unit Testing
+tngtech,archunit,com.tngtech.archunit.lang.conditions.ArchPredicates.are,Test,Unit Testing
+tngtech,archunit,com.tngtech.archunit.lang.conditions.ArchPredicates.have,Test,Unit Testing
+tngtech,archunit,com.tngtech.archunit.lang.syntax.ArchRuleDefinition.fields,Utility,System Tools
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.ConstructorsDeclarationGroupingCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.CovariantEqualsCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck.MSG_ACCESS,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck.MSG_CONSTRUCTOR,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck.MSG_INSTANCE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck.MSG_STATIC,Language,Syntax Features
+tngtech,archunit,com.tngtech.archunit.core.domain.JavaField,Utility,Data Conversion
+tngtech,archunit,com.tngtech.archunit.core.domain.JavaParameterizedType,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.DefaultComesLastCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.DefaultComesLastCheck.MSG_KEY_SKIP_IF_LAST_AND_SHARED_WITH_CASE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.EqualsAvoidNullCheck.MSG_EQUALS_IGNORE_CASE_AVOID_NULL,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.EqualsHashCodeCheck.MSG_KEY_EQUALS,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.EqualsHashCodeCheck.MSG_KEY_HASHCODE,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.ExplicitInitializationCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.FallThroughCheck.MSG_FALL_THROUGH,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.FallThroughCheck.MSG_FALL_THROUGH_LAST,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck.MSG_KEY,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.ScopeUtil,Utility,Diagnostic Utilities
+common,collect,com.google.common.collect.ImmutableList.toImmutableList,Data Structure,Data Manipulation
+lang,Integer,java.lang.Integer.parseInt,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck.MSG_KEY,Error Handling,Exception Handling
+util,util,java.util.NoSuchElementException,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.IllegalThrowsCheck.MSG_KEY,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.IllegalTokenCheck.MSG_KEY,Language,Syntax Features
+junit,jupiter,org.junit.jupiter.api.BeforeAll,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.IllegalTypeCheck.MSG_KEY,Language,Type Systems
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.InnerAssignmentCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.utils.XdocGenerator,Utility,Automation Scripts
+javax,xml,javax.xml.parsers.SAXParser,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.MissingCtorCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.MissingNullCaseInSwitchCheck.MSG_KEY,Error Handling,Error Prevention
+nio,file,java.nio.file.DirectoryStream,Input-Output,File Management
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.javadoc.WriteTagCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.meta.JavadocMetadataScraper.MSG_DESC_MISSING,Utility,Diagnostic Utilities
+junit,Assert,org.junit.Assert.assertThrows,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.ModifiedControlVariableCheck.MSG_KEY,Language,Syntax Features
+commons,io,org.apache.commons.io.IOUtils,Input-Output,Data Reading
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck.MSG_MULTIPLE_COMMA,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.NestedForDepthCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.NestedTryDepthCheck.MSG_KEY,Error Handling,Exception Handling
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.NoArrayTrailingCommaCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.NoCloneCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.NoEnumTrailingCommaCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.EqualsAvoidNullCheck.MSG_EQUALS_AVOID_NULL,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck.MSG_MULTIPLE,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.NoFinalizerCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.internal.utils.TestUtil.findTokenInAstByPredicate,Test,Unit Testing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.OverloadMethodsDeclarationOrderCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.PackageDeclarationCheck.MSG_KEY_MISMATCH,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.PackageDeclarationCheck.MSG_KEY_MISSING,Language,Syntax Features
+util,util,java.util.Dictionary,Data Structure,Linear Structures
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.PatternVariableAssignmentCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.RequireThisCheck.MSG_METHOD,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.api.Comment,Parser,Validation
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.ReturnCountCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.ReturnCountCheck.MSG_KEY_VOID,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.XpathFileGeneratorAstFilter,Parser,Syntax Parsing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.StringLiteralEqualityCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.AbstractSuperCheck.MSG_KEY,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.XpathUtil.getTextAttributeValue,Utility,Data Conversion
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.utils.XpathUtil.getXpathItems,Utility,Diagnostic Utilities
+junit,junit,org.junit.Assert,Test,Unit Testing
+common,reflect,com.google.common.reflect.Invokable,Utility,System Tools
+lang,reflect,java.lang.reflect.WildcardType,Language,Type Systems
+util,function,java.util.function.IntBinaryOperator,Utility,Data Conversion
+lang,String,java.lang.String.valueOf,Utility,Data Conversion
+util,concurrent,java.util.concurrent.Callable,Multi-Thread,Parallel Processing
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.AbstractExamplesModuleTestSupport,Test,Unit Testing
+io,File,java.io.File.listRoots,Input-Output,File Management
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck.MSG_ILLEGAL_REGEXP,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.sizes.FileLengthCheck,Utility,Diagnostic Utilities
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck.MSG_KEY_LINE_PREVIOUS,Language,Syntax Features
+puppycrawl,tools,com.puppycrawl.tools.checkstyle.checks.coding.RequireThisCheck.MSG_VARIABLE,Language,Syntax Features
+test,base,com.google.checkstyle.test.base.AbstractGoogleModuleTestSupport,Test,Unit Testing
+test,base,com.google.checkstyle.test.base.AbstractIndentationTestSupport,Test,Unit Testing
+test,base,com.sun.checkstyle.test.base.AbstractSunModuleTestSupport,Test,Unit Testing
+io,File,java.io.File.createTempFile,Input-Output,File Management
+awt,awt,java.awt.Graphics2D,Computer Graphics,Image Rendering
+awt,awt,java.awt.HeadlessException,User Interface,Accessibility
+awt,awt,java.awt.Label,User Interface,User Feedback
+sql,sql,java.sql.Connection,Databases,Transaction Management
+util,util,java.util.Calendar,Utility,System Tools
+javax,swing,javax.swing.JToggleButton,User Interface,Interaction Design
+javax,swing,javax.swing.JToolBar,User Interface,Interaction Design
+javax,swing,javax.swing.ScrollPaneLayout,User Interface,Layout Design
+test,chapter3filestructure,com.google.checkstyle.test.chapter3filestructure.toolongpackagetotestcoveragegooglesjavastylerule.PackageStatementTest,Test,Unit Testing
+awt,Button,java.awt.Button.ABORT,User Interface,Interaction Design
+common,base,com.google.common.base.Ascii,Utility,Data Conversion
